@@ -1,0 +1,2208 @@
+name,gender,age,class,embarked,country,ticketno,fare,sibsp,parch,survived
+rudlpyfcytmnxwcfhnz,male,42.0,3rd,S,United States,5547.0,7.11,0.0,0.0,no
+mpqmgkfgxzwnlhuqyjhxdwech,male,13.0,3rd,S,United States,2673.0,20.05,0.0,2.0,no
+lrscgvtefsskxynmzrvmxjoczfw,male,16.0,3rd,S,United States,2673.0,20.05,1.0,1.0,no
+fsiowoqypqhlzvuourbwqtqndyderg,female,39.0,3rd,S,England,2673.0,20.05,1.0,1.0,yes
+dvbpnlejieqemmlxecjavetmujw,female,16.0,3rd,S,Norway,348125.0,7.13,0.0,0.0,yes
+fummvcwdfwqnhllnvuvdakjfapmbc,male,25.0,3rd,S,United States,348122.0,7.13,0.0,0.0,yes
+nwygtjpwigxxxiundvu,male,30.0,2nd,C,France,3381.0,24.0,1.0,0.0,no
+uhhzzqauvgkdkvamijib,female,28.0,2nd,C,France,3381.0,24.0,1.0,0.0,yes
+sgcrhueqmfovmqbnfvwmezrvvfyn,male,27.0,3rd,C,Lebanon,2699.0,18.1509,0.0,0.0,yes
+fiiotbklwwtwoajnwrttmivashpeyeyptgdzsowh,male,20.0,3rd,S,Finland,3101284.0,7.1806,0.0,0.0,yes
+fzbwdzkxdsielrblyp,male,30.0,3rd,S,Sweden,7076.0,7.05,0.0,0.0,no
+cvcijrlngrwnmyl,male,27.0,3rd,S,England,341826.0,8.01,0.0,0.0,no
+emjibklizzwtpffuoqdanslixcbdls,female,40.0,3rd,S,Sweden,7546.0,9.0906,1.0,0.0,no
+dgjjshprodywucrbcwjvpqzav,male,0.8333333333,3rd,S,England,392091.0,9.07,0.0,1.0,yes
+bbefxbbhjjriru,female,18.0,3rd,S,England,392091.0,9.07,0.0,1.0,yes
+iujtvtdvajsqemytuabqlevejbvj,male,35.0,2nd,S,England,248744.0,13.0,0.0,0.0,no
+wtcxgalhvqdlpkvmhwplbgduxanjx,male,25.0,3rd,S,England,3474.0,7.1709,0.0,0.0,no
+inbzrrdorlcfmoppgdgdvnkwsal,male,19.0,3rd,S,Finland,3101287.0,7.1806,0.0,0.0,no
+ykpfdmeoswhyuv,male,24.0,3rd,S,Argentina,3101311.0,7.01,0.0,0.0,no
+tglfjovsyreouwpv,male,25.0,3rd,S,Argentina,3101312.0,7.01,0.0,0.0,no
+ouemzdigjxhqmxtzxnasogpbrhvjp,female,29.0,1st,S,United States,24160.0,211.6009,0.0,0.0,yes
+otgrxdbecgzbzkvhofhgtssl,male,39.0,3rd,S,England,373450.0,8.01,0.0,0.0,no
+tdrcrqsmpwqdieqggpmfcwxuofayks,male,0.9166666667,1st,S,Canada,113781.0,151.16,1.0,2.0,yes
+ionljwnejuqkphhqkiuhkfxvwlaq,female,2.0,1st,S,Canada,113781.0,151.16,1.0,2.0,no
+qnbgptsrvjipxgwtvyotamgdjwnajopxyzni,male,30.0,1st,S,Canada,113781.0,151.16,1.0,2.0,no
+mwlgzggvwzxkbgiocanzrjbcyq,female,25.0,1st,S,United States,113781.0,151.16,1.0,2.0,no
+einxtlchnbufvshwkwwaqj,male,18.0,3rd,S,England,2223.0,8.06,0.0,0.0,no
+brkopccgfoxibvnemiafyzvmbtvsvjz,male,19.0,3rd,C,Lebanon,2700.0,7.0407,0.0,0.0,no
+hjtdqpgurseejysffowpbamwxvxfbyenhfwovgqhhloaier,female,19.0,3rd,S,Denmark,350046.0,7.1701,1.0,0.0,yes
+qxnwcqawoezrxbznvpjrezpgmpg,male,33.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+ddvkjduiidbgytssoou,male,47.0,1st,S,United States,19952.0,26.11,0.0,0.0,yes
+uqgpnkxuqbsiqghbsieykntywmrdtesgfkjmapr,male,4.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+mkwwlftzpiwljpwmbpfizsyqlccyzphwum,female,6.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+fbtwuttxkvjtpdddbntqkofvjvlgpwrdz,female,2.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+wcbwjhmeoivhhtjsctzbpzxqbchvusr,female,16.0,3rd,S,Finland,3101281.0,7.1806,4.0,2.0,yes
+hypblgmiodekxzxweitovynlyayuvzpdbgxqdb,female,38.0,3rd,S,Sweden,347091.0,7.1506,4.0,2.0,no
+sqxfnqxjihxzbbxywjjghjkymfgbmpcxqnhp,female,9.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+jdtmyxrwdwgmlkclawqbwhoqczvdgujcn,female,11.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+vbkfwtdvbnxhyvtioukzzrdxain,male,39.0,3rd,S,Sweden,347082.0,31.0506,1.0,5.0,no
+uupbmzlnsfbtgodktnaerotjnwl,male,26.0,3rd,S,Sweden,347075.0,7.1506,0.0,0.0,no
+hpqgxaixgeaswblqlngkjobeeusitlivxzjzutupjh,female,39.0,3rd,S,Sweden,347082.0,31.0506,1.0,5.0,no
+czshqyjyhgzbfadpjfxczgiov,male,20.0,3rd,S,Sweden,347466.0,7.1701,0.0,0.0,no
+hgmsjcieszxrekmkzglohjyn,male,17.0,2nd,S,Argentina,231945.0,11.1,0.0,0.0,no
+ldcikwrsuplyevnpggzaauud,male,27.0,2nd,S,England,34050.0,10.1,0.0,0.0,no
+szxkhctpfjebyxoxrgxkxwowgmvtfmcog,female,62.0,1st,C,United States,13502.0,77.1902,1.0,0.0,yes
+rnxwwlhirmwqdrssgep,male,39.0,1st,B,Northern Ireland,112050.0,,0.0,0.0,no
+irkhjztyhxfarcjqelpf,male,26.0,3rd,S,Bulgaria,349202.0,7.1711,0.0,0.0,no
+pibqoebipdlngiimenidjdoupc,female,36.0,2nd,S,England,226875.0,26.0,1.0,0.0,yes
+oipxxxbsndobsximrl,male,31.0,2nd,S,England,226875.0,26.0,1.0,0.0,no
+smanmcnozxyxyuphvwjanhed,female,53.0,1st,S,United States,11769.0,51.0907,2.0,0.0,yes
+nbltonqswbirdcjwfcrrqflhu,male,25.0,3rd,S,Switzerland,349237.0,17.16,1.0,0.0,no
+xpifnoopntlfngsizwgwppxjsfgoc,female,18.0,3rd,S,Switzerland,349237.0,17.16,1.0,0.0,no
+quilapzphngpvygoujsyigrlogyfxw,male,25.0,3rd,S,Sweden,349911.0,7.1506,0.0,0.0,no
+goctefyrdduzqdvdbqumkjt,male,71.0,1st,C,Argentina,17609.0,49.1001,0.0,0.0,no
+bbeqlmlouujbcke,male,57.0,2nd,S,England,244346.0,13.0,0.0,0.0,no
+msecqdisqldthvf,male,35.0,3rd,S,Argentina,3101310.0,7.01,0.0,0.0,no
+iiecnsniwcfsjawiwppcrihunsd,male,5.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+ysijbdvqalppgvnsdqgfjejvzachyhxrxavec,male,9.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+fxloxerbpzzdzrbrzyccuslnjkblzrygl,male,3.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,yes
+gadhenvjayqcdyiqzwdzskoqsnfk,male,13.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+ubllthsqavwtmbpmqdotyufvxguwic,female,5.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,yes
+wamouzkwqgomyvalkxzollkjuipnehzxsaduvwqfxg,male,40.0,3rd,S,Sweden,347077.0,31.0709,1.0,5.0,no
+oqohdhexfwdkrbfrkkegoglzen,male,23.0,3rd,S,Sweden,350054.0,7.1511,0.0,0.0,yes
+muqjyapvrjrxgvaevwucurthedcoxdnptd,female,38.0,3rd,S,Sweden,347077.0,31.0709,1.0,5.0,yes
+kqczutdjvqtabxxfrcs,female,45.0,3rd,C,Lebanon,2696.0,7.0406,0.0,0.0,yes
+olgfmcykkjlzpt,male,23.0,3rd,S,Argentina,3101309.0,7.01,0.0,0.0,no
+ssteqnwoyvicdjwtdmrlfemcte,male,47.0,1st,C,United States,17757.0,247.1006,1.0,0.0,no
+gievcajcpxddulxvtaqeexhnxrvlw,female,18.0,1st,C,United States,17757.0,247.1006,1.0,0.0,yes
+gvkyfdhofatlbkvckvrej,female,17.0,3rd,C,Lebanon,2627.0,14.0902,0.0,0.0,no
+hrbwnvzbmxopwrchifa,male,27.0,3rd,C,Canada,2694.0,7.0406,0.0,0.0,no
+guryagjqhjdxrjmiprsavrmvvvpap,female,24.0,1st,C,France,17477.0,69.06,0.0,0.0,yes
+kxxjgklbvebuouenmwqckf,male,23.0,3rd,S,Sweden,347468.0,7.1701,0.0,0.0,no
+edpuiiibnjaruedpsmnkyisyxx,female,15.0,3rd,C,Lebanon,2687.0,7.0407,0.0,0.0,yes
+dytyfmsflsmxomsokphnjhjgpv,male,32.0,3rd,S,Finland,3101278.0,15.17,1.0,0.0,no
+piksdkvzonsjjlxsodnihzfoaitzlg,female,33.0,3rd,S,Finland,3101278.0,15.17,3.0,0.0,yes
+njpknoqyxuniftxcknrpct,female,3.0,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+ztxqnaiendobqkopfhnrnaoswqcie,female,0.75,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+xjozxpapwleboiwoiakegapbgrzaqy,female,5.0,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+rvaloqmsyhlxjciuwdpr,female,23.0,3rd,C,Lebanon,2666.0,19.0502,0.0,3.0,yes
+frrbdkfirjqnorbojrrrgmfijw,female,18.0,3rd,S,England,31416.0,8.01,0.0,0.0,yes
+jmvojbnkqejczfebp,male,40.0,3rd,C,Lebanon,2623.0,7.0406,0.0,0.0,no
+vsrnkaofksexcaesc,male,18.0,2nd,S,England,29108.0,11.1,0.0,0.0,no
+ooevrvjsotfetfnckkwscrfdzsvwkv,male,22.0,2nd,S,Channel Islands,31030.0,10.1,0.0,0.0,no
+nxmgkdhekqrccjjfg,male,26.0,3rd,S,Bosnia,349248.0,7.1711,0.0,0.0,no
+lzbbvzcqztypxkgadj,female,36.0,2nd,S,England,28551.0,13.0,0.0,0.0,yes
+plbfltsrycnpbnozytvvodrzdsmwq,male,28.0,2nd,S,England,34068.0,10.1,0.0,0.0,no
+ndkesfhzvrzafbane,female,31.0,3rd,S,Hungary,349244.0,8.1308,0.0,0.0,yes
+cloexxfxdnprlqaflielw,female,18.0,3rd,C,Lebanon,2691.0,14.0901,0.0,1.0,no
+pkmppbrsfxcvmjkvoboasuftypklf,female,45.0,3rd,C,Lebanon,2691.0,14.0901,0.0,1.0,no
+lejyoacgtqdegbsavfafzuzq,female,27.0,1st,S,,19877.0,78.17,0.0,0.0,yes
+eymxqercbmsmumwqjpixovuueahiz,male,47.0,1st,S,England,27042.0,30.0,0.0,0.0,yes
+ibsfsxjqmyzsufoitp,female,30.0,3rd,Q,Ireland,330844.0,7.1707,0.0,0.0,no
+wgtcyeaizouqzhcqshfoll,male,22.0,3rd,S,England,324669.0,8.01,0.0,0.0,no
+pwpkykjyerxmfktrtljw,female,32.0,1st,C,Italy,11813.0,76.051,0.0,0.0,yes
+xqbpxufpqtuuplpikcpthmnfonf,male,52.0,2nd,S,England,1166.0,12.1006,0.0,0.0,no
+vjensapuxgyrbxsflspiaberuh,male,23.0,3rd,S,Bulgaria,349217.0,7.1711,0.0,0.0,no
+zpefwogwyxjscqzswria,male,60.0,1st,C,United States,17318.0,25.1806,0.0,0.0,no
+cylciclxbxxhqmspntkapfso,male,24.0,1st,C,Canada,17558.0,247.1005,0.0,1.0,no
+bjkfstjqucubdyhnxll,female,50.0,1st,C,Canada,17558.0,247.1005,0.0,1.0,yes
+bhftaakfbhcyykefe,male,32.0,2nd,S,England,2908.0,26.0,1.0,0.0,yes
+gqbmorietmtwxkyqo,female,22.0,2nd,S,England,2908.0,26.0,1.0,0.0,yes
+wunjastgywmvwgnuhduc,male,36.0,1st,S,Canada,13050.0,75.041,0.0,0.0,no
+vuorobualcdllwqlsyrqbhunnk,male,44.0,2nd,S,England,244358.0,26.0,0.0,0.0,no
+ppjxgorspakxwybckhftwtgnwc,male,20.0,3rd,S,England,323951.0,8.01,0.0,0.0,no
+ifkfivisaaqpufqijjfuroidte,male,1.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+vlnqcppudkxiszaksfpuwbxrvdk,female,4.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+kfuodtktvuqkhawihufunomwdudo,female,12.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+nzbihjfnulcrehfazpejji,female,35.0,2nd,S,United States,230136.0,39.0,0.0,3.0,yes
+evaqrwxkjwskcqpdxeinbhzalyxlv,male,37.0,1st,S,United States,11751.0,52.1101,1.0,1.0,yes
+vuqmpxmspkqnwnylsmwda,female,46.0,1st,S,United States,11751.0,52.1101,1.0,1.0,yes
+nldyokvubgqvtwrgxcbow,male,34.0,2nd,S,England,248698.0,13.0,0.0,0.0,yes
+hviinqrcwwyxgqfemjceq,male,26.0,1st,C,United States,111369.0,30.0,0.0,0.0,yes
+cxubbuzwqfpskhmybnbmofdwdrk,male,26.0,3rd,S,Sweden,347068.0,7.1506,0.0,0.0,no
+iispfhadjsymvdioxjszvddwc,female,19.0,2nd,S,United States,28404.0,13.0,0.0,0.0,yes
+afntfeujxptyygmvndgxueecwlpu,male,22.0,3rd,S,Finland,4348.0,9.07,0.0,0.0,no
+gitobnxcvltuuoqnbvgmytyagy,male,23.0,2nd,S,England,28425.0,13.0,0.0,0.0,no
+koymsdcaczhrtcabpkerqnsjucf,female,39.0,1st,C,United States,17760.0,63.0702,0.0,0.0,yes
+bpnspyqyrwsgzisixmoow,female,46.0,1st,C,,17757.0,247.1006,0.0,0.0,yes
+bdmvfgeypsnpn,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+qbdmdqfiyfhkrdncf,female,31.0,1st,S,England,17483.0,221.1507,0.0,0.0,yes
+terebxuqnrjvsfvxysbrhojjufandnhfv,male,21.0,3rd,S,Norway,312992.0,7.1506,0.0,0.0,no
+zqvbhadebjkgekfoajr,male,24.0,1st,C,,13905.0,26.0,0.0,0.0,no
+nwwetgeygbagzjfacyxqpbhy,male,25.0,1st,C,United States,11967.0,91.0107,1.0,0.0,yes
+kjhqwualzlaoqqckra,female,19.0,1st,C,United States,11967.0,91.0107,1.0,0.0,yes
+ibapbwwgwwlektzrrzcdtooqtcwi,male,18.0,3rd,S,Sweden,347090.0,7.15,0.0,0.0,no
+mgmlpvtwspcoutzusowzwghimneeqihdmtfwxfaym,male,28.0,1st,S,Sweden,110564.0,26.11,0.0,0.0,yes
+tcbwqzjvjtqlpninckdqjgkzftyb,male,45.0,1st,S,United States,113784.0,35.1,0.0,0.0,no
+pnqnberomtnqxrky,male,39.0,1st,C,United States,112277.0,31.0,0.0,0.0,yes
+phbqbcqrlueggtndgpwzmvm,female,30.0,1st,S,United States,36928.0,164.1704,0.0,0.0,yes
+uifihoksurfvovewqkckcaic,female,61.0,1st,S,England,113783.0,26.11,0.0,0.0,yes
+tmtkojhekzbbbgckybtvjzfd,male,41.0,1st,S,England,110489.0,26.11,0.0,0.0,no
+nceoerkribmcohwsvbqazxagu,male,26.0,3rd,S,,349224.0,7.1711,0.0,0.0,no
+qvzjgszihmrhuiouibnptncmvp,male,25.0,2nd,S,United States,237670.0,13.0,0.0,0.0,no
+hfdobggamrvcvrvozl,female,40.0,3rd,Q,Ireland,364848.0,7.15,0.0,2.0,no
+lkqvikzhsdztsyua,male,42.0,3rd,Q,Ireland,364849.0,15.1,1.0,1.0,no
+mvvubdflwvloiyeiucjqsj,female,32.0,3rd,Q,Ireland,364849.0,15.1,1.0,1.0,no
+qyutueoyaudfhrdzpuixexgs,female,45.0,1st,C,United States,17608.0,262.0706,0.0,0.0,yes
+ygkyzqcauhijeyghxzxmvccepyc,male,26.0,3rd,S,Wales,54636.0,16.02,0.0,0.0,no
+ttnrwnsbrdskhcmgxqup,male,42.0,2nd,S,,211535.0,13.0,0.0,0.0,no
+mglsmnmqoqxwoyclixnjtvoumvu,female,22.0,1st,S,England,113505.0,55.0,0.0,1.0,yes
+bucphmayjenhjresjlgccxoiu,male,30.0,2nd,S,United States,220367.0,13.0,0.0,0.0,no
+rlaxzzksznfopkgpeuuwcucluoet,female,22.0,3rd,Q,Ireland,334914.0,7.1406,0.0,0.0,yes
+hdznhycvhmcowgljbqqfofh,male,41.0,1st,S,United States,113054.0,30.1,0.0,0.0,no
+edufchcnblyssuyokmpdsfwxnthv,female,20.0,3rd,S,Sweden,347471.0,7.1701,0.0,0.0,no
+srdbzhudkrrvdjbwtortbfzqsqsyuhnfdbxk,male,24.0,2nd,S,England,250654.0,,,,no
+tgmhalzjkkeytdacxcojzfhaefs,male,48.0,1st,C,United States,17591.0,50.0911,0.0,0.0,no
+cdyelmmtzmwipoqcuisqeomwa,male,29.0,3rd,S,England,3460.0,7.0,1.0,0.0,no
+bcdtjdcciedljpasyftqcpm,male,23.0,3rd,S,England,21171.0,7.05,1.0,0.0,no
+jwokkhvfphxomazysmxfxgyqmlp,male,37.0,1st,S,United States,111427.0,26.11,0.0,0.0,yes
+hmzhteyfcqhkiwydjjegsfgpe,male,46.0,1st,C,United States,112379.0,39.12,0.0,0.0,no
+wzqmuibdhnadcztelzzdwhcj,male,20.0,2nd,S,France,250654.0,,,,no
+resmjnbikloeeelpbvxemvxrrm,male,32.0,2nd,S,,244360.0,13.0,0.0,0.0,no
+iaswjniokqxehaerhvhihgwu,male,22.0,3rd,S,Sweden,350045.0,7.1511,0.0,0.0,no
+yygojttiddxuvlfqyyntyrovaozdpcj,male,40.0,3rd,S,England,364512.0,8.01,0.0,0.0,no
+dodzubikraugpjwaudqmalqe,female,18.0,2nd,S,England,248733.0,13.0,0.0,0.0,yes
+tunwhalwyhnhpgypmheivvxph,female,15.0,2nd,S,South Africa,29750.0,39.0,0.0,2.0,yes
+qmbssorvmvxigsgjgmcrhbjsn,female,59.0,1st,S,United States,11769.0,51.0907,2.0,0.0,yes
+etjqpksxdbxgpcnbmuhxvdceqmabylx,female,40.0,2nd,S,South Africa,29750.0,39.0,1.0,1.0,yes
+cnjcwnhyxnooghnjxrcv,female,44.0,1st,C,United States,17610.0,27.1405,0.0,0.0,yes
+pgcgsgvbvixwjryavutjdxfzqjpabovzf,male,60.0,2nd,S,South Africa,29750.0,39.0,1.0,1.0,no
+vgjusxoqqgkyxrzgouqzkjvbncbisrvknz,female,20.0,2nd,S,Sweden,236853.0,26.0,1.0,0.0,yes
+siuojrkkwrgoynfzcytuifehakxrxrv,male,25.0,2nd,S,Sweden,236853.0,26.0,1.0,0.0,no
+xgwvikizonbacvpovlaetuvq,female,22.0,3rd,Q,Ireland,329944.0,7.0508,0.0,0.0,no
+fupnkcoixnzonqhggxl,male,21.0,3rd,Q,Ireland,330920.0,7.1517,0.0,0.0,yes
+vagsbaxjxtmzlfkjescimfakg,female,58.0,1st,C,India,11813.0,76.051,0.0,0.0,yes
+hguffjvkjsztqhsrhvz,male,7.0,3rd,C,Lebanon,2678.0,15.0411,1.0,1.0,no
+gbecvwkzcrjejcryhdymubef,female,10.0,3rd,C,Lebanon,2678.0,15.0411,1.0,1.0,no
+pejajatmivgaepstkkqy,female,40.0,3rd,C,Lebanon,2678.0,15.0411,0.0,2.0,no
+oylvtbodyzbjpbshgci,male,19.0,3rd,Q,Ireland,365222.0,6.15,0.0,0.0,no
+dsxytngwdtwwidwxtesxoyhsujrsjvh,female,41.0,1st,C,,16966.0,134.1,0.0,0.0,yes
+tlnoiwnxttwroeltcqibzgt,female,17.0,3rd,Q,Ireland,330963.0,7.1707,0.0,0.0,no
+pahxcexbmpufdioh,female,36.0,2nd,S,England,27849.0,13.0,0.0,0.0,yes
+ovrupvmrdwfzjgpuscmwngqgzdj,male,26.0,2nd,S,England,234686.0,13.0,0.0,0.0,no
+uuitpzqgtmxkqbczntckxlkk,male,21.0,3rd,C,Lebanon,2648.0,7.0407,0.0,0.0,no
+oicapydjrziybvsvxcxleffurmaybisof,male,46.0,1st,S,United States,113050.0,26.11,0.0,0.0,no
+wukbhfkbjxgdwcmppzqrnjkwzliodukd,male,42.0,2nd,S,England,244310.0,13.0,0.0,0.0,no
+pbbtbfcrwpyesftmybxfzu,female,40.0,2nd,S,United States,236852.0,13.0,0.0,0.0,yes
+eytkxvivxdimxojhwt,female,21.0,3rd,S,Croatia (Modern),315087.0,8.1303,0.0,0.0,no
+xogiegwsmgbpfrotpbs,female,30.0,3rd,S,Croatia (Modern),315084.0,8.1303,0.0,0.0,no
+hmsddhtpvjfqprmvpwgg,male,18.0,3rd,S,Croatia (Modern),315091.0,8.1303,0.0,0.0,no
+zowbngzbymmxubc,male,38.0,3rd,S,Croatia (Modern),315089.0,8.1303,0.0,0.0,no
+rlscfzbjpgwjxkgoqggsibeunrj,male,28.0,1st,S,Scotland,113798.0,31.0,0.0,0.0,no
+kchmmqaoklqbvjfwvfkuwapkecjbxxpet,male,42.0,1st,S,United States,17476.0,26.0509,0.0,0.0,yes
+uiwgpslbdsucbuiiwrwnqijpaslbc,male,0.8333333333,2nd,S,Siam,248738.0,29.0,0.0,2.0,yes
+vztineizstductfghjjsyiljnxah,male,26.0,2nd,S,Siam,248738.0,29.0,1.0,1.0,yes
+qwwinkiqtbrzcumezybmoomca,female,28.0,2nd,S,United States,248738.0,29.0,1.0,1.0,yes
+pyzudsmturbcoke,male,17.0,3rd,S,Croatia (Modern),315093.0,8.1303,0.0,0.0,no
+hinzcjljvzxntujv,male,17.0,3rd,S,Croatia (Modern),315086.0,8.1303,0.0,0.0,no
+iaqyvynvsfkllpzkfrcxlkvoev,female,35.0,2nd,S,England,13528.0,21.0,0.0,0.0,yes
+upkchyrmolijszhlmbevuwngwow,male,21.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+dmfnrepzqarjyapvtiy,female,22.0,3rd,Q,Ireland,364846.0,7.15,0.0,0.0,no
+jqzaqjdsmeubfcqgterl,male,21.0,3rd,Q,Ireland,364858.0,7.15,0.0,0.0,no
+lhdmqypzfbnlmwfdbwoqvrhvhqxg,female,52.0,1st,C,United States,17606.0,27.0811,0.0,0.0,yes
+awbdvzvzizkcijaq,male,29.0,3rd,S,England,2152.0,8.01,0.0,0.0,no
+hbdlofaclluiwpcdi,male,28.0,3rd,C,Canada,2689.0,14.0902,1.0,0.0,no
+mxoyvzqlujxjmxexckmklle,female,18.0,3rd,C,Lebanon,2689.0,14.0902,1.0,0.0,no
+aisnrbwttmrqkzqbtoams,male,19.0,2nd,S,England,28424.0,13.0,0.0,0.0,no
+lgwexrqjpqdscsoarwdruqvctfnucw,female,58.0,1st,C,United States,17755.0,512.0607,0.0,1.0,yes
+dacsidwpknpnpazfbzfwaesihehyoeuxxr,male,36.0,1st,C,United States,17755.0,512.0607,0.0,1.0,yes
+guhrplkclgsmmqtnaebrcqadwaes,male,28.0,3rd,S,Sweden,350042.0,7.1511,0.0,0.0,no
+zabocvwkjbquvcthjsyywmhmp,male,24.0,3rd,S,Sweden,350409.0,7.1701,0.0,0.0,no
+clunpbqwgsnfzxdnmsprdlwi,male,33.0,1st,S,United States,695.0,5.0,0.0,0.0,no
+yxoyrzxlvfozqufgnojzgzrgyuedxg,male,17.0,1st,S,Uruguay,113059.0,47.02,0.0,0.0,no
+uolpolspuhixtztvpmdhlepoywtcxqxrroezr,male,27.0,1st,S,Uruguay,113059.0,47.02,0.0,0.0,no
+ulngaekbvnuwpwsk,female,45.0,3rd,Q,Ireland,368364.0,7.15,0.0,0.0,no
+aswmbqltrzpezcnbqzsmobgxrayn,male,54.0,2nd,S,England,244252.0,26.0,1.0,0.0,no
+gmwfqmtbrturebmvbvleuvpzqkkyyaeosem,male,11.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+zmkjfxjlnovczxzrypxiolixf,female,13.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+xgtpmtokdqqgphvbvki,female,45.0,2nd,S,England,244252.0,26.0,1.0,0.0,no
+pchxfpwdzsisrbbeduj,female,36.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+jtxgiouxvlhwwizzbygzlouizj,male,36.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+hlhiqtudkzfvlsvwyeqpxva,male,28.0,3rd,S,England,370160.0,7.05,0.0,0.0,no
+enahepatgdhwrjndxujago,male,49.0,1st,S,United States,19924.0,26.0,0.0,0.0,no
+ooiemnukefeabmrtykrxfpjtswtqcrahp,female,36.0,1st,C,United States,17770.0,27.1405,0.0,0.0,yes
+igfcmxgtgptxwpbzjkottbpnttjtjn,female,25.0,1st,S,United States,19877.0,78.17,1.0,0.0,yes
+anwbzlhftyzewqlpsqwgktakwmdve,male,36.0,1st,S,England,19877.0,78.17,1.0,0.0,no
+ixqhqqemxwxkvudzsucqbh,male,24.0,3rd,S,,343275.0,8.01,0.0,0.0,no
+znmyabxsrpgmljgpudrdmlepzaf,male,46.0,1st,S,United States,5734.0,61.0306,1.0,0.0,no
+rmcquewkuoyyhtdyacggdrnrjxsxxa,female,47.0,1st,S,United States,5734.0,61.0306,1.0,0.0,yes
+kfsuofqbcokqfcvfolnppccfeowqf,male,27.0,1st,S,United States,113806.0,53.02,1.0,0.0,yes
+bsaqayjkzsvxgybmupoeo,female,32.0,1st,S,United States,113806.0,53.02,1.0,0.0,yes
+gnqfvufnrwpwmkchcyhlupznpp,male,52.0,2nd,S,United States,248731.0,13.1,0.0,0.0,no
+smtwyrzrkmbcmzfmgaridix,male,37.0,2nd,S,England,29037.0,26.0,1.0,0.0,no
+euwnhlvkwxmbvwsoucvlngenafaw,female,29.0,2nd,S,England,29037.0,26.0,1.0,0.0,no
+vfixjatahuwmwfrtrnc,male,20.0,3rd,Q,Ireland,13032.0,7.1408,0.0,0.0,no
+hgqscxhuioxklokjtyfnqtzvyyx,female,36.0,1st,C,,17608.0,262.0706,0.0,0.0,yes
+yxqrqbaqunjzhdwnfsri,female,30.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+eaargxdwbozyigrwdbspqwuulfqkvzltprnqd,male,45.0,1st,C,Belgium,17594.0,29.14,0.0,0.0,yes
+rvpbrlkzjijmoksdriztokkeycnldiykeqzg,female,48.0,1st,S,England,113505.0,55.0,0.0,1.0,yes
+hizdtcgzbtlegcf,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+mgdtedjpznsvcmlmzbfqomrqqesnqkxzcrupf,male,43.0,1st,B,Scotland,112051.0,,0.0,0.0,no
+bamhvxzrmcxztnfwzjlu,male,29.0,3rd,S,England,343276.0,8.01,0.0,0.0,no
+esgktvsuusdiluxgkmijytpjqgxjtrrf,female,25.0,2nd,S,England,237789.0,30.0,1.0,1.0,yes
+csijdktlavkcyiaqnlfstvbuwzm,female,52.0,2nd,S,England,237789.0,30.0,0.0,2.0,yes
+xmgjtnzzguqqdeictbqffywrksnkoj,male,26.0,3rd,C,,2680.0,14.0901,1.0,0.0,no
+ejqbkjbquihxwbnqangwxdjheqhjme,male,21.0,3rd,C,,2680.0,14.0901,1.0,0.0,no
+vdcgsklnllqewstancuytivhxhshs,male,29.0,2nd,S,England,2003.0,26.0,1.0,0.0,no
+yybbmiwszganbjrorixzwvucwwbnwjsqbb,male,28.0,2nd,S,England,250654.0,,,,no
+hpulsjihqhmltccjjxqqtt,female,28.0,2nd,S,England,2003.0,27.0,1.0,0.0,yes
+dkurqnjctnoeqvyzeopyodffhblc,female,26.0,1st,C,United States,13508.0,136.1507,1.0,0.0,yes
+ygshlldoqdfpxqgftaxlirid,male,27.0,1st,C,United States,13508.0,136.1507,1.0,0.0,no
+nnaghsphwjsgrzktwlxlqdrjomfdts,female,22.0,1st,S,England,113781.0,151.16,0.0,0.0,yes
+wpgalkjnnyaexsvamevurwacqtu,male,40.0,1st,S,United States,110465.0,52.0,0.0,0.0,no
+gjiifmtwtteupvbetuwphgsjkkuhxy,male,20.0,3rd,S,,3101307.0,7.01,0.0,0.0,no
+nqqisuaxjqnhlpeumb,male,18.0,3rd,S,England,3540.0,8.01,0.0,0.0,yes
+ombjorroagpvazepsipb,male,24.0,3rd,Q,Ireland,371109.0,7.05,0.0,0.0,no
+zgazarvphnqkvlbco,male,24.0,3rd,S,Bulgaria,349209.0,7.1711,0.0,0.0,no
+qaacroijvamkoxscceeubeknzbmmlvt,male,29.0,2nd,S,England,14263.0,10.1,0.0,0.0,no
+imthddvdzfxwonnczkrejawtnf,male,27.0,2nd,S,Finland,248740.0,13.0,0.0,0.0,no
+lqakuzcgixnfryclhfesmpfwxjxgmnximfu,male,25.0,2nd,S,England,28034.0,10.1,0.0,0.0,yes
+pqaoyqmhvfwqevmaaiboaxjhze,male,37.0,1st,S,Ireland,5727.0,25.1109,0.0,0.0,no
+rlbsarwllixrcwfyawfpuaovnrcrhk,female,8.0,2nd,S,England,31921.0,26.05,0.0,2.0,yes
+fxoebteejfuqpyacpoy,male,31.0,2nd,S,England,31921.0,26.05,1.0,1.0,no
+fjtoducyzkjyzzkyvldrowzerepvlixu,female,30.0,2nd,S,England,31921.0,26.05,1.0,1.0,yes
+oxwlgnwwkrcogspfaif,male,36.0,3rd,S,Bulgaria,349210.0,7.1711,0.0,0.0,no
+qossoqtfmdfqsdqekwqnhgcogrx,female,39.0,1st,C,United States,17756.0,83.0302,1.0,1.0,yes
+wptylywdxkoxtxvyhnqpjekctaqcioai,male,37.0,1st,C,United States,17756.0,83.0302,1.0,1.0,no
+mfatapswsxyikyxldlahcnel,female,64.0,1st,C,United States,17756.0,83.0302,0.0,2.0,yes
+qgwmupfvqmiauzonbsdefajq,male,31.0,3rd,Q,United States,21332.0,7.1408,0.0,0.0,no
+rswcyetzvuyzwajklqfeqocs,male,40.0,3rd,Q,Ireland,335097.0,7.15,0.0,0.0,no
+bayfkwormknwbjhzbwrqbwqys,female,23.0,3rd,Q,Ireland,370373.0,7.15,0.0,0.0,yes
+wrucbwonlbeiygvpnuss,female,41.0,3rd,Q,Ireland,330972.0,7.1207,0.0,0.0,no
+crlhxtsvffdzpnlysygi,male,66.0,3rd,Q,Ireland,370369.0,7.15,0.0,0.0,no
+lutiaqiisihyvuo,male,43.0,3rd,S,,3536.0,8.01,0.0,0.0,no
+hjitoiqevndqvgttx,female,22.0,2nd,S,England,14266.0,10.1,0.0,0.0,yes
+lhyltqjgpmbvhmuyayk,female,30.0,2nd,S,United States,237249.0,13.0,0.0,0.0,no
+mvjqjuemxkyfolzxoayeu,female,32.0,2nd,S,,13534.0,21.0,0.0,0.0,no
+rqzmwnxbjlpfzuo,male,35.0,3rd,S,Croatia (Modern),349230.0,7.1711,0.0,0.0,no
+azjgfvxrxcwoq,male,27.0,3rd,S,Hungary,349229.0,7.1711,0.0,0.0,no
+fliohoefmppejaxjy,male,19.0,3rd,S,Hungary,349231.0,7.1711,0.0,0.0,no
+aeibyocvkfyqtksstadgq,male,30.0,3rd,S,Poland,392090.0,8.01,0.0,0.0,no
+xblouriyxlujkztdcwuxxiekfqi,female,55.0,1st,S,United States,11770.0,25.141,2.0,0.0,yes
+ulgrbiuljpxkpaoxl,female,16.0,3rd,Q,Ireland,367231.0,7.15,0.0,0.0,yes
+vpembebyrkstfqprylos,male,21.0,2nd,S,England,29107.0,11.1,0.0,0.0,no
+rxuclhhrertlqndspzkitevwwcvtkn,male,3.0,3rd,S,England,37671.0,15.18,1.0,1.0,yes
+urgbfqbzobsucbbnakdzxgiootzc,male,9.0,3rd,S,England,37671.0,15.18,1.0,1.0,yes
+bqlsriaxgcyczeslyph,female,36.0,3rd,S,England,37671.0,15.18,0.0,2.0,yes
+ngeqkgbdenwduoylo,male,58.0,3rd,S,England,364500.0,7.05,0.0,0.0,no
+btdpavqgusptqwhhjvnnpfsvq,male,59.0,1st,S,United States,113791.0,26.11,0.0,0.0,no
+nlqgowbuahrhewrnopdzbnjy,male,20.0,3rd,S,United States,3464.0,8.0302,0.0,0.0,no
+ehaqahlygojvtcmxvioqwo,female,16.0,3rd,S,United States,371362.0,16.02,0.0,1.0,yes
+mcbwhoeuewzveiecidmydgij,male,43.0,3rd,S,Australia,371362.0,16.02,0.0,1.0,no
+ovsvrmpsyywgbosrikvszcwtbtxcjtt,male,70.0,1st,S,United States,5735.0,71.0,1.0,1.0,no
+tghdloteuoafxjbsbecuabvcsiljlkp,female,39.0,1st,S,United States,112901.0,26.11,0.0,2.0,yes
+hugrammxutkprtcnharlfwhefipygfwz,female,64.0,1st,S,United States,5735.0,71.0,1.0,1.0,yes
+wpephcegsqlvmvjnrwi,male,17.0,3rd,S,Croatia (Modern),315090.0,8.1303,0.0,0.0,no
+yuzenltnxonhllrjltufyraep,male,39.0,1st,C,United States,17599.0,71.0508,1.0,0.0,no
+pvjzfkmkxfbmiezmsvgmbfsytovnd,female,35.0,1st,C,Peru,17599.0,71.0508,1.0,0.0,yes
+cyawshdywhvzxkovqhfuqniocnjqoa,male,22.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+pcrcfrcgbybmvhdaqd,male,28.0,3rd,C,,2686.0,7.0407,0.0,0.0,no
+irwxxsydbfhpdnrakhydyauyqjyq,female,22.0,3rd,S,Sweden,7552.0,10.1004,0.0,0.0,no
+cdujjwpzhdkfljuptoocbmhw,male,45.0,3rd,S,,7598.0,8.01,0.0,0.0,yes
+lygvjkajzpfpgndtd,male,19.0,3rd,S,,349228.0,10.0305,0.0,0.0,no
+qmnakorxsbuwwojbeyldjqeesypmh,female,33.0,3rd,Q,Ireland,382650.0,6.19,0.0,0.0,yes
+fuyfzkisqfzvpufululeivhn,male,29.0,3rd,Q,Ireland,382651.0,7.15,0.0,0.0,yes
+axxlazouiwwxnnzxuexvug,male,51.0,1st,S,England,113055.0,26.11,0.0,0.0,yes
+wurtjdsyltsuaskmltzuyrvyjoydtsjzknmtnxx,male,0.3333333333,3rd,S,Sweden,347080.0,14.08,0.0,2.0,no
+bjcseugmopmysujeqeezujxdt,male,34.0,3rd,S,Sweden,347080.0,14.08,1.0,1.0,no
+vdasmdqdrakgatpzirqtjnyajrkpfa,female,28.0,3rd,S,Sweden,347080.0,14.08,1.0,1.0,no
+zbyngyudgapqxzcsdhqbumwwyxn,male,27.0,1st,S,United States,113804.0,30.1,0.0,0.0,yes
+iqpyzpbvhgdcnpiaksjocqhhrlpv,female,36.0,1st,S,England,113781.0,151.16,0.0,0.0,yes
+lgrprmtrtqotnryg,male,27.0,3rd,S,,349219.0,7.1711,0.0,0.0,no
+kcspfodneykkmveuqjpt,female,27.0,1st,C,Canada,12750.0,52.0,1.0,2.0,yes
+vavubouuaocnaikfncolbi,male,31.0,1st,C,Canada,12750.0,52.0,1.0,0.0,no
+yglnlzuilwuhoihujtjtghzavuditu,male,8.0,2nd,S,England,33112.0,36.15,1.0,1.0,yes
+plcmaglwmbctnoinhmlrukvv,male,24.0,3rd,S,England,48871.0,24.03,2.0,0.0,no
+rsbrrxotqmiumljggofytrprf,male,19.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+jttupjvgqbozrlotsofbzu,male,22.0,3rd,S,Wales,23568.0,8.01,0.0,0.0,no
+ctrjankpnmfttrgz,male,22.0,3rd,S,England,48871.0,24.03,2.0,0.0,no
+bpczimzaurhdpexsnj,male,17.0,3rd,S,England,48873.0,8.01,2.0,0.0,no
+zixwotnyhdypjrqwws,female,48.0,2nd,S,England,33112.0,36.15,0.0,2.0,yes
+hlyapaooarsfhsrtfxewdrafuhbqgih,female,28.0,2nd,S,England,237668.0,13.0,0.0,0.0,yes
+vikvlogxkxirgvnkunrusdonxedn,female,34.0,3rd,S,England,386525.0,16.02,1.0,0.0,yes
+xwxjittfcmsnzpqmchjrgttzh,male,32.0,3rd,S,England,386525.0,16.02,1.0,0.0,no
+goiujwtmzpolkyxskwpymekyu,male,18.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+nhflhuwhzqtjdmrlhmgmaxvwms,male,1.0,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+xgfoctrhpfoyufcjpjdmxvwyegmhdvujronogzd,female,0.1666666667,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+xagkotduastjbagvgbjlvmb,male,25.0,3rd,S,England,2315.0,20.1106,1.0,2.0,no
+dqqaturznfargnzhxvdgdcqm,female,32.0,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+jwcagbwcuevofywpfa,male,25.0,3rd,S,Bosnia,349250.0,7.1711,0.0,0.0,no
+zrwpsdvofysczjfkmyfdwp,female,24.0,2nd,C,Italy,2167.0,27.1405,1.0,0.0,yes
+dgafprwwfyfvjsfdmqtdinqrk,male,29.0,2nd,C,Italy,2167.0,27.1405,1.0,0.0,no
+hhhjgivpdimfmbqlruynbegznqupkpmlipfe,male,36.0,3rd,S,United States,345572.0,17.08,1.0,0.0,yes
+diebqddfjhhxmeihegchljyrf,female,36.0,3rd,S,United States,345572.0,17.08,1.0,0.0,yes
+wbsrzwcheikivvbrisockjx,male,30.0,3rd,S,Belgium,345774.0,9.1,0.0,0.0,yes
+tduolxxcrfseqtlnyqbxsxnjfe,male,25.0,2nd,S,Channel Islands,31029.0,31.1,0.0,0.0,no
+iycnhyhupiuxsuyzue,male,30.0,3rd,S,,349225.0,7.1711,0.0,0.0,no
+olchnyhbuswhdhnmci,male,22.0,3rd,S,England,21172.0,7.05,0.0,0.0,no
+udyzvccswmvpdemroyo,male,26.0,3rd,S,England,21175.0,7.05,0.0,0.0,no
+ywexrfoqzeqzmbmcassiiezqq,male,16.0,3rd,S,Belgium,345778.0,9.1,0.0,0.0,no
+rccdlpoicarwkcthjaxdedqzekgog,female,19.0,3rd,Q,Ireland,330958.0,7.1707,0.0,0.0,yes
+rxemxlhgzxjsqyupmuy,male,18.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+liujtrhuiqpwkoaccmlbzsx,male,31.0,1st,S,Canada,17474.0,57.0,1.0,0.0,yes
+duoruybwhafbgcj,female,17.0,1st,S,United States,17474.0,57.0,1.0,0.0,yes
+rdixtwnicuqlllr,male,17.0,3rd,S,Croatia (Modern),349232.0,7.1711,0.0,0.0,no
+yxrhjmtuhobxdxid,male,42.0,3rd,S,Hungary,315088.0,8.1303,0.0,0.0,no
+iengrwqikjmazkvdjuqmll,male,43.0,3rd,S,,349226.0,7.1711,0.0,0.0,no
+pkcdccsrccqplykkfqcmo,male,52.0,1st,S,United States,33638.0,81.1702,1.0,1.0,yes
+qrhjqszfgvtjagldrzhskewxe,male,4.0,1st,S,United States,33638.0,81.1702,0.0,2.0,yes
+jojdnbwruyajhest,female,34.0,1st,S,United States,33638.0,81.1702,1.0,1.0,yes
+xovvnczlpeaiamahtai,female,18.0,2nd,S,England,231919.0,23.0,0.0,1.0,yes
+penqhxsjoknjpfysxibtdbjutvhbugja,female,34.0,2nd,S,England,231919.0,23.0,0.0,1.0,yes
+hhdmakaozrpxubualkrcya,female,21.0,3rd,Q,Ireland,364856.0,7.15,0.0,0.0,no
+icxvvvitcfqlijdrsg,male,37.0,3rd,Q,Ireland,370376.0,7.15,0.0,0.0,no
+dvqvmvlzjnsmotgptnhwcrybdq,male,18.0,3rd,S,England,10482.0,8.01,0.0,0.0,yes
+fuyvnelgnpadfpypjrwsxtczvwy,male,22.0,3rd,Q,Ireland,330877.0,8.0902,0.0,0.0,no
+aphegeyjewtssqnfuuay,female,48.0,1st,C,United States,17761.0,106.0806,1.0,0.0,yes
+hezdcmtpljlveegtoruvniygx,female,27.0,1st,C,Canada,17558.0,247.1005,1.0,1.0,yes
+aodflllwechvrrufscwcjvwvzw,male,50.0,1st,C,United States,17761.0,106.0806,1.0,0.0,no
+znjftouxdfegjpbjzhrycwugvu,male,55.0,2nd,S,England,28403.0,26.0,0.0,0.0,no
+hqhnrodrvainnsdfdtntiiop,female,31.0,3rd,S,United States,364516.0,12.0906,0.0,0.0,yes
+afmvgeggzeepcdstxbcotj,female,28.0,3rd,Q,Ireland,368702.0,7.15,0.0,0.0,no
+zgigzebmmumrrcgrdgfae,male,33.0,3rd,C,Croatia (Modern),349241.0,7.1711,0.0,0.0,no
+hbjokkyzyhxrcpuxwbssmibqfepep,male,8.0,2nd,S,United States,28220.0,32.1,0.0,2.0,yes
+ckjjxguubmlmjatifcpeal,male,42.0,2nd,S,England,28220.0,32.1,1.0,1.0,no
+ywcnndbecfiqobvlmhipapdzjbdtme,female,34.0,2nd,S,United States,28220.0,32.1,1.0,1.0,yes
+eswfbvykrmkdnzpuzekrnil,female,27.0,3rd,Q,Ireland,14311.0,7.15,0.0,0.0,yes
+nvpywkzaglpnsinhnuzao,female,24.0,3rd,S,England,392083.0,8.01,0.0,0.0,yes
+cgrsfygdckhkycvvmydzuqfkjxhfkyighv,female,48.0,1st,C,England,17485.0,56.1807,1.0,0.0,yes
+szqxblsazhmczftirxtantcxwqrfqd,male,49.0,1st,C,England,11755.0,39.12,1.0,0.0,yes
+flsjoavsosglelmyzqykzvhlvlxq,male,39.0,1st,C,United States,17580.0,29.14,0.0,0.0,no
+joczutwmcjgkukwfpobpookrbod,male,24.0,3rd,S,Channel Islands,752.0,7.11,0.0,0.0,yes
+dfxeacogvrodqtekrjmhyrpjxhk,female,27.0,2nd,C,Spain,2149.0,13.1702,1.0,0.0,yes
+ncxiebhjtgnztftwsoxeqbegrpxgf,female,30.0,2nd,C,Spain,2148.0,13.1702,1.0,0.0,yes
+izkahbiaphsopxq,male,65.0,3rd,Q,Ireland,336439.0,7.15,0.0,0.0,no
+odoelcncbcrfycrugycxipwa,male,23.0,3rd,S,United States,347072.0,13.18,1.0,0.0,no
+jfbzjzfwllxhhkfsdlvuswhebenqrktaa,female,22.0,3rd,S,United States,347072.0,13.18,1.0,0.0,yes
+jnybqjbhqjcguimfzrpv,female,23.0,1st,C,United States,11767.0,83.0302,0.0,1.0,yes
+avcykcrvjwgjyedeiylwcmpvvgsxoi,male,18.0,3rd,S,Sweden,349912.0,7.1506,0.0,0.0,no
+dohjgmiobdnslroqskktcbzrubhi,male,25.0,2nd,S,United States,29751.0,13.0,0.0,0.0,no
+vxzqjihaxcoyqseefkycqf,male,16.0,3rd,S,Sweden,347074.0,7.1506,0.0,0.0,no
+rzuvuhmhjaftiiwlkoim,male,45.0,3rd,S,Sweden,347061.0,6.1906,0.0,0.0,no
+iilnmtlqzazpevp,male,29.0,3rd,C,,2674.0,7.0406,0.0,0.0,no
+scboxylxitlimkoznhokg,male,15.0,3rd,C,Lebanon,2690.0,7.0407,1.0,1.0,no
+iyjquommcfpabroffvrnzocpukyv,male,22.0,3rd,C,Lebanon,2695.0,7.0407,1.0,1.0,no
+gmtdkdnmvojcattjvgevqccdnz,male,48.0,3rd,S,England,3902.0,7.05,0.0,0.0,no
+zujnctucetjmvthpdacafdeiwmcmt,female,5.0,3rd,S,United States,364516.0,12.0906,0.0,0.0,yes
+wdnsobiahyekdqmohxs,male,21.0,2nd,S,Sweden,236854.0,13.0,0.0,0.0,no
+rrbjsnhegitmqsymdwsbrovrfxnqr,female,39.0,1st,C,United States,17757.0,247.1006,0.0,0.0,yes
+rxnxgwmnsqdrcgdbrhxotugpueeexwdb,male,37.0,3rd,S,,3101306.0,7.01,0.0,0.0,no
+lyxdnyiiwkvxclcyhsxsdwoxuxbdwl,female,54.0,1st,C,United States,36947.0,78.0504,1.0,0.0,yes
+zgneyxemymmcdbmaispscxtj,female,36.0,1st,C,United States,17531.0,31.1307,0.0,0.0,no
+crqbniganrzovjbufazjjcuxe,male,38.0,3rd,S,England,6212.0,15.02,0.0,0.0,no
+almedpqoicbwcwgyzhvptftc,male,18.0,2nd,S,Norway,236171.0,13.0,0.0,0.0,no
+wzfrbxtbyzsebzphyedqbpxexke,male,46.0,3rd,S,England,3101314.0,7.05,0.0,0.0,no
+eijjdxhzajhnkjoiqj,male,26.0,3rd,Q,Ireland,367232.0,7.15,0.0,0.0,no
+qallqnoqcwzhspreci,male,49.0,1st,S,England,17483.0,221.1507,0.0,0.0,no
+ysjwzdtbsbvzcfcxailtprcmimglg,male,32.0,2nd,S,England,2926.0,26.0,1.0,0.0,no
+qkwjlrovxlrxlupzjqyczduunqtng,male,18.0,2nd,S,England,15185.0,10.1,0.0,0.0,no
+wofgooxtyqtdmjghv,male,34.0,3rd,S,,3101308.0,7.01,0.0,0.0,yes
+pbkynznytaqirykjnaudavvipjyeyet,male,18.0,3rd,S,Sweden,350036.0,7.1511,0.0,0.0,no
+kofazxlwvtejoigrnbizkvnzatx,female,48.0,1st,C,United States,17598.0,31.1308,0.0,0.0,yes
+tapjcyvvmyutwlkakmee,female,22.0,3rd,Q,Ireland,364859.0,7.15,0.0,0.0,no
+aauotooanhnloqscfihhrkd,female,42.0,1st,C,United States,17421.0,110.1708,0.0,0.0,yes
+ebfcjfpwgvwmdzgk,male,28.0,3rd,Q,Ireland,364851.0,7.15,0.0,0.0,no
+azkvkcrontbweeq,male,48.0,3rd,Q,Ireland,368323.0,6.19,0.0,0.0,no
+zbynwgtcpadjfiutkojrk,male,36.0,1st,S,Canada,14474.0,26.0509,0.0,0.0,yes
+ljvubrrexvxnpeuns,male,19.0,3rd,Q,Ireland,330910.0,7.1707,0.0,0.0,no
+uaiuvajqjvgapjnewi,male,20.0,3rd,Q,Ireland,365235.0,7.15,0.0,0.0,no
+ulopsnmhtwlbnli,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+xsvndkzvfcmutvzrqztgskrrmlvw,female,20.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+uhnlzjbrjklzcibjpadmckyjj,female,7.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+rldxlkhzfsvzlxyj,male,23.0,3rd,S,England,1478.0,8.01,0.0,0.0,no
+kendynmfajefdmbvdzlqpqp,male,18.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+imnirlxhrciqmleozmhusshnmjilfd,female,54.0,3rd,S,Scotland,6608.0,34.0706,1.0,3.0,no
+upcuyxtuwkskcltvsdjaeujkvgipb,male,14.0,3rd,S,England,6608.0,34.0706,1.0,3.0,no
+vbzjigcdcgvpedfpofpdeykuygxguyo,male,30.0,1st,S,United States,113051.0,27.15,0.0,0.0,no
+uyaddvxacuhmxcmpxigjlwtbrgenvu,female,24.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+cnmdyggjdglhdjiwsvrillzmfz,female,28.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+ylqonqkdexmakkhspdruwpfmax,female,23.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+oicldynnmabkxbzsoanfpnzchvrdvg,male,19.0,1st,S,Canada,19950.0,263.0,3.0,2.0,no
+gahmtzfwxnzbfotkd,male,64.0,1st,S,Canada,19950.0,263.0,1.0,4.0,no
+zclibisekhzdgbfekh,female,60.0,1st,S,Canada,19950.0,263.0,1.0,4.0,yes
+zcmuqgfrfcucheef,male,28.0,3rd,Q,Ireland,368573.0,7.15,0.0,0.0,no
+jxrnputdkzfvollvgblbxtdvotk,male,38.0,2nd,S,United States,229236.0,13.0,0.0,0.0,no
+qsduzumqzspsrhjmzvupxniifgpyce,female,32.0,1st,C,England,17485.0,56.1807,0.0,0.0,yes
+kjuttalrywdvntcposvqduveuhky,male,37.0,1st,S,England,113778.0,26.11,0.0,0.0,no
+vmlgfadgddxliafwutecsdznssbpm,male,49.0,1st,S,United States,17611.0,133.13,2.0,0.0,yes
+ocvyzxiosutggefepgemwxkypkaz,male,43.0,1st,C,United States,17765.0,27.1405,1.0,0.0,yes
+wwrxyyqfidqykchvkxufnh,female,42.0,1st,S,United States,17611.0,133.13,1.0,0.0,yes
+ewsupkyfwwwbfmwgwquvetgtnktqbftuix,female,22.0,1st,C,Switzerland,13568.0,49.1,0.0,2.0,yes
+hbwqvcasbcfvwmamafcnwfkitdvcxqujosozow,male,60.0,1st,C,Switzerland,13567.0,79.04,1.0,1.0,yes
+dfscqzbbrdextcenjdraoejetanhrnsxhdterhwoqjd,female,48.0,1st,C,Switzerland,13567.0,79.04,1.0,1.0,yes
+vcytbfznqrafeeqizoaszlt,male,39.0,2nd,B,England,239854.0,,0.0,0.0,no
+etfycknovccrqymq,male,39.0,1st,S,England,112058.0,,0.0,0.0,no
+zkebcmxuglodigvkiqowshaqm,female,38.0,2nd,S,India,237671.0,13.0,0.0,0.0,no
+gbfvwywnwywqshmhdnzmoplbrgw,male,37.0,1st,S,England,113803.0,53.02,1.0,0.0,no
+pqjajglzbsnspbdlbwfklli,female,35.0,1st,S,England,113803.0,53.02,1.0,0.0,yes
+lgzhactwckyybqwphcwds,male,36.0,2nd,S,England,239865.0,26.0,0.0,0.0,no
+prazmsbptghcsxg,male,38.0,2nd,S,England,28664.0,21.0,1.0,0.0,no
+ocnknxdigfuzfeczcy,male,33.0,2nd,S,England,28664.0,21.0,1.0,0.0,no
+mzypebdigihosdapceayj,male,29.0,3rd,Q,Ireland,36864.0,7.141,0.0,0.0,no
+pemggoicrnwnenxmdp,male,23.0,3rd,S,England,358585.0,14.1,0.0,0.0,no
+krgqeeaftueuzjatvfwi,female,39.0,2nd,S,England,243880.0,13.0,0.0,0.0,yes
+jueafzshmcrfsstqulfgfwxfbwo,male,19.0,2nd,S,England,239865.0,26.0,0.0,0.0,no
+hksxkimsngoequnyzeu,male,26.0,2nd,S,Channel Islands,31028.0,10.1,0.0,0.0,no
+glfadswwrziikaglxv,male,47.0,1st,S,England,111320.0,38.1,0.0,0.0,no
+dqjjjfsppobqtmtmphzrrheqihetg,female,38.0,3rd,C,United States,2688.0,7.0407,0.0,0.0,yes
+dovhccyeermnntwxqncfkgci,male,21.0,3rd,C,Lebanon,2692.0,7.0406,0.0,0.0,no
+dfwvfjrzsvqedqlojdbuur,male,,3rd,C,Bulgaria,349254.0,7.1711,0.0,0.0,no
+cfklyguxtejhylevndtkzeiksjkoco,female,22.0,1st,C,United States,112378.0,59.08,0.0,1.0,yes
+tggzdwauhadwkxkehenqpsykzcocr,female,44.0,1st,C,United States,112378.0,59.08,0.0,1.0,yes
+izjaveoebgfaalkjmjhf,female,35.0,1st,S,,113503.0,211.1,0.0,0.0,yes
+jtrfhaemxajnowmwkrjvcdxzauvalkgn,male,23.0,1st,C,,17593.0,79.04,0.0,0.0,no
+kjsawmjtbzhmdfvnzzgr,male,47.0,2nd,S,England,30769.0,10.1,0.0,0.0,no
+okijgwuazufkjbmb,male,19.0,2nd,S,England,28133.0,11.1,1.0,0.0,no
+aaebmjijwseggcsoxyyjunfvhpm,male,21.0,2nd,S,England,28134.0,11.1,1.0,0.0,no
+gfvwpnbzwzqbpfgf,male,24.0,2nd,S,England,248726.0,13.1,0.0,0.0,no
+zdwzbqlwatvaqjrdmddzr,male,23.0,3rd,S,Wales,14973.0,8.01,0.0,0.0,no
+xhdjhszbbxxfptqprhfdacyiexrg,male,31.0,2nd,S,Ireland,12233.0,13.0,0.0,0.0,no
+zzbmdlnbdxijjv,male,24.0,2nd,S,England,233866.0,13.0,0.0,0.0,no
+stctvxncqfechelfxbwdlvpz,female,17.0,3rd,Q,Ireland,35851.0,7.1408,0.0,0.0,yes
+lzqquhbeyvbaqokxccjdfhekjpf,male,30.0,2nd,S,Argentina,250646.0,13.0,0.0,0.0,no
+fhfkkpckogxqpmipkiazrycs,female,18.0,3rd,Q,Ireland,335677.0,7.15,0.0,0.0,yes
+abmhsdrvcpgiadyydbvhoyzqe,male,47.0,1st,C,United States,17453.0,89.0201,1.0,0.0,yes
+nqqgtysiwofeduyqushjkn,female,40.0,1st,C,United States,17453.0,89.0201,1.0,0.0,yes
+izbadzljykrntucjhcswhryiwh,male,71.0,1st,C,United States,17754.0,34.1301,0.0,0.0,no
+bnntgbumpchjlexjaoknpwjwmtlsubnrooogy,male,9.0,3rd,S,England,363291.0,20.1006,0.0,2.0,yes
+azzugyyfvklcixudimupvmreg,male,33.0,3rd,S,England,363291.0,20.1006,1.0,1.0,no
+ibdbeanzbtpasgxkaqzea,male,41.0,3rd,S,,3101263.0,7.17,0.0,0.0,no
+qfgsdssghdkxqjelnylsgpdsiit,female,31.0,3rd,S,England,363291.0,20.1006,1.0,1.0,yes
+rzloihdciekraybenduvhsiyohyagw,male,9.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+nxlgevztyurwodnmwbyzsoulqzmtsf,male,1.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+jywzxbofzssznjwiqnbtmlhuaprwmjjnxz,male,11.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+sdojvoajbocvgpwpokicttrzwjp,female,10.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+dpkaxxuyqddqpddidukmgfxnib,female,16.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+suazxdhxwjessehseeigmmkcsex,male,14.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+hstdfwnlgybidibprysauhecgunji,male,42.0,3rd,S,England,2144.0,46.18,1.0,6.0,no
+fxwafenpykmpyyjdvhiry,female,43.0,3rd,S,England,2144.0,46.18,1.0,6.0,no
+cruisxgstwjximdsaeuqzzehsx,male,53.0,1st,S,United States,113780.0,28.1,0.0,0.0,yes
+fvqecxucmqvxpondjcqtspnpgwzg,female,19.0,1st,S,England,17582.0,153.0903,0.0,0.0,yes
+dizcvybkkwhhgrycoenscxxaj,male,38.0,1st,S,Canada,112053.0,30.0,0.0,1.0,no
+eeftzqmwoumezxcywz,female,59.0,1st,S,England,17582.0,153.0903,0.0,1.0,yes
+jjexfnotpnxybpwcoggfj,male,52.0,2nd,S,South Africa,250647.0,13.0,0.0,0.0,no
+bqjcafnkmcsmqljxzrvsedbw,female,45.0,1st,C,United States,17759.0,63.0702,0.0,1.0,yes
+ealidedaokhqhhklnviovotnhqjjryd,male,23.0,1st,C,United States,17759.0,63.0702,0.0,1.0,yes
+ldsgkbqhzvteaxaaw,male,20.0,engineering crew,S,England,,,,,no
+fqtytscqrrfspnrqm,male,41.0,3rd,S,England,21440.0,8.01,0.0,0.0,no
+londktvwfylmbvgewszbzdpffvvxnnpo,male,32.0,3rd,S,Norway,8471.0,8.0615,0.0,0.0,no
+khychzorbzgzoiqeywmgundsk,male,25.0,3rd,S,England,376563.0,8.01,0.0,0.0,no
+akdmexdsfiacjqaycxljpmlx,male,46.0,1st,C,France,17593.0,79.04,0.0,0.0,no
+usgwxsclafdlpkdjqedgvlgohwkem,male,19.0,3rd,S,Finland,7534.0,9.1611,0.0,0.0,no
+eezmufhozfsfatvmnwlhorklxqqfmk,male,37.0,3rd,S,Finland,3101276.0,7.1806,2.0,0.0,no
+gjdujbdqwasatadraykgxupbolyv,male,28.0,3rd,S,Finland,3101277.0,7.1806,2.0,0.0,no
+xjrkkfugvmhrkduimbevxtxutvs,male,19.0,3rd,S,Sweden,347069.0,7.1506,0.0,0.0,no
+zyxtmczhmnohzddaotv,female,24.0,3rd,S,Switzerland,349236.0,8.17,0.0,0.0,no
+eiytoqxgszixhxdyakmszpxomshmgyj,male,28.0,3rd,S,Norway,65303.0,6.1904,1.0,0.0,no
+sftbvnnunvdyvkfziytksymlutygtdaatshv,male,19.0,3rd,S,Norway,65304.0,6.1904,1.0,0.0,no
+wochwxrxctxiaryrnevenveqxgqajv,male,28.0,3rd,S,Finland,3101279.0,15.17,1.0,0.0,no
+cnfaokizjnfjbhpmwhtqvixwrrkoga,female,24.0,3rd,S,Finland,3101279.0,15.17,1.0,0.0,yes
+gccyzvaghxoozqoddg,male,30.0,2nd,S,England,250653.0,13.0,0.0,0.0,no
+rwygoddmrxljibhqoijnklndbqyhyzvuzvzalsv,male,0.5833333333,2nd,S,United States,250649.0,14.1,1.0,1.0,yes
+ovgacjhnlrdkfdqnqwibm,female,23.0,2nd,S,United States,250649.0,14.1,0.0,2.0,yes
+yepkkqnedgbwjxqptiwmza,male,19.0,3rd,S,Belgium,345769.0,9.1,0.0,0.0,no
+fsmckrrjbecmwrink,male,27.0,3rd,C,Lebanon,2663.0,7.0407,0.0,0.0,yes
+csnqpyvjsdevixijf,male,18.0,3rd,C,Lebanon,2664.0,7.0406,0.0,0.0,no
+wgobpqfrphvrkzdkqq,male,35.0,3rd,C,Lebanon,2693.0,7.0407,0.0,0.0,no
+drnflpswmrwdjlhknpglruc,male,41.0,3rd,S,United States,350026.0,14.0202,2.0,0.0,no
+djonelzhrqpsoluhgscnskx,male,26.0,3rd,S,Denmark,350025.0,7.1701,1.0,0.0,no
+ecekikrimxczwonfthrfbfjuuhl,male,21.0,3rd,S,Denmark,350029.0,7.1701,0.0,0.0,no
+irpcatssqynwzymzqecnvfpkcn,female,45.0,3rd,S,United States,350026.0,14.0202,1.0,0.0,yes
+xexuxpgajoijscskihrekbz,male,45.0,2nd,S,United States,248746.0,13.0,0.0,0.0,no
+thrtjopzqxvbhekcqxofklokpwc,male,25.0,1st,C,United States,11765.0,55.081,1.0,0.0,yes
+ljixpazxmyllrwzznwun,female,21.0,1st,C,United States,11765.0,55.081,1.0,0.0,yes
+qpltjpxmbvszzzlidbhuwaygg,female,17.0,3rd,Q,Ireland,30631.0,7.1408,0.0,0.0,no
+kshpursarmgmyupvyguvsgjqdjeq,female,21.0,3rd,S,England,6609.0,7.11,0.0,0.0,no
+pgzetwjkndbyqylggrizdzzput,female,6.0,2nd,S,Scotland,248727.0,33.0,0.0,1.0,yes
+xiivbldsoffwvngjxlegzhlbc,male,48.0,1st,C,United States,17572.0,76.1407,1.0,0.0,yes
+rlweszhgebbphijmtqtkjwvyr,female,49.0,1st,C,United States,17572.0,76.1407,1.0,0.0,yes
+xipwsitqzkuqwxklz,male,39.0,2nd,S,Scotland,248727.0,33.0,0.0,1.0,no
+ozrqnekxzzwdrhubowohxkgzxxcra,male,37.0,1st,S,England,113796.0,42.08,0.0,0.0,no
+swigltxcqezymqhdzk,male,62.0,2nd,S,England,752.0,10.1,0.0,0.0,yes
+aruuysldzrdainarvlpsvfarqpa,male,45.0,1st,S,United States,36973.0,83.0906,1.0,0.0,no
+xaifnckiqfdwafjkqc,female,35.0,1st,S,United States,36973.0,83.0906,1.0,0.0,yes
+pbilxnyswmcjdtixon,male,45.0,2nd,S,England,14208.0,10.1,0.0,0.0,no
+edpsglnolwlxyxrjjnsruklyucc,male,46.0,1st,S,England,112059.0,,0.0,0.0,no
+lmteapsvvzhmpoehxmoostzhjc,male,33.0,2nd,S,England,250654.0,,,,no
+kpzlffeslnkjnofozwzkdf,female,7.0,2nd,S,England,13529.0,26.05,0.0,2.0,yes
+oezgohzijeuamnpgsa,male,47.0,2nd,S,England,13529.0,26.05,1.0,1.0,no
+aqmwaywlwyuwcdc,male,29.0,3rd,Q,Ireland,394140.0,6.1702,0.0,0.0,no
+dxvqhgffmudmgliprjbne,female,48.0,2nd,S,England,13529.0,26.05,1.0,1.0,yes
+euhpvfueibcrurflhj,male,27.0,1st,C,Egypt,17572.0,76.1407,0.0,0.0,yes
+ijvthtaavsjzpwtygvnmiulgbcl,male,45.0,1st,S,England,16988.0,30.0,0.0,0.0,yes
+xiaorpsssuocehxyxqfihnjwddivjt,female,24.0,1st,C,United States,11767.0,83.0302,0.0,0.0,yes
+iiamqwvskadpqltknbgmojyivm,male,55.0,1st,S,Canada,12749.0,93.1,1.0,1.0,no
+ozopofulsmrkazgbwlzmvybij,female,52.0,1st,S,Canada,12749.0,93.1,1.0,1.0,yes
+oijwmdairaalyfrppwxpw,male,42.0,1st,S,England,113038.0,42.1,0.0,0.0,no
+sdyrrrexcsrlpncnta,female,33.0,3rd,Q,Ireland,370375.0,7.15,0.0,0.0,yes
+nmjrxsuqbunxeywhwuwwimo,male,27.0,3rd,S,Sweden,347089.0,6.1906,0.0,0.0,yes
+vyrtubnvrvtks,male,24.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+bvxzatopvmachqafsityq,female,20.0,3rd,Q,Ireland,365226.0,6.15,0.0,0.0,no
+sqplmhuvfadrbexgqebsqo,female,16.0,3rd,S,Finland,3101282.0,7.1806,0.0,0.0,yes
+ykftiefxepeuemzqxmaafjhdxctt,female,23.0,3rd,S,Finland,3101290.0,7.1806,0.0,0.0,no
+pgllinpqydcxjpuafosrkhotanfp,female,22.0,3rd,S,Sweden,7548.0,8.1903,0.0,0.0,yes
+doypoyaondvseuwzswothq,male,30.0,3rd,S,Hungary,349243.0,7.1711,0.0,0.0,no
+eayvehachotprorqjtpzbbswgwephz,female,28.0,3rd,S,Sweden,347086.0,7.1506,0.0,0.0,no
+ulgqsynunphniwhpwzrjwdwnrf,female,21.0,3rd,Q,Ireland,382649.0,7.15,0.0,0.0,no
+lvdgldbsdmhnevhhjyw,female,24.0,2nd,S,England,220845.0,65.0,1.0,2.0,yes
+jqaojitmlewrtadoqf,female,24.0,2nd,S,England,220845.0,65.0,1.0,2.0,yes
+cgjzlecfvsdrtcfsug,male,50.0,2nd,S,England,220845.0,65.0,1.0,2.0,no
+umjzlxztwnxsusvei,female,50.0,2nd,S,India,220845.0,65.0,1.0,2.0,yes
+dhfgqkhbkfndikqfukhxdyrfh,female,56.0,2nd,S,India,248706.0,16.0,0.0,0.0,yes
+rxrydcxddtycrtczfqaafvvgk,male,24.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+furjaptnjfxiimsowd,male,30.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+npezlxtrewshiyaxdtdcblbfchf,male,21.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+obwcywhovyjokaeueewmqwrmipf,male,44.0,1st,S,England,17463.0,51.1703,0.0,0.0,no
+hblyaitbkfanzqkamqfzq,female,18.0,2nd,S,Finland,250650.0,13.0,1.0,1.0,no
+ysjxquirluqwolvwfsjebqlxfut,male,55.0,1st,S,England,680.0,50.0,0.0,0.0,no
+bhvrgdkkikehttqdztivqcjaickq,female,17.0,1st,C,United States,111361.0,57.1907,0.0,1.0,yes
+tqdvkpejyggyberhghsynkuo,female,44.0,1st,C,United States,111361.0,57.1907,0.0,1.0,yes
+njlrtinvuyrmgfkhkbbkcdywkkcflofu,female,2.0,3rd,S,Finland,3101298.0,12.0509,0.0,1.0,yes
+eqiwnvzktyrreajlfmirygtlhcdgjhysuwjwgjll,female,22.0,3rd,S,Finland,3101298.0,12.0509,1.0,1.0,yes
+raenauqmhgybaohvcgox,female,20.0,2nd,S,England,29105.0,23.0,2.0,1.0,yes
+bsijaypwpmlnzkyrpkekrsctumy,male,24.0,2nd,S,England,29104.0,11.1,2.0,1.0,no
+egfwasvduecegvcwlhyeqebzyzbukbfsrq,male,36.0,2nd,S,England,242963.0,13.0,0.0,0.0,no
+gnkzdgvofohdvajqmmx,female,54.0,2nd,S,England,29105.0,23.0,1.0,3.0,yes
+ngdfqedibbhrnannanhhdig,male,50.0,2nd,S,England,250643.0,13.0,0.0,0.0,no
+hlwuxxennudwcocdrtkocysfbt,female,51.0,1st,C,United States,13502.0,77.1902,1.0,0.0,yes
+qplzhqyooqbksjkjrcrikihnz,female,29.0,2nd,S,England,26707.0,26.0,1.0,0.0,yes
+rumadnjbwubbihmeu,male,44.0,2nd,S,England,26707.0,26.0,1.0,0.0,no
+qcdzlvehylesgwhcqachbzavffsgoqwa,male,43.0,3rd,S,Sweden,7075.0,6.09,0.0,0.0,no
+mhrohbuucydwvkrwhopkvmzhq,male,18.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+cznqchslgtbiuvcawqmmqifofqeecf,male,42.0,1st,S,United States,113789.0,52.0,1.0,0.0,no
+jtnmmklibhnrbhxffilvcbhdym,female,35.0,1st,S,United States,113789.0,52.0,1.0,0.0,yes
+ztycfbxnevkngdao,male,40.0,1st,S,United States,111426.0,26.11,0.0,0.0,yes
+dehsaiwonpmdpidapfduen,female,27.0,3rd,S,Finland,3101283.0,7.1806,0.0,0.0,yes
+eppfavoblbujdkfphplz,male,21.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+wnnuvzjhysnocyvm,male,22.0,3rd,Q,,370377.0,7.15,0.0,0.0,no
+xzwlmnnuwxxsihtlldnh,male,41.0,2nd,S,Japan,237798.0,13.0,0.0,0.0,yes
+lnimscuplrfnerkqkyygteaejdw,female,26.0,3rd,S,England,39186.0,8.01,0.0,0.0,yes
+jyrfconzjvqpbtlgjmps,male,63.0,2nd,S,England,24065.0,26.0,1.0,0.0,no
+bbsaelnmcuirdfyxvmdkthxmcrx,female,61.0,2nd,S,England,24065.0,26.0,1.0,0.0,no
+bfncrdprycksuundeppxaydgeyii,male,38.0,1st,S,United States,19943.0,100.0,1.0,0.0,yes
+zlepgsewblisqfkjggad,female,31.0,1st,S,United States,19943.0,100.0,1.0,0.0,yes
+ozqqlslpwxhopwpdhnbqnlli,male,43.0,1st,C,United States,17600.0,30.1311,0.0,0.0,no
+hjvryjaorgxsdyvhvnrixvrpxblrzdmtgcstlivf,male,42.0,3rd,S,Norway,348121.0,7.13,0.0,0.0,no
+xuzsqhnqqnabcjxpod,male,21.0,2nd,S,,250654.0,,,,no
+jiaqmrnezdujpvmrplskab,male,34.0,2nd,S,England,1585.0,12.0506,0.0,0.0,no
+vamnsnwyubsfxtteksyzhijrh,male,34.0,3rd,S,England,3470.0,7.1709,0.0,0.0,yes
+igkdexuovsfimiezebgmflbfwryzyeyez,male,11.0,3rd,C,,2699.0,18.1509,0.0,0.0,no
+wzoquinhuhayjpdfufjqf,female,18.0,3rd,C,Syria,2657.0,7.0407,0.0,0.0,yes
+nztjrlvleidopgcbtxrlwdlkxmxa,male,33.0,3rd,C,Lebanon,2627.0,14.0902,0.0,0.0,no
+rtmekazwwiccrewvvhsnmbat,female,39.0,1st,S,,113572.0,80.0,0.0,0.0,yes
+iddjwxetlvajqjxtnqa,female,17.0,2nd,S,Channel Islands,14885.0,10.1,0.0,0.0,yes
+hnurtiikcedebjnu,male,32.0,3rd,S,,349220.0,7.1711,0.0,0.0,no
+gzueitarrufovydsoutytiniigqa,female,17.0,3rd,S,United States,3101270.0,7.1806,1.0,0.0,no
+jsdljhrqhvlowxiqsecfysyoryaqo,female,25.0,3rd,S,Finland,3101271.0,7.1806,1.0,0.0,no
+ofsmkkasjzlhpjvaazrooieqco,female,50.0,1st,C,United States,17595.0,28.1403,0.0,0.0,no
+cdcnxyzvtkyrnolryipwoql,male,49.0,1st,S,England,112058.0,,0.0,0.0,yes
+vdtcvwbxqbrrkcbaaa,male,20.0,3rd,S,Bulgaria,349201.0,7.1711,0.0,0.0,no
+lhboepuoiwmhbsekviarnwblnwudb,female,16.0,3rd,C,,2665.0,14.0901,1.0,0.0,no
+bybxrvqjvfjpgmocrxuowgjusekgkc,female,19.0,3rd,C,,2665.0,14.0901,1.0,0.0,no
+gkmgydciwgllljqobpkwnbgxeqdapccufxt,female,24.0,2nd,S,England,243847.0,27.0,2.0,1.0,yes
+xiumgwgnkkqoobmhatqypeubykbr,male,42.0,2nd,S,South Africa,243847.0,27.0,1.0,0.0,no
+vgyzeshnlvigadxhbp,male,30.0,3rd,C,Croatia (Modern),349240.0,7.1711,0.0,0.0,yes
+amtqwdldibpbrcisamtamd,male,21.0,3rd,S,Sweden,350034.0,7.1511,0.0,0.0,yes
+fkonqnlkfxycsgthpobvx,male,21.0,3rd,S,,3101305.0,7.01,0.0,0.0,no
+jnivzdnbengxngkxgsrtuja,male,46.0,2nd,S,Wales,237565.0,15.0,0.0,0.0,no
+mnaiikeihizvpnwvoevszlxnteogp,male,24.0,2nd,S,England,31029.0,31.1,2.0,0.0,no
+txysxfrwzcnndxypfcejjjbicgxs,male,21.0,2nd,S,England,31029.0,31.1,2.0,0.0,no
+xaibgsgxaqrylufayuzrdzetdp,male,32.0,2nd,S,England,33111.0,10.1,0.0,0.0,no
+zjfzrggjazfyqonekipgdw,male,20.0,3rd,S,Denmark,350050.0,7.1701,0.0,0.0,no
+ugavjvwhjckixfiqqciheclr,male,48.0,3rd,S,Denmark,350048.0,7.0101,0.0,0.0,no
+naglddsatyiwhmnqbeolpggdm,male,17.0,3rd,S,Denmark,350047.0,7.1701,1.0,0.0,no
+rrunnpypunhifdbplygxsvpc,female,26.0,3rd,Q,Ireland,14313.0,7.15,0.0,0.0,yes
+ravtmaojdcbwoopgixkbbwyvo,female,23.0,2nd,C,United States,541.0,13.151,0.0,0.0,yes
+dttfmstszzbhmrjelydotcsheadcdr,male,29.0,3rd,S,Norway,65306.0,8.0203,0.0,0.0,yes
+zbomzmoqptifjcorxicftyadtg,male,34.0,3rd,S,Finland,3101264.0,6.0911,0.0,0.0,no
+kaqmbulaucmrembuchk,male,22.0,3rd,S,Sweden,350052.0,7.1511,0.0,0.0,no
+jpnsdxpkmcbuqyguqsvgnyjibe,male,33.0,3rd,S,Sweden,7540.0,8.1301,0.0,0.0,no
+pdsrmzbylegoxipyirqduxtyk,male,31.0,3rd,S,United States,347063.0,7.1506,0.0,0.0,no
+tzmzosolrfubssjcmdv,male,29.0,3rd,S,United States,347467.0,7.1701,0.0,0.0,no
+qtvnkzggiozzfdhixlhzcndjpptbphtpxwzxwp,male,26.0,3rd,S,Sweden,347070.0,7.1506,0.0,0.0,yes
+rqdvmtxswyaeqcubcpmhbvadwgbhhvb,male,4.0,3rd,S,,347742.0,11.0208,1.0,1.0,yes
+ozbhtrhxjrslvuvolsyuunutesbd,female,1.0,3rd,S,,347742.0,11.0208,1.0,1.0,yes
+jgjamezldrczzuhblzx,male,49.0,3rd,S,United States,370160.0,,,,no
+foioorsvrkciooqlpkttgphbcmic,male,33.0,3rd,S,United States,347062.0,7.1506,0.0,0.0,no
+cqmzxpiqlthtqkbcrdqralckqdbamzjsld,female,26.0,3rd,S,,347742.0,11.0208,0.0,2.0,yes
+wqjcvznskdidwoazgijvbdjexjnkhyau,male,19.0,3rd,S,United States,370160.0,,0.0,0.0,no
+qtvqmfmnfxknkyjbyralxarkhrzawkvx,male,8.0,3rd,S,England,6607.0,23.09,1.0,2.0,no
+eiytxrzdxozvrshpcwdoppfextjgkqss,female,7.0,3rd,S,England,6607.0,23.09,1.0,2.0,no
+zbthidixxzmhempjpmzochadyam,male,35.0,3rd,S,Scotland,6607.0,23.09,1.0,2.0,no
+enobxfcadokshsyspngr,female,36.0,3rd,S,Scotland,6607.0,23.09,1.0,2.0,no
+gsovjrzndtamaxxzxhenszxeui,male,46.0,1st,S,United States,694.0,26.0,0.0,0.0,no
+bluuogqhdtmtulmlej,male,23.0,3rd,S,Bulgaria,349204.0,7.1711,0.0,0.0,no
+rsklmppdodxibbhkl,male,25.0,3rd,S,Sweden,350417.0,7.1701,0.0,0.0,yes
+msymmkxilarkktgwowyxntqoj,male,27.0,3rd,S,Sweden,350408.0,7.1701,0.0,0.0,no
+zwjwrlfqtuducbefrlramuwvqe,male,39.0,3rd,C,Lebanon,2675.0,7.0407,0.0,2.0,no
+bjtgsxwobvpokmtazkpjucjr,male,50.0,1st,S,England,113044.0,26.0,0.0,0.0,no
+gscyywvhwvukpgpuhjzibwg,female,20.0,3rd,S,Finland,4136.0,9.161,1.0,0.0,no
+zgbxtbcsrzrhwemtffzvkajw,female,21.0,3rd,S,Finland,4137.0,9.161,1.0,0.0,no
+vegcjcvnqpfclitzltj,male,32.0,3rd,S,Finland,3101286.0,7.1806,0.0,0.0,yes
+lnewnafygjoetnojpqjetxvsmx,male,17.0,3rd,S,Finland,3101274.0,7.0206,0.0,0.0,no
+nbaogeufgzrnxvkbdisyihjwedzmnf,male,21.0,3rd,S,Norway,8475.0,8.0808,0.0,0.0,no
+fvuowonidsgjysvsv,male,34.0,2nd,S,Russia,244367.0,26.0,1.0,0.0,no
+jjablrjmnedaephbqvk,female,24.0,2nd,S,Russia,244367.0,26.0,1.0,0.0,yes
+mgjgeugjicmvhekyry,male,30.0,3rd,S,Hungary,349246.0,7.1711,0.0,0.0,no
+qkbrmxrdrqbaeraqlucigtemmbnih,male,21.0,3rd,S,Sweden,350053.0,7.1511,0.0,0.0,yes
+mjrtjiawlucjsrpashdxxvpboqtrfwzge,male,33.0,3rd,S,Sweden,347465.0,7.1701,0.0,0.0,no
+yeuxshkteeescwhuqhjiaagen,male,22.0,3rd,S,Sweden,350060.0,7.1005,0.0,0.0,no
+zismcbvqckhpeqeqqzr,female,22.0,2nd,S,United States,13534.0,21.0,0.0,0.0,no
+kypvqpnihrvhhaosow,female,5.0,3rd,C,Slovenia,349256.0,13.0804,0.0,1.0,yes
+zlunsgrzpsyvoxzc,male,39.0,3rd,C,United States,349256.0,13.0804,0.0,1.0,yes
+bhkdecutgszvotnculjsxogzfc,male,19.0,3rd,C,Greece,2682.0,7.0407,0.0,0.0,no
+vifsvpsovewzfhmkqssskol,female,46.0,2nd,Q,Ireland,226593.0,12.07,0.0,0.0,yes
+mumvcasgvxxhdsfmo,male,23.0,3rd,Q,Ireland,12460.0,7.15,0.0,0.0,no
+bsqbydihrotvggqts,male,35.0,2nd,Q,Ireland,233734.0,12.07,0.0,0.0,no
+oeshxiwddsxpkvvvs,male,39.0,3rd,S,United States,323592.0,7.05,0.0,0.0,no
+ogrjlyasmqpigvybgeowyarydv,male,33.0,1st,S,England,113503.0,211.1,0.0,0.0,no
+qfawirctraqlmhivkayktobsezb,female,20.0,3rd,Q,Ireland,9234.0,7.15,0.0,0.0,yes
+uejtriuurajenukqn,female,22.0,3rd,Q,Ireland,14312.0,7.15,0.0,0.0,yes
+pqgbqpwfrjpzgwmk,male,19.0,3rd,S,Scotland,363592.0,8.01,0.0,0.0,no
+ngfvwqcptwvijams,male,44.0,3rd,Q,Ireland,330911.0,7.1607,0.0,0.0,no
+rxvwwsmxuksogsfm,male,44.0,engineering crew,S,England,,,,,no
+hvttmzsvtclhubnbkycfiry,female,49.0,2nd,S,England,223596.0,13.1,0.0,0.0,yes
+qakhnjcnjxiinbdsr,male,24.0,3rd,Q,Ireland,368783.0,7.15,0.0,0.0,yes
+zwalbwbbgyeoingnzuuiixk,male,58.0,1st,C,United States,11771.0,29.14,0.0,0.0,no
+ygeejrhflonsrhrsvgwcvtgpnhag,male,41.0,1st,S,United States,17464.0,51.1703,1.0,0.0,no
+puzdhjjjiomqcawbfabftetgzjv,female,40.0,1st,S,United States,17464.0,51.1703,1.0,0.0,yes
+dczcpujcyksbqzbyqc,male,25.0,3rd,C,Lebanon,2660.0,14.0901,1.0,0.0,no
+myoocvxwmmjmboxqii,female,20.0,3rd,C,Lebanon,2660.0,14.0901,1.0,0.0,no
+hrwkwjzfwvtgdmrdlmpdhuci,male,25.0,3rd,Q,Ireland,367227.0,7.15,1.0,0.0,no
+azcnibkllnmlhjjxgrq,male,22.0,3rd,Q,Ireland,367229.0,7.15,1.0,0.0,no
+aunlixelbaibgivalpytk,male,22.0,3rd,Q,Ireland,36865.0,7.1409,0.0,0.0,no
+hljivpmmazftvfrxvjfyduxjsvmlx,male,42.0,1st,S,United States,11753.0,52.1101,1.0,0.0,yes
+hhvkjhmcqznivyaknnqegmrypbhp,female,45.0,1st,S,United States,11753.0,52.1101,1.0,0.0,yes
+iizitdufydvcjhpfawzddehtmqsvbzdmlfp,female,4.0,3rd,S,Switzerland,315153.0,22.0,0.0,2.0,yes
+smnsjprjdiujrergowcdsbeyl,female,26.0,3rd,S,Switzerland,315153.0,22.0,1.0,1.0,yes
+rseizqijefzevbmqj,female,23.0,3rd,S,Switzerland,315152.0,8.1303,2.0,0.0,no
+ubaxwnzrnzdiwow,male,29.0,3rd,S,Switzerland,315153.0,22.0,3.0,1.0,yes
+wsueetqbqauobtezc,male,26.0,3rd,S,Switzerland,315151.0,8.1303,2.0,0.0,no
+wmfqslbuyulebbqsrmyifmgrmeoxy,male,52.0,2nd,Q,United States,219533.0,12.07,0.0,0.0,no
+zqvabocjktnlvotohu,male,41.0,1st,S,United States,113028.0,26.11,0.0,0.0,no
+bgdueqxmsqwlrebvxshmontmibzx,female,1.0,3rd,S,Sweden,350405.0,12.0308,1.0,1.0,no
+vrchhmyedffcfuftpfubnq,male,18.0,3rd,S,Sweden,350404.0,7.1701,1.0,1.0,no
+rgxlketlpwnqrzlllornkhfppnacwfllxay,female,36.0,3rd,S,Sweden,350405.0,12.0308,0.0,2.0,no
+vkxnjmpuexkyeedxcx,male,41.0,2nd,B,Northern Ireland,239855.0,,0.0,0.0,no
+qtzkjtsprbqyjtfnjuq,male,,3rd,C,Bulgaria,349253.0,7.1711,0.0,0.0,no
+gbthbqifhdbjqiutguilb,male,25.0,3rd,C,Turkey,2654.0,7.0407,0.0,0.0,yes
+njmmhyxvkqsvzwmzbcwqut,female,29.0,1st,S,,24160.0,211.0609,0.0,0.0,yes
+vzxfsnoandulfbkwthgrqbpaokuy,male,23.0,2nd,S,England,250654.0,,,,no
+tpfakksbnifvcsmaihpumuifdhjmu,male,26.0,3rd,S,Scotland,251.0,7.11,0.0,0.0,no
+yziiqdrdxiqaygrjiylpgxdsqpwgollqnbcuek,male,31.0,2nd,S,Sweden,18723.0,10.1,0.0,0.0,no
+xplwiyeeyrbnjhakztypugcokenljbwqz,male,35.0,3rd,C,Lebanon,2624.0,7.0406,0.0,0.0,no
+roxabgxelzqxhklvskpuj,male,35.0,2nd,S,United States,250651.0,26.0,1.0,1.0,no
+wtegylqhnlmzbwepzwscwwjgnw,female,34.0,2nd,S,United States,250651.0,26.0,1.0,1.0,no
+qjrbwibalpmiujotlmppfuzizdbxbk,female,37.0,3rd,S,Finland,4135.0,9.1109,0.0,0.0,no
+nsmfrpsxgxfwwbwqr,male,31.0,2nd,Q,Ireland,240261.0,10.1402,0.0,0.0,no
+drcxmhtzurbu,male,38.0,3rd,S,China/Hong Kong,1601.0,56.0911,0.0,0.0,yes
+bfaeeaskduyi,male,23.0,3rd,S,,1601.0,56.0911,0.0,0.0,no
+fuakzlsbrjipxsskvufwobfpplqfjmj,female,22.0,3rd,S,Sweden,7077.0,7.05,0.0,0.0,yes
+xytjwslwezklwxdxo,male,17.0,3rd,Q,Ireland,7935.0,7.15,0.0,0.0,no
+pcalhdqxyobrrj,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+dstrxacsgjyjvgdujlvrd,female,1.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+nwvsclfjnmalnezqucrvctdkkbugreeoxsmacgbc,female,3.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+qdslqpxmlzmikdakfgtayxmlsdqgckqewlbmae,male,25.0,2nd,C,France,2123.0,41.1107,1.0,2.0,no
+micdmvgdvvcibvimbxfewfeatdxngqchgcm,female,22.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+kadvvayodyoknrzhpovlwrjvxv,male,29.0,3rd,S,United States,7545.0,9.0908,0.0,0.0,no
+nlnbpujbeyseblopjiedxhsz,male,29.0,3rd,S,Sweden,347067.0,7.1506,0.0,0.0,no
+tilqidolijhpujgmxwl,male,22.0,3rd,S,Sweden,347065.0,7.1506,0.0,0.0,no
+eezmccgcpzptzoslshvqj,female,49.0,1st,S,United States,17465.0,25.1807,0.0,0.0,yes
+eivwqdcmqrvsvlccnyqpdau,male,5.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+fyldefdamoehusjnxub,female,3.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+ugssouqklsckjzqmebjukww,female,8.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+jnjweowodgnvkxtaawcdukqw,female,12.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+auwkjkginvrjdwmyuuwipezuqnav,female,40.0,3rd,S,,4133.0,25.0904,0.0,4.0,no
+hcrakndfayfpsmiutcdjx,female,17.0,2nd,C,Switzerland,1748.0,12.0,0.0,0.0,yes
+elmrfyvsrjmoyjfomshtxztrjp,male,32.0,3rd,S,Finland,3101292.0,7.1806,0.0,0.0,no
+fcbqmtuelsmsmblmiaxtefgamy,female,31.0,2nd,S,Scotland,248727.0,33.0,0.0,0.0,yes
+lepcskdrcyylishccjl,female,39.0,2nd,S,England,34260.0,10.1,0.0,0.0,yes
+japzljxycdoegqovkl,female,18.0,3rd,Q,Ireland,370371.0,15.1,1.0,0.0,no
+shykmknglpwzkbzur,male,20.0,3rd,Q,Ireland,370371.0,15.1,1.0,0.0,no
+cwtqoachysiuyeqahgo,female,27.0,1st,C,France,17761.0,106.0806,0.0,0.0,yes
+nzdcxnxixjdoorlcw,male,41.0,3rd,S,England,48871.0,24.03,0.0,0.0,no
+okgzzfagqzesiiiuiiknrwf,male,35.0,1st,C,,17755.0,512.0607,0.0,0.0,yes
+elfgupboemsvvxpcskvnaj,male,37.0,2nd,S,Canada,2163.0,12.1706,0.0,0.0,no
+aeagoeyuklxddedtge,male,30.0,1st,C,United States,17612.0,27.1405,0.0,0.0,no
+iofixqhsmvrwsrqamuiwqaeoaxdtfptfj,male,25.0,2nd,S,England,29566.0,10.1,0.0,0.0,no
+mimyranbrjytuxrrlemona,male,24.0,3rd,S,Belgium,345781.0,9.1,0.0,0.0,no
+kuvtwbdajbowautvwmyeiytlaxjpnszzhhaoh,female,25.0,3rd,S,Sweden,347071.0,7.1506,0.0,0.0,no
+towtjgnqkkehpfxpndwhoznofgzluvboj,female,45.0,3rd,S,England,347073.0,7.15,0.0,0.0,no
+nvwanncepffmjabenurmzxcwkfgrgki,male,42.0,1st,S,Sweden,17475.0,26.11,0.0,0.0,no
+lzivteoqcoflxwccgighemkibveof,male,36.0,3rd,S,Sweden,349910.0,15.11,1.0,0.0,no
+wxlejwmltqehoigpkroaeglv,female,30.0,3rd,S,Sweden,349910.0,15.11,1.0,0.0,no
+rlzirncsjqtlxhjlshncrseihlz,male,20.0,3rd,S,Finland,3101285.0,7.1806,1.0,0.0,yes
+umknxjkyqypvcueqwwdxaf,female,55.0,1st,C,Sweden,112377.0,27.1405,0.0,0.0,yes
+kxipchoudfashssmdfve,male,21.0,3rd,Q,Ireland,330971.0,7.1707,0.0,0.0,no
+tnrsnkxwiyoerpkhlwpmeacly,female,16.0,1st,C,France,17592.0,39.08,0.0,1.0,yes
+qhmktrkdhiunjbuylnibsbcvkeugj,female,50.0,1st,C,United States,17592.0,39.08,0.0,1.0,yes
+liyxsqrvmhnfyzjux,male,61.0,2nd,Q,Ireland,235509.0,12.07,0.0,0.0,no
+qtkevbhnczefv,male,28.0,3rd,S,,1601.0,56.0911,0.0,0.0,no
+akpyyxneregxdpttqtj,male,27.0,3rd,S,Austria,345775.0,9.1,0.0,0.0,no
+gifqwbpkxaosjhqzqm,male,25.0,3rd,S,Latvia,374887.0,7.05,0.0,0.0,no
+fvnedztqowshwoavona,female,34.0,3rd,S,England,3336.0,16.02,1.0,0.0,no
+djsvvbelwhncjxvkapkebngc,male,31.0,3rd,S,England,3336.0,16.02,1.0,0.0,no
+ebbvhexigritjdlkdbvycevnvs,male,19.0,3rd,S,England,1222.0,7.1707,0.0,0.0,no
+iypcwqkvxydcaixgubcsnfbpiavpa,female,21.0,1st,C,United States,13502.0,77.1902,0.0,0.0,yes
+cqaffipitlriggmnalsjpb,male,29.0,1st,S,United States,113501.0,30.0,0.0,0.0,no
+wiidjcnbcbhduexexsckudfuda,male,30.0,1st,S,United States,113801.0,45.1,0.0,0.0,no
+rogszpbzbjcypmtslm,male,50.0,2nd,S,England,3085.0,26.0,1.0,0.0,no
+igistneqpgjzmojuuzfcjelflp,female,43.0,2nd,S,England,3085.0,26.0,1.0,0.0,yes
+eemfnovwhalntqnifvicg,male,20.0,3rd,S,England,21173.0,7.05,0.0,0.0,no
+bsggxrucmjuhakalk,male,29.0,3rd,S,Croatia (Modern),315098.0,8.1303,0.0,0.0,yes
+ihajkxkgllxpmpkrifvjggsfrls,male,50.0,3rd,S,Sweden,347743.0,7.0101,0.0,0.0,no
+sifepjfmpgclqjjmeauqhhtg,female,23.0,3rd,S,United States,347469.0,7.1701,0.0,0.0,yes
+pjqvpkocpnwgxtfvlcmpcnjazu,male,32.0,3rd,S,Sweden,350403.0,7.1107,0.0,0.0,yes
+ntkelcyddevsfttucrffvafsgwzu,female,59.0,1st,C,France,17569.0,146.1005,0.0,0.0,yes
+pikqpziwmgutazzqqjvjhhbanvfddyih,male,30.0,3rd,C,Greece,2683.0,6.0809,0.0,0.0,no
+xrljdhonwjcnhztpumjeq,male,44.0,3rd,S,,349235.0,7.1711,0.0,0.0,no
+pujzwawnqfvgcbeysjzwfcneqm,male,20.0,3rd,S,Scotland,42795.0,7.11,0.0,0.0,no
+cnbaavgsdsuausv,female,57.0,2nd,S,England,3.0,10.1,0.0,0.0,no
+dsgtboqqezzbshjkwvoiemi,female,21.0,3rd,Q,Ireland,370370.0,7.15,0.0,0.0,yes
+wpibcybleqlxfdtawicfvgzzsnbbokeeg,female,16.0,1st,S,United States,24160.0,211.0609,0.0,1.0,yes
+slvyrkljajtccnfffairmedur,male,24.0,3rd,S,Norway,17369.0,7.021,0.0,0.0,yes
+qppgzxygwuswnbmorazzsjgtpkkdp,male,22.0,3rd,S,Finland,3101275.0,7.0206,0.0,0.0,no
+vymuywoiiyucuunecqisqhpb,male,30.0,1st,S,United States,110469.0,26.0,0.0,0.0,no
+mmrlucwyjlhxdaicmcoqiipzzl,female,20.0,3rd,Q,Ireland,330924.0,7.1707,0.0,0.0,no
+upfvtqffvskfxpywgjjgifrfxbgekryjnvco,female,20.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+mgpomvvbfcojelszuy,male,34.0,3rd,S,England,2816.0,8.01,0.0,0.0,no
+mppnzyfpitrokujyewyrhrvxk,male,29.0,3rd,S,Finland,3101268.0,7.1806,0.0,0.0,no
+sscyznljwobiislqjabsiykx,male,25.0,2nd,C,France,237735.0,15.0,0.0,0.0,no
+akmwhxlszrjxykkohzevdjqdifmds,male,1.0,2nd,C,France,2079.0,37.0,0.0,2.0,yes
+xvyqkmdmpojpqbbxbsjxkrjatetqvjg,male,45.0,2nd,C,France,2079.0,37.0,1.0,1.0,no
+gdfqdfiyzntsaiuukxmjwsybyub,female,24.0,2nd,C,France,2079.0,37.0,1.0,1.0,yes
+dntlpehzbkakfjdddkshjsy,male,18.0,3rd,C,Lebanon,2677.0,7.0407,0.0,0.0,yes
+sntnxvnafnttrhidwq,female,32.0,3rd,Q,Ireland,364850.0,7.15,0.0,0.0,no
+eqtrvawjdczxsjbxtqaxgecitwfdsbfiw,male,30.0,2nd,C,United States,32861.0,15.1107,0.0,0.0,no
+rossjabtnjybnrwwbudvrzq,female,28.0,3rd,Q,Ireland,36866.0,7.1409,0.0,0.0,yes
+lkbiwhrnijaiqfarixcsmdl,male,25.0,3rd,C,Turkey,2655.0,7.0407,0.0,0.0,no
+naaalsosljbpcnfmefzr,male,29.0,1st,C,France,11774.0,29.14,0.0,0.0,yes
+gfuuvtgeziybvbxtrio,male,23.0,3rd,S,Yugoslavia,349238.0,7.1711,0.0,0.0,no
+xptmmaiuccxzkseaon,male,35.0,3rd,S,Bulgaria,349213.0,7.1711,0.0,0.0,no
+clqrrdvmtbyllqfblt,male,33.0,3rd,C,Slovenia,349257.0,7.1711,0.0,0.0,no
+pjnnjymtbfhgedltdzmygziie,male,18.0,1st,S,United States,113773.0,53.02,1.0,0.0,no
+mdxiyrldfobeqainjzpnhgxqmzttwedacsy,female,18.0,1st,S,Scotland,113773.0,53.02,1.0,0.0,yes
+yiktojsypngythmluqpa,male,30.0,3rd,C,Bulgaria,349255.0,7.1711,0.0,0.0,no
+qkateeocnrofbaeyrxazhqqwmi,male,23.0,2nd,S,England,28228.0,13.0,0.0,0.0,no
+jjcsysiuohxurjtbngfhnvrbf,male,36.0,2nd,S,England,239059.0,16.0,0.0,0.0,no
+cqgnycvbmphbqsadvgnipglyjvii,female,24.0,1st,C,Belgium,17482.0,49.1001,0.0,0.0,yes
+jljaqtyjwwifszdvherdhkjrxxuw,male,46.0,1st,S,Canada,13050.0,75.041,0.0,0.0,no
+guyfnqpfixfjlprrkiubhfzxd,female,25.0,3rd,Q,Ireland,383123.0,7.15,0.0,0.0,yes
+yajmvsmvpxdezinaqzqthmht,male,55.0,1st,S,United States,17463.0,51.1703,0.0,0.0,no
+aqmwqbeppgtdezyhjdgielolcakt,male,19.0,3rd,Q,United States,367228.0,7.15,0.0,0.0,yes
+iuckgcdvsxwwtlutme,female,29.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+oyhdscsiiyqexdfeae,female,26.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+tlgkcbyolgvecojhkd,male,24.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+fdtiatphhjkhwppmcwijudiei,male,32.0,2nd,S,Australia,237216.0,13.1,0.0,0.0,no
+kbcoldtblworwyozclaaqllxq,male,32.0,2nd,S,Canada,233478.0,13.0,0.0,0.0,no
+bygazzebdgqwbqnhfehaaunrvybzbt,female,31.0,3rd,Q,Ireland,330932.0,7.1508,0.0,0.0,yes
+tfovdjowlihncgqwhdv,male,20.0,3rd,Q,Ireland,36568.0,15.1,0.0,0.0,no
+viyaouvwhpcqlvbmvufqczkaj,male,35.0,1st,S,Ireland,17473.0,26.0509,0.0,0.0,yes
+ycflzjazzjyupyzzxn,female,22.0,3rd,Q,Ireland,330931.0,7.1707,0.0,0.0,yes
+orthmqofjnjkfrflqsrldtvhxw,female,17.0,3rd,Q,United States,330923.0,8.0,0.0,0.0,yes
+spjgdsjupnoqzpwfxkxgvdhu,female,42.0,3rd,Q,Ireland,9232.0,7.15,0.0,0.0,no
+tdhicxhnzzzbfjtkpotqrxms,male,46.0,2nd,S,Channel Islands,28403.0,26.0,0.0,0.0,no
+bschukqontqqldqoejj,male,19.0,3rd,Q,Ireland,370372.0,7.15,0.0,0.0,no
+umnhveolsfhemsojh,male,27.0,3rd,S,England,376566.0,16.02,1.0,0.0,no
+mmtkvhivzshebisxaltr,female,19.0,3rd,S,England,376566.0,16.02,1.0,0.0,no
+nurinpiqsjjfmdzqxwfsat,female,32.0,3rd,Q,Ireland,370368.0,7.15,0.0,0.0,no
+iepyxygaqrlpemubsbgqw,female,62.0,3rd,S,England,392087.0,8.01,0.0,0.0,no
+vsmscwoxtozuillg,male,22.0,3rd,Q,Ireland,3130.0,7.15,0.0,0.0,no
+nbwzdfqtspbhdfiwecklvpw,female,32.0,3rd,S,England,343095.0,8.01,0.0,0.0,no
+nmyzpbxokacgjedqbtvlxsjjdpdbahwy,female,13.0,2nd,S,England,250644.0,19.1,0.0,1.0,yes
+ecjpliuebfyhcnylakywcbsybhctpe,female,42.0,2nd,S,England,250644.0,19.1,0.0,1.0,yes
+kmrkggaftpalboajzniznjcig,male,19.0,2nd,S,England,751.0,10.1,0.0,0.0,yes
+unxcnuqhbgbkoaldcrbsvfjbdy,male,48.0,3rd,S,Italy,11206.0,8.01,0.0,0.0,no
+lewtsvabuwgvppbsopz,male,28.0,3rd,Q,Ireland,368703.0,7.15,0.0,0.0,no
+jatfqvdtkwnogmnvy,male,31.0,2nd,S,England,248723.0,13.0,0.0,0.0,no
+ypjevyoowznueilrofgpbex,male,28.0,1st,C,United States,17604.0,82.0305,1.0,0.0,no
+nbhxflvntmgwrfscb,female,25.0,1st,C,United States,17604.0,82.0305,1.0,0.0,yes
+khqqlshktfddoemznzanhgyl,male,21.0,3rd,S,Norway,345501.0,7.1506,0.0,0.0,yes
+ddfkepfdteotorvryazb,male,28.0,3rd,S,Bulgaria,349207.0,7.1711,0.0,0.0,no
+lhmgbwqmrvajsdab,male,23.0,3rd,S,England,359306.0,8.01,0.0,0.0,no
+dnxucrcammqluepagjuhgxbcx,male,65.0,1st,C,United States,13509.0,26.11,0.0,0.0,no
+udtlcrkbqyegjsyskhfcjnxecdxf,male,48.0,2nd,S,Denmark,234360.0,13.0,0.0,0.0,no
+bsnzfwonklavhswopjswlendscf,male,44.0,1st,Q,United States,19928.0,90.0,2.0,0.0,no
+bcsjqpdfiwynabkdvklwrud,female,33.0,1st,Q,United States,19928.0,90.0,1.0,0.0,yes
+suocanybnpsmrpqisjnhucbj,female,37.0,1st,Q,United States,19928.0,90.0,1.0,0.0,yes
+wjwcnueqbuooxhrf,male,24.0,3rd,S,,349233.0,7.1711,0.0,0.0,no
+ilskphahptdnzmfysq,male,21.0,3rd,S,Bulgaria,349211.0,7.1711,0.0,0.0,no
+bandjaxulqccqfdxxxjgfuwnvpz,male,72.0,2nd,S,England,24580.0,10.1,0.0,0.0,no
+iffptpwspfvzcnuei,male,23.0,3rd,S,,349221.0,7.1711,0.0,0.0,no
+elagyvkfzdoeohrahkpjxpkqd,female,23.0,3rd,Q,Ireland,330980.0,7.1707,0.0,0.0,yes
+domjnlgjhciyjfqfpbcqgrpk,male,30.0,1st,C,United States,13236.0,57.15,1.0,0.0,yes
+qcapvrpjuvbsiuldmyjslqn,male,27.0,3rd,S,Norway,348123.0,7.13,0.0,0.0,no
+ktdfastgdensyhfcymhoaepgve,male,55.0,1st,S,Canada,113787.0,30.1,0.0,0.0,no
+pigpdcokhadddbsmgxwz,male,27.0,2nd,S,England,211536.0,13.0,0.0,0.0,no
+wxpfdffhyrewwdxaeusolbwkzljmva,male,47.0,1st,S,United States,113796.0,42.08,0.0,0.0,no
+ehfxltctggcsxkvkfbhgkuensz,male,19.0,3rd,S,England,54510.0,8.01,0.0,0.0,no
+glflbjetaeqcwlsurup,male,7.0,3rd,S,,392096.0,12.0906,0.0,1.0,yes
+itkmjymnawktnfkr,female,29.0,3rd,S,,392096.0,12.0906,0.0,1.0,yes
+hckiakbpqdsakjwugxad,female,28.0,3rd,Q,Ireland,371110.0,24.03,1.0,0.0,yes
+umncxqkclmdhvcskqkae,male,28.0,3rd,Q,Ireland,371110.0,24.03,1.0,0.0,no
+wrdqtyxgdscdpecqtolh,male,54.0,2nd,S,United States,29011.0,14.0,0.0,0.0,no
+wdcmslzwdexwkvjwoqydolxy,male,38.0,2nd,S,England,250655.0,26.0,0.0,0.0,no
+epalhlipppbbespdqcq,male,34.0,3rd,S,England,364506.0,8.01,0.0,0.0,no
+zyxlqpaticftjxbzbnfvxonm,male,30.0,3rd,Q,Ireland,372622.0,7.15,0.0,0.0,no
+uljcnlmlpuldwmgcpdtbca,male,29.0,3rd,S,Norway,312991.0,7.1506,0.0,0.0,yes
+qcsjhiunehxphwronawvrcamwdmu,female,35.0,3rd,C,Lebanon,2626.0,7.0407,0.0,0.0,yes
+sfrijohgawnptgqsfakbvrmv,male,28.0,3rd,S,England,374746.0,8.01,0.0,0.0,no
+sublesvqxwvzdzxlfnlcin,male,4.0,3rd,C,Lebanon,2661.0,15.0411,1.0,1.0,yes
+zfheitmjitlbzvbraoxuovv,male,7.0,3rd,C,Lebanon,2661.0,15.0411,1.0,1.0,yes
+iuluvgyhfdukupmqkthm,female,25.0,3rd,C,Lebanon,2661.0,15.0411,0.0,2.0,yes
+nysajystiipzbnrccvtsrqm,male,17.0,2nd,S,England,3.0,10.1,0.0,0.0,no
+pmtmsmmhclvcafhfbqueimf,female,21.0,3rd,Q,Ireland,35852.0,7.1408,0.0,0.0,yes
+kaingprahiptmpptlfzzcigswesglmgpxo,female,25.0,3rd,Q,Ireland,382653.0,7.15,0.0,0.0,yes
+qxxjwutzwqjgobeyjwz,male,22.0,3rd,S,England,3235.0,8.01,0.0,0.0,no
+yyaotnsobbjfozqxnicafex,female,18.0,3rd,Q,Ireland,367230.0,15.1,1.0,0.0,yes
+fnoiwibgbgdwclpjrrsriwmjzqw,female,25.0,3rd,Q,Ireland,367230.0,15.1,1.0,0.0,yes
+pqweyrdvpwjxcrptdc,female,31.0,3rd,Q,Ireland,36568.0,15.1,0.0,0.0,yes
+rmnpwjnambwngrzqrjvxbpeynaikrpuf,female,22.0,3rd,C,Lebanon,2649.0,7.0406,0.0,0.0,yes
+fmlniafcviunlxwawxbhogoedycwqowapgtlbtm,male,18.0,3rd,S,Sweden,347078.0,7.15,0.0,0.0,no
+gwwkeaipqqkizmwkzgwvpxsjc,male,63.0,2nd,Q,Ireland,240276.0,9.1309,0.0,0.0,no
+wjhdbvqsubxqspondqxo,male,22.0,3rd,S,Bulgaria,349206.0,7.1711,0.0,0.0,no
+liaaldasgvwfkpwhakyreaaoz,female,15.0,3rd,C,Lebanon,2667.0,7.0406,0.0,0.0,yes
+wdcyuncukkisbknzue,male,17.0,3rd,C,Lebanon,2641.0,7.0407,0.0,0.0,no
+oynxbaftbvhmlfcakx,female,1.0,3rd,C,Lebanon,2653.0,15.141,0.0,2.0,yes
+dkqskjgbbwffjpyu,male,21.0,3rd,C,Lebanon,2653.0,15.141,1.0,1.0,yes
+qtvnwvyaprgkmgkrp,female,19.0,3rd,C,Lebanon,2653.0,15.141,1.0,1.0,yes
+dwtkdcqitrhyqivrqttfxanupgmw,male,36.0,3rd,S,England,3338.0,8.01,0.0,0.0,no
+sgvghpjypkhdvxwyrt,male,32.0,3rd,S,,349218.0,7.1711,0.0,0.0,no
+xjkaugnsltrtwgexgaqiaai,male,20.0,3rd,C,Lebanon,2652.0,7.0407,0.0,0.0,no
+feiwnndicxrbgkwozzgm,male,28.0,2nd,C,United States,237736.0,30.0105,1.0,0.0,no
+ebpenrqiqwvhtjqwbw,female,14.0,2nd,C,Lebanon,237736.0,30.0105,1.0,0.0,yes
+npwrzmqmkgvfdybicwcgp,male,20.0,3rd,C,Lebanon,2676.0,7.0406,0.0,0.0,no
+gfuifektoujkkzquomt,male,36.0,1st,C,United States,17596.0,29.14,0.0,1.0,no
+ypmdegutcjplemmoraoyhd,female,21.0,3rd,Q,Ireland,365237.0,7.15,0.0,0.0,no
+pxztoyfhlivceozqgmxshtjbpzrnwt,male,2.0,2nd,S,France,230080.0,26.0,1.0,1.0,yes
+lixmdwniisapvsfzyrxppatseqbrgst,male,3.0,2nd,S,France,230080.0,26.0,1.0,1.0,yes
+wtrumnwavlvhlefttqwt,male,32.0,2nd,S,Slovakia (Modern day),230080.0,26.0,0.0,2.0,no
+oevofocxzthxyffebj,male,22.0,3rd,S,,349234.0,7.1711,0.0,0.0,no
+aitmshddajpdxzxaqi,male,26.0,2nd,S,England,244368.0,13.0,0.0,0.0,no
+qyuyznpwahzibakkvlltfrw,female,31.0,1st,C,United States,35273.0,113.0506,1.0,0.0,yes
+hdigimsbtwjkuqlgachtxqmijrb,female,23.0,1st,C,United States,35273.0,113.0506,1.0,0.0,yes
+kcktqgeoyqcpipeevoplncfzdb,male,58.0,1st,C,United States,35273.0,113.0506,0.0,2.0,no
+rddslufwinezpbcwkyysvuffemgk,female,19.0,1st,S,United States,11752.0,26.0508,0.0,2.0,yes
+nvychyasgjavcfoypoksjfxdadae,male,19.0,2nd,S,England,33112.0,36.15,1.0,1.0,no
+nvwwfeziwkpsnzevrrecbltopyvj,male,60.0,1st,S,England,693.0,26.0,0.0,0.0,no
+ustnjoswxjegqtkwlrlhaqsgpohoqs,female,29.0,3rd,S,Finland,3101297.0,7.1806,0.0,0.0,no
+cgrclpssovlhbkwrwhrkt,male,28.0,3rd,S,Sweden,363611.0,8.01,0.0,0.0,no
+hchxozayomwcyytxnorhfvaqsix,female,18.0,3rd,S,Sweden,347066.0,7.1506,0.0,0.0,yes
+ccmwhwptsmvbyvvapmmooyfwdipwwsq,female,26.0,3rd,S,Sweden,347470.0,7.1701,0.0,0.0,yes
+ykswntbfmzidigkjavlkttysrxrnm,male,21.0,3rd,S,Sweden,350410.0,7.1701,0.0,0.0,no
+rlbbeedmnqixnqogfiusaqmwnja,male,11.0,3rd,C,Lebanon,2651.0,11.041,1.0,0.0,yes
+irznixccxlfbczoapmminwvjivx,female,14.0,3rd,C,Lebanon,2651.0,11.041,1.0,0.0,yes
+zusfdcniitxjylsgyglykggsrjztll,male,41.0,3rd,S,Finland,3101272.0,7.0206,0.0,0.0,no
+rgeatlzepytwajreib,male,39.0,3rd,S,United States,3101289.0,7.1806,0.0,0.0,yes
+zdwznuwczwmleeacndu,male,20.0,3rd,C,Lebanon,2697.0,7.0407,0.0,0.0,no
+andvdhilivlrhhfwsnfjlrssos,male,27.0,2nd,S,Scotland,218629.0,13.1,0.0,0.0,no
+rbvhtaxvhaanynqcsjzjdnqtrxrh,male,21.0,3rd,S,England,39886.0,7.16,0.0,0.0,no
+jnibbjfbcyfwviwcukm,male,20.0,1st,C,Germany,2166.0,13.1703,0.0,0.0,yes
+jpzijgpnmtqwslamsja,female,29.0,2nd,S,United States,29395.0,10.1,0.0,0.0,yes
+vronymwbscnfisaosiclehtq,female,22.0,3rd,S,Sweden,347081.0,7.15,0.0,0.0,yes
+sjcijdkkycrbmdaypixpekpsp,male,60.0,3rd,S,Norway,345364.0,6.0409,0.0,0.0,no
+voriavfnqsokwnchjq,male,21.0,3rd,Q,Ireland,330979.0,7.1607,0.0,0.0,no
+xhupgvhxrlkuywzieobqo,female,26.0,3rd,Q,Ireland,370365.0,15.1,1.0,0.0,yes
+ydyurlitpkunuwzikdm,male,27.0,3rd,Q,Ireland,370365.0,15.1,1.0,0.0,no
+iojqfrretrgijyhfxcdhxylevxee,male,18.0,3rd,Q,Ireland,334912.0,7.1408,0.0,0.0,no
+cbqpgruwctfaoxlulmzzv,male,17.0,3rd,Q,Ireland,371060.0,7.15,0.0,0.0,no
+dwxuwqjudecortwqrumxj,male,23.0,3rd,Q,Ireland,366713.0,7.15,0.0,0.0,no
+wdrwaeafnuhrgzjvlkqjvk,male,23.0,3rd,S,Sweden,7267.0,9.0406,0.0,0.0,no
+moiokxwftvsfhsonxzgy,female,24.0,3rd,Q,Ireland,330959.0,7.1707,0.0,0.0,yes
+kwyjngxvxqcvzmqxjx,female,22.0,3rd,S,Sweden,347085.0,7.1506,0.0,0.0,yes
+avnuimithvpckavrlsyc,male,21.0,3rd,Q,Ireland,368402.0,7.15,0.0,0.0,yes
+suddaiszlyyqeincfefnk,female,16.0,3rd,Q,Ireland,330919.0,7.1607,0.0,0.0,yes
+csuilqwznvikqlzgrjvvsyqstvdq,female,39.0,1st,C,Spain,17758.0,108.18,0.0,0.0,yes
+leyqobebvdskcgdmyrbhfqdwr,male,9.0,3rd,S,Norway,17368.0,3.0305,0.0,1.0,yes
+xwemxbettvvckqrzmhzjzadq,male,28.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+ldednnhrrbwgxcidqwvsntoxzajeaqpt,male,42.0,3rd,S,United States,4579.0,8.0801,0.0,1.0,no
+emdqgxpftntxgtwvvwscd,male,27.0,3rd,S,Norway,265302.0,7.0603,0.0,0.0,no
+tsvhptnvegihtojcdic,female,31.0,3rd,S,Sweden,350407.0,7.1701,0.0,0.0,no
+unhgzpthmietpnkhlkyqxtzcrbzchcss,male,28.0,3rd,S,Sweden,347464.0,7.1701,0.0,0.0,no
+scilwymwjhuxqgrowrnprkbuv,male,32.0,3rd,S,Sweden,347079.0,7.1506,0.0,0.0,yes
+hhyrdoondkfxmygvtvtzelszryk,male,20.0,3rd,S,Norway,6563.0,9.0406,0.0,0.0,no
+zfvubhesyvvzgwllbbmxjynkh,male,29.0,1st,C,France,12998.0,25.141,0.0,0.0,yes
+qdapemqlughczknbwktsdi,female,23.0,3rd,S,Croatia,315085.0,8.1303,0.0,0.0,no
+kxyowbytqrrslfyszrcvtkr,female,20.0,3rd,S,Croatia,315096.0,8.1303,0.0,0.0,no
+wujwwfsrdhjuxsxdhia,male,20.0,3rd,S,Croatia,315094.0,8.1303,0.0,0.0,no
+xokheaiywqhvdtryjgg,male,16.0,3rd,S,Sweden,7534.0,9.0404,0.0,0.0,no
+ylmmwyotteeohiaqihzckguizxx,female,22.0,1st,S,United States,113509.0,61.1907,0.0,1.0,yes
+psrdfexnhccszwymzhoriibxuvmgao,male,64.0,1st,S,United States,113509.0,61.1907,0.0,1.0,no
+mumhlimjxzfahrhcavapfzakktstzk,female,21.0,3rd,Q,Ireland,330909.0,7.1207,0.0,0.0,no
+jikiuabrylbbgqtctg,male,38.0,2nd,S,United States,28213.0,13.0,0.0,0.0,no
+npgktxjljjzsnmgddpxhorgewpirfycpackgbxsjyyfstea,male,36.0,1st,C,Cuba,17562.0,27.1405,0.0,0.0,no
+baztfwjsqjxjgexrxspjmaauc,male,22.0,2nd,S,England,14260.0,10.1,0.0,0.0,yes
+kaofqtzwdqfysyumoncpedjpw,male,27.0,2nd,C,Spain,2146.0,13.1703,0.0,0.0,yes
+ybyfyzicobvohviz,male,23.0,2nd,S,Canada,244278.0,10.1,0.0,0.0,no
+dkrclwcnoncsgbmwitcdgbbpmbux,male,29.0,2nd,C,Spain,2147.0,13.1702,0.0,0.0,yes
+mkrenuwyiracxatlwuhebdbznqmwdc,male,2.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+gqxwcruqbwqfowigztqbrpatacx,male,6.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+ilgymitetjunttykatcajjobbj,female,3.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+pirhfxtwywgixafkiqyhhhjnzqldd,female,8.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+cfvaapffuwgnsqqwjrrlnphabqa,female,29.0,3rd,S,Sweden,349909.0,21.0106,0.0,4.0,no
+tjoavxrcnqtwurziaxfrfsxbdon,male,1.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+vfnufvwikyfehlzmfztsjudqlayq,male,15.0,3rd,S,United States,3101295.0,39.1309,4.0,1.0,no
+hkwgfausylztbftqoatvxvlkgl,male,7.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+kaeqfluocczwqytvsityseynhxbj,male,2.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+vczdfdczcidekybptbozecrzs,male,16.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+pcrbivfgesklfdqfbdcirsqyqfxipndopmwaqldk,female,41.0,3rd,S,Finland,3101295.0,39.1309,0.0,5.0,no
+crjukvwxmhkfcwdtkvqtltvuskns,male,17.0,2nd,S,Channel Islands,14888.0,10.1,0.0,0.0,no
+iimczajptjspiixxynj,male,21.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+ydapjtfhjsibouwaukrsdlwlq,female,59.0,2nd,S,United States,230433.0,26.0,0.0,1.0,yes
+yiibqhtbirsfxwxupeoahgbwrjyur,male,30.0,1st,B,England,112052.0,,0.0,0.0,no
+haonkidenqcgygbtpuw,male,40.0,1st,S,England,113043.0,28.1,0.0,0.0,no
+psckzwasjsvhzhhb,male,21.0,3rd,S,Slovenia,315097.0,8.1303,0.0,0.0,no
+bgeztvjkotpjkrxmpxwe,male,20.0,3rd,S,England,358585.0,14.1,0.0,0.0,no
+sstzypvadcpfnawripf,male,32.0,3rd,S,Croatia,349242.0,7.1711,0.0,0.0,no
+gufurxkyszfthgpwyvpdyotoyh,male,23.0,1st,S,Canada,12749.0,93.1,0.0,0.0,no
+iirhgeachywvzvypzmnmwisxlvgszy,male,0.5833333333,3rd,S,England,3101315.0,13.1506,1.0,1.0,no
+vpzfqcupxzgjqwwjpumtzvfxk,female,4.0,3rd,S,England,3101315.0,13.1506,1.0,1.0,no
+eqnxanpstgxpnuswdpi,female,26.0,3rd,S,England,3101315.0,13.1506,0.0,2.0,no
+rdmipqdagtrovjytwf,male,32.0,3rd,S,England,343271.0,7.0,0.0,0.0,no
+vjnxlkhjptdxcgjis,female,22.0,1st,S,England,113776.0,66.12,1.0,0.0,yes
+rhgtmcemraismozyyuxvfelge,male,29.0,1st,S,England,113776.0,66.12,1.0,0.0,no
+srbxmoysqdhetqkmve,male,28.0,3rd,S,Norway,345498.0,7.1506,0.0,0.0,no
+xebdufywcuacgljuglmor,male,24.0,3rd,S,England,2817.0,8.01,0.0,0.0,no
+jfawdnmwaqlhfgzvdjtth,male,21.0,3rd,S,Finland,3101294.0,7.1806,0.0,0.0,no
+slzawtxexsnmnmwortguifbilirareg,male,25.0,3rd,S,Finland,3101291.0,7.1806,0.0,0.0,no
+eesqnwthscnzcqaxtnxlpbiviysnahflsvjipzuphesabtkwaprwcfvzaraxsa,female,22.0,1st,C,Spain,17758.0,108.18,1.0,0.0,yes
+tctzdfzfujgntbaxnqluxyzsmlshpchm,male,24.0,1st,C,Spain,17758.0,108.18,1.0,0.0,no
+dqlvlyompzhsszskhlgqprwpfwsrmnm,male,19.0,2nd,S,England,28665.0,10.1,0.0,0.0,no
+vkrlkcygsyrvvvbpytrnaa,male,24.0,3rd,S,England,21174.0,7.05,0.0,0.0,no
+xojywevaplxdkvab,male,39.0,2nd,C,France,2131.0,15.01,0.0,0.0,no
+xsfxeidmjozukeliqsloiexykv,female,33.0,1st,S,Canada,12749.0,93.1,0.0,0.0,yes
+dxkzzriwijgcbhqrwtwzzgsa,male,25.0,3rd,S,Sweden,347083.0,7.1506,1.0,0.0,yes
+iupdxvuklfpptyrjiimhv,male,41.0,2nd,S,Germany,237393.0,13.0,0.0,0.0,no
+faqyekrmzvrilfeofgucuwmqj,female,28.0,3rd,S,Croatia,349245.0,7.1711,0.0,0.0,no
+seygjwwubmfjweccykwcvampsajnaisitz,male,4.0,3rd,C,Lebanon,2668.0,22.0702,1.0,1.0,yes
+enakxggfmmvasrrxbyhvndlmif,female,2.0,3rd,C,Lebanon,2668.0,22.0702,1.0,1.0,yes
+iknpksgzxmugiwmtmryl,male,24.0,3rd,S,England,342441.0,8.01,0.0,0.0,no
+bnyubjxnbzayyjbcuxrmpnr,female,28.0,3rd,Q,Ireland,330935.0,8.0209,0.0,0.0,no
+ccjvytaoonoxxocijuxvb,male,19.0,3rd,S,Bulgaria,349212.0,7.1711,0.0,0.0,no
+nvznduawaswmdpuracxq,male,29.0,3rd,S,Bulgaria,349215.0,7.1711,0.0,0.0,no
+xwwvtrsruitpsreiinnzhjcegsgzao,female,18.0,3rd,S,Sweden,347087.0,7.1506,0.0,0.0,no
+tarhulilvkanujdznfgzzqefei,male,25.0,3rd,S,Sweden,347076.0,7.1506,1.0,0.0,no
+oqhcqbtyaoqqyliybydkwrclfdqbnw,male,52.0,1st,S,Canada,113786.0,30.1,0.0,0.0,yes
+szqjzfjwsoemxqbkxgjhbxgxvyvnrdwtngff,female,21.0,2nd,S,England,2.0,21.0,0.0,1.0,yes
+tsvsitroqgdbllesmhqejelpzxkyx,female,19.0,2nd,S,England,250655.0,26.0,0.0,0.0,yes
+nnjwqegtvfhqkxcgpccjadugggs,male,43.0,2nd,S,England,2.0,21.0,0.0,1.0,no
+nnxwarbrrlujqpmthr,male,33.0,3rd,S,Poland,392078.0,8.01,0.0,0.0,yes
+dfmnxskikqsymrxnm,female,32.0,2nd,S,Poland,234604.0,13.0,0.0,0.0,yes
+wbbrtrxbwmlhuaccqfhyzz,male,27.0,3rd,S,,349227.0,7.1711,0.0,0.0,no
+fhdjzndlmewhxiwpb,male,17.0,3rd,S,Croatia,315095.0,8.1303,0.0,0.0,no
+boiygrucrriyizekw,male,24.0,3rd,S,Croatia,315092.0,8.1303,0.0,0.0,no
+jotgkmgygtmypemiapti,male,24.0,2nd,S,England,250647.0,13.0,0.0,0.0,no
+sllkjgrovweijoximfsbksxuzxeiduemkjmouo,male,30.0,2nd,C,United States,34644.0,12.1409,0.0,0.0,yes
+nrvgpkvtjzsjscneldxuzkihwebioe,male,46.0,1st,S,United States,110465.0,52.0,0.0,0.0,no
+johqstaylclsojzwnjcozounka,female,56.0,1st,C,United States,11767.0,83.0302,0.0,1.0,yes
+cosuqsktzqdlqxzptv,male,27.0,2nd,C,United States,2168.0,15.0,0.0,0.0,no
+itqivsycooyjaudwbu,male,16.0,3rd,C,,3411.0,8.1403,0.0,0.0,no
+butdbtuibtfxsqbstzkihwhb,female,2.0,2nd,S,,26360.0,26.0,1.0,1.0,yes
+jucghyqrowuelgfsdstdhbqfbs,female,8.0,2nd,S,,26360.0,26.0,1.0,1.0,yes
+xcrtgpphtbysjxnh,female,33.0,2nd,S,,26360.0,26.0,0.0,2.0,yes
+jgtoqzkcheqsderyatjxr,male,27.0,3rd,S,,349223.0,7.1711,0.0,0.0,no
+gnoffvrqbvuscwscgjqhujr,male,21.0,3rd,C,Lebanon,2679.0,7.0406,0.0,0.0,no
+oxxxsrfphlpnmbzdwjjqfvgtdmtlp,female,63.0,3rd,S,Norway,65305.0,8.0203,0.0,0.0,no
+svkcqpjalazsceul,male,30.0,3rd,C,Lebanon,2629.0,7.0407,0.0,0.0,no
+lxubejalviwelellebbrsj,male,18.0,3rd,S,Wales,362316.0,7.05,0.0,0.0,no
+stuzdsfrjbakewhgo,male,36.0,2nd,S,England,17248.0,10.1,0.0,0.0,no
+pzoidopkuqekjdp,male,38.0,3rd,S,Bosnia,349249.0,7.1711,0.0,0.0,no
+arpetbilubihgssntafvpne,male,33.0,2nd,S,Channel Islands,31027.0,21.0,1.0,0.0,no
+zurvnvqvccezicrtjxpm,female,30.0,2nd,S,Channel Islands,31027.0,21.0,3.0,0.0,yes
+yociltwthaysyhhdkycobussgkukdyhwoek,male,37.0,1st,C,Netherlands,19972.0,,0.0,0.0,no
+lwtidhvfscgwfqkfletzuwhkvf,female,29.0,2nd,S,Spain,230434.0,13.0,0.0,0.0,yes
+jdroawgtuwvwrqvbnbyt,male,21.0,3rd,S,England,342684.0,8.01,0.0,0.0,no
+ldgibefljavfgwbdxfkzyoomdhjpfhgnrwr,male,33.0,1st,C,United States,17607.0,39.12,0.0,0.0,yes
+yhvbmgvjoucearbumhyz,male,10.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+yczxnghkwraaxnxbcaon,male,4.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+hvnrcuoxxdjceoxseq,male,7.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+noongwkjxnastsranhwfgfzvbpuk,male,2.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+esvddimochizgtmfiovthucvo,male,8.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+hvtvquziostwrdwbkat,female,39.0,3rd,Q,Ireland,382652.0,29.0206,0.0,5.0,no
+sdbobzkbvvlfmzsbxthtjfvtmeav,male,23.0,2nd,C,,2133.0,15.0,0.0,0.0,no
+egnyjxlmzbdohxmgvlkmetjghzeetwr,male,0.75,2nd,S,England,29106.0,18.15,1.0,1.0,yes
+dlahtzmwdmnlxpvlrcjgndlvfgnicf,male,3.0,2nd,S,England,29106.0,18.15,1.0,1.0,yes
+vruqopawsuqjowmkomxc,female,24.0,2nd,S,England,29106.0,18.15,2.0,3.0,yes
+oigqlbrwweccmopbyeok,female,58.0,2nd,S,England,14258.0,10.1,0.0,0.0,yes
+ibtuwlhnwnjkdrclvt,male,22.0,1st,C,,17760.0,135.1208,0.0,0.0,no
+ttgtuwminbhjqoltixtoohbztbxwnuiojfrc,female,22.0,3rd,S,Finland,3101295.0,39.1309,0.0,0.0,no
+kwsmcvgrinbiebdemrpt,male,35.0,3rd,S,Finland,3101273.0,7.0206,0.0,0.0,no
+gniggvkajonlglqgwrafd,female,22.0,3rd,Q,Ireland,334915.0,7.1405,0.0,0.0,yes
+tyknekeiywizxgxkbvuqvqfc,male,69.0,3rd,S,England,364498.0,14.1,0.0,0.0,no
+ncznlijcowtbztbfcfvvet,female,64.0,3rd,S,England,364498.0,14.1,0.0,0.0,no
+mrspllhzeuzmotizpyvmjwmhxgpea,female,43.0,1st,S,United States,24160.0,211.0609,0.0,1.0,yes
+fxklwbtiptccrxspvqcghccb,male,50.0,3rd,S,England,3337.0,14.1,1.0,0.0,no
+ztobjqbeipgpjzmcdjnk,female,48.0,3rd,S,England,3337.0,14.1,1.0,0.0,no
+rpzilvzuwbafbewzdq,male,45.0,1st,C,England,17757.0,247.1006,0.0,0.0,no
+raqonxwwilycyrzacsmuomdwoogseuoxngnv,male,31.0,1st,S,United States,17590.0,50.0911,0.0,0.0,no
+wivdwdaqyydlwjmrjpespoybhd,male,18.0,2nd,S,England,28004.0,10.1,0.0,0.0,no
+igpugckzfrtyeposyddattnu,male,30.0,3rd,S,Wales,23567.0,8.01,0.0,0.0,no
+kdlwluxloxgpecdixikejkbfakxp,male,45.0,1st,S,United States,111428.0,26.11,0.0,0.0,yes
+meanawfrfdftqfzgpjzojxztwz,male,49.0,3rd,S,Norway,312993.0,7.1506,0.0,0.0,no
+iwncxljmpwsqkpdeskqhz,male,39.0,1st,S,United States,113767.0,50.0,0.0,0.0,no
+alexgiapxiiafxnqmcyjcmcmsfp,female,2.0,3rd,S,Finland,370129.0,20.0403,1.0,1.0,no
+rfvjsunltyryglndnfryvlwgtmdrngv,female,41.0,3rd,S,Finland,370129.0,20.0403,0.0,2.0,no
+iohnsjgtpckevajcdwhydhojzxq,male,18.0,3rd,S,Finland,370129.0,20.0403,1.0,1.0,no
+zmlmstbzugdcmosrhqespjkmhayfe,female,33.0,1st,C,France,17613.0,27.1405,0.0,0.0,yes
+znndicxjkpqjyfauvxyupu,male,46.0,1st,C,United States,17585.0,79.0,0.0,0.0,no
+mzvrlrmgpmwcceuedmz,male,36.0,1st,S,Canada,13049.0,40.0206,0.0,0.0,no
+rwhkraluccumpgbpfxxcglthowlnjoojuqwzc,female,33.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+qnzcolgmhtbjyvmpu,female,26.0,3rd,S,Austria,342712.0,8.01,0.0,0.0,yes
+lgrmzghydirnshaebbjhjt,male,46.0,1st,C,United States,17603.0,59.08,1.0,0.0,no
+iwysguhfbilpifvbfzsjohdncjfrxxoeqiuy,female,54.0,1st,C,United States,17603.0,59.08,1.0,0.0,yes
+hkerovvcbymrmnxfzifkxmup,male,55.0,3rd,S,England,3594.0,8.01,0.0,0.0,no
+pnzgkkrtwtbzeocixox,male,59.0,1st,S,Peru,113790.0,26.11,0.0,0.0,no
+msykwtubiwsrfikir,female,22.0,2nd,S,Channel Islands,31026.0,10.1,0.0,0.0,yes
+brdpubxoareskoczeoegliqdaanh,male,17.0,3rd,S,England,20589.0,8.01,0.0,0.0,no
+fmsevihsablivtpu,male,24.0,3rd,Q,Ireland,383162.0,7.15,0.0,0.0,yes
+fzbeztnoxubyasmmp,male,30.0,3rd,Q,Ireland,371110.0,24.03,0.0,0.0,no
+skvyhizpittinelzbzmvhepcpqw,male,13.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+mhwveyjbfwhklwlzxmmbayszvh,female,18.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+hwtystdlttyhjlrwhmeibjmphayghiwzdwo,female,21.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+reddoummbfekyeapqodblmtmjp,male,61.0,1st,C,United States,17608.0,262.0706,1.0,3.0,no
+zsifudawnkzasplqobkrabqjv,female,48.0,1st,C,United States,17608.0,262.0706,1.0,3.0,yes
+iuhglyxpmhnumh,male,30.0,3rd,C,Lebanon,2671.0,7.0407,0.0,0.0,no
+udhxbyjqosovwqgg,male,27.0,3rd,C,Lebanon,2672.0,7.0406,0.0,0.0,no
+pleuvcmpjfrowaduoymmm,male,47.0,1st,S,England,19988.0,30.1,0.0,0.0,yes
+gtciirxqgoqhdnrmmzbz,male,19.0,3rd,Q,Ireland,367655.0,7.1407,0.0,0.0,no
+vjjxoqrkiwmiuiqnuan,male,17.0,3rd,S,England,1855.0,7.111,0.0,0.0,no
+abmqkmuiqujczhebvfnljjbcrum,male,43.0,3rd,S,Norway,3101262.0,7.05,0.0,0.0,no
+ovfyxazkxiqbvjfatonvlbwdntxcy,male,13.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+hvagicwcclkfzantxpfrvoiayw,male,5.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+oizsxnodibtouabogtqapyskkyrs,female,8.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+gcfpdkijehfrdihnwmx,female,14.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+oaewmnsqcnnfskyhnnehginoj,female,10.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+vxghwvhofmegczbskpbhjbs,female,21.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+mihrdyrwozkqyesresafueug,male,18.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+vcroykdxywtwvhddjfd,male,17.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+wdckahiutodtupejuwxpi,male,20.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+spfuztvxafjwolrelrmbf,male,45.0,3rd,S,England,2343.0,69.11,1.0,9.0,no
+jshopksggftmijrsruuzupystg,female,45.0,3rd,S,England,2343.0,69.11,1.0,9.0,no
+jzrtfkzuobrbwomksayn,female,24.0,1st,C,,17477.0,69.06,0.0,0.0,yes
+iyolnivwpinwetpoplwrxman,male,24.0,3rd,S,Sweden,7266.0,9.0606,0.0,0.0,no
+ifzkonqzaqnhcvlcukqgvzbhaqgzhius,female,21.0,3rd,S,Norway,343120.0,7.13,0.0,0.0,yes
+xhespvhiaecuwoxdbtirdvskqbzx,male,43.0,1st,S,United States,111163.0,26.0,0.0,0.0,yes
+yxlmcstcpardpgzysmmrgdutn,male,29.0,3rd,S,United States,3101296.0,7.1806,0.0,0.0,no
+zwpdusaursfwmgsvg,male,17.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+woijwuxgkjzlrwlnomohwuc,male,40.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+rptxnhowvdtxleidkag,male,16.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+qzguuddxfzparryyejcbkmpidplyapy,female,1.0,3rd,S,Sweden,9549.0,16.14,1.0,1.0,yes
+qppyoxsepgtzvppldxxhaqonztbkdif,female,4.0,3rd,S,Sweden,9549.0,16.14,1.0,1.0,yes
+laxfqezgcfcsklzvdtlorddlowsmitb,female,24.0,3rd,S,Sweden,9549.0,16.14,0.0,2.0,yes
+kmnxogcmfhapouk,male,21.0,3rd,S,Belgium,345768.0,9.1,0.0,0.0,yes
+fogcunkzzouelbicvwpzbijyfhzwfd,male,19.0,3rd,S,England,2151.0,8.01,0.0,0.0,no
+eogzddhveeunejaevorttutporqhv,male,24.0,3rd,S,England,342826.0,8.01,0.0,0.0,no
+wquywzcocowqhhieei,male,22.0,3rd,Q,Ireland,36209.0,7.1406,0.0,0.0,no
+sfgtjocwliegrbsfykc,female,35.0,1st,C,Germany,13236.0,57.15,1.0,0.0,yes
+jecaaviwbcmyjvslohhjd,male,29.0,3rd,S,Belgium,345779.0,9.1,0.0,0.0,yes
+oooejhjnpxaxjpnorhngg,male,22.0,2nd,S,England,248659.0,13.0,0.0,0.0,no
+aziktwglfbjoxmynbg,male,42.0,3rd,S,,349222.0,7.1711,0.0,0.0,no
+cjcfszjcdtxftnjyquhzbimzvcrdjkzlsenbwgddvf,male,28.0,2nd,S,England,244361.0,13.0,0.0,0.0,no
+dwcwczfkdjriahzvpndmj,male,10.0,3rd,C,Lebanon,2622.0,4.0,0.0,0.0,no
+dwadwnneyxkpbmcrvzgvtqfq,female,30.0,1st,S,,113798.0,31.0,0.0,0.0,yes
+asjbmakorlydzkvvbpgyieohsko,male,34.0,1st,S,United States,113794.0,26.11,0.0,0.0,yes
+fkqoxeobucunonbcziyipwjf,male,35.0,3rd,S,Ireland,370160.0,,,,no
+jfvaxcdxwuhtfhulnbn,male,29.0,2nd,S,England,244358.0,26.0,0.0,0.0,no
+gwylwrfxbwyqmbxywngdqtrh,male,27.0,3rd,Q,Ireland,370374.0,7.15,0.0,0.0,no
+fbhybezhkvturajfs,male,19.0,3rd,C,,2698.0,7.0406,0.0,0.0,no
+azhjaauqzfowkgefvqnlriyayvszthyrfncycbq,male,55.0,3rd,S,England,6212.0,15.02,0.0,0.0,no
+qwtmbfbsxgkvqkziiblprswhmxsnm,female,25.0,2nd,S,United States,230433.0,26.0,0.0,1.0,yes
+ywnosooypqtsbeqhzqesxmucm,male,26.0,3rd,C,Lebanon,2631.0,7.0406,0.0,0.0,no
+swqnvtmdoalltxcvyx,female,20.0,3rd,Q,Ireland,330968.0,7.1607,0.0,0.0,yes
+ghhkyjrglgssehaqfxtkpdefuvw,male,22.0,3rd,S,England,374910.0,8.01,0.0,0.0,no
+pepuxwwtnggyinhstzwgmaypwheu,female,40.0,1st,S,United States,17582.0,153.0903,0.0,0.0,yes
+exulfubfcvrkktviupnzzwbjnkaly,female,17.0,2nd,S,Finland,250652.0,13.0,0.0,2.0,yes
+frtjkixqfeidnkabzhdfqlqlhhmufqla,male,35.0,1st,S,United States,17475.0,26.0509,0.0,0.0,yes
+qgfzzqnppceshpimrlfhatd,female,39.0,1st,C,United States,13507.0,55.18,1.0,0.0,yes
+yndecmfmszmimdcgadsfukyxv,male,51.0,1st,C,United States,13507.0,55.18,1.0,0.0,no
+unvndjklamiwvyfdv,male,40.0,3rd,S,England,392082.0,8.01,0.0,0.0,no
+fsojlcsoubopqtcdnznbpqnjhxxiaixjtktaolrirpdh,male,56.0,1st,S,Switzerland,13213.0,35.1,0.0,0.0,yes
+eefxqjmxkzzlrjmodnkg,female,20.0,2nd,S,England,33112.0,36.15,0.0,0.0,yes
+czwjkzlzijuiozenxzuxv,female,30.0,2nd,S,Finland,250648.0,13.0,0.0,0.0,yes
+kurqxiyynphesqaqnrqrf,male,22.0,3rd,C,Turkey,2669.0,7.0407,0.0,0.0,no
+mphsizkyacqtguacig,male,20.0,3rd,S,England,392092.0,8.01,0.0,0.0,no
+yilqxpgkjjxhixxyb,male,40.0,3rd,S,Bosnia,349251.0,7.1711,0.0,0.0,no
+hccduyyujdprdmetmziscyphb,male,21.0,3rd,S,United States,3101280.0,7.1806,0.0,0.0,no
+mxvugwotjgbnsnvoudwvafhqm,female,18.0,3rd,S,Finland,3101265.0,6.0911,0.0,0.0,yes
+ouhyzhrllodwfxjbosoyxolay,male,59.0,2nd,S,Sweden,237442.0,13.1,0.0,0.0,no
+mloiemdfbbzjtecvcnhqq,male,5.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+hpzxesxrehdqdprrxwvymrnjouci,male,11.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+ysavexnlcstdlykvbv,female,9.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+hjbisrzfvvdzucnionzkeotwafrya,female,2.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+itcueueyshyqmkelowgsoyqkanvx,female,43.0,3rd,S,Sweden,347088.0,27.18,1.0,4.0,no
+djohbwvbymgmnucmegxlrmnoereo,male,40.0,3rd,S,Sweden,347088.0,27.18,1.0,4.0,no
+iudbxtoabjsocolpchds,male,42.0,3rd,S,,349214.0,7.1711,0.0,0.0,no
+guyryqmarhnazjbrtnaaojhmu,female,30.0,2nd,Q,Canada,234818.0,12.07,0.0,0.0,yes
+bdwfjcwqmetrztzyrsjwcwuxz,male,35.0,2nd,S,England,28206.0,10.1,0.0,0.0,no
+pzijpyagyhlzgcskoqxuagywsqzfl,male,20.0,3rd,S,England,392086.0,8.01,0.0,0.0,no
+ipgtnxuutdqvzaxyvwdrfietuxmn,male,28.0,1st,S,United States,113788.0,35.1,0.0,0.0,yes
+pkspkkjaraclaitxkwxyzwhvuz,male,56.0,1st,S,England,113792.0,26.11,0.0,0.0,no
+wkyixcwcsqujrjwsaab,male,37.0,3rd,S,Croatia,315037.0,8.1303,0.0,0.0,no
+fwtfkmsxvrnhuzrpsauffyxlp,female,49.0,2nd,S,England,31418.0,13.0,0.0,0.0,yes
+pzjptssgvalzeqpuhyihigg,male,56.0,1st,C,France,17764.0,30.1311,0.0,0.0,no
+tgpzlikvlwsisndgxoarisnp,male,24.0,1st,C,United States,13695.0,60.0,1.0,0.0,no
+sfdveiytmgspkawdllphhwiiib,male,57.0,1st,S,England,113056.0,26.0,0.0,0.0,no
+srswomkbqefvrxacpnatdrz,female,18.0,1st,C,United States,13695.0,60.0,1.0,0.0,yes
+vgoklvjdygshmfeaye,female,18.0,3rd,Q,Ireland,335432.0,7.1408,0.0,0.0,yes
+ixylahcyjdehgpxql,male,27.0,3rd,Q,Ireland,384461.0,7.15,0.0,0.0,no
+scqxkpnxhyrzdbkzdrhdkgmjgs,male,24.0,1st,S,United States,21228.0,82.0504,1.0,0.0,yes
+pbbsnhwjlxzawrpkms,female,23.0,1st,S,United States,21228.0,82.0504,1.0,0.0,yes
+zhaefaocaulqcxqdirehhudcvwjwlo,male,25.0,2nd,S,England,29178.0,13.0,0.0,0.0,no
+vqbkgnhcleiioxjjqsfpsxmfjfhtnmlfcwunjwgbzi,male,19.0,3rd,S,Norway,348124.0,7.13,0.0,0.0,no
+evsuirveljtzblgqkzxlhnkokgwye,male,31.0,3rd,S,England,18509.0,8.01,0.0,0.0,no
+swwndypwnycklfbkmx,male,23.0,3rd,S,England,3236.0,8.01,0.0,0.0,no
+lecghdtmvuzncevzhiguonazonkuxkf,male,6.0,1st,C,United States,16966.0,134.1,0.0,2.0,yes
+gufvrwegtorpuouywdnutrclxghq,male,45.0,1st,C,United States,16966.0,134.1,1.0,1.0,yes
+gderrhjeolestbjigpcxtlmzybwdmnqw,female,39.0,1st,C,United States,16966.0,134.1,1.0,1.0,yes
+exdflmfhxyackgkbqbizuiexdpy,female,48.0,1st,C,United States,17569.0,146.1005,1.0,0.0,yes
+mdsfxcdrksmocgaufzzsgwsavthtj,male,57.0,1st,C,United States,17569.0,146.1005,1.0,0.0,no
+trtmmdwpqeyjvpykqasvnjv,male,31.0,3rd,S,England,369943.0,8.01,0.0,0.0,no
+uvbvzbdqfogqrjdnqlxpqdrpu,male,32.0,1st,S,Switzerland,13214.0,30.1,0.0,0.0,yes
+jxfiyuyajvovqoiie,male,23.0,3rd,S,Bulgaria,349208.0,7.1711,0.0,0.0,no
+jnppyqjxdgvnskxxpcl,male,33.0,3rd,C,Croatia,349239.0,8.1309,0.0,0.0,no
+thepxsvwkismcwziabzvsqwhjqrnabw,female,24.0,3rd,S,England,2314.0,7.11,0.0,0.0,yes
+ifagscrvovgczngoglkqouxzha,male,22.0,3rd,S,England,45380.0,8.01,0.0,0.0,no
+meooznwkftjkcqghzxsnzglv,male,42.0,2nd,C,United States,237734.0,15.0,0.0,0.0,no
+fqaibqymksjkzrypskipqlyhp,male,62.0,1st,S,England,113514.0,26.11,0.0,0.0,no
+cmkzyujssfpqklrqbsxexqdhvqbalnv,male,54.0,1st,C,United States,11778.0,55.081,1.0,0.0,yes
+xcajegozwzhgjggjwhqmdck,female,43.0,1st,C,Ireland,11778.0,55.081,1.0,0.0,yes
+hfuurnegzvceiemhjqqbhee,female,52.0,1st,C,United States,36947.0,78.0504,1.0,0.0,yes
+cioftuykuuqpkdzjphmyvfgiaj,male,64.0,1st,C,United States,17605.0,27.1405,0.0,0.0,no
+ysskkaayigcijtncuadjvpdqn,male,24.0,2nd,S,England,13540.0,10.1,0.0,0.0,no
+vqxxywjrmghjegrfbcybporrz,female,61.0,1st,S,United States,113572.0,80.0,0.0,0.0,yes
+phnfqfhtgbznztbrpp,male,59.0,3rd,S,England,370160.0,,0.0,0.0,no
+piihcgjjrduwnxsrgoqh,male,19.0,3rd,S,Bulgaria,349205.0,7.1711,0.0,0.0,no
+xcdgrozkxawkniqfflqtdlhpmhm,female,22.0,3rd,S,Finland,7553.0,9.1609,0.0,0.0,no
+ltxdfjtvwuqnbojqmzkgtlwvicwl,male,30.0,3rd,S,Finland,3101288.0,7.1806,0.0,0.0,yes
+rtqmeqeldsvqxrvkuz,male,67.0,1st,S,United States,17483.0,221.1507,1.0,0.0,no
+wbiomjgpzxorhbbxpoqezsff,female,63.0,1st,S,Germany,17483.0,221.1507,1.0,0.0,no
+sbywdnbfjojfazckk,male,27.0,3rd,S,Croatia,315083.0,8.1303,0.0,0.0,no
+jjvgxcfivtngubrmairzbumzvl,female,2.0,3rd,S,United States,347054.0,10.0903,0.0,1.0,no
+iprkjaxkqcakljpixozbhsbg,female,29.0,3rd,S,Sweden,347054.0,10.0903,1.0,1.0,no
+bkhsfszqtooxuxmntvmowmvpynvzcf,male,20.0,3rd,S,England,392089.0,8.01,0.0,0.0,yes
+vlrqxyuwpnguhpdxateikrnqi,male,44.0,3rd,S,Finland,3101269.0,7.1806,0.0,0.0,yes
+xcexuwhkvgtzggigofrorz,male,25.0,3rd,S,England,392076.0,7.01,0.0,0.0,no
+gpzxesuybrqqmeyqnkgqj,male,61.0,1st,S,England,36963.0,32.0605,0.0,0.0,no
+ngrvoboqnxunojqucox,male,74.0,3rd,S,Sweden,347060.0,7.1506,0.0,0.0,no
+cnqsusfqxecjhsfvnfjxrbsytt,male,14.0,3rd,S,Sweden,7538.0,9.0406,0.0,0.0,yes
+jqanjvyrayghziczjb,male,24.0,3rd,S,Sweden,350035.0,7.1511,0.0,0.0,no
+sfbspgduyyeichkss,male,19.0,2nd,S,England,248734.0,13.0,0.0,0.0,no
+fehnalbarxxshgfftelgicxtdcm,male,14.0,2nd,S,England,220845.0,65.0,0.0,0.0,no
+daiszxwxcwsfrsbxqzpiicpglmv,female,46.0,1st,S,United States,17466.0,25.1807,0.0,0.0,yes
+blnitxiydytgahewmtyww,male,0.4166666667,3rd,C,Lebanon,2625.0,8.1004,0.0,1.0,yes
+dxwavffuojrdziyked,male,30.0,3rd,C,Lebanon,2621.0,6.0809,1.0,0.0,no
+zqpjzjvichurunynvfr,female,16.0,3rd,C,Lebanon,2625.0,8.1004,1.0,1.0,yes
+vocwbmjldkiiclkkfue,female,18.0,1st,S,United States,110413.0,79.13,0.0,2.0,yes
+bcdgmtvjqlyjldomk,male,52.0,1st,S,United States,110413.0,79.13,1.0,1.0,no
+leevtsueemrvfiuvfols,female,39.0,1st,S,United States,110413.0,79.13,1.0,1.0,yes
+slqzxotwytpglfsnljcgtuql,male,48.0,1st,S,United States,19996.0,52.0,1.0,0.0,yes
+cpjitcyjptwbcqtitksxocfatsn,male,40.0,2nd,S,England,250654.0,,,,no
+yqxjpekwvmxgzkyfoklhwoakhdg,female,49.0,1st,S,United States,19996.0,52.0,1.0,0.0,yes
+hhhkwnenbiccpgntldafvyfdiy,male,25.0,3rd,S,Sweden,350033.0,7.1511,0.0,0.0,yes
+vifcsndvnnbixuwgsijkewqc,male,49.0,1st,C,United States,17421.0,110.1708,1.0,1.0,no
+lowwqvqxmwdykibcwytenjfljnv,male,17.0,1st,C,United States,17421.0,110.1708,0.0,2.0,yes
+oarmlyqlwhpncupfmgmbcthjtmyudx,female,39.0,1st,C,United States,17421.0,110.1708,1.0,1.0,yes
+tajrckvlotptpykvnhsqrdoniruk,male,34.0,3rd,S,England,363294.0,8.01,0.0,0.0,no
+hamzziqnlqxjmwtnelggdjlj,male,34.0,3rd,C,,2681.0,6.0809,0.0,0.0,no
+zaoafwwsppmueigciyzizylayac,male,16.0,3rd,C,,2684.0,7.0406,0.0,0.0,no
+wjzowoqhhwtmwwgdxaicozysdnzkap,male,37.0,3rd,S,Scotland,32302.0,8.01,0.0,0.0,no
+dzhnhuwvluzbolgdxkbiocdttfwqvff,female,38.0,1st,C,United States,17585.0,80.0,0.0,0.0,yes
+mrxnatbsbzbrmlpfrgbekjbpti,male,37.0,3rd,S,England,376564.0,16.02,1.0,0.0,no
+fjidmdqcdemrnjjylohtmsyrzizvodmg,female,33.0,3rd,S,England,376564.0,16.02,1.0,0.0,yes
+jvwzbyudilblyqaohp,male,32.0,3rd,S,Finland,3101293.0,7.1806,0.0,0.0,no
+ijcfikdmufdvkyit,male,20.0,3rd,Q,Ireland,383121.0,7.15,0.0,0.0,no
+ucobbxmayapzldizoey,male,23.0,3rd,S,Bulgaria,349216.0,7.1711,0.0,0.0,no
+yaeoicnutmkhnkuigiqtnncngr,male,22.0,3rd,S,England,364499.0,8.01,0.0,0.0,no
+sapjdwezdaiosrbwttrsxapn,female,48.0,2nd,S,Ireland,13531.0,10.1,0.0,0.0,yes
+rzfotqxdttmhpngihiuhpnkvx,male,41.0,3rd,S,England,364511.0,8.01,0.0,0.0,no
+woexibrakonqmumn,male,20.0,3rd,C,Lebanon,2673.0,7.0407,0.0,0.0,no
+tgwxlhannszemltbdiramddmonxy,male,26.0,3rd,S,Sweden,,,0.0,0.0,yes
+worvkrmwiubqvcwdksascxurrzve,male,25.0,3rd,S,Bulgaria,349203.0,7.1711,0.0,0.0,no
+jklrjjqrzdpnzgdsfgmuvnqlfbnc,male,23.0,2nd,S,England,233639.0,13.0,0.0,0.0,no
+parzyxmzbggyndstpqwiwesv,female,27.0,2nd,S,Scotland,240929.0,12.13,0.0,0.0,yes
+wcnasvhlsgnnznkwtqouqvmivg,female,27.0,2nd,S,England,34218.0,10.1,0.0,0.0,yes
+rgerdvcwaynqzsnemludhwqvvwdakcr,male,31.0,1st,C,United States,2543.0,28.1009,0.0,0.0,yes
+kqxztvwinfavmhprdmuearouxikp,male,8.0,3rd,C,Lebanon,2650.0,15.0411,1.0,1.0,yes
+agcxbwqwkpkhymalrlrqn,female,9.0,3rd,C,Lebanon,2650.0,15.0411,1.0,1.0,yes
+uepaqvxaokryqusiffg,female,27.0,3rd,C,Lebanon,2650.0,15.0411,0.0,2.0,yes
+ajiwfbfityfbnrdsgke,male,36.0,3rd,S,Croatia,349247.0,7.1711,0.0,0.0,no
+fhyuqidqezowoppjclylbpt,female,18.0,3rd,S,Finland,4138.0,9.161,0.0,0.0,yes
+xfaltlrqgbfyzzofsmav,female,63.0,3rd,S,Finland,4134.0,9.1109,0.0,0.0,yes
+ueqyfkwbiuiqdogsbprfvarx,female,26.0,2nd,S,England,11668.0,21.0,1.0,0.0,no
+hifekxpztjkeruetwcflydbh,male,29.0,2nd,S,England,11668.0,21.0,1.0,0.0,no
+fyybfleonctmkzzmimzcngwkyelwaj,male,39.0,1st,C,Mexico,17601.0,27.1405,0.0,0.0,no
+zyknxincguqjopszbszhtufojlnlpwueovy,male,10.0,3rd,S,England,851.0,14.1,1.0,1.0,no
+gqsmifkdurfwrdnkcxuzgpmfzhkfafffz,male,9.0,3rd,S,England,851.0,14.1,1.0,1.0,no
+azdfsnasoesntekguporuxxideecggp,male,35.0,3rd,S,England,851.0,14.1,0.0,2.0,no
+glyzuizpjocidsmyemixgxvounwk,male,28.0,3rd,S,Belgium,345783.0,9.1,0.0,0.0,no
+eyntlqvoblezwwovrralrmrmpj,male,46.0,3rd,S,Belgium,345765.0,9.0,0.0,0.0,no
+bddnhtiedbjmykkswcgbuxcvj,male,61.0,1st,S,United States,111240.0,33.1,0.0,0.0,no
+baaalbpbexmygsawjyqdrirtzntkfpdmuj,female,18.0,3rd,S,Belgium,345764.0,18.0,2.0,0.0,no
+joxhtlcyaidzeumlfsajvzqol,male,31.0,3rd,S,Belgium,345763.0,18.0,3.0,0.0,no
+fipyygtswdaikymcnyycbzrwhmuikvx,male,15.0,3rd,S,Belgium,345763.0,18.0,2.0,0.0,no
+qxzuorjbzyteoxgewmfqhpcjizbwmiuu,female,31.0,3rd,S,Belgium,345763.0,18.0,1.0,0.0,no
+xpsvwdwgtekngrmpxcsjjzirnduuwcix,male,35.0,3rd,S,Belgium,345780.0,9.1,0.0,0.0,no
+cowfjoehvrtfndinbmteqpblqixzt,male,28.0,3rd,S,Belgium,345770.0,9.1,0.0,0.0,no
+wzvxuhsefbxarlgyzhqockfoo,female,10.0,3rd,S,Belgium,345773.0,24.03,0.0,2.0,no
+gyipeadphihplbbkbmotjrqmwio,male,36.0,3rd,S,Belgium,345773.0,24.03,1.0,1.0,no
+lsecaadeyekznkyxfdlwlufrymml,female,30.0,3rd,S,Belgium,345773.0,24.03,1.0,1.0,no
+vgkuqycxiwtosbzwemkotrqufggn,male,23.0,3rd,S,Belgium,345777.0,9.1,0.0,0.0,no
+wgibvfwpnvjgyoopekxw,male,22.0,3rd,C,Turkey,2658.0,7.0406,0.0,0.0,yes
+lrnthsmlxyfbjie,male,40.0,2nd,S,United States,28221.0,13.0,0.0,0.0,no
+qzbjnutczuqczgwzwjflxr,male,20.0,3rd,S,Sweden,350416.0,7.1701,0.0,0.0,no
+rqpiqodpxqdixmogwudqwwlmxrvtayirxcod,female,14.0,3rd,S,Sweden,350406.0,7.1701,0.0,0.0,no
+sdhusfyvnqbuolq,male,21.0,3rd,S,Slovenia,349252.0,7.1711,0.0,0.0,no
+tweivqatclnpvcnomrmd,male,22.0,3rd,S,Belgium,345767.0,9.0,0.0,0.0,no
+btjkkvfcyriqmwkkeridaaabkyco,male,48.0,1st,S,United States,36967.0,34.0,0.0,0.0,no
+xowrtpqkfrpbcrvchxkjtryxuoduxdr,female,36.0,2nd,S,England,13528.0,21.0,0.0,0.0,yes
+mcmvigbnatyttlveirhtvfh,female,37.0,1st,C,,17755.0,512.0607,0.0,0.0,yes
+gncckkswhsvpcoyetho,male,35.0,3rd,S,England,359309.0,8.01,0.0,0.0,no
+kmqbggqqdtmdpcjsiwkb,male,47.0,2nd,S,England,31352.0,21.0,1.0,0.0,no
+rycdmifvqflrfleramdpvndfpc,female,32.0,2nd,S,England,31352.0,21.0,0.0,0.0,yes
+dsvrfzksqqvmbqlvycsvouvuo,male,23.0,2nd,S,England,28666.0,10.1,1.0,0.0,no
+rnyuijbsylhocyuyxifvqtvsjua,male,31.0,3rd,S,England,49867.0,7.11,0.0,0.0,no
+xenccujcrrlftvlbxggodejf,male,63.0,1st,C,United States,110813.0,75.05,1.0,0.0,no
+qykqyynxzqltlgnmrkfsiisa,female,60.0,1st,C,England,110813.0,75.05,1.0,0.0,yes
+zsihsmfxpcplbvhjiyvzkafbub,male,19.0,2nd,B,Northern Ireland,239856.0,,0.0,0.0,no
+hfyjjzdhauvubqvhqzkowpksbokpuf,female,12.0,2nd,S,Scotland,33595.0,15.15,0.0,0.0,yes
+mhdkyugeliqwcuckuzzg,female,40.0,2nd,S,Scotland,33595.0,15.15,0.0,0.0,yes
+xcwrefkacqmalnxbfhzphlm,male,23.0,3rd,C,Lebanon,2647.0,7.0406,0.0,0.0,no
+mjfuvoxfeewscapjfbb,female,37.0,2nd,S,England,27267.0,13.0,0.0,0.0,yes
+kbsnotbmizjxaojgb,male,66.0,3rd,S,England,3101316.0,8.01,0.0,0.0,no
+rnnihaiygdyvzrdalxb,male,59.0,1st,S,United States,113800.0,26.11,0.0,0.0,no
+gebneeeqszoycrsytf,male,37.0,2nd,S,Hungary,228414.0,26.0,1.0,0.0,no
+ielhavbldvvqpjxmwmpqihdasonkya,female,37.0,2nd,S,England,228414.0,26.0,1.0,0.0,yes
+nzsbemeikcyniwdlsqzufprmbox,male,2.0,2nd,S,England,29103.0,23.0,1.0,1.0,yes
+ulitttfmbumwsxngp,female,4.0,2nd,S,England,29103.0,23.0,1.0,1.0,yes
+ycdosorpkfidzlzruhcdox,female,29.0,2nd,S,England,29103.0,23.0,0.0,2.0,yes
+hchguuzltjntkesrllfzdwc,male,27.0,3rd,S,Sweden,350043.0,7.1511,0.0,0.0,yes
+bmntnxhxarpfojuziswsddwle,female,0.8333333333,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+ytstysblwaxeonkawjyorzinvlrp,female,4.0,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+rvxwvmsqnxehbaxpbpadx,male,36.0,2nd,S,England,34651.0,27.15,1.0,2.0,no
+eykfmozmetueqweypdz,female,33.0,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+ivpmwayvvtxwgkuxirbveeucz,male,65.0,2nd,S,England,24579.0,10.1,0.0,0.0,no
+hxcivdlcyvytsomsygmjibpowx,male,26.0,2nd,S,England,2159.0,12.1706,0.0,0.0,no
+hmcgdxidpkrjwrhmqyam,male,31.0,2nd,S,England,244270.0,13.0,0.0,0.0,yes
+hvsmcqcpdcxkjvkboshjpfbktyy,male,54.0,1st,S,United States,35281.0,77.0509,0.0,1.0,no
+ygslhetlylttlrhxlqjiwgrml,male,21.0,1st,S,United States,35281.0,77.0509,0.0,1.0,no
+uklxpyrsfzgowplj,female,55.0,1st,C,,17760.0,135.1208,0.0,0.0,yes
+soxaoanxysilwyuwnbterafyu,male,57.0,1st,S,United States,36928.0,164.1704,1.0,1.0,no
+uimwknspiigfsiurirsvacmv,female,31.0,1st,S,United States,36928.0,164.1704,0.0,2.0,yes
+hiazkpvqfigyeiqcdlutdvg,female,45.0,1st,S,United States,36928.0,164.1704,1.0,1.0,yes
+lrluqmfpvwpowmqepdhaamlp,male,51.0,3rd,S,Sweden,347064.0,7.15,0.0,0.0,no
+jvdqkyciqwtbyyvlafuncamfuo,male,50.0,1st,S,United States,113503.0,211.1,1.0,1.0,no
+kszqugffjrtfayhbwcxoflbsa,male,27.0,1st,S,United States,113503.0,211.1,0.0,2.0,no
+fhiajkgqbplipaqcauvxz,female,50.0,1st,S,United States,113503.0,211.1,1.0,1.0,yes
+hvpmechfbfoszfvfrvsytqfsd,male,18.0,3rd,S,Finland,3101267.0,6.0911,1.0,0.0,no
+kngjopcvezoireytirrieqm,male,21.0,3rd,S,Finland,3101266.0,6.0911,1.0,0.0,no
+ibtucgwursvgwlxijq,female,47.0,3rd,S,England,363272.0,7.0,1.0,0.0,yes
+hiafvcylqrfhgboqsardrmstzchrfc,female,30.0,2nd,S,England,2926.0,26.0,1.0,0.0,yes
+dtujsfqmspjuppiwayrbdzzp,female,21.0,1st,S,United States,113795.0,26.11,0.0,0.0,yes
+mwaboyjxvnlbsrkyf,male,37.0,3rd,C,,3410.0,8.1403,0.0,0.0,no
+orcccvreryakdpftiqrkobj,male,21.0,3rd,S,Wales,751.0,7.11,0.0,0.0,no
+sevhdilfjhjryzyudphygkjvopj,male,51.0,1st,C,Switzerland,17597.0,61.0707,0.0,1.0,no
+lqnqncpryasfvgfaubdafbzivbuh,male,23.0,2nd,S,England,244373.0,13.0,0.0,0.0,yes
+tfihaopuqnkilclrxxplyokkjljfsznhwekqkvk,male,43.0,1st,S,United States,113510.0,35.0,0.0,0.0,no
+wkqhnazjokqbqdwkuckorqzpm,male,28.0,3rd,S,England,2466.0,8.01,0.0,0.0,no
+ntjgqpadptbmdhzhquhl,male,28.0,3rd,S,Wales,54636.0,16.02,0.0,0.0,no
+wfeispzypsuzussdkujoncqphfpmgcd,male,21.0,1st,C,Switzerland,17597.0,61.0707,0.0,1.0,yes
+jvujhhvwdndnuxbqjfbfyhdpz,female,31.0,1st,C,,16966.0,134.1,0.0,0.0,yes
+pkkdfkinexzlxzltgwb,male,21.0,3rd,S,South Africa,3101317.0,7.05,0.0,0.0,no
+envofseolylhanzf,male,27.0,3rd,S,Switzerland,315154.0,8.1303,0.0,0.0,no
+cuthmbphioxgromldcdox,male,54.0,3rd,S,England,34244.0,7.05,0.0,0.0,no
+izmjpwujdasydxemagnndnavxnjbpnuagju,male,36.0,3rd,S,Belgium,345771.0,9.1,0.0,0.0,no
+nmepniqzdgnrsjeqszprbuirr,male,32.0,2nd,S,England,250654.0,,,,no
+bqhwppjjrqmxlkmfe,male,46.0,1st,S,England,19947.0,35.1,0.0,0.0,yes
+onmngnjuwyspadvmyxkp,female,26.0,2nd,S,England,220844.0,13.1,0.0,0.0,yes
+ituraloztzxxspwfka,male,62.0,1st,S,Canada,113807.0,26.11,0.0,0.0,no
+bbuqqwqucwqwmknymws,male,27.0,3rd,C,Lebanon,2659.0,14.0901,1.0,0.0,no
+gdpqznhjndhaieyqwqyl,female,15.0,3rd,C,Lebanon,2659.0,14.0901,1.0,0.0,yes
+qomwsvaaypwueiqtujozygzj,female,36.0,1st,C,United States,17760.0,135.1208,0.0,0.0,yes
+umrufzuvthgaldrjawlnyeifizzmmqq,male,26.0,3rd,C,Lebanon,2685.0,7.0406,0.0,0.0,no
+iocrdjqnmqgqdbocudjaigakvxpwms,male,45.0,3rd,C,Lebanon,2628.0,7.0407,0.0,0.0,no
+jkswrgtdhtrejfcmkv,female,23.0,3rd,C,Lebanon,2668.0,22.0702,0.0,2.0,yes
+sanheeofrayuhbcfojfvyn,female,24.0,2nd,S,France,248747.0,13.0,0.0,0.0,no
+esisxnqvykhdzoogvqbjzkbxt,male,22.0,3rd,C,Turkey,2656.0,7.0406,0.0,0.0,no
+owsurqayfjhetfhvwnk,male,27.0,3rd,C,Turkey,2670.0,7.0406,0.0,0.0,no
+mvteopfqsjylbjjow,male,25.0,3rd,C,Lebanon,2620.0,7.0406,0.0,0.0,yes
+jmykhxqhcrreimeshjy,male,29.0,3rd,S,Germany,315082.0,7.1706,0.0,0.0,no
+cgasercpkaousvrauyuvjxx,male,21.0,victualling crew,S,England,,,,,no
+vujwpgtiukfbkovdkbzxuchena,male,34.0,engineering crew,S,England,,,,,no
+yihbqoidosytffyuqbwpru,male,26.0,engineering crew,S,England,,,,,no
+akulypyusvxvfyaukafnlkti,male,20.0,victualling crew,S,Channel Islands,,,,,no
+hbdjdvhwdaofttgcdsslivwxfd,male,31.0,victualling crew,S,England,,,,,no
+ubujfvhvispbbbtshmcatdgnquw,male,37.0,victualling crew,S,England,,,,,no
+tscfrgummktbwgmdxrxdcayoyrgccf,male,22.0,restaurant staff,S,England,,,,,no
+eiavnvvpqqypehalrpjoqjdoccp,male,24.0,engineering crew,S,England,,,,,yes
+ukmgpqytxpyhfjivxjvm,male,17.0,victualling crew,S,England,,,,,no
+ocfsfvfxhqmbxeeyy,male,26.0,victualling crew,S,England,,,,,no
+mfffozbmtewxerlh,male,30.0,engineering crew,S,England,,,,,no
+dtmyixiomnilcdafgiqwfssda,male,36.0,victualling crew,S,England,,,,,no
+cbttxotussvxpztfdorxpfgwz,male,36.0,engineering crew,B,England,,,,,no
+igarguykxfwzsfqaernbgezey,male,41.0,victualling crew,B,England,,,,,no
+ngbbrtgvopvbuipiuvo,male,40.0,deck crew,S,England,,,,,yes
+uprcivdchcrqgaywqbyqlzabni,male,48.0,victualling crew,S,England,,,,,no
+ycboodvwrkkpoavwbiodquyfszp,male,19.0,victualling crew,S,England,,,,,yes
+dwfxgtmhsdzdaipqxuczyjogq,male,35.0,deck crew,S,England,,,,,yes
+gdgvgkapmpvaxqripwgrwsuniorbm,male,26.0,victualling crew,S,England,,,,,no
+rzqgmbwhybohptlixrvqadtao,male,41.0,victualling crew,S,Ireland,,,,,no
+dhvbkxbncivxrjmogoukro,male,26.0,restaurant staff,S,England,,,,,no
+teagpbmmciebbnzybjvppws,male,21.0,engineering crew,S,England,,,,,yes
+zqmmqyyiyxqbmnwyowjukvwg,male,23.0,victualling crew,S,England,,,,,no
+asfeywvhswouxcaoyzcunljkvsd,male,37.0,victualling crew,B,England,,,,,no
+trlrqqfcnidafqhbjcddghibt,male,28.0,victualling crew,S,England,,,,,yes
+owlefdvqdykalxvfnloizqtu,male,33.0,victualling crew,S,England,,,,,no
+txhchsfhectpcszeczyhqkuhcs,male,36.0,victualling crew,B,England,,,,,no
+mxpzzwdryezkadjgqnmifkrp,male,46.0,engineering crew,S,Wales,,,,,no
+xsbjxxllwzycwpebcavpctkv,male,46.0,deck crew,S,England,,,,,yes
+wxspgjhvackpplcvcwb,male,24.0,engineering crew,S,England,,,,,no
+pqxdpmahcpklmsl,male,19.0,victualling crew,S,England,,,,,yes
+gwvdpthlbwoihrn,male,24.0,restaurant staff,S,England,,,,,no
+iiqvkbddgfvqpuderueakqn,male,34.0,engineering crew,S,England,,,,,no
+zykzzdsxhydlfvsxxqbgdhi,male,19.0,victualling crew,S,England,,,,,no
+mhlzicvmueaywfdbevqdyzxrw,male,41.0,victualling crew,S,England,,,,,no
+qtjjeqjuuwkkjkegtmcvzolrblv,male,42.0,victualling crew,B,England,,,,,no
+dcyudyguuahxedjbztk,male,30.0,engineering crew,S,England,,,,,no
+epycevyeakwqzbhofk,male,36.0,victualling crew,S,England,,,,,no
+ctitgfmzybjjeixvltx,male,29.0,engineering crew,S,England,,,,,no
+ooispuvnmgaksqvwpmsvwpwymdljo,male,40.0,victualling crew,S,England,,,,,no
+ofsmfqbnuuclyfsx,male,40.0,engineering crew,S,England,,,,,no
+pzjrnptekprbwvbnffa,male,16.0,victualling crew,S,England,,,,,no
+dkshfwukchujjufvjvxhkl,male,28.0,engineering crew,S,England,,,,,yes
+wkipegzqnpkwstdnoeznaudethssok,male,33.0,engineering crew,S,England,,,,,no
+eaoltgatgjqlipiwsvdvyijskplxw,male,34.0,victualling crew,B,England,,,,,no
+kpljmeyughcyyblqefxhyebytotiqodzkhuzu,male,36.0,victualling crew,S,England,,,,,no
+ojsqljrsfobkpidkbshx,male,32.0,victualling crew,S,England,,,,,no
+gxmoaqcgytvyssfdwwubsdv,male,26.0,victualling crew,S,England,,,,,no
+abklebfjfoykehrjnakwrzb,male,27.0,restaurant staff,S,England,,,,,no
+hpounyuldhjccvrpbsfzcb,male,53.0,victualling crew,S,England,,,,,no
+kfkehcrknitkcagehxziqtjpvpg,male,55.0,victualling crew,S,Scotland,,,,,no
+eqnxykydokswzadzpxc,male,33.0,restaurant staff,S,England,,,,,no
+zhxepstvabzisxzkcmh,male,35.0,engineering crew,B,Northern Ireland,,,,,no
+cvvmndjwanceoennsouugdiwemnyy,male,24.0,engineering crew,S,England,,,,,yes
+hjgvncqawcpaizhgwxgogqabtwnf,male,31.0,victualling crew,S,England,,,,,no
+juignuaoedrvmekdyhmekmsgv,male,35.0,victualling crew,S,England,,,,,no
+xhsyffpgfzoutduwyc,male,19.0,victualling crew,S,England,,,,,no
+dvvsydsrqjdewxhf,male,51.0,engineering crew,B,England,,,,,no
+mqeyyudgvcvxhzzzal,male,24.0,engineering crew,S,England,,,,,no
+qmvnttteiosnzmqddumht,male,30.0,victualling crew,S,England,,,,,no
+fxdogteakipltsdzwoelbagddo,male,30.0,engineering crew,S,England,,,,,no
+qhomzetcgwtmuhettvx,female,33.0,victualling crew,S,England,,,,,yes
+kfmuogjvfmecrpegilky,male,47.0,engineering crew,S,England,,,,,no
+xcqqhriagginnkyktlupcij,male,22.0,restaurant staff,S,England,,,,,no
+iykmxkdlchyaxemwwni,male,31.0,victualling crew,S,England,,,,,no
+falfkplfvqwymihcilblzaecowazexid,male,39.0,engineering crew,S,England,,,,,no
+pcennsglahesqjoyfyfgda,male,40.0,victualling crew,B,England,,,,,no
+cltwkyarhdebvzf,male,26.0,restaurant staff,S,England,,,,,no
+zhafifokchgfxvnxfuuztwz,male,22.0,engineering crew,S,England,,,,,no
+ebnfbncpanozjzfumgmapzuemqgpvmius,male,31.0,engineering crew,S,England,,,,,no
+idtujswdqreiwgirxhgzveogiaen,male,28.0,restaurant staff,S,England,,,,,no
+xsuacpirusrdwasazjiftspvx,male,20.0,engineering crew,S,England,,,,,no
+rhacsbdncyzyuvexhc,male,20.0,engineering crew,S,England,,,,,no
+tpmmmpkesddcdwyhuaggccxbjdot,male,20.0,engineering crew,S,England,,,,,yes
+eebxjjxpkvrmtyqjxxxlwdhqydku,male,34.0,victualling crew,B,England,,,,,no
+bierhvtlexmqpqvcsuznorwwvmu,male,23.0,engineering crew,S,England,,,,,no
+lpqderxgvjtnyxmpkksi,male,28.0,engineering crew,S,England,,,,,no
+scdzyhdtmmwqs,male,41.0,engineering crew,S,England,,,,,no
+miuyequynortekaubhdhnnxzyg,male,23.0,engineering crew,S,England,,,,,yes
+xlssjlbropgkswaha,male,26.0,engineering crew,B,England,,,,,no
+uwatgkyfhaixpogalerclsu,male,37.0,engineering crew,S,England,,,,,no
+odothlwkrhjyfmvln,male,32.0,engineering crew,S,Northern Ireland,,,,,no
+vphikbjdbsycsgcuqzzrmeqapve,male,22.0,engineering crew,S,England,,,,,no
+mapyyjwrjgdmvxcv,female,45.0,victualling crew,S,Switzerland,,,,,yes
+ztqkqfnjlzbcfnhxvjhzekson,male,26.0,restaurant staff,S,England,,,,,no
+axuwuiqyhnqngzwtodmxvfmdiij,male,30.0,victualling crew,S,England,,,,,no
+shiyjovrcrwevgkldsmehzpbnph,male,43.0,restaurant staff,S,England,,,,,no
+ytkltfypjtqllyxgfwldrvdz,male,59.0,victualling crew,S,Scotland,,,,,no
+tassfrztpzalakuwgrax,male,27.0,restaurant staff,S,England,,,,,no
+mykfcwnqnjxbjodiigksoe,male,40.0,victualling crew,B,England,,,,,no
+yssafxmvgilfqeqiutwvkxtwnx,male,38.0,victualling crew,S,England,,,,,no
+amswxigvvbyaijtssugbaevt,male,33.0,victualling crew,B,England,,,,,no
+kfmrmllndngcdcftjajzwhge,male,46.0,engineering crew,S,England,,,,,no
+xipdgviogymvjlzowtutgragnl,male,24.0,victualling crew,S,England,,,,,no
+rbihaolmsbbxfodpkpxecykjbr,female,31.0,restaurant staff,S,England,,,,,yes
+zyohjdszwsrhflzwkhptsdvttd,male,28.0,deck crew,B,England,,,,,yes
+ssrbrktcwqzqjn,male,37.0,victualling crew,S,England,,,,,no
+kjyskktlwmytsjlxttunw,male,36.0,victualling crew,B,England,,,,,no
+cshltaohazqeepuykyvolmxeedq,male,39.0,engineering crew,S,England,,,,,no
+nmafocgknbqecll,male,29.0,deck crew,S,England,,,,,no
+sekikxnzhfqjzjdovvexgyttyxktekht,male,43.0,victualling crew,S,England,,,,,no
+tuinnbjyaanhfkird,male,30.0,engineering crew,S,England,,,,,no
+ozhmmeemvdorziwfdzbcmnsfso,male,52.0,victualling crew,B,England,,,,,no
+ztzgrjgsnfcggryfrx,male,34.0,engineering crew,S,England,,,,,no
+uawlttgqvncefxqxrxsnekdl,male,43.0,deck crew,S,England,,,,,yes
+ugoyuoebgqhzpoewdszhoate,male,22.0,victualling crew,B,England,,,,,yes
+yuwukxscqfhbtunawwpvamx,male,42.0,deck crew,B,England,,,,,yes
+xpktdgtppfretqlynz,male,38.0,victualling crew,S,,,,,,no
+ttteszqklwwcwvnnmtpqwaiqwev,male,31.0,victualling crew,S,England,,,,,no
+evizuecpnqxeiaacqxpmhfew,male,28.0,victualling crew,S,England,,,,,no
+wyeumacwsvqkiv,male,25.0,engineering crew,S,England,,,,,no
+dgpwdbfqpvvtssrcbknieqzxtex,male,31.0,victualling crew,S,England,,,,,no
+qvcmhajxfaqssznfjfruyuuxd,male,33.0,victualling crew,B,England,,,,,no
+skblbyorkoikzxsjc,male,34.0,victualling crew,B,Wales,,,,,yes
+vvjzupxscrogaei,male,28.0,engineering crew,S,Wales,,,,,no
+xyxhhfijfjqflfcnrfmcnie,male,25.0,engineering crew,S,England,,,,,no
+afnnkvcfvwbircfrffvbwcp,male,41.0,victualling crew,B,England,,,,,no
+bfoyavffphodshwlhg,male,34.0,victualling crew,S,England,,,,,no
+wzqxqehchrxstmimonrddj,male,26.0,deck crew,S,England,,,,,yes
+zkxavxoprsfnxdinmenymrhionzt,male,22.0,victualling crew,S,England,,,,,no
+ntetwcmmjuznmlezdreeqpv,male,37.0,victualling crew,S,England,,,,,no
+uegbxdklfucqrwwxehtgqwkmcb,male,21.0,victualling crew,B,England,,,,,no
+uztkqwbbflucujmwlpdj,male,18.0,victualling crew,S,England,,,,,yes
+ajcunibeflyalcmadeqvfsgou,male,30.0,victualling crew,B,England,,,,,no
+ugxvhgfreucyevocsb,male,31.0,victualling crew,B,Ireland,,,,,yes
+ytjhqbxvtkdnzqiwbvvzuvbboagdmbhprc,male,20.0,victualling crew,S,England,,,,,yes
+eqrrnilsilrgeysgphorkalk,male,29.0,victualling crew,S,England,,,,,no
+azdbqvjkvvwrcvuahkwqmxdlsafnm,male,35.0,engineering crew,S,England,,,,,no
+bqmkbvbjudnnlvwjgbvgpjv,male,35.0,engineering crew,S,England,,,,,no
+ojvgsfftwnpltljudxqrw,male,23.0,victualling crew,S,England,,,,,no
+nsbcvspavwoaxgchlizxhg,male,22.0,victualling crew,S,England,,,,,no
+jvfvjpopahbyzjgkvjpxkb,male,31.0,engineering crew,S,England,,,,,no
+nthhxuwtnomszfefvzmrjjy,male,45.0,victualling crew,S,England,,,,,no
+swknotsuieaghazskatm,male,30.0,engineering crew,B,Northern Ireland,,,,,no
+xkugswwcvghuaefhigllmwr,male,25.0,victualling crew,S,Australia,,,,,no
+aeotpvjarbwqyfhk,male,40.0,engineering crew,S,England,,,,,no
+khpdeyvytsvhbshgxsr,male,31.0,victualling crew,S,England,,,,,no
+cnqmvutriytfsmeljuhepspqa,male,27.0,engineering crew,S,England,,,,,no
+rgueqxxlvvqkppyvkbcnyvqsibmtf,male,46.0,engineering crew,S,England,,,,,no
+lqioaitonotitizsiztdmcygearj,male,33.0,victualling crew,B,England,,,,,no
+tniagkhdaahmisyafno,male,32.0,restaurant staff,S,Italy,,,,,no
+zrcjzczgofiqbeofh,male,44.0,engineering crew,S,England,,,,,no
+erhgkxmoxqhbbdbxpetsu,male,34.0,victualling crew,S,England,,,,,no
+ltzlcrigqetqvgdlfbiiz,male,37.0,engineering crew,S,England,,,,,no
+uaqgspexatawrqwhqp,female,33.0,victualling crew,S,England,,,,,yes
+umdohzpawriczshsoksswvzz,male,28.0,victualling crew,S,England,,,,,no
+qiehhoaxltdkioqwxktyrdlk,male,22.0,engineering crew,S,England,,,,,yes
+rfydvwvfzpdlnndap,male,39.0,victualling crew,B,England,,,,,no
+ktzcwbpnbzptvdhdiwikiuyny,male,21.0,victualling crew,S,England,,,,,no
+mwutubanfqcwosveyfiehektuozmi,male,25.0,restaurant staff,S,England,,,,,no
+uzshhhiivtdpswbvsbvssidmvxt,male,32.0,victualling crew,S,England,,,,,yes
+pritozuxlgsumuwkdtmdodm,male,25.0,victualling crew,S,England,,,,,no
+smohhugcwbwrxmmjcaihpqviuqsd,male,25.0,engineering crew,S,England,,,,,no
+yfhgeonkuxsogbtelwepqvfuehtjgbfh,male,28.0,victualling crew,B,England,,,,,no
+hdjhowkugzojiqxxmvzdejbdpeabsc,male,37.0,engineering crew,B,England,,,,,no
+bfahaxytnwwrwfotzooovtgkayfh,male,29.0,victualling crew,S,England,,,,,no
+tcavlmqyauoprhyszmjxncuf,male,50.0,victualling crew,S,England,,,,,no
+onnmekjdgghrwmdzbkolvgt,male,25.0,engineering crew,S,England,,,,,no
+luroexhbzpiciffoecrdapdagvra,male,34.0,victualling crew,S,England,,,,,no
+vwklgczvaxkupyinzc,male,40.0,engineering crew,S,Ireland,,,,,yes
+bojqfgnjxsdwyleyoigzmltqciqca,male,33.0,deck crew,S,England,,,,,yes
+iisywxmfelwgtlnprzweobvu,male,31.0,deck crew,S,England,,,,,no
+czrgvgchbnqofx,male,22.0,engineering crew,S,England,,,,,no
+vszgccwmxozjuhblmguzlzioxz,male,29.0,victualling crew,S,England,,,,,no
+nracwmblaapmlzfsx,male,58.0,engineering crew,B,Ireland,,,,,no
+gxnyvfvjerpucrcyqpxuu,male,33.0,victualling crew,S,England,,,,,yes
+bqbfwfdonteiwceua,male,17.0,victualling crew,S,Northern Ireland,,,,,yes
+zmsgjsdakqunqcecc,male,38.0,engineering crew,S,England,,,,,yes
+blvashvohksizudxpj,male,34.0,engineering crew,S,England,,,,,yes
+soncscksdyojebzvmyjqbguf,male,25.0,victualling crew,B,England,,,,,no
+lbfenlalewvgplgbjzzpzxlsy,male,32.0,victualling crew,S,England,,,,,no
+tkoogmgbnsrxktdpnfdoelriicqn,male,45.0,victualling crew,S,England,,,,,no
+amimkhtzjzzkitivw,male,26.0,engineering crew,S,England,,,,,no
+oaglukmvgmahzzkzuasentsc,male,26.0,engineering crew,S,England,,,,,no
+pudcnlqkrdempqevslkwwcuzqrzegul,male,28.0,engineering crew,S,England,,,,,no
+liclubitqpctiineptxnbttqzah,male,27.0,victualling crew,S,England,,,,,no
+wiihcpcdafudchlawdma,male,33.0,engineering crew,S,England,,,,,no
+iddygenevnbamstpaswjrxeocfspcgeexi,male,19.0,restaurant staff,S,England,,,,,no
+aofaogkjsgbvyvepbu,male,36.0,engineering crew,S,England,,,,,no
+xsqpgidtrwjukhzx,male,28.0,deck crew,S,England,,,,,no
+wawqzoyczlxdrrihjwpaqca,male,49.0,engineering crew,S,England,,,,,no
+fkhkbalqqhheqnqhegvrsclrhhvfdgdcfquy,male,30.0,engineering crew,S,England,,,,,yes
+jndebcqfrivcmqrfawxcrjfaq,male,28.0,restaurant staff,S,France,,,,,no
+jtmjxjcqvwatbbrkbzwzwem,male,30.0,victualling crew,S,England,,,,,no
+ipbghyvjiaquapidawwhqpwzfekgmx,male,27.0,engineering crew,B,England,,,,,no
+ntazzbkiqwxmcxkvjsxhgs,male,23.0,engineering crew,S,England,,,,,no
+iowwhqljjygdwkrmmhgqsejeyusen,male,20.0,victualling crew,S,England,,,,,yes
+teavhqjmycmvnkivtagfazcnqku,male,43.0,victualling crew,B,England,,,,,yes
+drjxuicecbaepncptzvxgydx,male,45.0,engineering crew,B,England,,,,,no
+oxuslogmbvrqneighgw,male,21.0,engineering crew,S,England,,,,,yes
+tpdrvhpzoukpqhqmnpxj,male,33.0,victualling crew,S,England,,,,,no
+jcekltozzfihhbjyjqdmkqhh,male,39.0,victualling crew,B,England,,,,,no
+evtljuarrzkhfawiwxjuagzecov,male,45.0,victualling crew,S,England,,,,,no
+rwxmtipoupuoasdxieafdgzjx,male,44.0,engineering crew,S,England,,,,,no
+mabtnkiqhzuqrndlfiyn,male,17.0,restaurant staff,S,England,,,,,no
+ycjfueywrqiymqrijeenxoamxlm,male,30.0,victualling crew,S,England,,,,,yes
+eawasejgwnivfjtdidzmohxbjrdfalulkornu,male,35.0,victualling crew,B,England,,,,,no
+qgfrxyajjzdknxwlvokkkurqv,male,49.0,victualling crew,B,England,,,,,yes
+ovplcgjplyihysdgkzphcpnzcq,male,38.0,victualling crew,B,Scotland,,,,,yes
+lhxzeriuwevrzwegesmrlfe,male,35.0,engineering crew,S,England,,,,,no
+edjnskxoyvzchglvyg,male,26.0,engineering crew,S,England,,,,,no
+jrxgwqgnunvemjbjdjszxgzjbm,male,18.0,victualling crew,S,England,,,,,yes
+dcbzwkfshnqizkrkvtmjhnbswzhq,male,18.0,victualling crew,S,England,,,,,no
+pfoivheinuiacjlrczckmnupye,male,32.0,victualling crew,B,England,,,,,no
+hqwudaesrfmgekizkmlgs,male,26.0,victualling crew,B,Wales,,,,,no
+lrblumaemkhyhuoipr,male,33.0,engineering crew,S,England,,,,,no
+vifttfytxntovpv,male,29.0,victualling crew,B,England,,,,,no
+jcyhukinakpahpovvwqqedjd,male,39.0,deck crew,S,England,,,,,no
+czoizlcxztbsnbhmsm,male,23.0,engineering crew,S,England,,,,,no
+novbtlfoctumhizfnmv,male,19.0,victualling crew,S,England,,,,,no
+wixzxbpmtzxspjfvgoyxrhfncbfutiljzr,male,18.0,restaurant staff,S,England,,,,,no
+ouvykvwxhnncywgfhfwxrjtvg,male,35.0,victualling crew,B,England,,,,,no
+oeqvsfgquykcsfpixszhtfwd,male,20.0,restaurant staff,S,England,,,,,no
+apxudbpkdzufdacamebblqkpg,male,29.0,victualling crew,B,England,,,,,no
+exzijnpdwzvkkwglmjvasgitedekozf,male,38.0,victualling crew,S,England,,,,,no
+skxpyvjycqgxllcdsoksqtdiddkal,male,20.0,restaurant staff,S,England,,,,,no
+znhjdnwjxqozhbyfjghzrea,male,27.0,engineering crew,S,England,,,,,yes
+xiibjtbfuuzftehwmnfu,male,37.0,engineering crew,S,England,,,,,no
+lcxbxrwjbolmhonr,male,30.0,engineering crew,S,England,,,,,yes
+clunrlmkywzizjxhegivtvobvj,male,34.0,engineering crew,S,England,,,,,yes
+myrxasyorrcljmjatlgwljhiugb,male,49.0,victualling crew,S,England,,,,,no
+fnskyfknzgtwqrxrcmesuulh,male,39.0,engineering crew,B,England,,,,,no
+tkegpesrimhvywuyosadtves,male,44.0,victualling crew,B,England,,,,,no
+ecbiucssvkdblhghypaqorf,male,27.0,engineering crew,S,Guyana,,,,,no
+hccjfxmieddddqdxxmu,male,22.0,engineering crew,S,England,,,,,yes
+oeqwvtcklgjwoxtpa,male,39.0,victualling crew,B,England,,,,,no
+uauejvphymorolzrjluhuilwyfxy,male,17.0,restaurant staff,S,Italy,,,,,no
+uvdvqyhjugfznkgysyyrucnaiuikz,male,35.0,victualling crew,B,England,,,,,no
+dsusbkqatfwcrgviiiobta,male,23.0,engineering crew,S,England,,,,,yes
+qtniegswakqkagwbmmryfzjcrp,male,20.0,restaurant staff,S,England,,,,,no
+fqdfxmncjtbcsmxfotvedwuhyy,male,22.0,victualling crew,S,England,,,,,no
+vggceuvjagziigjsssu,male,27.0,engineering crew,S,England,,,,,no
+arzojncaheififxomltzzcl,male,36.0,engineering crew,B,Ireland,,,,,no
+qhjhliqgbbnlxnderzgg,male,48.0,victualling crew,S,England,,,,,no
+yfozqfgrfycihajco,male,38.0,engineering crew,S,England,,,,,no
+teilspzytajreqwijvelyb,male,24.0,engineering crew,B,India,,,,,no
+oxtfmivnvzbjwkyhcnilhmk,male,33.0,victualling crew,S,England,,,,,no
+jsvssekegekimiyjq,male,41.0,engineering crew,S,England,,,,,yes
+wguefbdglkxbvktcvfldmno,male,22.0,engineering crew,S,England,,,,,no
+vmuggpsrmhuplsiiwzra,male,44.0,engineering crew,S,England,,,,,no
+idxgqccwrmvogozficqdeexuukzgfbascr,male,23.0,victualling crew,S,England,,,,,no
+oepzgmlorryppnywofhndlpy,male,23.0,victualling crew,S,England,,,,,no
+sdcrqghlokzyiutlmnojeempwts,male,39.0,victualling crew,S,England,,,,,no
+ldruoefgpwljnzgrfhrrnstdnl,male,39.0,victualling crew,S,Wales,,,,,no
+effiomuezdwjuxofxrxgpl,male,48.0,victualling crew,S,England,,,,,no
+hqgkrqnsrrziqpkztzvjoikzrls,male,23.0,engineering crew,S,England,,,,,no
+lcwfkosmedihkxehewffom,male,29.0,victualling crew,S,England,,,,,yes
+cjibegleuslodjunv,male,34.0,victualling crew,S,England,,,,,no
+yibmbgmidjzaabipvcxlyvtgy,male,18.0,engineering crew,B,Northern Ireland,,,,,no
+jbulydsxzsvokljknuiurjty,male,43.0,victualling crew,B,England,,,,,yes
+irpahxjqoeqnbfbgmekixgv,male,25.0,deck crew,S,England,,,,,yes
+ikncdmhwepppennwwhtguyd,male,27.0,deck crew,S,England,,,,,yes
+jkfjoizrtuwqiyzxwoajpdmwc,male,27.0,victualling crew,B,England,,,,,no
+uospzjzhcukhmjqptttqqztfh,male,33.0,engineering crew,S,England,,,,,no
+jmisanogpjgesgdvunbqzaasdj,male,38.0,victualling crew,B,England,,,,,no
+zrjvpvdkrpyixoxsysfnisirt,male,22.0,victualling crew,B,England,,,,,no
+oqonxxthadzehkjqnycqdqxhqgyoyee,male,39.0,engineering crew,B,England,,,,,no
+bvkbjaseurooypclhrksbeqaevvjt,male,37.0,victualling crew,B,England,,,,,yes
+eucxurgatmsfkcvexmbtrh,male,30.0,engineering crew,S,England,,,,,no
+dbpkanhucgxgpypppiyfvrrpss,male,29.0,victualling crew,B,England,,,,,no
+ossqnbrtmswbgkdqxpdmlkwtgop,male,42.0,victualling crew,S,England,,,,,no
+bpjeckrwoyiljaftdvwk,male,33.0,engineering crew,S,England,,,,,no
+fqaenxvmendgvexdwxy,male,39.0,engineering crew,S,England,,,,,no
+kwnahykccjiiogh,male,30.0,restaurant staff,S,England,,,,,no
+ixcdqaepbybfjudfxkprwvf,male,19.0,victualling crew,S,England,,,,,no
+vvqurqsjhdcvhhfqubpktqlfsvohbsvvzp,male,23.0,restaurant staff,S,England,,,,,no
+lrtoklfkbotbddvkoldsznqmqgvljt,male,21.0,engineering crew,S,England,,,,,yes
+xuubkqczpprfwdngteijojbdzsot,male,29.0,engineering crew,B,England,,,,,no
+gwogkmwkjdolbrdmri,male,52.0,engineering crew,S,England,,,,,yes
+oyrevwimwprtuzshdttc,male,24.0,deck crew,B,England,,,,,yes
+dbjpovstutgybqhreexfwiyicnp,male,26.0,victualling crew,B,England,,,,,no
+kymurxmthgvddcy,male,46.0,deck crew,B,Ireland,,,,,yes
+fotuwkyipuwgpbsbltamiwjk,male,22.0,victualling crew,S,Wales,,,,,yes
+puddnwyhijpseiaq,male,33.0,victualling crew,S,England,,,,,no
+cdxpwnuijedshzspj,male,44.0,victualling crew,S,England,,,,,no
+pzqcwfvbjayu,male,22.0,engineering crew,S,England,,,,,no
+msbmxrbsficpcjxx,male,33.0,engineering crew,S,England,,,,,no
+wnxvihqwjeawgnefhg,male,27.0,deck crew,S,England,,,,,yes
+gelbjdywbstcaaxktkwqlgwxfy,male,37.0,engineering crew,B,England,,,,,no
+ctmfwinkpctrmjuezzxpzhd,male,27.0,victualling crew,S,England,,,,,no
+vzhomlfscrfudfbzqgyxrkvrzv,male,28.0,victualling crew,S,England,,,,,no
+hishwpiusjjtmm,male,30.0,engineering crew,S,England,,,,,no
+omoamkfvlqkcjhhjw,male,30.0,engineering crew,B,Scotland,,,,,no
+gfdczaszehcmrkbcxvbubiqqbiewet,male,21.0,engineering crew,S,England,,,,,yes
+ytsjijnatbagcjixwyefsaqqwaikpnbha,male,45.0,victualling crew,B,England,,,,,no
+xgfuqqpufilycaflxgwqwkkq,male,29.0,engineering crew,S,England,,,,,yes
+pakzvegnkfcbtudqzdoaxptjhtlhynirwo,male,37.0,restaurant staff,S,England,,,,,no
+fjasfrqxncyhmzxvoygmrwxadbd,male,32.0,victualling crew,S,England,,,,,no
+tkxjfbwehiiykrvoaheizc,male,26.0,engineering crew,S,England,,,,,no
+kiaduqgdhjukioflrocudwuktv,male,36.0,victualling crew,S,England,,,,,yes
+ygorigkoqxjthxtkazulxzxxgamf,male,31.0,restaurant staff,S,England,,,,,no
+eccvorfbkkgcxgafhxxgyk,male,32.0,victualling crew,S,England,,,,,no
+jzfhxftcnuqhsezmedeyjwuq,male,38.0,victualling crew,B,England,,,,,no
+fuutybwrehkddsbnd,male,38.0,victualling crew,S,England,,,,,no
+yryiwajitvadkgdpsakaqlqkrx,male,61.0,engineering crew,S,England,,,,,yes
+wexnlkvyyuoycanvdwngnahvljkbf,male,36.0,engineering crew,S,England,,,,,no
+mwbxsegsqgrfznadl,male,32.0,engineering crew,S,England,,,,,no
+vhzlycycfsouiebjxcyhrhuffiux,female,45.0,victualling crew,S,England,,,,,yes
+ksucmmdzsukjcg,male,28.0,victualling crew,S,England,,,,,no
+tfksgatuvesmrg,male,29.0,engineering crew,S,England,,,,,no
+ahhvwirxmimyciiy,male,41.0,engineering crew,S,England,,,,,no
+jhtiaitatwfjlqqegjppstoai,male,40.0,victualling crew,B,England,,,,,no
+majtysvacltujgnembchwrpsid,male,22.0,engineering crew,S,England,,,,,no
+mdbmmnvgditxxgg,male,26.0,engineering crew,S,England,,,,,no
+asgykhukmwujfadnfpgkybyyosc,male,22.0,engineering crew,S,England,,,,,no
+yasxcfpesfwleeaqjlklwxuqx,male,28.0,engineering crew,B,Northern Ireland,,,,,yes
+bazukbinkoetunoclm,male,43.0,engineering crew,S,England,,,,,no
+zgycweazihqnamuwzdu,female,45.0,victualling crew,S,England,,,,,yes
+xxjaoalgxwxyweeywpqenb,male,24.0,restaurant staff,S,England,,,,,no
+mgzebhihdwgxxkmqfn,male,24.0,engineering crew,S,England,,,,,no
+snbkvwgxtjgwewlxnfdzxbf,male,30.0,victualling crew,S,England,,,,,no
+xwraswpvuzchdtkjxvh,male,29.0,victualling crew,S,England,,,,,yes
+aaftyajmfzpemucwylukjnmg,male,37.0,victualling crew,S,United States,,,,,no
+lncgizcjbikspthq,male,35.0,engineering crew,B,Northern Ireland,,,,,yes
+itwotnblrgvprxnunv,male,31.0,deck crew,B,England,,,,,yes
+brcztvkewmorkzxiwryipuiydrwj,male,22.0,victualling crew,S,England,,,,,yes
+dbnpsbztdgizqbjfyyoizrnlnljhy,male,23.0,engineering crew,S,England,,,,,no
+wiapqrdxgiqdqluqdqgqbvuukkbn,male,41.0,victualling crew,S,England,,,,,no
+vpfbxbcyatuu,male,32.0,engineering crew,S,England,,,,,no
+dbhewlmrktgigbczypadkapxrbt,male,47.0,victualling crew,S,England,,,,,no
+vlrnuifokymrzrcbxlhu,male,25.0,victualling crew,B,England,,,,,no
+hauwtxckvlrbfcsznd,male,54.0,engineering crew,S,Ireland,,,,,no
+mgiomvocirtsqgozho,male,30.0,engineering crew,S,England,,,,,no
+ziaclunhgwlbulqjbuv,male,39.0,deck crew,S,England,,,,,yes
+eozftndgqlfdsoludmkabkog,male,21.0,victualling crew,S,England,,,,,no
+nzfousugavixonsvqipxyr,male,21.0,victualling crew,S,England,,,,,yes
+dhpcsqjdasavuve,male,40.0,victualling crew,B,England,,,,,yes
+olwjpgpuosumgpwe,male,24.0,engineering crew,S,England,,,,,no
+zdubagaupwwqhhhsrgthzkqkmbi,male,19.0,victualling crew,S,England,,,,,no
+wvwsjrxabutsbywcrbfqhraxxq,male,17.0,victualling crew,S,England,,,,,no
+tootorrkpgnyydhbdzkaccb,male,29.0,engineering crew,S,England,,,,,no
+zfzpkkrimrrcfozlvnwugfvqpl,male,17.0,victualling crew,S,England,,,,,no
+uqocfturxaumblwxoxoqa,male,39.0,engineering crew,S,England,,,,,yes
+plwoajshnizjxvbjibnjweozvopgy,male,40.0,victualling crew,S,England,,,,,yes
+xdioguvxasqzasqovwkulnt,male,38.0,engineering crew,B,England,,,,,no
+fybiaqgsknfzmaj,male,54.0,engineering crew,S,England,,,,,no
+zhkkqyakbbegokzwzewtk,male,32.0,victualling crew,S,England,,,,,yes
+mojghtxixvolozstdv,male,21.0,victualling crew,S,England,,,,,yes
+bpxguyecrxulxhwhmrlkkkbnkwb,male,34.0,engineering crew,B,Northern Ireland,,,,,no
+iwrtvfoliyfaper,male,23.0,victualling crew,S,England,,,,,no
+lqmqynsplmwkqhuvwyxbgg,male,52.0,victualling crew,S,England,,,,,no
+lhhhszmpmbahhgnuyhoxpniaqkyumgu,male,43.0,victualling crew,S,England,,,,,no
+rucvxkzuemfuxteknq,male,45.0,victualling crew,B,England,,,,,no
+radyjbgcobzvuhkb,male,24.0,engineering crew,S,England,,,,,no
+qlfmtteluozhrmgrthlgbslb,male,22.0,engineering crew,S,England,,,,,yes
+xuoqgregvvccbxoozxdmtejdiokjc,male,30.0,victualling crew,S,England,,,,,no
+ilyfdpgewwqwitsbtlkdktyesf,male,43.0,deck crew,B,England,,,,,yes
+xmthhwfxtyuaefkfrydovsxcxlkspo,male,28.0,engineering crew,S,England,,,,,yes
+lqxgmhyicvsrurfxkridolcz,male,40.0,victualling crew,B,England,,,,,no
+gxvdlxsxyvbezdeprsdhlajjwylejjnkgdu,male,26.0,victualling crew,S,England,,,,,no
+kbsrhzwqyqimjsrzhqfpjeb,male,33.0,engineering crew,B,England,,,,,no
+sskivlmzfrdobqvxe,male,45.0,engineering crew,S,England,,,,,no
+wayipowafgyvasqwnn,male,37.0,victualling crew,B,England,,,,,no
+pnvaffuccopsnizrmap,male,29.0,deck crew,S,England,,,,,yes
+girozgvlknlmrjn,male,36.0,victualling crew,S,England,,,,,no
+phhicyacteeclah,male,25.0,engineering crew,S,England,,,,,no
+wchnbqobkqjtdmuorxbdjni,male,43.0,victualling crew,B,England,,,,,no
+uovphlhbgkpaksgpwjlmjdhdwxej,male,40.0,victualling crew,S,England,,,,,no
+qkvnbdlyisyeehspaadyebqk,male,36.0,victualling crew,S,England,,,,,no
+afgnekssuzgfydvgabztxbrnggd,male,31.0,engineering crew,S,England,,,,,no
+euwwvfmizhwdgdymztppcdzfnx,male,25.0,victualling crew,S,England,,,,,no
+qdwvtdjlrutlmbunzfkzweyi,male,19.0,victualling crew,B,England,,,,,no
+lfsvrzaifjexhwdnbm,male,29.0,engineering crew,B,England,,,,,no
+nwomgjupitpegk,male,26.0,engineering crew,S,England,,,,,no
+xqhinffciaiptcggokcsium,male,46.0,engineering crew,B,England,,,,,no
+plrrvvudlwslxfknrlpqpgswc,male,43.0,victualling crew,S,England,,,,,no
+tekgcjsbzyhxkovmwcowopw,male,29.0,deck crew,B,England,,,,,yes
+rgeshlqysunit,male,22.0,victualling crew,S,England,,,,,no
+fymbymfzbjnpegzgtyf,male,28.0,victualling crew,B,England,,,,,no
+loqrwgtwoepxhidoxzrx,male,24.0,victualling crew,S,England,,,,,no
+jrjcrorotzrktcyds,male,29.0,deck crew,B,England,,,,,no
+srfcyfpvkzlkthrvafvlsycpnpy,male,29.0,engineering crew,S,England,,,,,no
+oxotcdbpamzyjugeyzlihrzgnhtvoo,male,15.0,victualling crew,S,England,,,,,no
+iiykpihjknjpzhkuaphkduva,male,40.0,deck crew,S,England,,,,,yes
+ymueuqrcvysizkmlisaabxpexzuxydgui,male,33.0,deck crew,S,England,,,,,yes
+oxjdjcnjdxfnvpjwtrisensfdxub,male,23.0,engineering crew,S,England,,,,,no
+zghwpyxzqtjszituiqywuvw,male,36.0,engineering crew,B,England,,,,,no
+ybvjqtxwhtrxdjlqytvqjuz,male,38.0,victualling crew,B,England,,,,,no
+dvpondjcbbokfnzpbbbqtbxve,male,31.0,victualling crew,B,England,,,,,no
+hzkocqtyrvxmhqfdxezcpzdnil,male,34.0,victualling crew,S,England,,,,,no
+taicrrmjwvvptfinoxgjlsospuem,male,18.0,victualling crew,S,England,,,,,no
+mcsffohivtrwykrhxohlstv,male,32.0,victualling crew,S,England,,,,,no
+qovjckidaladqideemybo,male,53.0,deck crew,S,England,,,,,yes
+ocyzwrozjylpfxovsnseezwhw,male,23.0,engineering crew,S,England,,,,,yes
+sojwtobxdyfcq,male,27.0,engineering crew,S,England,,,,,no
+cxtgyyyzogaftpilywggdip,male,41.0,engineering crew,S,England,,,,,no
+zxfgsvrtkpxgnpqct,male,23.0,engineering crew,S,England,,,,,yes
+xwmxvqhiqwajlemxqzapz,male,31.0,victualling crew,S,England,,,,,no
+qvmvzgnsbmlbveytfzeuoenbd,male,28.0,deck crew,B,England,,,,,no
+xxffnsmciegfrxjxnxewc,male,19.0,victualling crew,S,England,,,,,yes
+mjgjwppiwdngottjsus,male,31.0,victualling crew,S,England,,,,,no
+jfinvvmvfvhcbmovny,male,19.0,engineering crew,S,England,,,,,no
+gklujzgrbofcticbggqeh,male,21.0,victualling crew,S,England,,,,,no
+sejihaluxieibdpdxpprbtnf,male,20.0,victualling crew,S,England,,,,,no
+zpzorlfxgteuxxst,male,33.0,engineering crew,S,England,,,,,no
+urfrletptadcnvgyxgykxlafg,male,30.0,engineering crew,S,England,,,,,no
+ehuirpjgbmkebrnnzj,male,22.0,victualling crew,B,England,,,,,no
+thqonjigfysdnmfm,male,59.0,engineering crew,S,England,,,,,no
+mheuvpdqfsxyrgdconhxdfze,male,38.0,restaurant staff,S,France,,,,,no
+dmxtbwcpxpovqkhkt,male,27.0,engineering crew,S,Wales,,,,,no
+zjauqxvfytawrhubimmrmvlsrk,male,35.0,victualling crew,B,England,,,,,no
+zxyllfpewishifgfvewhcsg,male,29.0,restaurant staff,S,England,,,,,no
+vduifmugnnssnfultkbljukkqdn,male,28.0,restaurant staff,S,England,,,,,no
+rzxfyoosvibmsnqofjbbgmrlgleqyrcn,male,55.0,victualling crew,B,England,,,,,no
+vbdmmhtwiabpwwjyyjttaeygcxto,male,25.0,victualling crew,S,England,,,,,no
+tbkubppbcagbixzshdoxmyqeqmjbub,female,24.0,victualling crew,S,England,,,,,yes
+iidoftxnkzajsncxeu,male,23.0,deck crew,B,England,,,,,yes
+xgjysdiwvrth,male,38.0,engineering crew,S,England,,,,,no
+bzorpmtfcmxladmugfe,male,41.0,victualling crew,B,England,,,,,yes
+ztbibkplsmvmufigmmcaafuzeqdomu,male,17.0,victualling crew,S,England,,,,,no
+adjtomafhimgysvisvmqzamz,male,37.0,victualling crew,S,England,,,,,no
+ydtrwbdmqfpkqgazffgngssk,male,29.0,victualling crew,S,England,,,,,no
+nkulbtepdysofiptcryvuajvl,male,32.0,deck crew,S,England,,,,,yes
+eiautmlgivwjijdozudupoggnz,male,21.0,victualling crew,S,England,,,,,no
+ucmwqyoncxqpqitbfppaifwryxtgd,male,24.0,restaurant staff,S,England,,,,,no
+ruvbetvvusazsgzfhjolgcofs,male,32.0,victualling crew,B,England,,,,,yes
+elvsjcrmnlahktmfwllfffna,male,31.0,engineering crew,S,England,,,,,yes
+vjmwrsmzmylexrachiggzc,male,38.0,engineering crew,S,England,,,,,no
+eqnxyjovcproredvfkgqpttxs,male,30.0,engineering crew,S,England,,,,,no
+ayvczbownwirpegjcvsoooado,male,40.0,engineering crew,S,England,,,,,yes
+agstqdnpgjgwdexagboikueu,male,44.0,engineering crew,S,England,,,,,no
+oheekdhtnnifwkkjsjwrpuns,male,25.0,engineering crew,S,England,,,,,no
+dywgirnloexmsgggygsaah,male,30.0,victualling crew,S,England,,,,,yes
+tlpwyliywjflrkvpzhd,male,18.0,victualling crew,S,England,,,,,no
+jecbvpdvbdbmhdnuka,male,23.0,engineering crew,B,Scotland,,,,,no
+iekcrydyebpbycwein,male,22.0,engineering crew,S,England,,,,,yes
+qthxnuezvsgzabipdwbkofm,male,43.0,engineering crew,B,England,,,,,no
+zepixqxqsxirqtejpxjhawozfukkeyuiq,male,37.0,engineering crew,S,England,,,,,no
+fgztdhzvkzngfbdvgnvv,male,30.0,victualling crew,S,England,,,,,no
+urakmszcshcfsbqlpoo,male,44.0,engineering crew,B,England,,,,,no
+sivrexaympasepavevudhzmiyh,male,28.0,victualling crew,S,England,,,,,no
+tjrwhyimrupdgjaukzagkgvk,male,26.0,engineering crew,S,Scotland,,,,,no
+zkkkmpprfezgchvdjlz,male,36.0,victualling crew,B,England,,,,,no
+qpleyeiperlbdxehvwdgbsffn,male,34.0,victualling crew,S,Ireland,,,,,no
+exkwpfaaowxfhavllahiwfsuu,male,35.0,victualling crew,S,England,,,,,no
+btyvvfwrelkrokwvxoiszhodfonpt,male,18.0,victualling crew,S,England,,,,,no
+rieigexoncfjzhyayabjepgn,male,28.0,victualling crew,S,Ireland,,,,,no
+dxekcpgocftt,male,20.0,victualling crew,S,England,,,,,no
+uuylzjjjpsxmqloavgydttw,male,42.0,deck crew,S,England,,,,,no
+qdndoirpoufcrwlhhsdolddgtks,male,48.0,victualling crew,S,England,,,,,no
+olbolimacfnrtryrnck,male,30.0,engineering crew,S,England,,,,,no
+ixjnvmfrrwxyoekyarekajnfpytfy,male,36.0,victualling crew,S,England,,,,,no
+kspnxxttyaqnacgivd,male,43.0,engineering crew,S,England,,,,,no
+ukczpziowqqqsizdcwjfvoctfmi,male,31.0,victualling crew,S,England,,,,,no
+ussmfbigiyhijewucs,male,33.0,victualling crew,S,England,,,,,no
+fsytlnctuihrvxojzi,male,49.0,victualling crew,S,England,,,,,yes
+mrsauftgtrdkfrpmzepndkymqd,male,21.0,victualling crew,S,England,,,,,no
+hcridqeeljvqjuomcgb,male,43.0,engineering crew,S,England,,,,,yes
+isexzmwcawyymiixjnpfquhvk,male,20.0,victualling crew,S,England,,,,,no
+stiljzhzrncn,male,41.0,engineering crew,S,England,,,,,no
+yitwrhqvxamianhdw,male,46.0,victualling crew,B,England,,,,,no
+zpbvjvdxwnjtrkuptnhoovm,male,34.0,victualling crew,S,England,,,,,no
+klsmdhwkvhebexlcosl,male,55.0,victualling crew,B,England,,,,,no
+zsghmgssvvhkonsvffshigjwzi,female,40.0,victualling crew,S,England,,,,,yes
+todyyllgslqqqkvzwroq,male,36.0,victualling crew,B,England,,,,,no
+quunivhgzkfjzysxtjrsc,male,22.0,victualling crew,S,England,,,,,no
+ovpckdgwcfmzagjjqqtpkzqhezaq,female,50.0,victualling crew,S,England,,,,,yes
+sqxyrufttbl,male,18.0,engineering crew,S,England,,,,,no
+ncdlsbmvlzkjqbzlhuqnvhe,male,29.0,victualling crew,S,England,,,,,yes
+bfmfpkjavfbrybxhzvleqivaln,male,41.0,deck crew,S,England,,,,,yes
+wxfgazwmvqiemiklvkfwungjdp,male,35.0,victualling crew,S,England,,,,,no
+nxnkwhzwumcqbjptdnqi,male,25.0,victualling crew,B,United States,,,,,no
+alnnusbgqfshkkkeqhsxaomjn,male,26.0,victualling crew,B,England,,,,,no
+senqddjwbdfwmqomkbrpfxtrinkmb,male,27.0,victualling crew,S,England,,,,,yes
+lqedqrbdwtmrgkjamagbfifpm,male,24.0,victualling crew,S,England,,,,,no
+ixufzcyvpzdicabdbnkxsahqbwsown,male,20.0,engineering crew,S,England,,,,,no
+zkuqmjzwbykky,male,47.0,engineering crew,S,England,,,,,no
+fdlneysebzbyesraatvzyreqghhjtuj,male,38.0,deck crew,B,England,,,,,yes
+bnbglzvtljhysegvohwitojmjaig,male,30.0,engineering crew,S,England,,,,,yes
+tsqdctsnpwhthacngdtoduowocmqlao,male,40.0,victualling crew,B,England,,,,,yes
+wibbewyecsozdogtphw,male,41.0,victualling crew,B,England,,,,,no
+rpfkxqxlasvrkxmjok,male,29.0,engineering crew,S,England,,,,,no
+sooijdircwzix,male,33.0,victualling crew,S,England,,,,,no
+kjqhmpmsctxznvd,male,31.0,engineering crew,S,England,,,,,no
+wvykeksjbnvvkyksp,male,36.0,engineering crew,S,England,,,,,no
+aseaeesfkglybrrtgctktuthwb,male,20.0,victualling crew,S,England,,,,,no
+pmhgjmjczslnjdbf,male,37.0,victualling crew,S,England,,,,,no
+nrmhbpmvdktyvthlmxojmxdu,male,29.0,deck crew,B,Wales,,,,,yes
+qkzmgafbrwzfuszkzugtcywju,male,25.0,deck crew,S,England,,,,,yes
+xbqbwsvjmibhvgztvhxzgcotz,male,31.0,victualling crew,B,England,,,,,yes
+pnsaxqnjvvdnlnknusoo,male,45.0,victualling crew,S,England,,,,,no
+npfcfnfasbtgqwrcrpwipqil,male,26.0,deck crew,S,Ireland,,,,,no
+xpexbtliojsxyewxaxeyush,male,24.0,victualling crew,S,England,,,,,no
+rkeuoztdlurttpwytgjcvhctvv,male,34.0,victualling crew,S,England,,,,,no
+fpcfnektirvhxrwnmlbwssvgnfc,male,32.0,engineering crew,B,Scotland,,,,,no
+lmjuyfxopalgnoisgxqdplz,male,36.0,victualling crew,B,England,,,,,no
+kzubaczfjvipfgmrwaoinlow,male,32.0,engineering crew,S,England,,,,,yes
+wawembhrpsgfvkrrydcrdbndfamp,male,40.0,victualling crew,S,England,,,,,no
+uaxhbbhwaqrpbfdxkmzjx,male,50.0,victualling crew,S,United States,,,,,no
+trtrmbdvmsetvpcoxgpekvj,male,27.0,engineering crew,S,England,,,,,no
+ogxzanjpjkuyaxzc,male,27.0,victualling crew,S,Scotland,,,,,no
+ccyqubrqkbboxwjvtxlifdbwuf,male,21.0,victualling crew,S,England,,,,,no
+aaoudwqehhrsxhenvpuzh,female,28.0,victualling crew,S,England,,,,,yes
+udaigogcsjtlzakcpxntjqmmzohk,male,40.0,engineering crew,S,England,,,,,no
+criqibtvoimeiztxxkszvdajgh,female,20.0,restaurant staff,S,England,,,,,yes
+egzthzmmnoslhxjudzcvnrhhj,female,39.0,victualling crew,S,Channel Islands,,,,,yes
+tiaaemagfebyechtjmccayssiigml,male,25.0,engineering crew,S,England,,,,,no
+efwugelzhpoisqhnaevfblvjgvubaftlc,male,32.0,engineering crew,S,England,,,,,yes
+sxskongmrchxx,male,39.0,engineering crew,S,England,,,,,no
+plcklaztduflxkkcinky,male,30.0,deck crew,S,England,,,,,no
+dxasergsjmmnifmljihgzsvmqqsre,male,29.0,deck crew,S,Wales,,,,,no
+okqvrbttfsrrmzlpysyh,male,20.0,restaurant staff,S,England,,,,,no
+hewaonlcomwejtlrlsmjmcthxcbfmplznanfxwx,male,25.0,restaurant staff,S,England,,,,,yes
+hzynsethuutmdkvtn,male,30.0,deck crew,B,England,,,,,no
+xumqkuwetohtqyhfcixmwph,male,22.0,engineering crew,S,England,,,,,no
+svrskqxwpybkpspmhhipwpm,male,59.0,engineering crew,S,England,,,,,no
+hdeqeyidrryrxrodgtcdnbjj,male,31.0,victualling crew,B,England,,,,,yes
+czgwhzvmbwnnwecidzxkuth,male,28.0,engineering crew,S,England,,,,,no
+vrpezrunskeslhzpvf,male,53.0,victualling crew,B,England,,,,,no
+uwhnlzczbpnnmjqkfwtyqbvrzo,male,25.0,engineering crew,S,England,,,,,yes
+jybsqfeaelsebwcordfzrncaqmhs,male,38.0,engineering crew,S,England,,,,,no
+tidvvbwscevgzbfyirssfz,male,23.0,engineering crew,S,,,,,,no
+eiakqcijynrwpjjkczqidwthmlfco,male,38.0,victualling crew,S,England,,,,,no
+glnvuvccmwvwlfsrctmby,male,47.0,deck crew,S,Ireland,,,,,yes
+bmwaabctrizcenazv,male,38.0,engineering crew,S,England,,,,,no
+urkszbudjajvpfhoimcyqwg,male,36.0,victualling crew,B,Scotland,,,,,no
+bdxuynmougbdftodkighjkal,male,37.0,victualling crew,S,England,,,,,no
+jxvbiifewnyyryowv,male,29.0,engineering crew,S,England,,,,,yes
+bstyibdxseblhadxushndmdltox,male,34.0,engineering crew,S,England,,,,,no
+raudiazskbbrmtcgxnsrsfvm,male,30.0,engineering crew,S,England,,,,,no
+oddwclvzqksbjnphwmrypqjnogtqgpqdyop,male,36.0,deck crew,S,Ireland,,,,,yes
+eongvnseheujnsxhwb,male,17.0,victualling crew,S,England,,,,,no
+sdhqwxiedvmcltvsvlxgh,male,38.0,engineering crew,S,England,,,,,no
+mcvwcmjroniyntpvbbsof,male,21.0,engineering crew,S,England,,,,,yes
+pngsmqarvqebportadndgjbod,male,30.0,victualling crew,B,England,,,,,yes
+ihaozbrqvuxdcxpffxcyh,female,40.0,victualling crew,S,England,,,,,yes
+fbilimewrghnhhdccmdq,male,23.0,victualling crew,B,England,,,,,yes
+dblahvysahieczotlyxoruetcvstt,male,21.0,victualling crew,B,England,,,,,no
+uityejqptdrgshpwvotmskoywg,male,36.0,victualling crew,B,England,,,,,no
+drmehuvlvqwvqjhowsgwg,male,44.0,victualling crew,B,England,,,,,no
+ngbudriatffanrfxdoomax,male,26.0,engineering crew,B,Northern Ireland,,,,,no
+pabliqcwmfrejuapvwxawbevljbg,male,32.0,engineering crew,S,England,,,,,no
+zyqgwtvmyvlgbasbmjoakuy,male,22.0,engineering crew,B,Northern Ireland,,,,,no
+seyqoahztmxstbwufg,male,34.0,victualling crew,S,England,,,,,no
+ecokvujrrqfesnfzjqplmkgzocek,male,27.0,engineering crew,B,Ireland,,,,,no
+lpaunugneqtdmyjhqedvpongdl,male,28.0,victualling crew,S,England,,,,,no
+qikqrzkfstpbydjdtje,male,28.0,engineering crew,S,England,,,,,no
+vlixjsimjhzurnnkyo,male,26.0,engineering crew,B,Scotland,,,,,no
+dtiercihmrteigdzuy,male,32.0,engineering crew,B,Northern Ireland,,,,,no
+aolhqshmrpxvmkctfzdngz,male,51.0,victualling crew,S,England,,,,,yes
+xeltmouoejsgxtwbqspo,male,46.0,engineering crew,S,England,,,,,no
+tzartghgauanyquqacbtzdqfzgvmclm,male,53.0,victualling crew,B,Lebanon,,,,,no
+tzeyfxdrinettoojmwfjbtkcirnuwujtdwztcaf,male,19.0,engineering crew,S,England,,,,,no
+mpkmteqyowpnlrqftwwibny,male,20.0,restaurant staff,S,Spain,,,,,no
+vidmkzofsnjqlortcuoucaeok,male,23.0,restaurant staff,S,England,,,,,no
+fgxmuhdtrwdrtmmtmvhyy,male,24.0,deck crew,B,England,,,,,no
+wqllcmtflslcrspitxshukar,male,39.0,victualling crew,S,England,,,,,no
+lpjotubgrjephntcrbdnztjc,male,32.0,deck crew,S,England,,,,,yes
+yevnjavshrzlnqgxtw,male,29.0,engineering crew,S,England,,,,,yes
+fljoiyxlmyakmcap,male,22.0,engineering crew,S,England,,,,,no
+npudyqwcxejtxoaqqlzfoycec,male,44.0,engineering crew,S,England,,,,,no
+ieyhyegsccxvubykslkyyjgdqqbghcddtqml,male,42.0,victualling crew,S,England,,,,,no
+cceiparolkwxycvocowbzhkjki,male,27.0,engineering crew,S,England,,,,,no
+htlznpcbzvlvwmellvwje,male,26.0,engineering crew,S,England,,,,,no
+wsxnbcxfpwyzgivgfe,male,30.0,engineering crew,S,England,,,,,no
+ymjgsstihstnvgpidtloooupt,male,28.0,victualling crew,B,England,,,,,yes
+bmmcavzyvrcsygmowlijjhbkna,male,23.0,engineering crew,S,England,,,,,no
+wenevdmvhnqzwotdd,male,36.0,victualling crew,B,England,,,,,no
+fiuynbzvecchpbtlpmrzgeai,male,24.0,engineering crew,B,Scotland,,,,,no
+dcsiniuwmovbxkscyl,male,37.0,victualling crew,S,England,,,,,no
+gkypmevgybywuuahaf,male,20.0,victualling crew,S,Scotland,,,,,no
+btavgfgousqzfzbfunvqvfwrgglzc,male,39.0,deck crew,B,Scotland,,,,,no
+hmdnviegolwczmbkyzkyqkkahfuagfqnshwqbjb,male,42.0,restaurant staff,S,Italy,,,,,no
+nxhhudtvgytklleuoyzmaqfw,male,26.0,victualling crew,S,England,,,,,yes
+snahigsftyoobocfjwpamsghumkk,male,30.0,engineering crew,S,England,,,,,no
+frbndfbmjaudcalnwmljflnuos,male,33.0,engineering crew,S,England,,,,,no
+rrkpeeavhunhkrvwyfdk,male,39.0,victualling crew,S,England,,,,,no
+ebcnnecbkzbyoyxhdivqqgdlfveypbnkckn,male,48.0,deck crew,B,Australia,,,,,no
+urjjrdmdroclppfavns,male,46.0,victualling crew,S,England,,,,,no
+mfbewvqucwpqqluimvjsazazb,male,35.0,victualling crew,S,England,,,,,yes
+ybbeiwrlvutxigtzecnlp,male,30.0,engineering crew,S,Scotland,,,,,no
+sghnejlpkrprruzjcbrrx,male,42.0,engineering crew,S,England,,,,,no
+rjgbrhxukojjrgcuz,male,22.0,engineering crew,S,England,,,,,no
+giimtmefcadmkazpimtuxgkj,male,21.0,engineering crew,S,England,,,,,no
+cfzvfpzaxkkpeez,male,30.0,engineering crew,S,England,,,,,yes
+tupvnucdzlmrcjclnfvx,male,30.0,engineering crew,S,England,,,,,yes
+gvljymrawbjeyukrqf,male,29.0,engineering crew,S,England,,,,,yes
+cfjvqjcukhyklfdowcqnkosykl,male,44.0,victualling crew,B,England,,,,,no
+huuwenwgnpadcgqipf,male,31.0,engineering crew,S,England,,,,,no
+qshtkpdpomygwujrrnwhslvhsa,male,27.0,victualling crew,S,England,,,,,no
+yveivtmlnstjoz,male,32.0,engineering crew,S,England,,,,,yes
+yaotvprsxpnebrxwoqxsgdpz,male,27.0,deck crew,B,Channel Islands,,,,,yes
+lthczptprckpnmmhjbzubrryqtknikwfkvfpeq,male,63.0,deck crew,B,England,,,,,no
+yxiwkpgwneexhewssxhvbezhd,male,31.0,victualling crew,S,England,,,,,no
+ckzcizswbbvyzj,male,39.0,victualling crew,S,Scotland,,,,,no
+glxudanljxfwthanaosvhufpskx,male,32.0,victualling crew,B,England,,,,,no
+bpfdchpaecolqjpm,male,27.0,deck crew,S,England,,,,,yes
+cjvzukjqoywdyzyydbrpcrllx,male,36.0,engineering crew,S,England,,,,,yes
+trrxcvunmtvxjya,male,43.0,victualling crew,S,Wales,,,,,no
+whezgpikqrilzttnkdbcpvry,male,17.0,victualling crew,S,England,,,,,no
+hferfaofvujcgumjrjfvuibjxbpkzlsafztuq,male,19.0,restaurant staff,S,England,,,,,no
+pqgzlghxgbjenvwqrdyrtfgfbrpfish,male,32.0,engineering crew,S,England,,,,,no
+bpxapgupaykqtdnazpdr,male,32.0,engineering crew,S,England,,,,,no
+pjwfnnboetwncltmkk,male,29.0,engineering crew,S,England,,,,,no
+hmonoaewsmbkqsilxynmuhclf,male,29.0,victualling crew,S,England,,,,,no
+lgbjtkivxqjkzeqpljxeibquplbttsmo,male,45.0,engineering crew,B,England,,,,,no
+usuzejhujnmgexydoiq,male,37.0,victualling crew,S,England,,,,,no
+fizlhkhzlnkoosooqahiazxye,male,27.0,engineering crew,B,England,,,,,no
+olxwousnuryubazbusxmrfichq,male,18.0,victualling crew,S,England,,,,,no
+mdbjamqlghzidozaqhabfj,male,45.0,deck crew,S,England,,,,,yes
+rkeybcwfdswigvqcrkflcfby,male,24.0,victualling crew,S,England,,,,,no
+rzubwkuwlvsgnutc,male,28.0,engineering crew,S,England,,,,,yes
+isybdmicmeqmhdkifkklcwvbog,male,25.0,victualling crew,S,England,,,,,yes
+gnxmoirkqfyaaunrthkivefy,male,21.0,restaurant staff,S,England,,,,,no
+hbcroqzstvhckpawfu,male,39.0,engineering crew,S,England,,,,,yes
+zndsbcyyvybakkhivlxtnfhuwuilccgxnm,male,34.0,victualling crew,S,England,,,,,no
+qvkpnjtnxbklcggrygipfuy,male,31.0,victualling crew,S,England,,,,,no
+ciyuigleiajnhfhamiobzqj,male,49.0,victualling crew,B,England,,,,,no
+ckazwgpzsmgmbnrrhpdolnm,male,20.0,restaurant staff,S,England,,,,,no
+pbxslvvrbaorkwnqtxzkvscpqj,male,17.0,restaurant staff,S,England,,,,,no
+qdjufcbxwwqenpvloxodsjwfzzrsmst,male,22.0,victualling crew,S,England,,,,,no
+zatbxorbfxcvcfsskxvqxal,male,37.0,deck crew,B,England,,,,,yes
+tbljgrbipmxqzxtqjirkq,male,20.0,restaurant staff,S,England,,,,,no
+reneuzdicgghmlrrbdyffcvwbeu,male,48.0,victualling crew,S,England,,,,,no
+mturzjjzcmtmeneifwarjjgnxae,male,32.0,victualling crew,S,England,,,,,no
+rnlukvigqwjfjirsxnrtvsh,male,19.0,engineering crew,S,England,,,,,yes
+dyqobvxseohggomyzqrxxyfuwr,male,23.0,engineering crew,S,England,,,,,no
+pxexljnycsuwppevazyftnmhzto,male,26.0,deck crew,S,England,,,,,yes
+cnaaspdznamvzdtswecnvx,male,25.0,victualling crew,S,England,,,,,no
+fmxrymrkbatpzvcydpteovyppgplmiji,male,30.0,victualling crew,S,Germany,,,,,yes
+hsqxkjglyngxhjnegmqikmzvvvrofnbvrkhdbt,male,23.0,victualling crew,B,England,,,,,yes
+srsmwyxtlnsysqzgcghkybv,male,27.0,engineering crew,S,England,,,,,no
+wqdluovmnnphojarnawqvlrrh,male,25.0,victualling crew,B,England,,,,,no
+nxxdcnprrennzdapukqfijhgt,male,35.0,restaurant staff,S,England,,,,,no
+lnqqyaieyyxvjmasah,male,17.0,restaurant staff,S,England,,,,,no
+gzzrvppsyfrikbyzbyqamxnecl,male,33.0,restaurant staff,S,England,,,,,no
+ondztnfvmfrtfytmuzwjsxjbxgx,male,25.0,engineering crew,S,England,,,,,no
+sqqwcwfzyagnxwbwejdapzif,male,34.0,deck crew,B,England,,,,,yes
+iqreegfbhgcfmbyutrjxtedsn,male,18.0,victualling crew,S,England,,,,,no
+qcmbgltyvsprekrpckmpgcmqxobbeatudy,male,24.0,engineering crew,S,England,,,,,yes
+wxcucmvsoptullflhg,male,28.0,restaurant staff,S,England,,,,,no
+sdfbfehubaauojzbzfvocnesftrk,male,33.0,deck crew,S,Channel Islands,,,,,yes
+hekmhjxyrtdeheel,male,33.0,engineering crew,S,England,,,,,no
+fdjdtevgkqqjpbexjukolb,male,36.0,victualling crew,S,England,,,,,no
+kxxajnehjebsbyunavcwvfhlj,male,34.0,victualling crew,S,England,,,,,no
+vulakejhrxyaige,male,22.0,victualling crew,S,England,,,,,yes
+tlbmhuhuxnxxhcyevtoweysnnrqgmfy,male,30.0,engineering crew,S,England,,,,,yes
+jqtmtgvjfjvptwnfczcntuftdqp,male,23.0,victualling crew,S,England,,,,,yes
+spjlgvmkcucpxanptozvkbydrdbkedduno,male,20.0,engineering crew,S,England,,,,,no
+xpqunbssqoytrkubkmkvmxm,male,17.0,restaurant staff,S,England,,,,,no
+rstzlobsswwczjutpooedyiyx,female,36.0,victualling crew,S,England,,,,,yes
+lbizussaptpitqlabrnaygqxjiczxgkq,male,23.0,victualling crew,S,England,,,,,no
+feufsfrfzqrqvnhxkglfrit,male,24.0,engineering crew,S,England,,,,,yes
+tbzqfrctahotrswpypsciiusnolpk,male,21.0,victualling crew,S,England,,,,,yes
+atvggktlcwbmkubzrhzb,male,46.0,victualling crew,B,England,,,,,no
+qnonxyqeppuntsuekzyfewpnypnvxi,male,22.0,engineering crew,S,England,,,,,no
+txlctashxukfpcwublbhbbrwzn,male,23.0,victualling crew,S,England,,,,,no
+ghsricnvmhbmqobf,male,20.0,victualling crew,S,England,,,,,yes
+fwxqtjadfxtjmewfkjzfdk,male,31.0,engineering crew,S,England,,,,,no
+yierskplwtcwwxnpztrglrfvrnyadgjgi,male,22.0,engineering crew,S,England,,,,,yes
+pcccmbepfrqmiuznvlztcg,male,44.0,victualling crew,B,England,,,,,no
+dxmuudrkltjbxpepkncgayea,male,29.0,victualling crew,S,England,,,,,no
+dwirrlnvvznyedyhuo,male,29.0,engineering crew,S,England,,,,,yes
+toabksnxzevgkutzwwldykltkm,male,50.0,victualling crew,B,England,,,,,no
+oeaujjomxvtppqngfivuiydknvztb,male,38.0,victualling crew,B,Channel Islands,,,,,no
+sfhxviuknjzmjnamfb,male,21.0,restaurant staff,S,England,,,,,no
+beazeipxdzpufnjnkgasfbs,male,32.0,victualling crew,B,England,,,,,yes
+xlxwdjtqbrxsqjeh,male,20.0,engineering crew,S,England,,,,,no
+tohwywmzlagkmdeufqwwsvzdojzsxbx,male,55.0,victualling crew,S,England,,,,,no
+ddtrqnebydsdnocadiesyfemhog,male,34.0,engineering crew,S,England,,,,,no
+nryfdxilgpjwqhieucpmwuw,male,30.0,engineering crew,S,England,,,,,no
+xhkpqhajtdksitfyikfpjifbkunlgxeey,male,31.0,victualling crew,B,England,,,,,no
+yyvimcyfowjldnvnljfeyrykcnxxah,male,22.0,restaurant staff,S,England,,,,,no
+alxhuggxhjaqxbobt,male,32.0,engineering crew,S,England,,,,,yes
+vliljmbtrygahwldfleynhn,male,25.0,victualling crew,S,England,,,,,no
+eupqakcmyzdajqf,male,19.0,victualling crew,S,England,,,,,no
+lvrcmxklfyhyositrwayvosvie,male,30.0,engineering crew,S,England,,,,,no
+ynctqmtgchglfortszttymttdc,male,36.0,engineering crew,S,England,,,,,no
+sfmwpkzukhssicgfreggspa,male,22.0,victualling crew,S,England,,,,,no
+nixjpcywbruavtraiumhmvwke,male,30.0,victualling crew,S,England,,,,,no
+evguqpcegcizygicxbq,male,22.0,restaurant staff,S,England,,,,,no
+vourqgsjrueflknuweu,male,29.0,victualling crew,S,England,,,,,no
+nfuohthmavvvoxttwoejimlakew,male,19.0,victualling crew,S,England,,,,,no
+ouacfitvauphiixwwviwocl,male,37.0,victualling crew,B,England,,,,,no
+ylfnzgqstbyceyabivcq,male,40.0,victualling crew,B,Wales,,,,,no
+xvynyhikbdqoxjsvntbedxovcb,male,35.0,engineering crew,S,England,,,,,no
+wrpwycdnzadwqyslmbqvxvyh,female,41.0,victualling crew,S,England,,,,,yes
+xjsgslhaahizfmzcndxolmccteu,male,30.0,victualling crew,S,England,,,,,no
+jibjskyzmubhdqhqngon,female,41.0,victualling crew,S,England,,,,,yes
+umksjzjvdcpkbdwwxrsaibltaxnpmqud,male,31.0,victualling crew,S,England,,,,,no
+nxyyylvaqcukqiefhab,male,27.0,victualling crew,S,Ireland,,,,,no
+amjtxbhioowxhgeqwsinjahi,male,36.0,victualling crew,S,England,,,,,yes
+jixcvrbjqbruaklyhmimxdgl,male,23.0,restaurant staff,S,England,,,,,no
+sfmxzvlgujrjaqawsgzlt,male,26.0,engineering crew,B,England,,,,,no
+hckddrollaojpkxvpozw,male,49.0,restaurant staff,S,England,,,,,no
+eslivlyxatzbkeakfqxgbyv,male,31.0,victualling crew,B,England,,,,,no
+qwrsxzjtfhoqleouunqrhjb,male,32.0,deck crew,B,England,,,,,yes
+snnkmfuwchpizev,male,24.0,engineering crew,S,England,,,,,no
+sfoiixmuzodccdwfpqvvlc,male,58.0,victualling crew,B,England,,,,,yes
+mujqllkxtzjumweinncikzkuflq,male,17.0,victualling crew,S,England,,,,,no
+ywoxbhuojrlyhyubirhwljvn,male,27.0,engineering crew,S,England,,,,,no
+gjkdssoybfyxhqiy,male,28.0,victualling crew,S,Channel Islands,,,,,no
+oqcwhlpordrhmddxleklinusd,male,33.0,victualling crew,S,Canada,,,,,yes
+fffsbonfcyjxapgicynyxnpzpadcjkruplwkrqz,male,24.0,restaurant staff,S,Italy,,,,,no
+rusawjlnkbzbltkqsmlzhtji,male,25.0,restaurant staff,S,England,,,,,no
+pusexwtialwuaqzszzmorxvx,male,47.0,victualling crew,S,Wales,,,,,no
+rtyiuzmqrhkybdjlfsmeregjwlyn,male,30.0,engineering crew,S,England,,,,,no
+ockslqeqqqqlmrmwtoy,male,24.0,restaurant staff,S,England,,,,,no
+grivvjddijgidbvbhba,male,26.0,victualling crew,S,England,,,,,no
+zjaowzhxyvvxjxle,male,22.0,engineering crew,S,England,,,,,no
+mfwiqywnrsumfczp,male,23.0,engineering crew,S,England,,,,,no
+laafibkpnmiklodlxgreqreizbt,male,23.0,engineering crew,S,England,,,,,no
+sdpwebcfrantfbcibopbrmlbly,male,23.0,victualling crew,S,England,,,,,yes
+dmhyctpudidhvrmbqdxayrwc,male,31.0,deck crew,S,England,,,,,no
+quohffmvzjmbtnbefyrxvnkhibk,male,33.0,deck crew,S,England,,,,,yes
+zbxmmwqiqilnyublsrckw,male,42.0,restaurant staff,S,Italy,,,,,no
+nhitsijfwctjadipjmsn,male,41.0,engineering crew,S,Northern Ireland,,,,,no
+ydfosjcdtdwurwzlvsptuswlopty,male,28.0,engineering crew,S,England,,,,,yes
+nkaxrollclocrlh,male,20.0,victualling crew,S,England,,,,,no
+kcuwkktvfpwlcdhqiwv,male,55.0,victualling crew,S,England,,,,,no
+wmvcztixdyfjghqztnnvljfkdonk,male,25.0,victualling crew,S,England,,,,,no
+yntxqtebdmdmakydwjilidyorjnmtjn,male,24.0,engineering crew,S,England,,,,,yes
+ssktjxqyfvjctlevrnmcrm,male,40.0,engineering crew,S,England,,,,,no
+cdivinktwmigbhvdz,male,31.0,engineering crew,S,England,,,,,yes
+bzvpdqqzfgwfrksagyk,male,24.0,restaurant staff,S,England,,,,,no
+idzwkiksyixwlrgythrdtgrmpz,male,25.0,victualling crew,S,England,,,,,yes
+vqxrgprhhmqjozh,male,42.0,victualling crew,S,England,,,,,no
+gweiqilktinokonclhruu,male,40.0,victualling crew,B,England,,,,,no
+brmcrjzwuilpdtuc,male,32.0,engineering crew,S,England,,,,,no
+duqzefidmwliugukdvfpn,male,20.0,engineering crew,S,England,,,,,yes
+nebaeupzbnrzxzvemiwrbe,male,32.0,engineering crew,S,England,,,,,no
+boocorhxphlgjacbymihglhkji,male,25.0,engineering crew,S,England,,,,,yes
+dqmidxzqpqeixmcdyjrnezqedreywwgmn,male,19.0,engineering crew,S,England,,,,,no
+wilzjavgnusfqusdwfxzsaeryz,male,29.0,victualling crew,B,England,,,,,no
+igggutxbyhuvejxjdrdwcsgfzchguxco,male,31.0,victualling crew,S,England,,,,,yes
+pfqsebuwcuoobxlngrbjvrolfslmms,male,24.0,victualling crew,S,England,,,,,no
+tzjazwckijwqbekgnufqkhxsnhmnh,male,37.0,victualling crew,S,England,,,,,no
+whtrcajrsyernercvsdunybt,male,37.0,deck crew,S,Northern Ireland,,,,,no
+vkjyzglsfjqabzipwjg,male,23.0,victualling crew,S,England,,,,,no
+rppxeepzwxtcfukgglwf,male,23.0,engineering crew,S,England,,,,,no
+haumyshetoogjzskflx,male,41.0,victualling crew,B,England,,,,,no
+hrpsrgewbdrsaoxxbfzfko,male,33.0,victualling crew,S,England,,,,,no
+mykkxjrztrkqzzlqqfbsoabvcjzwniz,male,36.0,victualling crew,B,England,,,,,no
+tnexvgxinbwkydgik,female,28.0,victualling crew,S,Northern Ireland,,,,,yes
+agmrxdijzcmyowmt,male,31.0,engineering crew,B,England,,,,,no
+xsuicqssqqffdgavoiskbddmebv,female,30.0,victualling crew,S,England,,,,,yes
+vjwqrskxvrcpvbssmq,male,40.0,engineering crew,S,England,,,,,no
+pjfsxunlzqfigffku,male,29.0,victualling crew,B,Scotland,,,,,no
+sjnjqulpdkxrqwcmxuuuxppnvut,male,62.0,deck crew,S,England,,,,,no
+xtrhkbnosfqyqlzxwbsdofpq,male,22.0,engineering crew,S,England,,,,,no
+pjbxzscivuuspuauoulnhuowcbjfagzt,female,45.0,victualling crew,S,England,,,,,yes
+buiatlilzgrhslostlotdxpw,male,40.0,victualling crew,S,England,,,,,no
+mwdivxfwyehbtajtcsouvyrkarvonp,male,38.0,victualling crew,S,England,,,,,no
+mitopybxdsbuaeshtmhxjct,male,27.0,engineering crew,S,England,,,,,no
+iurqtcxxbpqqk,male,20.0,victualling crew,B,England,,,,,no
+qwidwxxlsopbnmzxbeoku,male,39.0,engineering crew,B,Scotland,,,,,no
+jqrtzxealndpjchlxzypbvvu,male,24.0,victualling crew,S,England,,,,,no
+sdxsafbumwudrqmhcitvaflisgzz,male,35.0,victualling crew,S,,,,,,no
+kngpfwecebwwkilyyllqahwcho,male,33.0,victualling crew,S,England,,,,,no
+xhilrbecgsuitbdsvf,male,26.0,deck crew,S,England,,,,,no
+ainpebwlquwrirvhnhnhxei,female,22.0,victualling crew,S,England,,,,,no
+bxrzpywnrswdlcpvoghoad,male,41.0,engineering crew,S,England,,,,,no
+yojayqcjlyqldu,male,26.0,engineering crew,S,England,,,,,no
+wnrakmrxrsedtevoujsibphx,male,21.0,engineering crew,S,England,,,,,yes
+tetnpkgtifqkiflkdcwwebgbwdx,male,36.0,engineering crew,S,England,,,,,yes
+fnayohasmsuuahouenpmf,male,38.0,victualling crew,S,England,,,,,no
+yxgjormbfvoomtrotsjkcbgrzywtfp,male,31.0,engineering crew,S,England,,,,,no
+ktdlwmyxyteslegnlrhotsi,female,47.0,victualling crew,S,England,,,,,yes
+sunxqzvzhloppqenhuocwvcjxvxbbjq,male,36.0,victualling crew,B,England,,,,,no
+qvjwejmnqsdxdilgkzdudqbi,male,30.0,engineering crew,S,,,,,,no
+szcodymihgcibbylm,male,28.0,victualling crew,B,Scotland,,,,,yes
+jndigupidcuxgwzencatktzi,male,20.0,engineering crew,S,England,,,,,no
+cvonlzwwinnzjkfdh,male,33.0,victualling crew,S,England,,,,,no
+ruinrxrudjfewvwpxvsnifax,male,29.0,victualling crew,S,England,,,,,no
+noqytjrudkppwrzcjdqvxwnrz,male,25.0,engineering crew,S,England,,,,,yes
+jujqkjwxoxuirqxlswirzygdwdhuetrhd,male,19.0,victualling crew,S,England,,,,,no
+ffmphbldotjvjiqyvdwnao,male,35.0,victualling crew,S,England,,,,,no
+reclzzuekuyzbfxvsmuvpzwzzao,male,34.0,victualling crew,B,England,,,,,no
+xxrvgiydyvyztcoxcbudjjkhnnb,male,31.0,victualling crew,B,England,,,,,no
+ehbjjsnbwlhiyepbuxikoic,male,28.0,engineering crew,S,England,,,,,no
+xxukqiddexqwbuif,male,25.0,engineering crew,S,England,,,,,no
+uiggjzetvujihjvqz,male,48.0,victualling crew,B,Northern Ireland,,,,,no
+ickyyjqivuxqwxjaoyfwnak,male,45.0,victualling crew,B,England,,,,,no
+wsmfcqvenmndeipnswhtmiqdsfzbwmdjkeg,male,24.0,deck crew,S,England,,,,,yes
+wjibunhtxkummsmlqgegtenbldthadyplxkf,male,20.0,victualling crew,S,England,,,,,no
+nwtoeiwgllldjjmebykpg,male,24.0,deck crew,S,England,,,,,no
+ymqosoyavbvgbgjndauyiirjfkbx,male,22.0,victualling crew,S,England,,,,,no
+xwrxoeswvwsyfprabjxjpzozwtiddnvbgzuiq,male,40.0,deck crew,S,England,,,,,no
+izohvocstlztcnetss,male,24.0,engineering crew,S,England,,,,,yes
+jsfghrxzghmogx,male,42.0,engineering crew,S,England,,,,,no
+mdpiwujvqfaftdmppgsxjk,male,49.0,engineering crew,S,England,,,,,no
+gmzdhfdawpxshjylgel,male,19.0,victualling crew,S,England,,,,,no
+oidwfnqveyprtyklkriulhakh,male,28.0,engineering crew,S,England,,,,,yes
+rufcqfegciyddkjfzntpowha,male,32.0,victualling crew,S,England,,,,,no
+ramppkpilyizchzozgfa,male,19.0,deck crew,S,England,,,,,no
+vvkpoedcynpxjpwpxu,male,27.0,victualling crew,S,England,,,,,yes
+filiizavbxbfzxyygzmc,male,23.0,restaurant staff,S,England,,,,,no
+jzrhtieyxwizapdfkwrtlmhp,male,35.0,victualling crew,S,England,,,,,no
+jnwgwlqtcmegjwpqtqlawxvnezp,male,17.0,victualling crew,S,England,,,,,no
+nkihthheettnigtooxiaweg,male,46.0,victualling crew,S,England,,,,,yes
+bpygwduhsyhklaxcupgsycylzi,male,23.0,victualling crew,S,England,,,,,yes
+ahdtauxpopgpkfjpipyvfwjibk,male,30.0,victualling crew,B,England,,,,,yes
+dhswyifmvsgvcklitevqbouvjyxs,male,24.0,engineering crew,S,England,,,,,no
+tbypmbgvderlpmbzrzgfwgugciv,male,25.0,victualling crew,B,England,,,,,no
+kjzinwijtqtaximlysuijbjsnt,male,35.0,engineering crew,S,England,,,,,yes
+sfqdxwmcihhuahjeofiw,male,39.0,victualling crew,S,England,,,,,no
+rxynubfusjyfuvic,male,25.0,victualling crew,S,England,,,,,no
+ifxqdhntxqnjsicwbibqq,male,44.0,engineering crew,S,England,,,,,yes
+bhvqlcltwmwbwydcjusktbakoyaj,male,25.0,engineering crew,S,England,,,,,yes
+ngulkwryeckbovbsiznjqj,male,27.0,restaurant staff,S,England,,,,,no
+zcnkgsobxhtmbjbdesmhkxfdrt,male,31.0,engineering crew,S,England,,,,,no
+tqtqowmtsbcqnp,male,29.0,victualling crew,B,England,,,,,yes
+ldzhdcioykslssoe,male,28.0,victualling crew,S,England,,,,,no
+pfysahdqsuupnbuljpykjmgoap,male,30.0,victualling crew,S,Scotland,,,,,no
+krlpapafeaddcafw,male,32.0,engineering crew,S,England,,,,,no
+nxqnyfztzqtyacouxvcfgjngm,male,39.0,engineering crew,S,England,,,,,yes
+ogimsivsukgwsuiyezv,male,37.0,engineering crew,B,Ireland,,,,,no
+zownitcvkwxxqfrqtgaqtbaeaokw,male,42.0,victualling crew,S,England,,,,,no
+izxffotcxjetnsmxwelwthtwrijlqa,male,28.0,victualling crew,B,England,,,,,no
+lrnfoyrhqhzjtaizhhlhcxukvq,male,17.0,restaurant staff,S,England,,,,,no
+plbanumgtzrtuclowbcy,male,20.0,restaurant staff,S,Italy,,,,,no
+kobzqwwlcubiwgqydaqkgqaerhbms,male,35.0,restaurant staff,S,England,,,,,no
+smnldvhbimloavlyqoqtpykoygywektjmrl,male,38.0,engineering crew,S,Netherlands,,,,,no
+tndpqpaeehwhwaky,male,36.0,engineering crew,S,England,,,,,no
+trdwskhlpizeanjiietppswkjss,male,38.0,victualling crew,S,England,,,,,no
+ryxjyptnzlrbtic,male,33.0,engineering crew,S,England,,,,,no
+zynfaovtcmhpxsgzw,male,34.0,engineering crew,S,England,,,,,no
+wblzmpwmuywygkwatwltdgtyujfcvhev,male,21.0,restaurant staff,S,England,,,,,no
+qstgwrkoffejxonmdsuucdowaa,male,32.0,deck crew,S,Channel Islands,,,,,yes
+gcbxnqucnfiulxaxvhmypujwbafqoileqbfvl,male,19.0,restaurant staff,S,England,,,,,no
+fxbffakimzxvlhgriphmzwdrtklymss,male,18.0,restaurant staff,S,England,,,,,no
+dbuoddcyszgvyncoxgv,male,25.0,restaurant staff,S,Italy,,,,,no
+adbwhhqznqlnemxuvfauudojnzlolk,male,35.0,restaurant staff,S,England,,,,,no
+tcfwqsfiqvanhli,male,37.0,victualling crew,S,England,,,,,no
+juxmmspudifmduwulydcdnrpbxz,female,36.0,victualling crew,S,England,,,,,no
+dykigtzzuoezhotemg,male,48.0,victualling crew,B,England,,,,,no
+gnhluyurljhccpycuzuqgb,female,32.0,victualling crew,S,Ireland,,,,,no
+nudxkhqmmccnobvw,male,23.0,engineering crew,B,England,,,,,no
+nvepjqizkezweifl,male,34.0,victualling crew,B,England,,,,,no
+wgfqughpgcrdnegayjloakg,male,31.0,engineering crew,S,England,,,,,no
+zfcxnzpjfyoeoxhvifrbvd,male,40.0,victualling crew,B,England,,,,,no
+ptvfzlhrajsvmceef,male,37.0,victualling crew,S,England,,,,,yes
+ncapqrypcvzvufxqzejdpgxe,male,40.0,engineering crew,S,England,,,,,no
+nitzcsbtjcmqefjgaectzxtyqo,male,37.0,victualling crew,B,England,,,,,no
+pfcavbrjwwvjfddw,male,26.0,victualling crew,S,England,,,,,no
+yvmvmunwnosiyypyulpgdeegpel,male,26.0,engineering crew,S,England,,,,,no
+bjvcolchnqxvwarfndfrbknmhk,male,15.0,victualling crew,S,England,,,,,no
+gktywyvqjpahymsxma,male,27.0,engineering crew,S,England,,,,,no
+xmmrwbexetpjqvivowlexxmpodviqdo,male,25.0,victualling crew,B,England,,,,,no
+yggkvwbtyogmiflgpoymsmjeyc,male,31.0,engineering crew,S,England,,,,,no
+xrzwuvbfuhugptihzfvbafr,male,50.0,victualling crew,B,England,,,,,no
+doimgnbeuqvafkdxvormavut,male,28.0,engineering crew,S,England,,,,,no
+qddqytprbyvirjtqxqrfzoxcyjk,male,52.0,victualling crew,S,United States,,,,,yes
+hjoytfoxtvxaoprsshowmyapr,male,21.0,victualling crew,S,England,,,,,no
+tcqeaeaobthitoupcobkigxikjal,male,30.0,deck crew,B,England,,,,,yes
+qrfebyzrnanynnbwlhrlzfce,male,30.0,victualling crew,B,England,,,,,yes
+pcuezrreydzpavpexozgpbolmptj,male,29.0,victualling crew,B,England,,,,,yes
+skhjtngfncpmssjwhmcpzggszyy,male,18.0,victualling crew,S,England,,,,,yes
+bllrinnnkvhpwesqv,male,21.0,engineering crew,S,England,,,,,no
+pncpxbfywgdfysyou,male,32.0,engineering crew,S,England,,,,,yes
+pkztkficetdvswojw,male,37.0,victualling crew,S,England,,,,,no
+yzqwfgqsgstmakbdvkqryqnr,male,27.0,victualling crew,S,England,,,,,no
+kfnmiyclytfhsuweeecraqvw,male,28.0,engineering crew,S,England,,,,,no
+burghvzcszuoforbbyioxsyozgfqajl,male,32.0,victualling crew,B,Australia,,,,,no
+ymvhwpaijeqjsmvvemexfohmf,male,23.0,engineering crew,S,England,,,,,yes
+nitjqjifndfywbxzagewcpjoka,male,39.0,victualling crew,S,England,,,,,no
+zwookooopqraunmcfnjqtcrku,male,37.0,victualling crew,S,England,,,,,yes
+rafsroiodjnqbatryxdwowg,male,39.0,deck crew,S,England,,,,,no
+ahqtgawoicgqyyykixcammqvg,male,42.0,victualling crew,S,England,,,,,no
+expncxyswtmcflngstgozmxdflcz,male,26.0,engineering crew,S,England,,,,,no
+iiikqnbjtlqksrkxrfcysvioz,male,28.0,victualling crew,S,England,,,,,yes
+euxbwptlyxyyqqqfmozpwltxhyirj,male,35.0,victualling crew,S,Ireland,,,,,no
+zidkabzarsnfijsjrhh,male,59.0,victualling crew,S,England,,,,,no
+heursdfbmqoxfhcfgwvqsgnopcen,male,34.0,victualling crew,S,England,,,,,no
+pgnqnaelgaophcbgmymuoshjomwd,male,28.0,engineering crew,B,England,,,,,no
+dtovbwwlhxklalqhibiubuqmag,male,53.0,engineering crew,S,England,,,,,no
+zplwxgtuxtpylllupcmslpsgzhj,male,38.0,victualling crew,S,England,,,,,yes
+njzwgiiuxkwxklxfzyt,male,36.0,victualling crew,S,England,,,,,no
+homvkohdrbajznrtyzpjynkeot,male,39.0,engineering crew,S,England,,,,,no
+gdunhufknptkscfbngdnvelsudfujoukbg,male,31.0,victualling crew,S,England,,,,,yes
+jvawsinctrbmhcgypr,male,39.0,victualling crew,S,Austria,,,,,no
+vfbrgkztijftmynnhxntoa,male,37.0,engineering crew,S,England,,,,,no
+dfrqayotvbpeieezplensnzqxh,male,35.0,engineering crew,S,England,,,,,no
+hvlgueysmwjckffrqozbmnafzphsgs,male,40.0,engineering crew,S,England,,,,,no
+zggpwrmyvqgtotq,male,31.0,engineering crew,S,England,,,,,no
+gjdhfsmwtojyajtydwtykt,male,49.0,victualling crew,S,England,,,,,no
+undvhcptvahskqgbgfmzwf,male,41.0,victualling crew,S,United States,,,,,no
+xnpbojnxzbjynljafjbtxcmsbvacyfmtbhdb,male,45.0,victualling crew,S,England,,,,,no
+ngwkyyxjxdsorgapcvcpkfqvzcc,male,37.0,engineering crew,S,England,,,,,no
+denpsncponuxwbcjjjsksullvtkogy,male,19.0,victualling crew,B,England,,,,,no
+guzcrpswopxcbkurzmatk,male,24.0,victualling crew,S,England,,,,,no
+brnmtqmqzlcdbxvofqj,male,40.0,victualling crew,S,England,,,,,yes
+zbwpfayhceblfhlpqutsasz,male,26.0,engineering crew,S,England,,,,,no
+mnajbttzjaeaxhym,male,41.0,deck crew,B,England,,,,,yes
+zisybaiydlucsxdqbpf,male,40.0,victualling crew,S,England,,,,,yes
+jzvbeeknkbhyrgwvzwxhankr,male,32.0,engineering crew,S,England,,,,,no
+rvwoizwxrzvjimofhwi,male,20.0,restaurant staff,S,England,,,,,no
+avlazmkmhsbkoromjd,male,26.0,restaurant staff,S,England,,,,,no

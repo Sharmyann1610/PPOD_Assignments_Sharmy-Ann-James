@@ -1,0 +1,2208 @@
+name,gender,age,class,embarked,country,ticketno,fare,sibsp,parch,survived
+Erica Powers,male,42.0,3rd,S,United States,5547.0,7.11,0.0,0.0,no
+Logan Lee,male,13.0,3rd,S,United States,2673.0,20.05,0.0,2.0,no
+Randall Jackson,male,16.0,3rd,S,United States,2673.0,20.05,1.0,1.0,no
+David Fox,female,39.0,3rd,S,England,2673.0,20.05,1.0,1.0,yes
+Sarah Mitchell,female,16.0,3rd,S,Norway,348125.0,7.13,0.0,0.0,yes
+Monica Mcdaniel,male,25.0,3rd,S,United States,348122.0,7.13,0.0,0.0,yes
+Michael Thompson,male,30.0,2nd,C,France,3381.0,24.0,1.0,0.0,no
+Cody Johnson,female,28.0,2nd,C,France,3381.0,24.0,1.0,0.0,yes
+Jason Hernandez,male,27.0,3rd,C,Lebanon,2699.0,18.1509,0.0,0.0,yes
+Rebekah Pope,male,20.0,3rd,S,Finland,3101284.0,7.1806,0.0,0.0,yes
+Chelsea Elliott,male,30.0,3rd,S,Sweden,7076.0,7.05,0.0,0.0,no
+Vanessa Henry,male,27.0,3rd,S,England,341826.0,8.01,0.0,0.0,no
+Michael Price,female,40.0,3rd,S,Sweden,7546.0,9.0906,1.0,0.0,no
+Victoria Perry,male,0.8333333333,3rd,S,England,392091.0,9.07,0.0,1.0,yes
+William Golden,female,18.0,3rd,S,England,392091.0,9.07,0.0,1.0,yes
+Allison Parker,male,35.0,2nd,S,England,248744.0,13.0,0.0,0.0,no
+Jose Ellis,male,25.0,3rd,S,England,3474.0,7.1709,0.0,0.0,no
+Brandon Brown,male,19.0,3rd,S,Finland,3101287.0,7.1806,0.0,0.0,no
+Antonio Patton,male,24.0,3rd,S,Argentina,3101311.0,7.01,0.0,0.0,no
+Kimberly Jones,male,25.0,3rd,S,Argentina,3101312.0,7.01,0.0,0.0,no
+James Higgins,female,29.0,1st,S,United States,24160.0,211.6009,0.0,0.0,yes
+Michelle Braun,male,39.0,3rd,S,England,373450.0,8.01,0.0,0.0,no
+Adam Hill,male,0.9166666667,1st,S,Canada,113781.0,151.16,1.0,2.0,yes
+Jennifer Davis,female,2.0,1st,S,Canada,113781.0,151.16,1.0,2.0,no
+Tara Robertson,male,30.0,1st,S,Canada,113781.0,151.16,1.0,2.0,no
+Kathryn Jones,female,25.0,1st,S,United States,113781.0,151.16,1.0,2.0,no
+Cynthia Mullen,male,18.0,3rd,S,England,2223.0,8.06,0.0,0.0,no
+Brittany Roberts,male,19.0,3rd,C,Lebanon,2700.0,7.0407,0.0,0.0,no
+Melissa Wang,female,19.0,3rd,S,Denmark,350046.0,7.1701,1.0,0.0,yes
+Shawn Smith MD,male,33.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+David Delgado,male,47.0,1st,S,United States,19952.0,26.11,0.0,0.0,yes
+Nicole Pitts,male,4.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+Erica Rodriguez,female,6.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+Peter Campbell,female,2.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+Donna Martinez,female,16.0,3rd,S,Finland,3101281.0,7.1806,4.0,2.0,yes
+Kristin Wong,female,38.0,3rd,S,Sweden,347091.0,7.1506,4.0,2.0,no
+Robert Nichols,female,9.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+Melissa Baker,female,11.0,3rd,S,Sweden,347082.0,31.0506,4.0,2.0,no
+Larry Smith,male,39.0,3rd,S,Sweden,347082.0,31.0506,1.0,5.0,no
+David Howell,male,26.0,3rd,S,Sweden,347075.0,7.1506,0.0,0.0,no
+Cheyenne Anderson,female,39.0,3rd,S,Sweden,347082.0,31.0506,1.0,5.0,no
+Jeffrey Hamilton,male,20.0,3rd,S,Sweden,347466.0,7.1701,0.0,0.0,no
+Gabriel Sherman,male,17.0,2nd,S,Argentina,231945.0,11.1,0.0,0.0,no
+Evelyn Rodriguez,male,27.0,2nd,S,England,34050.0,10.1,0.0,0.0,no
+Diana Hernandez,female,62.0,1st,C,United States,13502.0,77.1902,1.0,0.0,yes
+Kevin Welch,male,39.0,1st,B,Northern Ireland,112050.0,,0.0,0.0,no
+Cynthia West,male,26.0,3rd,S,Bulgaria,349202.0,7.1711,0.0,0.0,no
+Kenneth Riddle,female,36.0,2nd,S,England,226875.0,26.0,1.0,0.0,yes
+Frank Miller,male,31.0,2nd,S,England,226875.0,26.0,1.0,0.0,no
+Curtis Phillips,female,53.0,1st,S,United States,11769.0,51.0907,2.0,0.0,yes
+Omar Williams,male,25.0,3rd,S,Switzerland,349237.0,17.16,1.0,0.0,no
+Amy Morton,female,18.0,3rd,S,Switzerland,349237.0,17.16,1.0,0.0,no
+Calvin Bender,male,25.0,3rd,S,Sweden,349911.0,7.1506,0.0,0.0,no
+David Jenkins,male,71.0,1st,C,Argentina,17609.0,49.1001,0.0,0.0,no
+Tara Atkins,male,57.0,2nd,S,England,244346.0,13.0,0.0,0.0,no
+Brian Davis,male,35.0,3rd,S,Argentina,3101310.0,7.01,0.0,0.0,no
+Krystal Clark DVM,male,5.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+Amanda Cantrell,male,9.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+Robert Brown,male,3.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,yes
+Samantha Blanchard,male,13.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,no
+Darlene Flores,female,5.0,3rd,S,Sweden,347077.0,31.0709,4.0,2.0,yes
+Robert Morris,male,40.0,3rd,S,Sweden,347077.0,31.0709,1.0,5.0,no
+Stacy Davis,male,23.0,3rd,S,Sweden,350054.0,7.1511,0.0,0.0,yes
+Kathy Diaz,female,38.0,3rd,S,Sweden,347077.0,31.0709,1.0,5.0,yes
+Tara Ross,female,45.0,3rd,C,Lebanon,2696.0,7.0406,0.0,0.0,yes
+Natasha Wong,male,23.0,3rd,S,Argentina,3101309.0,7.01,0.0,0.0,no
+Sheila Maynard,male,47.0,1st,C,United States,17757.0,247.1006,1.0,0.0,no
+Christian Parker,female,18.0,1st,C,United States,17757.0,247.1006,1.0,0.0,yes
+Victoria Petersen,female,17.0,3rd,C,Lebanon,2627.0,14.0902,0.0,0.0,no
+Stephanie Gomez,male,27.0,3rd,C,Canada,2694.0,7.0406,0.0,0.0,no
+Dwayne Boyd,female,24.0,1st,C,France,17477.0,69.06,0.0,0.0,yes
+Dr. Michael Weiss,male,23.0,3rd,S,Sweden,347468.0,7.1701,0.0,0.0,no
+Brenda Johnson,female,15.0,3rd,C,Lebanon,2687.0,7.0407,0.0,0.0,yes
+Daniel Johnson,male,32.0,3rd,S,Finland,3101278.0,15.17,1.0,0.0,no
+Tiffany Lyons,female,33.0,3rd,S,Finland,3101278.0,15.17,3.0,0.0,yes
+Julie Clay,female,3.0,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+Andrew Chandler,female,0.75,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+David West,female,5.0,3rd,C,Lebanon,2666.0,19.0502,2.0,1.0,yes
+Jacqueline Fuller,female,23.0,3rd,C,Lebanon,2666.0,19.0502,0.0,3.0,yes
+Jordan Wiggins,female,18.0,3rd,S,England,31416.0,8.01,0.0,0.0,yes
+William Green,male,40.0,3rd,C,Lebanon,2623.0,7.0406,0.0,0.0,no
+Jennifer Davis,male,18.0,2nd,S,England,29108.0,11.1,0.0,0.0,no
+William Schroeder,male,22.0,2nd,S,Channel Islands,31030.0,10.1,0.0,0.0,no
+Chase Robbins,male,26.0,3rd,S,Bosnia,349248.0,7.1711,0.0,0.0,no
+Jason Wheeler,female,36.0,2nd,S,England,28551.0,13.0,0.0,0.0,yes
+Katie Acosta,male,28.0,2nd,S,England,34068.0,10.1,0.0,0.0,no
+Diamond Henry,female,31.0,3rd,S,Hungary,349244.0,8.1308,0.0,0.0,yes
+Brandon Mitchell,female,18.0,3rd,C,Lebanon,2691.0,14.0901,0.0,1.0,no
+Kristen Foster,female,45.0,3rd,C,Lebanon,2691.0,14.0901,0.0,1.0,no
+Allen Flores,female,27.0,1st,S,,19877.0,78.17,0.0,0.0,yes
+Valerie Dougherty,male,47.0,1st,S,England,27042.0,30.0,0.0,0.0,yes
+Wayne Pham,female,30.0,3rd,Q,Ireland,330844.0,7.1707,0.0,0.0,no
+Melissa James,male,22.0,3rd,S,England,324669.0,8.01,0.0,0.0,no
+Heather Davis,female,32.0,1st,C,Italy,11813.0,76.051,0.0,0.0,yes
+Janet Rowe,male,52.0,2nd,S,England,1166.0,12.1006,0.0,0.0,no
+David Walker,male,23.0,3rd,S,Bulgaria,349217.0,7.1711,0.0,0.0,no
+Kelsey Williams,male,60.0,1st,C,United States,17318.0,25.1806,0.0,0.0,no
+Edward Richards,male,24.0,1st,C,Canada,17558.0,247.1005,0.0,1.0,no
+Brianna Berg,female,50.0,1st,C,Canada,17558.0,247.1005,0.0,1.0,yes
+Brenda Ford MD,male,32.0,2nd,S,England,2908.0,26.0,1.0,0.0,yes
+Dean Bass,female,22.0,2nd,S,England,2908.0,26.0,1.0,0.0,yes
+Wayne Richard,male,36.0,1st,S,Canada,13050.0,75.041,0.0,0.0,no
+Jay Lewis,male,44.0,2nd,S,England,244358.0,26.0,0.0,0.0,no
+Joel Richards,male,20.0,3rd,S,England,323951.0,8.01,0.0,0.0,no
+Nathaniel Vang,male,1.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+Crystal Martin,female,4.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+Alex Lewis,female,12.0,2nd,S,India,230136.0,39.0,2.0,1.0,yes
+Ashley Bailey,female,35.0,2nd,S,United States,230136.0,39.0,0.0,3.0,yes
+Stephanie Merritt,male,37.0,1st,S,United States,11751.0,52.1101,1.0,1.0,yes
+Erica Owen,female,46.0,1st,S,United States,11751.0,52.1101,1.0,1.0,yes
+Melissa Steele,male,34.0,2nd,S,England,248698.0,13.0,0.0,0.0,yes
+Kathleen Butler,male,26.0,1st,C,United States,111369.0,30.0,0.0,0.0,yes
+Jessica Chavez,male,26.0,3rd,S,Sweden,347068.0,7.1506,0.0,0.0,no
+Christopher Sims,female,19.0,2nd,S,United States,28404.0,13.0,0.0,0.0,yes
+Debra Wood,male,22.0,3rd,S,Finland,4348.0,9.07,0.0,0.0,no
+Veronica Hayes,male,23.0,2nd,S,England,28425.0,13.0,0.0,0.0,no
+Sandra Anderson,female,39.0,1st,C,United States,17760.0,63.0702,0.0,0.0,yes
+Karen Page,female,46.0,1st,C,,17757.0,247.1006,0.0,0.0,yes
+Jordan Maldonado,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+Erica Ross,female,31.0,1st,S,England,17483.0,221.1507,0.0,0.0,yes
+Sara Johnson,male,21.0,3rd,S,Norway,312992.0,7.1506,0.0,0.0,no
+Norma Mayer,male,24.0,1st,C,,13905.0,26.0,0.0,0.0,no
+Dave Sanchez,male,25.0,1st,C,United States,11967.0,91.0107,1.0,0.0,yes
+Aaron Decker,female,19.0,1st,C,United States,11967.0,91.0107,1.0,0.0,yes
+Susan Mcclain,male,18.0,3rd,S,Sweden,347090.0,7.15,0.0,0.0,no
+Steven Day,male,28.0,1st,S,Sweden,110564.0,26.11,0.0,0.0,yes
+David Gibbs,male,45.0,1st,S,United States,113784.0,35.1,0.0,0.0,no
+Kathy Miranda,male,39.0,1st,C,United States,112277.0,31.0,0.0,0.0,yes
+Linda Crawford,female,30.0,1st,S,United States,36928.0,164.1704,0.0,0.0,yes
+Nicole King,female,61.0,1st,S,England,113783.0,26.11,0.0,0.0,yes
+Gregory Mills,male,41.0,1st,S,England,110489.0,26.11,0.0,0.0,no
+Sean Maddox,male,26.0,3rd,S,,349224.0,7.1711,0.0,0.0,no
+Maureen Williams,male,25.0,2nd,S,United States,237670.0,13.0,0.0,0.0,no
+Sarah Lowe,female,40.0,3rd,Q,Ireland,364848.0,7.15,0.0,2.0,no
+Charles Smith,male,42.0,3rd,Q,Ireland,364849.0,15.1,1.0,1.0,no
+Cassandra Palmer,female,32.0,3rd,Q,Ireland,364849.0,15.1,1.0,1.0,no
+Nicholas Clark,female,45.0,1st,C,United States,17608.0,262.0706,0.0,0.0,yes
+Michael Davis,male,26.0,3rd,S,Wales,54636.0,16.02,0.0,0.0,no
+Michelle Carter,male,42.0,2nd,S,,211535.0,13.0,0.0,0.0,no
+Harold Brooks,female,22.0,1st,S,England,113505.0,55.0,0.0,1.0,yes
+Michelle Robinson,male,30.0,2nd,S,United States,220367.0,13.0,0.0,0.0,no
+April Johnson,female,22.0,3rd,Q,Ireland,334914.0,7.1406,0.0,0.0,yes
+Nicole Phillips,male,41.0,1st,S,United States,113054.0,30.1,0.0,0.0,no
+Danielle Lozano,female,20.0,3rd,S,Sweden,347471.0,7.1701,0.0,0.0,no
+Tamara Jones,male,24.0,2nd,S,England,250654.0,,,,no
+Melissa Jenkins,male,48.0,1st,C,United States,17591.0,50.0911,0.0,0.0,no
+Heather Moore,male,29.0,3rd,S,England,3460.0,7.0,1.0,0.0,no
+Jason Smith,male,23.0,3rd,S,England,21171.0,7.05,1.0,0.0,no
+Elizabeth Allen,male,37.0,1st,S,United States,111427.0,26.11,0.0,0.0,yes
+Sean Burke,male,46.0,1st,C,United States,112379.0,39.12,0.0,0.0,no
+Nancy Dawson,male,20.0,2nd,S,France,250654.0,,,,no
+Ashley Bennett,male,32.0,2nd,S,,244360.0,13.0,0.0,0.0,no
+Norma Russell,male,22.0,3rd,S,Sweden,350045.0,7.1511,0.0,0.0,no
+Donald Hensley,male,40.0,3rd,S,England,364512.0,8.01,0.0,0.0,no
+David Hughes,female,18.0,2nd,S,England,248733.0,13.0,0.0,0.0,yes
+John Dixon,female,15.0,2nd,S,South Africa,29750.0,39.0,0.0,2.0,yes
+Shannon Rose,female,59.0,1st,S,United States,11769.0,51.0907,2.0,0.0,yes
+Brittany Mathews,female,40.0,2nd,S,South Africa,29750.0,39.0,1.0,1.0,yes
+Samantha Bush,female,44.0,1st,C,United States,17610.0,27.1405,0.0,0.0,yes
+Peter Wood,male,60.0,2nd,S,South Africa,29750.0,39.0,1.0,1.0,no
+Jesus Davis,female,20.0,2nd,S,Sweden,236853.0,26.0,1.0,0.0,yes
+Sherry Mayer,male,25.0,2nd,S,Sweden,236853.0,26.0,1.0,0.0,no
+Jessica Parker,female,22.0,3rd,Q,Ireland,329944.0,7.0508,0.0,0.0,no
+Donald Cowan,male,21.0,3rd,Q,Ireland,330920.0,7.1517,0.0,0.0,yes
+Morgan Sanchez,female,58.0,1st,C,India,11813.0,76.051,0.0,0.0,yes
+Tara Burns,male,7.0,3rd,C,Lebanon,2678.0,15.0411,1.0,1.0,no
+Mariah Baldwin,female,10.0,3rd,C,Lebanon,2678.0,15.0411,1.0,1.0,no
+Jose Clark,female,40.0,3rd,C,Lebanon,2678.0,15.0411,0.0,2.0,no
+Emily King,male,19.0,3rd,Q,Ireland,365222.0,6.15,0.0,0.0,no
+John Scott,female,41.0,1st,C,,16966.0,134.1,0.0,0.0,yes
+David Thomas,female,17.0,3rd,Q,Ireland,330963.0,7.1707,0.0,0.0,no
+Paul Gibson,female,36.0,2nd,S,England,27849.0,13.0,0.0,0.0,yes
+Jamie Simpson,male,26.0,2nd,S,England,234686.0,13.0,0.0,0.0,no
+Scott Barrett,male,21.0,3rd,C,Lebanon,2648.0,7.0407,0.0,0.0,no
+Jean Hood,male,46.0,1st,S,United States,113050.0,26.11,0.0,0.0,no
+Brian Jimenez,male,42.0,2nd,S,England,244310.0,13.0,0.0,0.0,no
+John Martinez,female,40.0,2nd,S,United States,236852.0,13.0,0.0,0.0,yes
+James Wilson,female,21.0,3rd,S,Croatia (Modern),315087.0,8.1303,0.0,0.0,no
+Melanie Miller,female,30.0,3rd,S,Croatia (Modern),315084.0,8.1303,0.0,0.0,no
+Rachel Martin,male,18.0,3rd,S,Croatia (Modern),315091.0,8.1303,0.0,0.0,no
+Amy Smith,male,38.0,3rd,S,Croatia (Modern),315089.0,8.1303,0.0,0.0,no
+Steven Ferguson,male,28.0,1st,S,Scotland,113798.0,31.0,0.0,0.0,no
+Robert Thornton,male,42.0,1st,S,United States,17476.0,26.0509,0.0,0.0,yes
+Donald Rowe,male,0.8333333333,2nd,S,Siam,248738.0,29.0,0.0,2.0,yes
+Shari Blackburn,male,26.0,2nd,S,Siam,248738.0,29.0,1.0,1.0,yes
+Dustin Cruz,female,28.0,2nd,S,United States,248738.0,29.0,1.0,1.0,yes
+Carl Hansen,male,17.0,3rd,S,Croatia (Modern),315093.0,8.1303,0.0,0.0,no
+John Barry,male,17.0,3rd,S,Croatia (Modern),315086.0,8.1303,0.0,0.0,no
+Christopher Clark,female,35.0,2nd,S,England,13528.0,21.0,0.0,0.0,yes
+Sheryl Wood,male,21.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+James Wells,female,22.0,3rd,Q,Ireland,364846.0,7.15,0.0,0.0,no
+Jennifer Franklin,male,21.0,3rd,Q,Ireland,364858.0,7.15,0.0,0.0,no
+Latasha Reese,female,52.0,1st,C,United States,17606.0,27.0811,0.0,0.0,yes
+Victor Clayton Jr.,male,29.0,3rd,S,England,2152.0,8.01,0.0,0.0,no
+Anthony Hunter,male,28.0,3rd,C,Canada,2689.0,14.0902,1.0,0.0,no
+Andrea Jones,female,18.0,3rd,C,Lebanon,2689.0,14.0902,1.0,0.0,no
+Debra Walker,male,19.0,2nd,S,England,28424.0,13.0,0.0,0.0,no
+Katelyn Newton,female,58.0,1st,C,United States,17755.0,512.0607,0.0,1.0,yes
+Danielle Burns,male,36.0,1st,C,United States,17755.0,512.0607,0.0,1.0,yes
+Melanie Walker,male,28.0,3rd,S,Sweden,350042.0,7.1511,0.0,0.0,no
+Kevin Lambert,male,24.0,3rd,S,Sweden,350409.0,7.1701,0.0,0.0,no
+Jennifer Jensen,male,33.0,1st,S,United States,695.0,5.0,0.0,0.0,no
+Rachel Cox,male,17.0,1st,S,Uruguay,113059.0,47.02,0.0,0.0,no
+Michael Anderson,male,27.0,1st,S,Uruguay,113059.0,47.02,0.0,0.0,no
+Michael Clay,female,45.0,3rd,Q,Ireland,368364.0,7.15,0.0,0.0,no
+Michael Garcia,male,54.0,2nd,S,England,244252.0,26.0,1.0,0.0,no
+Jeanne Roberts,male,11.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+Nathaniel Mcbride,female,13.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+Jeffrey Thomas,female,45.0,2nd,S,England,244252.0,26.0,1.0,0.0,no
+Patricia Bell,female,36.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+Jennifer Lopez,male,36.0,1st,S,United States,113760.0,120.0,1.0,2.0,yes
+Luis Riley,male,28.0,3rd,S,England,370160.0,7.05,0.0,0.0,no
+Brandy Owens,male,49.0,1st,S,United States,19924.0,26.0,0.0,0.0,no
+Natalie Anderson,female,36.0,1st,C,United States,17770.0,27.1405,0.0,0.0,yes
+Margaret Cook,female,25.0,1st,S,United States,19877.0,78.17,1.0,0.0,yes
+Madison Ramirez,male,36.0,1st,S,England,19877.0,78.17,1.0,0.0,no
+Crystal Davidson,male,24.0,3rd,S,,343275.0,8.01,0.0,0.0,no
+Rhonda Hernandez,male,46.0,1st,S,United States,5734.0,61.0306,1.0,0.0,no
+Carolyn Bryant,female,47.0,1st,S,United States,5734.0,61.0306,1.0,0.0,yes
+Morgan Franklin,male,27.0,1st,S,United States,113806.0,53.02,1.0,0.0,yes
+Amy Pierce,female,32.0,1st,S,United States,113806.0,53.02,1.0,0.0,yes
+Christopher Webb,male,52.0,2nd,S,United States,248731.0,13.1,0.0,0.0,no
+Derrick Steele,male,37.0,2nd,S,England,29037.0,26.0,1.0,0.0,no
+Alicia Velasquez,female,29.0,2nd,S,England,29037.0,26.0,1.0,0.0,no
+Daniel Webster,male,20.0,3rd,Q,Ireland,13032.0,7.1408,0.0,0.0,no
+Stacey Walker,female,36.0,1st,C,,17608.0,262.0706,0.0,0.0,yes
+David Short,female,30.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+Billy Gray,male,45.0,1st,C,Belgium,17594.0,29.14,0.0,0.0,yes
+Adrian Burns,female,48.0,1st,S,England,113505.0,55.0,0.0,1.0,yes
+Emily Richards,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+Margaret Smith,male,43.0,1st,B,Scotland,112051.0,,0.0,0.0,no
+Helen Andersen,male,29.0,3rd,S,England,343276.0,8.01,0.0,0.0,no
+Cynthia Jones,female,25.0,2nd,S,England,237789.0,30.0,1.0,1.0,yes
+Andres Kim,female,52.0,2nd,S,England,237789.0,30.0,0.0,2.0,yes
+Rodney Weber,male,26.0,3rd,C,,2680.0,14.0901,1.0,0.0,no
+Gerald Parker,male,21.0,3rd,C,,2680.0,14.0901,1.0,0.0,no
+Kurt Byrd,male,29.0,2nd,S,England,2003.0,26.0,1.0,0.0,no
+Daniel Ruiz,male,28.0,2nd,S,England,250654.0,,,,no
+Krystal Walker,female,28.0,2nd,S,England,2003.0,27.0,1.0,0.0,yes
+Jacob Hall,female,26.0,1st,C,United States,13508.0,136.1507,1.0,0.0,yes
+Lindsey Kennedy,male,27.0,1st,C,United States,13508.0,136.1507,1.0,0.0,no
+Derrick Durham,female,22.0,1st,S,England,113781.0,151.16,0.0,0.0,yes
+Bryan Smith,male,40.0,1st,S,United States,110465.0,52.0,0.0,0.0,no
+Kevin Lawson,male,20.0,3rd,S,,3101307.0,7.01,0.0,0.0,no
+Pam Werner,male,18.0,3rd,S,England,3540.0,8.01,0.0,0.0,yes
+Robert Price,male,24.0,3rd,Q,Ireland,371109.0,7.05,0.0,0.0,no
+Daniel Gonzalez,male,24.0,3rd,S,Bulgaria,349209.0,7.1711,0.0,0.0,no
+Heather Alvarez,male,29.0,2nd,S,England,14263.0,10.1,0.0,0.0,no
+Cathy Murphy,male,27.0,2nd,S,Finland,248740.0,13.0,0.0,0.0,no
+Destiny Boone,male,25.0,2nd,S,England,28034.0,10.1,0.0,0.0,yes
+Bradley Luna,male,37.0,1st,S,Ireland,5727.0,25.1109,0.0,0.0,no
+Amanda Torres,female,8.0,2nd,S,England,31921.0,26.05,0.0,2.0,yes
+Hayley Gibson,male,31.0,2nd,S,England,31921.0,26.05,1.0,1.0,no
+Oscar Mahoney,female,30.0,2nd,S,England,31921.0,26.05,1.0,1.0,yes
+John Carlson,male,36.0,3rd,S,Bulgaria,349210.0,7.1711,0.0,0.0,no
+Thomas Moore,female,39.0,1st,C,United States,17756.0,83.0302,1.0,1.0,yes
+Ashley Clayton,male,37.0,1st,C,United States,17756.0,83.0302,1.0,1.0,no
+Luke Cordova,female,64.0,1st,C,United States,17756.0,83.0302,0.0,2.0,yes
+Louis Marquez,male,31.0,3rd,Q,United States,21332.0,7.1408,0.0,0.0,no
+Jasmine Taylor,male,40.0,3rd,Q,Ireland,335097.0,7.15,0.0,0.0,no
+Sean Wilkinson,female,23.0,3rd,Q,Ireland,370373.0,7.15,0.0,0.0,yes
+Juan Johnson,female,41.0,3rd,Q,Ireland,330972.0,7.1207,0.0,0.0,no
+Francisco Hodges,male,66.0,3rd,Q,Ireland,370369.0,7.15,0.0,0.0,no
+Karen Brown,male,43.0,3rd,S,,3536.0,8.01,0.0,0.0,no
+Peter Valencia,female,22.0,2nd,S,England,14266.0,10.1,0.0,0.0,yes
+George Torres,female,30.0,2nd,S,United States,237249.0,13.0,0.0,0.0,no
+Nathaniel Stokes,female,32.0,2nd,S,,13534.0,21.0,0.0,0.0,no
+Dr. Tom Davis,male,35.0,3rd,S,Croatia (Modern),349230.0,7.1711,0.0,0.0,no
+Marcus Jackson,male,27.0,3rd,S,Hungary,349229.0,7.1711,0.0,0.0,no
+Diane Martinez,male,19.0,3rd,S,Hungary,349231.0,7.1711,0.0,0.0,no
+Daniel Waller,male,30.0,3rd,S,Poland,392090.0,8.01,0.0,0.0,no
+Adam Jackson,female,55.0,1st,S,United States,11770.0,25.141,2.0,0.0,yes
+Alex Paul,female,16.0,3rd,Q,Ireland,367231.0,7.15,0.0,0.0,yes
+Hector White,male,21.0,2nd,S,England,29107.0,11.1,0.0,0.0,no
+Nicholas Jackson,male,3.0,3rd,S,England,37671.0,15.18,1.0,1.0,yes
+Chad Allen,male,9.0,3rd,S,England,37671.0,15.18,1.0,1.0,yes
+Karen Stevens,female,36.0,3rd,S,England,37671.0,15.18,0.0,2.0,yes
+David Harrington,male,58.0,3rd,S,England,364500.0,7.05,0.0,0.0,no
+Stephen Nelson,male,59.0,1st,S,United States,113791.0,26.11,0.0,0.0,no
+Jamie Harrison,male,20.0,3rd,S,United States,3464.0,8.0302,0.0,0.0,no
+Brandon Griffin,female,16.0,3rd,S,United States,371362.0,16.02,0.0,1.0,yes
+Dylan Smith,male,43.0,3rd,S,Australia,371362.0,16.02,0.0,1.0,no
+Elizabeth Bradley,male,70.0,1st,S,United States,5735.0,71.0,1.0,1.0,no
+Heidi Gonzalez,female,39.0,1st,S,United States,112901.0,26.11,0.0,2.0,yes
+Jason Baker,female,64.0,1st,S,United States,5735.0,71.0,1.0,1.0,yes
+Michelle Nelson,male,17.0,3rd,S,Croatia (Modern),315090.0,8.1303,0.0,0.0,no
+Bradley Osborne,male,39.0,1st,C,United States,17599.0,71.0508,1.0,0.0,no
+Elizabeth Reed,female,35.0,1st,C,Peru,17599.0,71.0508,1.0,0.0,yes
+Lindsay Williams,male,22.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+Patricia Green,male,28.0,3rd,C,,2686.0,7.0407,0.0,0.0,no
+Keith Flores,female,22.0,3rd,S,Sweden,7552.0,10.1004,0.0,0.0,no
+Jennifer Sullivan,male,45.0,3rd,S,,7598.0,8.01,0.0,0.0,yes
+James Flowers,male,19.0,3rd,S,,349228.0,10.0305,0.0,0.0,no
+Jeffrey Alexander,female,33.0,3rd,Q,Ireland,382650.0,6.19,0.0,0.0,yes
+Robert Underwood,male,29.0,3rd,Q,Ireland,382651.0,7.15,0.0,0.0,yes
+Mark Allen,male,51.0,1st,S,England,113055.0,26.11,0.0,0.0,yes
+Shirley Duran,male,0.3333333333,3rd,S,Sweden,347080.0,14.08,0.0,2.0,no
+Dylan Lopez,male,34.0,3rd,S,Sweden,347080.0,14.08,1.0,1.0,no
+Craig Parks,female,28.0,3rd,S,Sweden,347080.0,14.08,1.0,1.0,no
+Jacob Day,male,27.0,1st,S,United States,113804.0,30.1,0.0,0.0,yes
+Veronica Andersen,female,36.0,1st,S,England,113781.0,151.16,0.0,0.0,yes
+Christopher Torres,male,27.0,3rd,S,,349219.0,7.1711,0.0,0.0,no
+Jacqueline Sellers,female,27.0,1st,C,Canada,12750.0,52.0,1.0,2.0,yes
+Ryan Cooper,male,31.0,1st,C,Canada,12750.0,52.0,1.0,0.0,no
+Douglas Santos,male,8.0,2nd,S,England,33112.0,36.15,1.0,1.0,yes
+Kimberly Lynch,male,24.0,3rd,S,England,48871.0,24.03,2.0,0.0,no
+Oscar Torres MD,male,19.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+Brian Harvey,male,22.0,3rd,S,Wales,23568.0,8.01,0.0,0.0,no
+Joseph Oliver,male,22.0,3rd,S,England,48871.0,24.03,2.0,0.0,no
+John Hunt,male,17.0,3rd,S,England,48873.0,8.01,2.0,0.0,no
+Michael Perez,female,48.0,2nd,S,England,33112.0,36.15,0.0,2.0,yes
+Kathleen Mills,female,28.0,2nd,S,England,237668.0,13.0,0.0,0.0,yes
+Cody Howard,female,34.0,3rd,S,England,386525.0,16.02,1.0,0.0,yes
+David Carr,male,32.0,3rd,S,England,386525.0,16.02,1.0,0.0,no
+Corey Rogers,male,18.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+Erik Santos,male,1.0,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+Jonathan Cardenas,female,0.1666666667,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+Thomas Rose,male,25.0,3rd,S,England,2315.0,20.1106,1.0,2.0,no
+Jennifer Hill,female,32.0,3rd,S,England,2315.0,20.1106,1.0,2.0,yes
+Michelle Gross,male,25.0,3rd,S,Bosnia,349250.0,7.1711,0.0,0.0,no
+Gina Chen,female,24.0,2nd,C,Italy,2167.0,27.1405,1.0,0.0,yes
+Karen Young,male,29.0,2nd,C,Italy,2167.0,27.1405,1.0,0.0,no
+Jessica Shannon,male,36.0,3rd,S,United States,345572.0,17.08,1.0,0.0,yes
+John Frost,female,36.0,3rd,S,United States,345572.0,17.08,1.0,0.0,yes
+Robert Friedman,male,30.0,3rd,S,Belgium,345774.0,9.1,0.0,0.0,yes
+Amber Stephens,male,25.0,2nd,S,Channel Islands,31029.0,31.1,0.0,0.0,no
+Brooke Herrera,male,30.0,3rd,S,,349225.0,7.1711,0.0,0.0,no
+Shannon Krause,male,22.0,3rd,S,England,21172.0,7.05,0.0,0.0,no
+Jillian Bowman,male,26.0,3rd,S,England,21175.0,7.05,0.0,0.0,no
+Andrea Robinson,male,16.0,3rd,S,Belgium,345778.0,9.1,0.0,0.0,no
+Alexandra King,female,19.0,3rd,Q,Ireland,330958.0,7.1707,0.0,0.0,yes
+Mark Gardner,male,18.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+Latasha Simmons,male,31.0,1st,S,Canada,17474.0,57.0,1.0,0.0,yes
+David Pierce,female,17.0,1st,S,United States,17474.0,57.0,1.0,0.0,yes
+Paul Williams,male,17.0,3rd,S,Croatia (Modern),349232.0,7.1711,0.0,0.0,no
+Rebecca Harris,male,42.0,3rd,S,Hungary,315088.0,8.1303,0.0,0.0,no
+Tracy Harris,male,43.0,3rd,S,,349226.0,7.1711,0.0,0.0,no
+Lynn Moss,male,52.0,1st,S,United States,33638.0,81.1702,1.0,1.0,yes
+John Jackson,male,4.0,1st,S,United States,33638.0,81.1702,0.0,2.0,yes
+Jonathan Simmons,female,34.0,1st,S,United States,33638.0,81.1702,1.0,1.0,yes
+Kristen Dalton,female,18.0,2nd,S,England,231919.0,23.0,0.0,1.0,yes
+Michelle Taylor,female,34.0,2nd,S,England,231919.0,23.0,0.0,1.0,yes
+Carl Lin,female,21.0,3rd,Q,Ireland,364856.0,7.15,0.0,0.0,no
+Lisa Harris,male,37.0,3rd,Q,Ireland,370376.0,7.15,0.0,0.0,no
+Gregory Martin,male,18.0,3rd,S,England,10482.0,8.01,0.0,0.0,yes
+James Baker,male,22.0,3rd,Q,Ireland,330877.0,8.0902,0.0,0.0,no
+Gail Calderon,female,48.0,1st,C,United States,17761.0,106.0806,1.0,0.0,yes
+Kara Carter,female,27.0,1st,C,Canada,17558.0,247.1005,1.0,1.0,yes
+Walter Thomas,male,50.0,1st,C,United States,17761.0,106.0806,1.0,0.0,no
+Jason Medina,male,55.0,2nd,S,England,28403.0,26.0,0.0,0.0,no
+Kathy Jones,female,31.0,3rd,S,United States,364516.0,12.0906,0.0,0.0,yes
+Lawrence Medina,female,28.0,3rd,Q,Ireland,368702.0,7.15,0.0,0.0,no
+Nathan Boyle,male,33.0,3rd,C,Croatia (Modern),349241.0,7.1711,0.0,0.0,no
+Edward Mathis,male,8.0,2nd,S,United States,28220.0,32.1,0.0,2.0,yes
+Lauren Allen,male,42.0,2nd,S,England,28220.0,32.1,1.0,1.0,no
+Erika David,female,34.0,2nd,S,United States,28220.0,32.1,1.0,1.0,yes
+Darlene Davis,female,27.0,3rd,Q,Ireland,14311.0,7.15,0.0,0.0,yes
+Christopher Boyd,female,24.0,3rd,S,England,392083.0,8.01,0.0,0.0,yes
+Stacey Johnson,female,48.0,1st,C,England,17485.0,56.1807,1.0,0.0,yes
+Eileen Lynch,male,49.0,1st,C,England,11755.0,39.12,1.0,0.0,yes
+Alexandria Clark,male,39.0,1st,C,United States,17580.0,29.14,0.0,0.0,no
+Mark Richards,male,24.0,3rd,S,Channel Islands,752.0,7.11,0.0,0.0,yes
+Tara Davis,female,27.0,2nd,C,Spain,2149.0,13.1702,1.0,0.0,yes
+Mary Coleman,female,30.0,2nd,C,Spain,2148.0,13.1702,1.0,0.0,yes
+Albert Hopkins,male,65.0,3rd,Q,Ireland,336439.0,7.15,0.0,0.0,no
+Michael Blackburn,male,23.0,3rd,S,United States,347072.0,13.18,1.0,0.0,no
+Hannah Wright,female,22.0,3rd,S,United States,347072.0,13.18,1.0,0.0,yes
+James Ryan,female,23.0,1st,C,United States,11767.0,83.0302,0.0,1.0,yes
+Timothy Johnson,male,18.0,3rd,S,Sweden,349912.0,7.1506,0.0,0.0,no
+Deborah Campos,male,25.0,2nd,S,United States,29751.0,13.0,0.0,0.0,no
+Cory Mathews,male,16.0,3rd,S,Sweden,347074.0,7.1506,0.0,0.0,no
+Kelly Cardenas,male,45.0,3rd,S,Sweden,347061.0,6.1906,0.0,0.0,no
+Tyler Nguyen,male,29.0,3rd,C,,2674.0,7.0406,0.0,0.0,no
+Dominique Vargas,male,15.0,3rd,C,Lebanon,2690.0,7.0407,1.0,1.0,no
+William Castillo,male,22.0,3rd,C,Lebanon,2695.0,7.0407,1.0,1.0,no
+Gary Morrow,male,48.0,3rd,S,England,3902.0,7.05,0.0,0.0,no
+Lauren Lopez,female,5.0,3rd,S,United States,364516.0,12.0906,0.0,0.0,yes
+Daniel Lam,male,21.0,2nd,S,Sweden,236854.0,13.0,0.0,0.0,no
+Gregory Small,female,39.0,1st,C,United States,17757.0,247.1006,0.0,0.0,yes
+Jessica Mann,male,37.0,3rd,S,,3101306.0,7.01,0.0,0.0,no
+Cheryl Mckinney,female,54.0,1st,C,United States,36947.0,78.0504,1.0,0.0,yes
+Laura Williams,female,36.0,1st,C,United States,17531.0,31.1307,0.0,0.0,no
+Robert Hill,male,38.0,3rd,S,England,6212.0,15.02,0.0,0.0,no
+Megan Burgess,male,18.0,2nd,S,Norway,236171.0,13.0,0.0,0.0,no
+Kimberly Martin,male,46.0,3rd,S,England,3101314.0,7.05,0.0,0.0,no
+Rickey Weiss,male,26.0,3rd,Q,Ireland,367232.0,7.15,0.0,0.0,no
+Susan Wade,male,49.0,1st,S,England,17483.0,221.1507,0.0,0.0,no
+Mrs. Gwendolyn Mcguire,male,32.0,2nd,S,England,2926.0,26.0,1.0,0.0,no
+Kevin Davis,male,18.0,2nd,S,England,15185.0,10.1,0.0,0.0,no
+Elizabeth Dalton,male,34.0,3rd,S,,3101308.0,7.01,0.0,0.0,yes
+Natasha Parker,male,18.0,3rd,S,Sweden,350036.0,7.1511,0.0,0.0,no
+Jessica Ramirez,female,48.0,1st,C,United States,17598.0,31.1308,0.0,0.0,yes
+Jessica Porter,female,22.0,3rd,Q,Ireland,364859.0,7.15,0.0,0.0,no
+Brendan Smith,female,42.0,1st,C,United States,17421.0,110.1708,0.0,0.0,yes
+Angela Jensen,male,28.0,3rd,Q,Ireland,364851.0,7.15,0.0,0.0,no
+Kevin Bonilla,male,48.0,3rd,Q,Ireland,368323.0,6.19,0.0,0.0,no
+Tiffany Scott,male,36.0,1st,S,Canada,14474.0,26.0509,0.0,0.0,yes
+Renee Arias,male,19.0,3rd,Q,Ireland,330910.0,7.1707,0.0,0.0,no
+Justin Ramirez,male,20.0,3rd,Q,Ireland,365235.0,7.15,0.0,0.0,no
+Dennis Duncan,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+Janice Wilkerson,female,20.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+Andre Serrano,female,7.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+Susan Cook,male,23.0,3rd,S,England,1478.0,8.01,0.0,0.0,no
+Stephanie Hall,male,18.0,3rd,S,England,6608.0,34.0706,2.0,2.0,no
+Katherine Reynolds,female,54.0,3rd,S,Scotland,6608.0,34.0706,1.0,3.0,no
+Mark Silva,male,14.0,3rd,S,England,6608.0,34.0706,1.0,3.0,no
+Mark Garcia,male,30.0,1st,S,United States,113051.0,27.15,0.0,0.0,no
+Jessica Trujillo,female,24.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+Stephanie Hanson,female,28.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+Vincent Freeman,female,23.0,1st,S,Canada,19950.0,263.0,3.0,2.0,yes
+Dale Sanchez,male,19.0,1st,S,Canada,19950.0,263.0,3.0,2.0,no
+Kenneth Jennings,male,64.0,1st,S,Canada,19950.0,263.0,1.0,4.0,no
+John Nelson,female,60.0,1st,S,Canada,19950.0,263.0,1.0,4.0,yes
+Gary Spencer,male,28.0,3rd,Q,Ireland,368573.0,7.15,0.0,0.0,no
+Logan Santos,male,38.0,2nd,S,United States,229236.0,13.0,0.0,0.0,no
+Catherine Price,female,32.0,1st,C,England,17485.0,56.1807,0.0,0.0,yes
+Donna White,male,37.0,1st,S,England,113778.0,26.11,0.0,0.0,no
+Ryan Gardner,male,49.0,1st,S,United States,17611.0,133.13,2.0,0.0,yes
+Steven Kelley,male,43.0,1st,C,United States,17765.0,27.1405,1.0,0.0,yes
+Michael Johnson,female,42.0,1st,S,United States,17611.0,133.13,1.0,0.0,yes
+Lisa Riddle,female,22.0,1st,C,Switzerland,13568.0,49.1,0.0,2.0,yes
+Diamond Richardson,male,60.0,1st,C,Switzerland,13567.0,79.04,1.0,1.0,yes
+Keith Ashley,female,48.0,1st,C,Switzerland,13567.0,79.04,1.0,1.0,yes
+Mr. Allen Chandler,male,39.0,2nd,B,England,239854.0,,0.0,0.0,no
+Tracy Mcclain,male,39.0,1st,S,England,112058.0,,0.0,0.0,no
+Anna Drake,female,38.0,2nd,S,India,237671.0,13.0,0.0,0.0,no
+Cheyenne Ramirez,male,37.0,1st,S,England,113803.0,53.02,1.0,0.0,no
+Jill Pratt,female,35.0,1st,S,England,113803.0,53.02,1.0,0.0,yes
+Brian Mclaughlin,male,36.0,2nd,S,England,239865.0,26.0,0.0,0.0,no
+Sarah Atkins,male,38.0,2nd,S,England,28664.0,21.0,1.0,0.0,no
+Todd Silva,male,33.0,2nd,S,England,28664.0,21.0,1.0,0.0,no
+John Thomas,male,29.0,3rd,Q,Ireland,36864.0,7.141,0.0,0.0,no
+Susan Harris,male,23.0,3rd,S,England,358585.0,14.1,0.0,0.0,no
+Carlos Russell,female,39.0,2nd,S,England,243880.0,13.0,0.0,0.0,yes
+Chase Williams,male,19.0,2nd,S,England,239865.0,26.0,0.0,0.0,no
+Melissa Williams,male,26.0,2nd,S,Channel Islands,31028.0,10.1,0.0,0.0,no
+Joseph Garcia,male,47.0,1st,S,England,111320.0,38.1,0.0,0.0,no
+Matthew Mayo,female,38.0,3rd,C,United States,2688.0,7.0407,0.0,0.0,yes
+Ashley Smith,male,21.0,3rd,C,Lebanon,2692.0,7.0406,0.0,0.0,no
+Mr. Larry Powers,male,,3rd,C,Bulgaria,349254.0,7.1711,0.0,0.0,no
+Colleen Heath,female,22.0,1st,C,United States,112378.0,59.08,0.0,1.0,yes
+Scott Robinson,female,44.0,1st,C,United States,112378.0,59.08,0.0,1.0,yes
+Jacob Manning,female,35.0,1st,S,,113503.0,211.1,0.0,0.0,yes
+Taylor Blankenship,male,23.0,1st,C,,17593.0,79.04,0.0,0.0,no
+Beth Elliott,male,47.0,2nd,S,England,30769.0,10.1,0.0,0.0,no
+John Mcpherson,male,19.0,2nd,S,England,28133.0,11.1,1.0,0.0,no
+Kristy Bridges,male,21.0,2nd,S,England,28134.0,11.1,1.0,0.0,no
+Marcus Hebert,male,24.0,2nd,S,England,248726.0,13.1,0.0,0.0,no
+Paul Boyd,male,23.0,3rd,S,Wales,14973.0,8.01,0.0,0.0,no
+Amanda Clark,male,31.0,2nd,S,Ireland,12233.0,13.0,0.0,0.0,no
+Elizabeth Perez,male,24.0,2nd,S,England,233866.0,13.0,0.0,0.0,no
+Tracy Smith,female,17.0,3rd,Q,Ireland,35851.0,7.1408,0.0,0.0,yes
+Daniel Kent,male,30.0,2nd,S,Argentina,250646.0,13.0,0.0,0.0,no
+Nathan Baker,female,18.0,3rd,Q,Ireland,335677.0,7.15,0.0,0.0,yes
+Matthew Poole,male,47.0,1st,C,United States,17453.0,89.0201,1.0,0.0,yes
+David Sherman,female,40.0,1st,C,United States,17453.0,89.0201,1.0,0.0,yes
+Lori Williams,male,71.0,1st,C,United States,17754.0,34.1301,0.0,0.0,no
+Kristina Levy,male,9.0,3rd,S,England,363291.0,20.1006,0.0,2.0,yes
+Suzanne Wu,male,33.0,3rd,S,England,363291.0,20.1006,1.0,1.0,no
+Sarah Parsons,male,41.0,3rd,S,,3101263.0,7.17,0.0,0.0,no
+Lindsey Gates,female,31.0,3rd,S,England,363291.0,20.1006,1.0,1.0,yes
+Jennifer Taylor,male,9.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Terry Chavez,male,1.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Cynthia Hicks,male,11.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Joan Lopez,female,10.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Margaret Carlson,female,16.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Patricia Robinson,male,14.0,3rd,S,England,2144.0,46.18,5.0,2.0,no
+Kenneth Brown,male,42.0,3rd,S,England,2144.0,46.18,1.0,6.0,no
+Steven Colon,female,43.0,3rd,S,England,2144.0,46.18,1.0,6.0,no
+Jeffery Love,male,53.0,1st,S,United States,113780.0,28.1,0.0,0.0,yes
+James Barnes,female,19.0,1st,S,England,17582.0,153.0903,0.0,0.0,yes
+Kimberly Griffin,male,38.0,1st,S,Canada,112053.0,30.0,0.0,1.0,no
+James Torres,female,59.0,1st,S,England,17582.0,153.0903,0.0,1.0,yes
+Andrew Wilson,male,52.0,2nd,S,South Africa,250647.0,13.0,0.0,0.0,no
+Jillian Dean,female,45.0,1st,C,United States,17759.0,63.0702,0.0,1.0,yes
+Raymond Andrews,male,23.0,1st,C,United States,17759.0,63.0702,0.0,1.0,yes
+Jessica Patel,male,20.0,engineering crew,S,England,,,,,no
+Alexandra Burke,male,41.0,3rd,S,England,21440.0,8.01,0.0,0.0,no
+Karen Elliott,male,32.0,3rd,S,Norway,8471.0,8.0615,0.0,0.0,no
+Holly Davis,male,25.0,3rd,S,England,376563.0,8.01,0.0,0.0,no
+Mark Jackson,male,46.0,1st,C,France,17593.0,79.04,0.0,0.0,no
+Michele Anderson,male,19.0,3rd,S,Finland,7534.0,9.1611,0.0,0.0,no
+Douglas Curtis,male,37.0,3rd,S,Finland,3101276.0,7.1806,2.0,0.0,no
+Janet Mosley,male,28.0,3rd,S,Finland,3101277.0,7.1806,2.0,0.0,no
+Heather Turner,male,19.0,3rd,S,Sweden,347069.0,7.1506,0.0,0.0,no
+Maria Sanders,female,24.0,3rd,S,Switzerland,349236.0,8.17,0.0,0.0,no
+Mark Guzman,male,28.0,3rd,S,Norway,65303.0,6.1904,1.0,0.0,no
+Christine Williams,male,19.0,3rd,S,Norway,65304.0,6.1904,1.0,0.0,no
+Susan Lee,male,28.0,3rd,S,Finland,3101279.0,15.17,1.0,0.0,no
+Carmen Warren MD,female,24.0,3rd,S,Finland,3101279.0,15.17,1.0,0.0,yes
+Steven Harris,male,30.0,2nd,S,England,250653.0,13.0,0.0,0.0,no
+David Nichols,male,0.5833333333,2nd,S,United States,250649.0,14.1,1.0,1.0,yes
+John Hudson,female,23.0,2nd,S,United States,250649.0,14.1,0.0,2.0,yes
+Clinton Smith,male,19.0,3rd,S,Belgium,345769.0,9.1,0.0,0.0,no
+Eric Huber,male,27.0,3rd,C,Lebanon,2663.0,7.0407,0.0,0.0,yes
+Christian Richardson,male,18.0,3rd,C,Lebanon,2664.0,7.0406,0.0,0.0,no
+Holly Schmidt,male,35.0,3rd,C,Lebanon,2693.0,7.0407,0.0,0.0,no
+Peter Johnson,male,41.0,3rd,S,United States,350026.0,14.0202,2.0,0.0,no
+Chloe Scott,male,26.0,3rd,S,Denmark,350025.0,7.1701,1.0,0.0,no
+Michael Patel,male,21.0,3rd,S,Denmark,350029.0,7.1701,0.0,0.0,no
+Amy Brown,female,45.0,3rd,S,United States,350026.0,14.0202,1.0,0.0,yes
+Jared Parks,male,45.0,2nd,S,United States,248746.0,13.0,0.0,0.0,no
+Jonathan Vincent,male,25.0,1st,C,United States,11765.0,55.081,1.0,0.0,yes
+Sharon Thomas,female,21.0,1st,C,United States,11765.0,55.081,1.0,0.0,yes
+Alexis Rosario,female,17.0,3rd,Q,Ireland,30631.0,7.1408,0.0,0.0,no
+Brandon Cruz,female,21.0,3rd,S,England,6609.0,7.11,0.0,0.0,no
+Kristine Burns,female,6.0,2nd,S,Scotland,248727.0,33.0,0.0,1.0,yes
+George Hoover,male,48.0,1st,C,United States,17572.0,76.1407,1.0,0.0,yes
+Sara Fritz,female,49.0,1st,C,United States,17572.0,76.1407,1.0,0.0,yes
+Tina Pacheco,male,39.0,2nd,S,Scotland,248727.0,33.0,0.0,1.0,no
+Leah Davis,male,37.0,1st,S,England,113796.0,42.08,0.0,0.0,no
+Susan Watson,male,62.0,2nd,S,England,752.0,10.1,0.0,0.0,yes
+Jennifer Brown,male,45.0,1st,S,United States,36973.0,83.0906,1.0,0.0,no
+Mario Garcia,female,35.0,1st,S,United States,36973.0,83.0906,1.0,0.0,yes
+Amanda Daugherty,male,45.0,2nd,S,England,14208.0,10.1,0.0,0.0,no
+Kelly Payne,male,46.0,1st,S,England,112059.0,,0.0,0.0,no
+Brandy Leon,male,33.0,2nd,S,England,250654.0,,,,no
+Michael Smith,female,7.0,2nd,S,England,13529.0,26.05,0.0,2.0,yes
+Jeremy Duran,male,47.0,2nd,S,England,13529.0,26.05,1.0,1.0,no
+Michael Gutierrez,male,29.0,3rd,Q,Ireland,394140.0,6.1702,0.0,0.0,no
+Darin Liu,female,48.0,2nd,S,England,13529.0,26.05,1.0,1.0,yes
+Wendy Ramirez,male,27.0,1st,C,Egypt,17572.0,76.1407,0.0,0.0,yes
+Jesse Martin,male,45.0,1st,S,England,16988.0,30.0,0.0,0.0,yes
+Krystal Moore,female,24.0,1st,C,United States,11767.0,83.0302,0.0,0.0,yes
+Bryce Walker,male,55.0,1st,S,Canada,12749.0,93.1,1.0,1.0,no
+Curtis King,female,52.0,1st,S,Canada,12749.0,93.1,1.0,1.0,yes
+Andrew Davis,male,42.0,1st,S,England,113038.0,42.1,0.0,0.0,no
+Jason Hughes,female,33.0,3rd,Q,Ireland,370375.0,7.15,0.0,0.0,yes
+Douglas Moore,male,27.0,3rd,S,Sweden,347089.0,6.1906,0.0,0.0,yes
+Amy Mcpherson,male,24.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+Karen Washington,female,20.0,3rd,Q,Ireland,365226.0,6.15,0.0,0.0,no
+Dr. Joel Bell DDS,female,16.0,3rd,S,Finland,3101282.0,7.1806,0.0,0.0,yes
+Mary Gregory,female,23.0,3rd,S,Finland,3101290.0,7.1806,0.0,0.0,no
+Shelby Bryan,female,22.0,3rd,S,Sweden,7548.0,8.1903,0.0,0.0,yes
+Gregory Kelly,male,30.0,3rd,S,Hungary,349243.0,7.1711,0.0,0.0,no
+Rachel Mason,female,28.0,3rd,S,Sweden,347086.0,7.1506,0.0,0.0,no
+Susan Wright,female,21.0,3rd,Q,Ireland,382649.0,7.15,0.0,0.0,no
+Jessica Humphrey,female,24.0,2nd,S,England,220845.0,65.0,1.0,2.0,yes
+Mr. James Hernandez,female,24.0,2nd,S,England,220845.0,65.0,1.0,2.0,yes
+Laura White,male,50.0,2nd,S,England,220845.0,65.0,1.0,2.0,no
+Holly Scott,female,50.0,2nd,S,India,220845.0,65.0,1.0,2.0,yes
+Cody Henderson,female,56.0,2nd,S,India,248706.0,16.0,0.0,0.0,yes
+Felicia Morales,male,24.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+Andrew Shelton,male,30.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+Kelly Davenport,male,21.0,2nd,S,England,14879.0,73.1,2.0,0.0,no
+Paul Bennett,male,44.0,1st,S,England,17463.0,51.1703,0.0,0.0,no
+Michael Hunt,female,18.0,2nd,S,Finland,250650.0,13.0,1.0,1.0,no
+David Hernandez,male,55.0,1st,S,England,680.0,50.0,0.0,0.0,no
+Brian Martin,female,17.0,1st,C,United States,111361.0,57.1907,0.0,1.0,yes
+Thomas Rodriguez,female,44.0,1st,C,United States,111361.0,57.1907,0.0,1.0,yes
+Timothy Jacobs,female,2.0,3rd,S,Finland,3101298.0,12.0509,0.0,1.0,yes
+Wendy Williams,female,22.0,3rd,S,Finland,3101298.0,12.0509,1.0,1.0,yes
+Louis Chambers,female,20.0,2nd,S,England,29105.0,23.0,2.0,1.0,yes
+Amy Gutierrez,male,24.0,2nd,S,England,29104.0,11.1,2.0,1.0,no
+Jill Smith,male,36.0,2nd,S,England,242963.0,13.0,0.0,0.0,no
+Carol Williams,female,54.0,2nd,S,England,29105.0,23.0,1.0,3.0,yes
+Jessica Wallace,male,50.0,2nd,S,England,250643.0,13.0,0.0,0.0,no
+Krystal Pearson,female,51.0,1st,C,United States,13502.0,77.1902,1.0,0.0,yes
+Donna Lewis,female,29.0,2nd,S,England,26707.0,26.0,1.0,0.0,yes
+Kevin Pierce,male,44.0,2nd,S,England,26707.0,26.0,1.0,0.0,no
+Anthony Leblanc,male,43.0,3rd,S,Sweden,7075.0,6.09,0.0,0.0,no
+Eric Reyes,male,18.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+Albert Anderson,male,42.0,1st,S,United States,113789.0,52.0,1.0,0.0,no
+Christopher Campos,female,35.0,1st,S,United States,113789.0,52.0,1.0,0.0,yes
+Debbie Goodman,male,40.0,1st,S,United States,111426.0,26.11,0.0,0.0,yes
+James Martinez,female,27.0,3rd,S,Finland,3101283.0,7.1806,0.0,0.0,yes
+Jennifer Zimmerman,male,21.0,2nd,S,England,14879.0,73.1,0.0,0.0,no
+Theresa Kent,male,22.0,3rd,Q,,370377.0,7.15,0.0,0.0,no
+David Cardenas MD,male,41.0,2nd,S,Japan,237798.0,13.0,0.0,0.0,yes
+Matthew Mathis,female,26.0,3rd,S,England,39186.0,8.01,0.0,0.0,yes
+Phillip Hernandez,male,63.0,2nd,S,England,24065.0,26.0,1.0,0.0,no
+Katie Peck,female,61.0,2nd,S,England,24065.0,26.0,1.0,0.0,no
+Michael Davis,male,38.0,1st,S,United States,19943.0,100.0,1.0,0.0,yes
+William Quinn MD,female,31.0,1st,S,United States,19943.0,100.0,1.0,0.0,yes
+Joy Petty,male,43.0,1st,C,United States,17600.0,30.1311,0.0,0.0,no
+Christy Foster,male,42.0,3rd,S,Norway,348121.0,7.13,0.0,0.0,no
+Brooke Long,male,21.0,2nd,S,,250654.0,,,,no
+Jay Atkins,male,34.0,2nd,S,England,1585.0,12.0506,0.0,0.0,no
+Cassandra Arnold,male,34.0,3rd,S,England,3470.0,7.1709,0.0,0.0,yes
+Lori Crawford,male,11.0,3rd,C,,2699.0,18.1509,0.0,0.0,no
+Anthony Gonzalez,female,18.0,3rd,C,Syria,2657.0,7.0407,0.0,0.0,yes
+Lynn Hernandez,male,33.0,3rd,C,Lebanon,2627.0,14.0902,0.0,0.0,no
+Dr. Joshua Allen DDS,female,39.0,1st,S,,113572.0,80.0,0.0,0.0,yes
+Michele Kidd,female,17.0,2nd,S,Channel Islands,14885.0,10.1,0.0,0.0,yes
+Kimberly Moore,male,32.0,3rd,S,,349220.0,7.1711,0.0,0.0,no
+Mrs. Ashley Wood,female,17.0,3rd,S,United States,3101270.0,7.1806,1.0,0.0,no
+Shawn Bryant,female,25.0,3rd,S,Finland,3101271.0,7.1806,1.0,0.0,no
+Ashley Williams,female,50.0,1st,C,United States,17595.0,28.1403,0.0,0.0,no
+Alexis Herrera,male,49.0,1st,S,England,112058.0,,0.0,0.0,yes
+Andrew Ortiz,male,20.0,3rd,S,Bulgaria,349201.0,7.1711,0.0,0.0,no
+Diane Lopez,female,16.0,3rd,C,,2665.0,14.0901,1.0,0.0,no
+Daniel Wilson,female,19.0,3rd,C,,2665.0,14.0901,1.0,0.0,no
+Michael Burton,female,24.0,2nd,S,England,243847.0,27.0,2.0,1.0,yes
+Samantha Armstrong,male,42.0,2nd,S,South Africa,243847.0,27.0,1.0,0.0,no
+Omar Perez,male,30.0,3rd,C,Croatia (Modern),349240.0,7.1711,0.0,0.0,yes
+Amanda Moss DVM,male,21.0,3rd,S,Sweden,350034.0,7.1511,0.0,0.0,yes
+Robert Garcia,male,21.0,3rd,S,,3101305.0,7.01,0.0,0.0,no
+Christina Cannon,male,46.0,2nd,S,Wales,237565.0,15.0,0.0,0.0,no
+Robert Hall MD,male,24.0,2nd,S,England,31029.0,31.1,2.0,0.0,no
+Elizabeth Li,male,21.0,2nd,S,England,31029.0,31.1,2.0,0.0,no
+Gregory Salinas,male,32.0,2nd,S,England,33111.0,10.1,0.0,0.0,no
+Jessica Bowman,male,20.0,3rd,S,Denmark,350050.0,7.1701,0.0,0.0,no
+Casey Middleton,male,48.0,3rd,S,Denmark,350048.0,7.0101,0.0,0.0,no
+Alexandra Joseph,male,17.0,3rd,S,Denmark,350047.0,7.1701,1.0,0.0,no
+David Greer,female,26.0,3rd,Q,Ireland,14313.0,7.15,0.0,0.0,yes
+Michael Young,female,23.0,2nd,C,United States,541.0,13.151,0.0,0.0,yes
+Jeffrey Villarreal,male,29.0,3rd,S,Norway,65306.0,8.0203,0.0,0.0,yes
+Sara Singh,male,34.0,3rd,S,Finland,3101264.0,6.0911,0.0,0.0,no
+Gary Brown,male,22.0,3rd,S,Sweden,350052.0,7.1511,0.0,0.0,no
+Nicholas Scott,male,33.0,3rd,S,Sweden,7540.0,8.1301,0.0,0.0,no
+Kimberly Turner,male,31.0,3rd,S,United States,347063.0,7.1506,0.0,0.0,no
+Brittany Brown,male,29.0,3rd,S,United States,347467.0,7.1701,0.0,0.0,no
+Anna Reynolds,male,26.0,3rd,S,Sweden,347070.0,7.1506,0.0,0.0,yes
+Douglas Johnson,male,4.0,3rd,S,,347742.0,11.0208,1.0,1.0,yes
+Sarah Davis,female,1.0,3rd,S,,347742.0,11.0208,1.0,1.0,yes
+Kevin Brown,male,49.0,3rd,S,United States,370160.0,,,,no
+James Murray,male,33.0,3rd,S,United States,347062.0,7.1506,0.0,0.0,no
+Todd Mccormick,female,26.0,3rd,S,,347742.0,11.0208,0.0,2.0,yes
+Kent Ellis,male,19.0,3rd,S,United States,370160.0,,0.0,0.0,no
+Theodore Marquez,male,8.0,3rd,S,England,6607.0,23.09,1.0,2.0,no
+Brittany Quinn,female,7.0,3rd,S,England,6607.0,23.09,1.0,2.0,no
+Mrs. Crystal Morrow DVM,male,35.0,3rd,S,Scotland,6607.0,23.09,1.0,2.0,no
+Matthew Schroeder,female,36.0,3rd,S,Scotland,6607.0,23.09,1.0,2.0,no
+Julie Mcknight,male,46.0,1st,S,United States,694.0,26.0,0.0,0.0,no
+Toni Morgan,male,23.0,3rd,S,Bulgaria,349204.0,7.1711,0.0,0.0,no
+Bridget Boyer,male,25.0,3rd,S,Sweden,350417.0,7.1701,0.0,0.0,yes
+Benjamin Rojas,male,27.0,3rd,S,Sweden,350408.0,7.1701,0.0,0.0,no
+Mark Raymond,male,39.0,3rd,C,Lebanon,2675.0,7.0407,0.0,2.0,no
+Kevin Scott,male,50.0,1st,S,England,113044.0,26.0,0.0,0.0,no
+Mason Holmes,female,20.0,3rd,S,Finland,4136.0,9.161,1.0,0.0,no
+Patrick Schneider,female,21.0,3rd,S,Finland,4137.0,9.161,1.0,0.0,no
+Jessica Gonzales,male,32.0,3rd,S,Finland,3101286.0,7.1806,0.0,0.0,yes
+Jennifer Myers,male,17.0,3rd,S,Finland,3101274.0,7.0206,0.0,0.0,no
+Michelle Wilson,male,21.0,3rd,S,Norway,8475.0,8.0808,0.0,0.0,no
+Teresa Hardy,male,34.0,2nd,S,Russia,244367.0,26.0,1.0,0.0,no
+Zachary Paul,female,24.0,2nd,S,Russia,244367.0,26.0,1.0,0.0,yes
+Kathy Mcdaniel,male,30.0,3rd,S,Hungary,349246.0,7.1711,0.0,0.0,no
+Brian Fernandez,male,21.0,3rd,S,Sweden,350053.0,7.1511,0.0,0.0,yes
+Karen Wagner,male,33.0,3rd,S,Sweden,347465.0,7.1701,0.0,0.0,no
+Jose Brooks MD,male,22.0,3rd,S,Sweden,350060.0,7.1005,0.0,0.0,no
+Amanda Briggs,female,22.0,2nd,S,United States,13534.0,21.0,0.0,0.0,no
+Laura Gonzalez,female,5.0,3rd,C,Slovenia,349256.0,13.0804,0.0,1.0,yes
+Michael Mccoy,male,39.0,3rd,C,United States,349256.0,13.0804,0.0,1.0,yes
+Christopher Short,male,19.0,3rd,C,Greece,2682.0,7.0407,0.0,0.0,no
+Kara Baker,female,46.0,2nd,Q,Ireland,226593.0,12.07,0.0,0.0,yes
+William Brooks,male,23.0,3rd,Q,Ireland,12460.0,7.15,0.0,0.0,no
+Amber Stevens,male,35.0,2nd,Q,Ireland,233734.0,12.07,0.0,0.0,no
+Christina Mitchell,male,39.0,3rd,S,United States,323592.0,7.05,0.0,0.0,no
+Aaron Jones,male,33.0,1st,S,England,113503.0,211.1,0.0,0.0,no
+Vincent Perez,female,20.0,3rd,Q,Ireland,9234.0,7.15,0.0,0.0,yes
+Monica Ortiz,female,22.0,3rd,Q,Ireland,14312.0,7.15,0.0,0.0,yes
+Sarah Hays,male,19.0,3rd,S,Scotland,363592.0,8.01,0.0,0.0,no
+Shawna Smith,male,44.0,3rd,Q,Ireland,330911.0,7.1607,0.0,0.0,no
+William Ortega,male,44.0,engineering crew,S,England,,,,,no
+David Diaz,female,49.0,2nd,S,England,223596.0,13.1,0.0,0.0,yes
+Kenneth Hill,male,24.0,3rd,Q,Ireland,368783.0,7.15,0.0,0.0,yes
+Daniel Parker,male,58.0,1st,C,United States,11771.0,29.14,0.0,0.0,no
+Jacob Davis,male,41.0,1st,S,United States,17464.0,51.1703,1.0,0.0,no
+Angel Poole,female,40.0,1st,S,United States,17464.0,51.1703,1.0,0.0,yes
+Karen Davis,male,25.0,3rd,C,Lebanon,2660.0,14.0901,1.0,0.0,no
+Robert Nelson,female,20.0,3rd,C,Lebanon,2660.0,14.0901,1.0,0.0,no
+Steven Hamilton,male,25.0,3rd,Q,Ireland,367227.0,7.15,1.0,0.0,no
+Michael Willis,male,22.0,3rd,Q,Ireland,367229.0,7.15,1.0,0.0,no
+Fred West,male,22.0,3rd,Q,Ireland,36865.0,7.1409,0.0,0.0,no
+Donald Price,male,42.0,1st,S,United States,11753.0,52.1101,1.0,0.0,yes
+Elizabeth Jones,female,45.0,1st,S,United States,11753.0,52.1101,1.0,0.0,yes
+Stephen Kramer,female,4.0,3rd,S,Switzerland,315153.0,22.0,0.0,2.0,yes
+Victoria Williams,female,26.0,3rd,S,Switzerland,315153.0,22.0,1.0,1.0,yes
+Kimberly Phillips,female,23.0,3rd,S,Switzerland,315152.0,8.1303,2.0,0.0,no
+Jordan James DDS,male,29.0,3rd,S,Switzerland,315153.0,22.0,3.0,1.0,yes
+Angela Parks,male,26.0,3rd,S,Switzerland,315151.0,8.1303,2.0,0.0,no
+Thomas Weiss,male,52.0,2nd,Q,United States,219533.0,12.07,0.0,0.0,no
+Carolyn Gilmore,male,41.0,1st,S,United States,113028.0,26.11,0.0,0.0,no
+Lisa Johnson,female,1.0,3rd,S,Sweden,350405.0,12.0308,1.0,1.0,no
+Mark Thompson,male,18.0,3rd,S,Sweden,350404.0,7.1701,1.0,1.0,no
+Charles Nguyen,female,36.0,3rd,S,Sweden,350405.0,12.0308,0.0,2.0,no
+Rebecca Jackson,male,41.0,2nd,B,Northern Ireland,239855.0,,0.0,0.0,no
+Eric Miller,male,,3rd,C,Bulgaria,349253.0,7.1711,0.0,0.0,no
+Seth Miller,male,25.0,3rd,C,Turkey,2654.0,7.0407,0.0,0.0,yes
+Jimmy Figueroa,female,29.0,1st,S,,24160.0,211.0609,0.0,0.0,yes
+Chelsea Owens,male,23.0,2nd,S,England,250654.0,,,,no
+Christopher Levine,male,26.0,3rd,S,Scotland,251.0,7.11,0.0,0.0,no
+Helen Fischer,male,31.0,2nd,S,Sweden,18723.0,10.1,0.0,0.0,no
+Aaron Daniel,male,35.0,3rd,C,Lebanon,2624.0,7.0406,0.0,0.0,no
+Joseph Gonzalez,male,35.0,2nd,S,United States,250651.0,26.0,1.0,1.0,no
+Abigail Duke,female,34.0,2nd,S,United States,250651.0,26.0,1.0,1.0,no
+Sabrina Ferguson,female,37.0,3rd,S,Finland,4135.0,9.1109,0.0,0.0,no
+April Hendricks,male,31.0,2nd,Q,Ireland,240261.0,10.1402,0.0,0.0,no
+Ricardo Ball,male,38.0,3rd,S,China/Hong Kong,1601.0,56.0911,0.0,0.0,yes
+Lori Brooks MD,male,23.0,3rd,S,,1601.0,56.0911,0.0,0.0,no
+Sara Torres,female,22.0,3rd,S,Sweden,7077.0,7.05,0.0,0.0,yes
+Michelle Morton,male,17.0,3rd,Q,Ireland,7935.0,7.15,0.0,0.0,no
+Jeremy Johnson,male,32.0,3rd,S,,1601.0,56.0911,0.0,0.0,yes
+William Kramer,female,1.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+Debra Jackson,female,3.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+Travis Jones,male,25.0,2nd,C,France,2123.0,41.1107,1.0,2.0,no
+Rachel Nelson,female,22.0,2nd,C,France,2123.0,41.1107,1.0,2.0,yes
+Mrs. Heather Martin,male,29.0,3rd,S,United States,7545.0,9.0908,0.0,0.0,no
+Shelly Scott,male,29.0,3rd,S,Sweden,347067.0,7.1506,0.0,0.0,no
+Kayla Bennett,male,22.0,3rd,S,Sweden,347065.0,7.1506,0.0,0.0,no
+Kelly Scott,female,49.0,1st,S,United States,17465.0,25.1807,0.0,0.0,yes
+James Clark,male,5.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+Karen Taylor,female,3.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+Lauren Stanley,female,8.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+Michael Fuentes,female,12.0,3rd,S,,4133.0,25.0904,3.0,1.0,no
+James Rodriguez,female,40.0,3rd,S,,4133.0,25.0904,0.0,4.0,no
+Ronald Schmidt,female,17.0,2nd,C,Switzerland,1748.0,12.0,0.0,0.0,yes
+Stephen Aguirre,male,32.0,3rd,S,Finland,3101292.0,7.1806,0.0,0.0,no
+Eric Schmidt,female,31.0,2nd,S,Scotland,248727.0,33.0,0.0,0.0,yes
+Julie Flores,female,39.0,2nd,S,England,34260.0,10.1,0.0,0.0,yes
+Nathan Chaney,female,18.0,3rd,Q,Ireland,370371.0,15.1,1.0,0.0,no
+Samantha Crawford,male,20.0,3rd,Q,Ireland,370371.0,15.1,1.0,0.0,no
+Amber Chapman,female,27.0,1st,C,France,17761.0,106.0806,0.0,0.0,yes
+Aaron Sweeney,male,41.0,3rd,S,England,48871.0,24.03,0.0,0.0,no
+George James,male,35.0,1st,C,,17755.0,512.0607,0.0,0.0,yes
+Sandra Davidson,male,37.0,2nd,S,Canada,2163.0,12.1706,0.0,0.0,no
+Mr. Justin Fitzgerald,male,30.0,1st,C,United States,17612.0,27.1405,0.0,0.0,no
+Marc Wiley,male,25.0,2nd,S,England,29566.0,10.1,0.0,0.0,no
+Bill Sherman,male,24.0,3rd,S,Belgium,345781.0,9.1,0.0,0.0,no
+Christopher Mayo,female,25.0,3rd,S,Sweden,347071.0,7.1506,0.0,0.0,no
+Timothy Russell,female,45.0,3rd,S,England,347073.0,7.15,0.0,0.0,no
+Tiffany Simmons,male,42.0,1st,S,Sweden,17475.0,26.11,0.0,0.0,no
+Samantha Wilson,male,36.0,3rd,S,Sweden,349910.0,15.11,1.0,0.0,no
+Sarah Brady,female,30.0,3rd,S,Sweden,349910.0,15.11,1.0,0.0,no
+Angela Turner,male,20.0,3rd,S,Finland,3101285.0,7.1806,1.0,0.0,yes
+Patricia Mccarthy,female,55.0,1st,C,Sweden,112377.0,27.1405,0.0,0.0,yes
+Debra Brown,male,21.0,3rd,Q,Ireland,330971.0,7.1707,0.0,0.0,no
+Michelle Allison,female,16.0,1st,C,France,17592.0,39.08,0.0,1.0,yes
+Tonya Taylor,female,50.0,1st,C,United States,17592.0,39.08,0.0,1.0,yes
+Charles Ross,male,61.0,2nd,Q,Ireland,235509.0,12.07,0.0,0.0,no
+Jo Craig,male,28.0,3rd,S,,1601.0,56.0911,0.0,0.0,no
+Dr. Mary Evans,male,27.0,3rd,S,Austria,345775.0,9.1,0.0,0.0,no
+Jose Chan,male,25.0,3rd,S,Latvia,374887.0,7.05,0.0,0.0,no
+Kristina Horn,female,34.0,3rd,S,England,3336.0,16.02,1.0,0.0,no
+Samantha Collins,male,31.0,3rd,S,England,3336.0,16.02,1.0,0.0,no
+Anita Lopez,male,19.0,3rd,S,England,1222.0,7.1707,0.0,0.0,no
+Eric Morton,female,21.0,1st,C,United States,13502.0,77.1902,0.0,0.0,yes
+Alan Raymond,male,29.0,1st,S,United States,113501.0,30.0,0.0,0.0,no
+Jason Anderson,male,30.0,1st,S,United States,113801.0,45.1,0.0,0.0,no
+Mr. Raymond Grimes DVM,male,50.0,2nd,S,England,3085.0,26.0,1.0,0.0,no
+John Nicholson,female,43.0,2nd,S,England,3085.0,26.0,1.0,0.0,yes
+Amy Hamilton,male,20.0,3rd,S,England,21173.0,7.05,0.0,0.0,no
+Mike Rangel,male,29.0,3rd,S,Croatia (Modern),315098.0,8.1303,0.0,0.0,yes
+Louis Butler,male,50.0,3rd,S,Sweden,347743.0,7.0101,0.0,0.0,no
+Kenneth Walker,female,23.0,3rd,S,United States,347469.0,7.1701,0.0,0.0,yes
+Colleen Bush,male,32.0,3rd,S,Sweden,350403.0,7.1107,0.0,0.0,yes
+Mary Costa,female,59.0,1st,C,France,17569.0,146.1005,0.0,0.0,yes
+Debbie Ramos,male,30.0,3rd,C,Greece,2683.0,6.0809,0.0,0.0,no
+Brett Collins,male,44.0,3rd,S,,349235.0,7.1711,0.0,0.0,no
+Joe Parrish,male,20.0,3rd,S,Scotland,42795.0,7.11,0.0,0.0,no
+Michael Woods,female,57.0,2nd,S,England,3.0,10.1,0.0,0.0,no
+John Barr,female,21.0,3rd,Q,Ireland,370370.0,7.15,0.0,0.0,yes
+David Thomas,female,16.0,1st,S,United States,24160.0,211.0609,0.0,1.0,yes
+Christy Wolf,male,24.0,3rd,S,Norway,17369.0,7.021,0.0,0.0,yes
+Jose Neal,male,22.0,3rd,S,Finland,3101275.0,7.0206,0.0,0.0,no
+Laura Mckinney,male,30.0,1st,S,United States,110469.0,26.0,0.0,0.0,no
+Joshua Quinn,female,20.0,3rd,Q,Ireland,330924.0,7.1707,0.0,0.0,no
+Kathleen Paul,female,20.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+Tanner Duncan,male,34.0,3rd,S,England,2816.0,8.01,0.0,0.0,no
+Margaret Greer,male,29.0,3rd,S,Finland,3101268.0,7.1806,0.0,0.0,no
+Patricia Kelly,male,25.0,2nd,C,France,237735.0,15.0,0.0,0.0,no
+Annette Campbell,male,1.0,2nd,C,France,2079.0,37.0,0.0,2.0,yes
+Craig Fernandez,male,45.0,2nd,C,France,2079.0,37.0,1.0,1.0,no
+Manuel Ibarra,female,24.0,2nd,C,France,2079.0,37.0,1.0,1.0,yes
+Megan Parrish,male,18.0,3rd,C,Lebanon,2677.0,7.0407,0.0,0.0,yes
+Ricky Moore,female,32.0,3rd,Q,Ireland,364850.0,7.15,0.0,0.0,no
+Sarah Carroll,male,30.0,2nd,C,United States,32861.0,15.1107,0.0,0.0,no
+Sophia Scott,female,28.0,3rd,Q,Ireland,36866.0,7.1409,0.0,0.0,yes
+Todd Anderson,male,25.0,3rd,C,Turkey,2655.0,7.0407,0.0,0.0,no
+Elaine Miller,male,29.0,1st,C,France,11774.0,29.14,0.0,0.0,yes
+Jason Fisher,male,23.0,3rd,S,Yugoslavia,349238.0,7.1711,0.0,0.0,no
+Bradley Hawkins,male,35.0,3rd,S,Bulgaria,349213.0,7.1711,0.0,0.0,no
+Taylor Solomon,male,33.0,3rd,C,Slovenia,349257.0,7.1711,0.0,0.0,no
+Megan Perez,male,18.0,1st,S,United States,113773.0,53.02,1.0,0.0,no
+Jason Walker,female,18.0,1st,S,Scotland,113773.0,53.02,1.0,0.0,yes
+Tristan Mckinney,male,30.0,3rd,C,Bulgaria,349255.0,7.1711,0.0,0.0,no
+Justin Johnson,male,23.0,2nd,S,England,28228.0,13.0,0.0,0.0,no
+John Oliver,male,36.0,2nd,S,England,239059.0,16.0,0.0,0.0,no
+Hannah Watson,female,24.0,1st,C,Belgium,17482.0,49.1001,0.0,0.0,yes
+Amy Roy,male,46.0,1st,S,Canada,13050.0,75.041,0.0,0.0,no
+Melissa Taylor,female,25.0,3rd,Q,Ireland,383123.0,7.15,0.0,0.0,yes
+Jared Morales,male,55.0,1st,S,United States,17463.0,51.1703,0.0,0.0,no
+Timothy Johnson,male,19.0,3rd,Q,United States,367228.0,7.15,0.0,0.0,yes
+Brandon Morris,female,29.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+Crystal Bryan,female,26.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+Melanie Castro,male,24.0,3rd,Q,Ireland,367226.0,23.05,2.0,0.0,yes
+Andrew King,male,32.0,2nd,S,Australia,237216.0,13.1,0.0,0.0,no
+James Gonzalez,male,32.0,2nd,S,Canada,233478.0,13.0,0.0,0.0,no
+Kevin Hammond,female,31.0,3rd,Q,Ireland,330932.0,7.1508,0.0,0.0,yes
+John Lopez,male,20.0,3rd,Q,Ireland,36568.0,15.1,0.0,0.0,no
+Kevin Berg,male,35.0,1st,S,Ireland,17473.0,26.0509,0.0,0.0,yes
+Daniel Nguyen,female,22.0,3rd,Q,Ireland,330931.0,7.1707,0.0,0.0,yes
+Jessica Carter,female,17.0,3rd,Q,United States,330923.0,8.0,0.0,0.0,yes
+Terry Wallace,female,42.0,3rd,Q,Ireland,9232.0,7.15,0.0,0.0,no
+Sandra Grimes,male,46.0,2nd,S,Channel Islands,28403.0,26.0,0.0,0.0,no
+Casey Brandt,male,19.0,3rd,Q,Ireland,370372.0,7.15,0.0,0.0,no
+Rachel Smith,male,27.0,3rd,S,England,376566.0,16.02,1.0,0.0,no
+Johnny Floyd,female,19.0,3rd,S,England,376566.0,16.02,1.0,0.0,no
+Paul King,female,32.0,3rd,Q,Ireland,370368.0,7.15,0.0,0.0,no
+Andrew Cooper,female,62.0,3rd,S,England,392087.0,8.01,0.0,0.0,no
+Ryan Rosario,male,22.0,3rd,Q,Ireland,3130.0,7.15,0.0,0.0,no
+James Webb,female,32.0,3rd,S,England,343095.0,8.01,0.0,0.0,no
+Timothy Sanchez,female,13.0,2nd,S,England,250644.0,19.1,0.0,1.0,yes
+Terri Hudson,female,42.0,2nd,S,England,250644.0,19.1,0.0,1.0,yes
+Susan Thornton,male,19.0,2nd,S,England,751.0,10.1,0.0,0.0,yes
+Brian Gilbert,male,48.0,3rd,S,Italy,11206.0,8.01,0.0,0.0,no
+Nicholas Wyatt,male,28.0,3rd,Q,Ireland,368703.0,7.15,0.0,0.0,no
+Richard Dunn,male,31.0,2nd,S,England,248723.0,13.0,0.0,0.0,no
+Daniel Snyder,male,28.0,1st,C,United States,17604.0,82.0305,1.0,0.0,no
+Julie Sawyer,female,25.0,1st,C,United States,17604.0,82.0305,1.0,0.0,yes
+Omar Ortiz,male,21.0,3rd,S,Norway,345501.0,7.1506,0.0,0.0,yes
+Brandon Lawson,male,28.0,3rd,S,Bulgaria,349207.0,7.1711,0.0,0.0,no
+Tony Liu,male,23.0,3rd,S,England,359306.0,8.01,0.0,0.0,no
+Danny Torres,male,65.0,1st,C,United States,13509.0,26.11,0.0,0.0,no
+Andrew Thompson,male,48.0,2nd,S,Denmark,234360.0,13.0,0.0,0.0,no
+Stephen Butler,male,44.0,1st,Q,United States,19928.0,90.0,2.0,0.0,no
+Brian Anderson,female,33.0,1st,Q,United States,19928.0,90.0,1.0,0.0,yes
+Christopher Strickland,female,37.0,1st,Q,United States,19928.0,90.0,1.0,0.0,yes
+Teresa Smith,male,24.0,3rd,S,,349233.0,7.1711,0.0,0.0,no
+Leah Vasquez,male,21.0,3rd,S,Bulgaria,349211.0,7.1711,0.0,0.0,no
+Melissa Horton,male,72.0,2nd,S,England,24580.0,10.1,0.0,0.0,no
+Charles Hall,male,23.0,3rd,S,,349221.0,7.1711,0.0,0.0,no
+David Dominguez,female,23.0,3rd,Q,Ireland,330980.0,7.1707,0.0,0.0,yes
+Deanna Turner MD,male,30.0,1st,C,United States,13236.0,57.15,1.0,0.0,yes
+Randy Goodman,male,27.0,3rd,S,Norway,348123.0,7.13,0.0,0.0,no
+Christopher King,male,55.0,1st,S,Canada,113787.0,30.1,0.0,0.0,no
+Jessica Perkins,male,27.0,2nd,S,England,211536.0,13.0,0.0,0.0,no
+Eric Brown,male,47.0,1st,S,United States,113796.0,42.08,0.0,0.0,no
+Valerie Mccarthy,male,19.0,3rd,S,England,54510.0,8.01,0.0,0.0,no
+Nicole Walters,male,7.0,3rd,S,,392096.0,12.0906,0.0,1.0,yes
+Kimberly Donaldson,female,29.0,3rd,S,,392096.0,12.0906,0.0,1.0,yes
+Jason Gonzalez,female,28.0,3rd,Q,Ireland,371110.0,24.03,1.0,0.0,yes
+Karen Sweeney,male,28.0,3rd,Q,Ireland,371110.0,24.03,1.0,0.0,no
+Anna Torres,male,54.0,2nd,S,United States,29011.0,14.0,0.0,0.0,no
+Johnny Gonzales,male,38.0,2nd,S,England,250655.0,26.0,0.0,0.0,no
+Tammy Preston,male,34.0,3rd,S,England,364506.0,8.01,0.0,0.0,no
+Katie Proctor,male,30.0,3rd,Q,Ireland,372622.0,7.15,0.0,0.0,no
+Diana Hunter,male,29.0,3rd,S,Norway,312991.0,7.1506,0.0,0.0,yes
+Brenda Taylor,female,35.0,3rd,C,Lebanon,2626.0,7.0407,0.0,0.0,yes
+Lauren Santiago,male,28.0,3rd,S,England,374746.0,8.01,0.0,0.0,no
+Austin Benson,male,4.0,3rd,C,Lebanon,2661.0,15.0411,1.0,1.0,yes
+Jessica Hernandez,male,7.0,3rd,C,Lebanon,2661.0,15.0411,1.0,1.0,yes
+Shelly Webb,female,25.0,3rd,C,Lebanon,2661.0,15.0411,0.0,2.0,yes
+Tyler Washington,male,17.0,2nd,S,England,3.0,10.1,0.0,0.0,no
+Kyle Avila,female,21.0,3rd,Q,Ireland,35852.0,7.1408,0.0,0.0,yes
+Beverly Miller,female,25.0,3rd,Q,Ireland,382653.0,7.15,0.0,0.0,yes
+Karl Morales,male,22.0,3rd,S,England,3235.0,8.01,0.0,0.0,no
+Jordan Salas,female,18.0,3rd,Q,Ireland,367230.0,15.1,1.0,0.0,yes
+Mark Hunter,female,25.0,3rd,Q,Ireland,367230.0,15.1,1.0,0.0,yes
+Christopher Taylor,female,31.0,3rd,Q,Ireland,36568.0,15.1,0.0,0.0,yes
+Brian Robinson,female,22.0,3rd,C,Lebanon,2649.0,7.0406,0.0,0.0,yes
+Steven Stephens,male,18.0,3rd,S,Sweden,347078.0,7.15,0.0,0.0,no
+Michael Mclaughlin,male,63.0,2nd,Q,Ireland,240276.0,9.1309,0.0,0.0,no
+Charles Wilson,male,22.0,3rd,S,Bulgaria,349206.0,7.1711,0.0,0.0,no
+Jennifer Smith,female,15.0,3rd,C,Lebanon,2667.0,7.0406,0.0,0.0,yes
+Jackson Wolfe,male,17.0,3rd,C,Lebanon,2641.0,7.0407,0.0,0.0,no
+Matthew Jackson,female,1.0,3rd,C,Lebanon,2653.0,15.141,0.0,2.0,yes
+Amanda Atkinson,male,21.0,3rd,C,Lebanon,2653.0,15.141,1.0,1.0,yes
+Brian Simmons,female,19.0,3rd,C,Lebanon,2653.0,15.141,1.0,1.0,yes
+Michael Mays,male,36.0,3rd,S,England,3338.0,8.01,0.0,0.0,no
+Ray Tran,male,32.0,3rd,S,,349218.0,7.1711,0.0,0.0,no
+Regina Ellis,male,20.0,3rd,C,Lebanon,2652.0,7.0407,0.0,0.0,no
+Cynthia Price,male,28.0,2nd,C,United States,237736.0,30.0105,1.0,0.0,no
+Barbara Lambert,female,14.0,2nd,C,Lebanon,237736.0,30.0105,1.0,0.0,yes
+Matthew Harrison,male,20.0,3rd,C,Lebanon,2676.0,7.0406,0.0,0.0,no
+Jessica Ho,male,36.0,1st,C,United States,17596.0,29.14,0.0,1.0,no
+Alexandra Glass,female,21.0,3rd,Q,Ireland,365237.0,7.15,0.0,0.0,no
+Jeremy Burnett,male,2.0,2nd,S,France,230080.0,26.0,1.0,1.0,yes
+Margaret Boone,male,3.0,2nd,S,France,230080.0,26.0,1.0,1.0,yes
+Erica Williams,male,32.0,2nd,S,Slovakia (Modern day),230080.0,26.0,0.0,2.0,no
+Rachel Moore,male,22.0,3rd,S,,349234.0,7.1711,0.0,0.0,no
+Ryan Hoffman,male,26.0,2nd,S,England,244368.0,13.0,0.0,0.0,no
+Robert Alvarez,female,31.0,1st,C,United States,35273.0,113.0506,1.0,0.0,yes
+Megan Brandt,female,23.0,1st,C,United States,35273.0,113.0506,1.0,0.0,yes
+Carla Reed,male,58.0,1st,C,United States,35273.0,113.0506,0.0,2.0,no
+Tammy Wyatt,female,19.0,1st,S,United States,11752.0,26.0508,0.0,2.0,yes
+Nathaniel Morris,male,19.0,2nd,S,England,33112.0,36.15,1.0,1.0,no
+Melissa Smith,male,60.0,1st,S,England,693.0,26.0,0.0,0.0,no
+April Jackson DVM,female,29.0,3rd,S,Finland,3101297.0,7.1806,0.0,0.0,no
+Richard Smith,male,28.0,3rd,S,Sweden,363611.0,8.01,0.0,0.0,no
+Allison Carter,female,18.0,3rd,S,Sweden,347066.0,7.1506,0.0,0.0,yes
+Donald Camacho,female,26.0,3rd,S,Sweden,347470.0,7.1701,0.0,0.0,yes
+Teresa Kennedy,male,21.0,3rd,S,Sweden,350410.0,7.1701,0.0,0.0,no
+Jared Elliott,male,11.0,3rd,C,Lebanon,2651.0,11.041,1.0,0.0,yes
+Christopher Bell,female,14.0,3rd,C,Lebanon,2651.0,11.041,1.0,0.0,yes
+Renee Jones,male,41.0,3rd,S,Finland,3101272.0,7.0206,0.0,0.0,no
+Logan Bray,male,39.0,3rd,S,United States,3101289.0,7.1806,0.0,0.0,yes
+Kenneth Dunn,male,20.0,3rd,C,Lebanon,2697.0,7.0407,0.0,0.0,no
+Jennifer Hill,male,27.0,2nd,S,Scotland,218629.0,13.1,0.0,0.0,no
+Mckenzie Lee,male,21.0,3rd,S,England,39886.0,7.16,0.0,0.0,no
+Amy Jones,male,20.0,1st,C,Germany,2166.0,13.1703,0.0,0.0,yes
+John Gilbert,female,29.0,2nd,S,United States,29395.0,10.1,0.0,0.0,yes
+Dennis Martin,female,22.0,3rd,S,Sweden,347081.0,7.15,0.0,0.0,yes
+Heather Miller,male,60.0,3rd,S,Norway,345364.0,6.0409,0.0,0.0,no
+John Cooley,male,21.0,3rd,Q,Ireland,330979.0,7.1607,0.0,0.0,no
+Richard Hartman,female,26.0,3rd,Q,Ireland,370365.0,15.1,1.0,0.0,yes
+David Robertson,male,27.0,3rd,Q,Ireland,370365.0,15.1,1.0,0.0,no
+Brian Herrera,male,18.0,3rd,Q,Ireland,334912.0,7.1408,0.0,0.0,no
+Joshua Saunders,male,17.0,3rd,Q,Ireland,371060.0,7.15,0.0,0.0,no
+Frank Evans,male,23.0,3rd,Q,Ireland,366713.0,7.15,0.0,0.0,no
+Michael Henry,male,23.0,3rd,S,Sweden,7267.0,9.0406,0.0,0.0,no
+Eric Goodman,female,24.0,3rd,Q,Ireland,330959.0,7.1707,0.0,0.0,yes
+Kenneth Roberson,female,22.0,3rd,S,Sweden,347085.0,7.1506,0.0,0.0,yes
+Jennifer Salas,male,21.0,3rd,Q,Ireland,368402.0,7.15,0.0,0.0,yes
+Holly Leon,female,16.0,3rd,Q,Ireland,330919.0,7.1607,0.0,0.0,yes
+Catherine Hopkins,female,39.0,1st,C,Spain,17758.0,108.18,0.0,0.0,yes
+Desiree Wheeler,male,9.0,3rd,S,Norway,17368.0,3.0305,0.0,1.0,yes
+Michael Grant,male,28.0,3rd,S,Norway,4001.0,22.1006,0.0,0.0,no
+Jane Moran DDS,male,42.0,3rd,S,United States,4579.0,8.0801,0.0,1.0,no
+Aaron Hill,male,27.0,3rd,S,Norway,265302.0,7.0603,0.0,0.0,no
+Crystal Ramos,female,31.0,3rd,S,Sweden,350407.0,7.1701,0.0,0.0,no
+Larry Simmons,male,28.0,3rd,S,Sweden,347464.0,7.1701,0.0,0.0,no
+Aaron Webb,male,32.0,3rd,S,Sweden,347079.0,7.1506,0.0,0.0,yes
+Jessica Barnett,male,20.0,3rd,S,Norway,6563.0,9.0406,0.0,0.0,no
+Sara Cervantes,male,29.0,1st,C,France,12998.0,25.141,0.0,0.0,yes
+Jared Sharp,female,23.0,3rd,S,Croatia,315085.0,8.1303,0.0,0.0,no
+Jesus Harris,female,20.0,3rd,S,Croatia,315096.0,8.1303,0.0,0.0,no
+Donald Holder,male,20.0,3rd,S,Croatia,315094.0,8.1303,0.0,0.0,no
+Gail Mcintosh,male,16.0,3rd,S,Sweden,7534.0,9.0404,0.0,0.0,no
+Elizabeth Gregory,female,22.0,1st,S,United States,113509.0,61.1907,0.0,1.0,yes
+Randall Joyce,male,64.0,1st,S,United States,113509.0,61.1907,0.0,1.0,no
+Pamela Phillips,female,21.0,3rd,Q,Ireland,330909.0,7.1207,0.0,0.0,no
+Jessica Smith,male,38.0,2nd,S,United States,28213.0,13.0,0.0,0.0,no
+Melody Moore,male,36.0,1st,C,Cuba,17562.0,27.1405,0.0,0.0,no
+Jordan Johnson,male,22.0,2nd,S,England,14260.0,10.1,0.0,0.0,yes
+Kaitlyn Franklin,male,27.0,2nd,C,Spain,2146.0,13.1703,0.0,0.0,yes
+Ryan Mendez,male,23.0,2nd,S,Canada,244278.0,10.1,0.0,0.0,no
+Robert Brown,male,29.0,2nd,C,Spain,2147.0,13.1702,0.0,0.0,yes
+Jack Mckinney,male,2.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+Joshua Wright,male,6.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+Lisa Pearson,female,3.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+Angela Brown,female,8.0,3rd,S,Sweden,349909.0,21.0106,3.0,1.0,no
+Lisa Todd,female,29.0,3rd,S,Sweden,349909.0,21.0106,0.0,4.0,no
+Gregory Smith,male,1.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+Jamie Murphy,male,15.0,3rd,S,United States,3101295.0,39.1309,4.0,1.0,no
+Nancy Cooper,male,7.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+Daniel Schwartz,male,2.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+Robert Conner,male,16.0,3rd,S,Finland,3101295.0,39.1309,4.0,1.0,no
+Kenneth Fischer,female,41.0,3rd,S,Finland,3101295.0,39.1309,0.0,5.0,no
+Ashley Stanley,male,17.0,2nd,S,Channel Islands,14888.0,10.1,0.0,0.0,no
+Tami Zimmerman,male,21.0,2nd,B,Northern Ireland,239853.0,,0.0,0.0,no
+Tyler Lowe,female,59.0,2nd,S,United States,230433.0,26.0,0.0,1.0,yes
+Stephanie Andrade,male,30.0,1st,B,England,112052.0,,0.0,0.0,no
+Mckenzie Vargas,male,40.0,1st,S,England,113043.0,28.1,0.0,0.0,no
+Russell Cooper,male,21.0,3rd,S,Slovenia,315097.0,8.1303,0.0,0.0,no
+Jennifer Kirk,male,20.0,3rd,S,England,358585.0,14.1,0.0,0.0,no
+Katie Garcia,male,32.0,3rd,S,Croatia,349242.0,7.1711,0.0,0.0,no
+Michael Jones,male,23.0,1st,S,Canada,12749.0,93.1,0.0,0.0,no
+Tyler Oconnell,male,0.5833333333,3rd,S,England,3101315.0,13.1506,1.0,1.0,no
+Rebecca Kim,female,4.0,3rd,S,England,3101315.0,13.1506,1.0,1.0,no
+Stephen Johnson,female,26.0,3rd,S,England,3101315.0,13.1506,0.0,2.0,no
+Susan Perez,male,32.0,3rd,S,England,343271.0,7.0,0.0,0.0,no
+James Schroeder,female,22.0,1st,S,England,113776.0,66.12,1.0,0.0,yes
+James Bentley,male,29.0,1st,S,England,113776.0,66.12,1.0,0.0,no
+Tony Moore,male,28.0,3rd,S,Norway,345498.0,7.1506,0.0,0.0,no
+Tracy Warner,male,24.0,3rd,S,England,2817.0,8.01,0.0,0.0,no
+Curtis Ross,male,21.0,3rd,S,Finland,3101294.0,7.1806,0.0,0.0,no
+Anthony Brady,male,25.0,3rd,S,Finland,3101291.0,7.1806,0.0,0.0,no
+Patrick Rogers,female,22.0,1st,C,Spain,17758.0,108.18,1.0,0.0,yes
+Alicia Robles,male,24.0,1st,C,Spain,17758.0,108.18,1.0,0.0,no
+Randy Parker,male,19.0,2nd,S,England,28665.0,10.1,0.0,0.0,no
+Sean Anderson,male,24.0,3rd,S,England,21174.0,7.05,0.0,0.0,no
+Vanessa Williams,male,39.0,2nd,C,France,2131.0,15.01,0.0,0.0,no
+Caleb Lee,female,33.0,1st,S,Canada,12749.0,93.1,0.0,0.0,yes
+David Dunlap,male,25.0,3rd,S,Sweden,347083.0,7.1506,1.0,0.0,yes
+Ronald Cannon,male,41.0,2nd,S,Germany,237393.0,13.0,0.0,0.0,no
+Kevin Ramirez,female,28.0,3rd,S,Croatia,349245.0,7.1711,0.0,0.0,no
+Matthew Kennedy,male,4.0,3rd,C,Lebanon,2668.0,22.0702,1.0,1.0,yes
+Kimberly Floyd,female,2.0,3rd,C,Lebanon,2668.0,22.0702,1.0,1.0,yes
+Frank Chapman,male,24.0,3rd,S,England,342441.0,8.01,0.0,0.0,no
+Eduardo Wilson,female,28.0,3rd,Q,Ireland,330935.0,8.0209,0.0,0.0,no
+Brian Galvan,male,19.0,3rd,S,Bulgaria,349212.0,7.1711,0.0,0.0,no
+Dana Deleon,male,29.0,3rd,S,Bulgaria,349215.0,7.1711,0.0,0.0,no
+Dr. Frank Cole,female,18.0,3rd,S,Sweden,347087.0,7.1506,0.0,0.0,no
+Shirley Conway,male,25.0,3rd,S,Sweden,347076.0,7.1506,1.0,0.0,no
+Yolanda Hall,male,52.0,1st,S,Canada,113786.0,30.1,0.0,0.0,yes
+Melanie Davis,female,21.0,2nd,S,England,2.0,21.0,0.0,1.0,yes
+Jenna Foley,female,19.0,2nd,S,England,250655.0,26.0,0.0,0.0,yes
+Aaron Martinez,male,43.0,2nd,S,England,2.0,21.0,0.0,1.0,no
+Ryan Jordan,male,33.0,3rd,S,Poland,392078.0,8.01,0.0,0.0,yes
+Michelle Hunt,female,32.0,2nd,S,Poland,234604.0,13.0,0.0,0.0,yes
+Tonya Moran,male,27.0,3rd,S,,349227.0,7.1711,0.0,0.0,no
+Annette Edwards,male,17.0,3rd,S,Croatia,315095.0,8.1303,0.0,0.0,no
+Jonathan Horton,male,24.0,3rd,S,Croatia,315092.0,8.1303,0.0,0.0,no
+Mrs. Colleen Miller,male,24.0,2nd,S,England,250647.0,13.0,0.0,0.0,no
+Kim Lester,male,30.0,2nd,C,United States,34644.0,12.1409,0.0,0.0,yes
+Jeffery Thomas,male,46.0,1st,S,United States,110465.0,52.0,0.0,0.0,no
+David Nunez,female,56.0,1st,C,United States,11767.0,83.0302,0.0,1.0,yes
+Phillip Long,male,27.0,2nd,C,United States,2168.0,15.0,0.0,0.0,no
+Patrick White,male,16.0,3rd,C,,3411.0,8.1403,0.0,0.0,no
+Tara Davis,female,2.0,2nd,S,,26360.0,26.0,1.0,1.0,yes
+Charles Anderson,female,8.0,2nd,S,,26360.0,26.0,1.0,1.0,yes
+Christopher Franklin,female,33.0,2nd,S,,26360.0,26.0,0.0,2.0,yes
+Kimberly Brown,male,27.0,3rd,S,,349223.0,7.1711,0.0,0.0,no
+Michael Odonnell,male,21.0,3rd,C,Lebanon,2679.0,7.0406,0.0,0.0,no
+Lori Johnson,female,63.0,3rd,S,Norway,65305.0,8.0203,0.0,0.0,no
+Laurie Armstrong,male,30.0,3rd,C,Lebanon,2629.0,7.0407,0.0,0.0,no
+Laura Mcintosh,male,18.0,3rd,S,Wales,362316.0,7.05,0.0,0.0,no
+Robert Blake,male,36.0,2nd,S,England,17248.0,10.1,0.0,0.0,no
+Tammy Strickland,male,38.0,3rd,S,Bosnia,349249.0,7.1711,0.0,0.0,no
+Brandon Maxwell,male,33.0,2nd,S,Channel Islands,31027.0,21.0,1.0,0.0,no
+Rachel Jackson,female,30.0,2nd,S,Channel Islands,31027.0,21.0,3.0,0.0,yes
+Darlene Ingram,male,37.0,1st,C,Netherlands,19972.0,,0.0,0.0,no
+Robert Gilbert,female,29.0,2nd,S,Spain,230434.0,13.0,0.0,0.0,yes
+Jacob Patel,male,21.0,3rd,S,England,342684.0,8.01,0.0,0.0,no
+Jacob Vaughan,male,33.0,1st,C,United States,17607.0,39.12,0.0,0.0,yes
+Heather Griffith,male,10.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+Richard Brown,male,4.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+Traci Rogers,male,7.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+Daniel Moore,male,2.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+Mary Shaffer,male,8.0,3rd,Q,Ireland,382652.0,29.0206,4.0,1.0,no
+Andrew Preston,female,39.0,3rd,Q,Ireland,382652.0,29.0206,0.0,5.0,no
+Rachael Garcia,male,23.0,2nd,C,,2133.0,15.0,0.0,0.0,no
+Daniel Berry,male,0.75,2nd,S,England,29106.0,18.15,1.0,1.0,yes
+Timothy Romero,male,3.0,2nd,S,England,29106.0,18.15,1.0,1.0,yes
+Charles Watts,female,24.0,2nd,S,England,29106.0,18.15,2.0,3.0,yes
+Andrew Garrett,female,58.0,2nd,S,England,14258.0,10.1,0.0,0.0,yes
+Amanda Boyle,male,22.0,1st,C,,17760.0,135.1208,0.0,0.0,no
+Kathryn Reed,female,22.0,3rd,S,Finland,3101295.0,39.1309,0.0,0.0,no
+Ashley Powers,male,35.0,3rd,S,Finland,3101273.0,7.0206,0.0,0.0,no
+Rebecca Harper,female,22.0,3rd,Q,Ireland,334915.0,7.1405,0.0,0.0,yes
+Jacqueline Davis,male,69.0,3rd,S,England,364498.0,14.1,0.0,0.0,no
+Kevin Mcbride,female,64.0,3rd,S,England,364498.0,14.1,0.0,0.0,no
+Benjamin Walker,female,43.0,1st,S,United States,24160.0,211.0609,0.0,1.0,yes
+Kelsey Cummings,male,50.0,3rd,S,England,3337.0,14.1,1.0,0.0,no
+Melissa Marsh,female,48.0,3rd,S,England,3337.0,14.1,1.0,0.0,no
+Justin Munoz,male,45.0,1st,C,England,17757.0,247.1006,0.0,0.0,no
+Tiffany Crawford,male,31.0,1st,S,United States,17590.0,50.0911,0.0,0.0,no
+Tabitha Dominguez,male,18.0,2nd,S,England,28004.0,10.1,0.0,0.0,no
+Robert Espinoza,male,30.0,3rd,S,Wales,23567.0,8.01,0.0,0.0,no
+Tiffany Williams,male,45.0,1st,S,United States,111428.0,26.11,0.0,0.0,yes
+Jennifer Lee,male,49.0,3rd,S,Norway,312993.0,7.1506,0.0,0.0,no
+Christina Salazar,male,39.0,1st,S,United States,113767.0,50.0,0.0,0.0,no
+Cindy Bennett,female,2.0,3rd,S,Finland,370129.0,20.0403,1.0,1.0,no
+Alexis Rose,female,41.0,3rd,S,Finland,370129.0,20.0403,0.0,2.0,no
+Melissa Woods,male,18.0,3rd,S,Finland,370129.0,20.0403,1.0,1.0,no
+Javier Ortiz,female,33.0,1st,C,France,17613.0,27.1405,0.0,0.0,yes
+Teresa Castro,male,46.0,1st,C,United States,17585.0,79.0,0.0,0.0,no
+Joseph Ortiz MD,male,36.0,1st,S,Canada,13049.0,40.0206,0.0,0.0,no
+Katrina Johnson,female,33.0,1st,S,England,110152.0,86.1,0.0,0.0,yes
+David Lee,female,26.0,3rd,S,Austria,342712.0,8.01,0.0,0.0,yes
+Jeffery Vaughan,male,46.0,1st,C,United States,17603.0,59.08,1.0,0.0,no
+Linda Gomez,female,54.0,1st,C,United States,17603.0,59.08,1.0,0.0,yes
+Heather Mueller,male,55.0,3rd,S,England,3594.0,8.01,0.0,0.0,no
+Frederick Smith,male,59.0,1st,S,Peru,113790.0,26.11,0.0,0.0,no
+Eric Gonzales,female,22.0,2nd,S,Channel Islands,31026.0,10.1,0.0,0.0,yes
+Paul Lowe,male,17.0,3rd,S,England,20589.0,8.01,0.0,0.0,no
+David Flynn,male,24.0,3rd,Q,Ireland,383162.0,7.15,0.0,0.0,yes
+Debbie Turner,male,30.0,3rd,Q,Ireland,371110.0,24.03,0.0,0.0,no
+Mr. Christopher Smith,male,13.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+Benjamin Mcdonald,female,18.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+Adrienne Fisher,female,21.0,1st,C,United States,17608.0,262.0706,2.0,2.0,yes
+Amy Mitchell,male,61.0,1st,C,United States,17608.0,262.0706,1.0,3.0,no
+Holly Norman,female,48.0,1st,C,United States,17608.0,262.0706,1.0,3.0,yes
+John Hernandez,male,30.0,3rd,C,Lebanon,2671.0,7.0407,0.0,0.0,no
+John Buchanan,male,27.0,3rd,C,Lebanon,2672.0,7.0406,0.0,0.0,no
+Jonathan Rodriguez,male,47.0,1st,S,England,19988.0,30.1,0.0,0.0,yes
+Ashley Lyons,male,19.0,3rd,Q,Ireland,367655.0,7.1407,0.0,0.0,no
+Alexis Martinez,male,17.0,3rd,S,England,1855.0,7.111,0.0,0.0,no
+Katherine Erickson,male,43.0,3rd,S,Norway,3101262.0,7.05,0.0,0.0,no
+Philip Hamilton,male,13.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Kayla Schmidt,male,5.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Melissa Wilson,female,8.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Antonio Gonzales,female,14.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Jacqueline Thompson,female,10.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Sharon Colon,female,21.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Cindy Sullivan,male,18.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Alan Thompson,male,17.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Paul Wilson,male,20.0,3rd,S,England,2343.0,69.11,8.0,2.0,no
+Nathan Mejia,male,45.0,3rd,S,England,2343.0,69.11,1.0,9.0,no
+Bradley Barrett,female,45.0,3rd,S,England,2343.0,69.11,1.0,9.0,no
+Benjamin Robinson,female,24.0,1st,C,,17477.0,69.06,0.0,0.0,yes
+Amy Oliver,male,24.0,3rd,S,Sweden,7266.0,9.0606,0.0,0.0,no
+Johnny Shaw,female,21.0,3rd,S,Norway,343120.0,7.13,0.0,0.0,yes
+Michael Weaver,male,43.0,1st,S,United States,111163.0,26.0,0.0,0.0,yes
+Mario Keller,male,29.0,3rd,S,United States,3101296.0,7.1806,0.0,0.0,no
+Amy Lee,male,17.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+Tabitha Berry,male,40.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+Audrey Lewis,male,16.0,3rd,C,Lebanon,2662.0,21.1307,2.0,0.0,no
+Adrian Jones,female,1.0,3rd,S,Sweden,9549.0,16.14,1.0,1.0,yes
+Troy Diaz,female,4.0,3rd,S,Sweden,9549.0,16.14,1.0,1.0,yes
+Michelle Thompson,female,24.0,3rd,S,Sweden,9549.0,16.14,0.0,2.0,yes
+Carlos Gill,male,21.0,3rd,S,Belgium,345768.0,9.1,0.0,0.0,yes
+Nancy Blackwell,male,19.0,3rd,S,England,2151.0,8.01,0.0,0.0,no
+Robert Perry,male,24.0,3rd,S,England,342826.0,8.01,0.0,0.0,no
+George Glass,male,22.0,3rd,Q,Ireland,36209.0,7.1406,0.0,0.0,no
+Deanna Carrillo,female,35.0,1st,C,Germany,13236.0,57.15,1.0,0.0,yes
+Brandi Nelson,male,29.0,3rd,S,Belgium,345779.0,9.1,0.0,0.0,yes
+Ms. Allison Andrews,male,22.0,2nd,S,England,248659.0,13.0,0.0,0.0,no
+Amy Tucker,male,42.0,3rd,S,,349222.0,7.1711,0.0,0.0,no
+Peggy Herrera,male,28.0,2nd,S,England,244361.0,13.0,0.0,0.0,no
+Andrew Cole,male,10.0,3rd,C,Lebanon,2622.0,4.0,0.0,0.0,no
+Daniel Williams,female,30.0,1st,S,,113798.0,31.0,0.0,0.0,yes
+Kenneth Roberson,male,34.0,1st,S,United States,113794.0,26.11,0.0,0.0,yes
+Ryan Olson,male,35.0,3rd,S,Ireland,370160.0,,,,no
+Michelle Lopez,male,29.0,2nd,S,England,244358.0,26.0,0.0,0.0,no
+Robin Kelly,male,27.0,3rd,Q,Ireland,370374.0,7.15,0.0,0.0,no
+Edwin Curtis,male,19.0,3rd,C,,2698.0,7.0406,0.0,0.0,no
+Katherine Gill,male,55.0,3rd,S,England,6212.0,15.02,0.0,0.0,no
+Sarah Fernandez,female,25.0,2nd,S,United States,230433.0,26.0,0.0,1.0,yes
+Charles Lucas,male,26.0,3rd,C,Lebanon,2631.0,7.0406,0.0,0.0,no
+Terry Payne,female,20.0,3rd,Q,Ireland,330968.0,7.1607,0.0,0.0,yes
+Brandon Martin,male,22.0,3rd,S,England,374910.0,8.01,0.0,0.0,no
+Kendra Lopez,female,40.0,1st,S,United States,17582.0,153.0903,0.0,0.0,yes
+Barbara Cook,female,17.0,2nd,S,Finland,250652.0,13.0,0.0,2.0,yes
+Jason Lee,male,35.0,1st,S,United States,17475.0,26.0509,0.0,0.0,yes
+Michelle Wolfe DVM,female,39.0,1st,C,United States,13507.0,55.18,1.0,0.0,yes
+Nathan Robinson,male,51.0,1st,C,United States,13507.0,55.18,1.0,0.0,no
+Brittany Lopez,male,40.0,3rd,S,England,392082.0,8.01,0.0,0.0,no
+Joseph Mathews,male,56.0,1st,S,Switzerland,13213.0,35.1,0.0,0.0,yes
+Donald Harper,female,20.0,2nd,S,England,33112.0,36.15,0.0,0.0,yes
+Daniel Mccoy,female,30.0,2nd,S,Finland,250648.0,13.0,0.0,0.0,yes
+Ethan Castro,male,22.0,3rd,C,Turkey,2669.0,7.0407,0.0,0.0,no
+Alexis Simmons,male,20.0,3rd,S,England,392092.0,8.01,0.0,0.0,no
+Samantha Owens,male,40.0,3rd,S,Bosnia,349251.0,7.1711,0.0,0.0,no
+Susan Bailey,male,21.0,3rd,S,United States,3101280.0,7.1806,0.0,0.0,no
+Timothy Perry,female,18.0,3rd,S,Finland,3101265.0,6.0911,0.0,0.0,yes
+Lauren Chavez,male,59.0,2nd,S,Sweden,237442.0,13.1,0.0,0.0,no
+Walter Diaz,male,5.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+Joel Frazier,male,11.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+Anne Patterson,female,9.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+Matthew Rogers,female,2.0,3rd,S,United States,347088.0,27.18,3.0,2.0,no
+Joseph Scott,female,43.0,3rd,S,Sweden,347088.0,27.18,1.0,4.0,no
+Jennifer Floyd,male,40.0,3rd,S,Sweden,347088.0,27.18,1.0,4.0,no
+Leslie Jones,male,42.0,3rd,S,,349214.0,7.1711,0.0,0.0,no
+Rodney Carr,female,30.0,2nd,Q,Canada,234818.0,12.07,0.0,0.0,yes
+Tyler Werner,male,35.0,2nd,S,England,28206.0,10.1,0.0,0.0,no
+Sierra Lee,male,20.0,3rd,S,England,392086.0,8.01,0.0,0.0,no
+Cassandra Jackson,male,28.0,1st,S,United States,113788.0,35.1,0.0,0.0,yes
+Donald Sharp,male,56.0,1st,S,England,113792.0,26.11,0.0,0.0,no
+Joseph Martin,male,37.0,3rd,S,Croatia,315037.0,8.1303,0.0,0.0,no
+Anthony Mitchell,female,49.0,2nd,S,England,31418.0,13.0,0.0,0.0,yes
+Carla Novak,male,56.0,1st,C,France,17764.0,30.1311,0.0,0.0,no
+Ashley Bush,male,24.0,1st,C,United States,13695.0,60.0,1.0,0.0,no
+Michael Wolfe,male,57.0,1st,S,England,113056.0,26.0,0.0,0.0,no
+Christine Dixon,female,18.0,1st,C,United States,13695.0,60.0,1.0,0.0,yes
+James Sherman,female,18.0,3rd,Q,Ireland,335432.0,7.1408,0.0,0.0,yes
+Laura Hale,male,27.0,3rd,Q,Ireland,384461.0,7.15,0.0,0.0,no
+Johnny Parrish,male,24.0,1st,S,United States,21228.0,82.0504,1.0,0.0,yes
+Alex Nielsen,female,23.0,1st,S,United States,21228.0,82.0504,1.0,0.0,yes
+Travis Lutz,male,25.0,2nd,S,England,29178.0,13.0,0.0,0.0,no
+Dean Webb,male,19.0,3rd,S,Norway,348124.0,7.13,0.0,0.0,no
+Jeff Hubbard,male,31.0,3rd,S,England,18509.0,8.01,0.0,0.0,no
+Nicole Smith,male,23.0,3rd,S,England,3236.0,8.01,0.0,0.0,no
+Kimberly Bates,male,6.0,1st,C,United States,16966.0,134.1,0.0,2.0,yes
+Alexandra Boyer,male,45.0,1st,C,United States,16966.0,134.1,1.0,1.0,yes
+Dustin Knox,female,39.0,1st,C,United States,16966.0,134.1,1.0,1.0,yes
+Alexandra Hall,female,48.0,1st,C,United States,17569.0,146.1005,1.0,0.0,yes
+Phyllis Murphy,male,57.0,1st,C,United States,17569.0,146.1005,1.0,0.0,no
+Brittney Li,male,31.0,3rd,S,England,369943.0,8.01,0.0,0.0,no
+Mrs. Doris Hanna,male,32.0,1st,S,Switzerland,13214.0,30.1,0.0,0.0,yes
+Brendan Winters,male,23.0,3rd,S,Bulgaria,349208.0,7.1711,0.0,0.0,no
+Latoya Mcmahon,male,33.0,3rd,C,Croatia,349239.0,8.1309,0.0,0.0,no
+Jorge Henderson,female,24.0,3rd,S,England,2314.0,7.11,0.0,0.0,yes
+Joshua Walker,male,22.0,3rd,S,England,45380.0,8.01,0.0,0.0,no
+David Gould,male,42.0,2nd,C,United States,237734.0,15.0,0.0,0.0,no
+Heather Sanford,male,62.0,1st,S,England,113514.0,26.11,0.0,0.0,no
+Ashley Weber,male,54.0,1st,C,United States,11778.0,55.081,1.0,0.0,yes
+Mr. Nicholas Berry,female,43.0,1st,C,Ireland,11778.0,55.081,1.0,0.0,yes
+Marc Larsen,female,52.0,1st,C,United States,36947.0,78.0504,1.0,0.0,yes
+Brian Smith,male,64.0,1st,C,United States,17605.0,27.1405,0.0,0.0,no
+Sean Haas,male,24.0,2nd,S,England,13540.0,10.1,0.0,0.0,no
+Jason Dominguez,female,61.0,1st,S,United States,113572.0,80.0,0.0,0.0,yes
+Kevin Todd,male,59.0,3rd,S,England,370160.0,,0.0,0.0,no
+Andre Payne,male,19.0,3rd,S,Bulgaria,349205.0,7.1711,0.0,0.0,no
+Jennifer Ruiz,female,22.0,3rd,S,Finland,7553.0,9.1609,0.0,0.0,no
+Megan Thomas,male,30.0,3rd,S,Finland,3101288.0,7.1806,0.0,0.0,yes
+Courtney Cooper,male,67.0,1st,S,United States,17483.0,221.1507,1.0,0.0,no
+Joseph Dunn,female,63.0,1st,S,Germany,17483.0,221.1507,1.0,0.0,no
+Brandi Hill,male,27.0,3rd,S,Croatia,315083.0,8.1303,0.0,0.0,no
+Pamela Kent,female,2.0,3rd,S,United States,347054.0,10.0903,0.0,1.0,no
+Tiffany Marsh,female,29.0,3rd,S,Sweden,347054.0,10.0903,1.0,1.0,no
+Christina Phillips,male,20.0,3rd,S,England,392089.0,8.01,0.0,0.0,yes
+Natalie Hall,male,44.0,3rd,S,Finland,3101269.0,7.1806,0.0,0.0,yes
+Mark Morrison,male,25.0,3rd,S,England,392076.0,7.01,0.0,0.0,no
+Steven Harvey,male,61.0,1st,S,England,36963.0,32.0605,0.0,0.0,no
+Rodney Powell,male,74.0,3rd,S,Sweden,347060.0,7.1506,0.0,0.0,no
+Brian Lee,male,14.0,3rd,S,Sweden,7538.0,9.0406,0.0,0.0,yes
+Christine Mcdonald,male,24.0,3rd,S,Sweden,350035.0,7.1511,0.0,0.0,no
+Natalie Garrison,male,19.0,2nd,S,England,248734.0,13.0,0.0,0.0,no
+Amy Cook,male,14.0,2nd,S,England,220845.0,65.0,0.0,0.0,no
+Laura Bass,female,46.0,1st,S,United States,17466.0,25.1807,0.0,0.0,yes
+Michelle Walker,male,0.4166666667,3rd,C,Lebanon,2625.0,8.1004,0.0,1.0,yes
+Patrick Morgan,male,30.0,3rd,C,Lebanon,2621.0,6.0809,1.0,0.0,no
+Katie Terry,female,16.0,3rd,C,Lebanon,2625.0,8.1004,1.0,1.0,yes
+Jennifer Lane,female,18.0,1st,S,United States,110413.0,79.13,0.0,2.0,yes
+Justin Cox,male,52.0,1st,S,United States,110413.0,79.13,1.0,1.0,no
+Christopher Walters,female,39.0,1st,S,United States,110413.0,79.13,1.0,1.0,yes
+Hannah Adams,male,48.0,1st,S,United States,19996.0,52.0,1.0,0.0,yes
+Joshua Mueller,male,40.0,2nd,S,England,250654.0,,,,no
+Jaclyn Cohen,female,49.0,1st,S,United States,19996.0,52.0,1.0,0.0,yes
+Austin Duran,male,25.0,3rd,S,Sweden,350033.0,7.1511,0.0,0.0,yes
+Paige Ellis,male,49.0,1st,C,United States,17421.0,110.1708,1.0,1.0,no
+Samantha Smith,male,17.0,1st,C,United States,17421.0,110.1708,0.0,2.0,yes
+Shelby Young,female,39.0,1st,C,United States,17421.0,110.1708,1.0,1.0,yes
+Anna Ramos,male,34.0,3rd,S,England,363294.0,8.01,0.0,0.0,no
+William Cuevas,male,34.0,3rd,C,,2681.0,6.0809,0.0,0.0,no
+Michael Sanders,male,16.0,3rd,C,,2684.0,7.0406,0.0,0.0,no
+Melissa Rose,male,37.0,3rd,S,Scotland,32302.0,8.01,0.0,0.0,no
+Dr. Susan Huynh,female,38.0,1st,C,United States,17585.0,80.0,0.0,0.0,yes
+Diane Kelley,male,37.0,3rd,S,England,376564.0,16.02,1.0,0.0,no
+Michelle Williams,female,33.0,3rd,S,England,376564.0,16.02,1.0,0.0,yes
+Thomas Caldwell,male,32.0,3rd,S,Finland,3101293.0,7.1806,0.0,0.0,no
+Lisa Johnson,male,20.0,3rd,Q,Ireland,383121.0,7.15,0.0,0.0,no
+Billy Johnson,male,23.0,3rd,S,Bulgaria,349216.0,7.1711,0.0,0.0,no
+Kevin Carpenter,male,22.0,3rd,S,England,364499.0,8.01,0.0,0.0,no
+Deanna Brown,female,48.0,2nd,S,Ireland,13531.0,10.1,0.0,0.0,yes
+Stacy Fisher,male,41.0,3rd,S,England,364511.0,8.01,0.0,0.0,no
+Kathleen Alexander,male,20.0,3rd,C,Lebanon,2673.0,7.0407,0.0,0.0,no
+David Lewis,male,26.0,3rd,S,Sweden,,,0.0,0.0,yes
+Jenna Campbell,male,25.0,3rd,S,Bulgaria,349203.0,7.1711,0.0,0.0,no
+Matthew Schultz,male,23.0,2nd,S,England,233639.0,13.0,0.0,0.0,no
+Brenda Vincent,female,27.0,2nd,S,Scotland,240929.0,12.13,0.0,0.0,yes
+Whitney Villanueva,female,27.0,2nd,S,England,34218.0,10.1,0.0,0.0,yes
+Tiffany Hale,male,31.0,1st,C,United States,2543.0,28.1009,0.0,0.0,yes
+Timothy Griffin,male,8.0,3rd,C,Lebanon,2650.0,15.0411,1.0,1.0,yes
+Michael Sellers,female,9.0,3rd,C,Lebanon,2650.0,15.0411,1.0,1.0,yes
+Christopher Montes,female,27.0,3rd,C,Lebanon,2650.0,15.0411,0.0,2.0,yes
+Michael Morales,male,36.0,3rd,S,Croatia,349247.0,7.1711,0.0,0.0,no
+Sean Decker,female,18.0,3rd,S,Finland,4138.0,9.161,0.0,0.0,yes
+Mary Munoz,female,63.0,3rd,S,Finland,4134.0,9.1109,0.0,0.0,yes
+Jeffrey Rhodes,female,26.0,2nd,S,England,11668.0,21.0,1.0,0.0,no
+David Lee,male,29.0,2nd,S,England,11668.0,21.0,1.0,0.0,no
+Tammy Young,male,39.0,1st,C,Mexico,17601.0,27.1405,0.0,0.0,no
+Anthony Casey,male,10.0,3rd,S,England,851.0,14.1,1.0,1.0,no
+Christopher Hodges,male,9.0,3rd,S,England,851.0,14.1,1.0,1.0,no
+William Cummings,male,35.0,3rd,S,England,851.0,14.1,0.0,2.0,no
+Donald Doyle,male,28.0,3rd,S,Belgium,345783.0,9.1,0.0,0.0,no
+Stephanie Jones,male,46.0,3rd,S,Belgium,345765.0,9.0,0.0,0.0,no
+Dr. Allen Keller,male,61.0,1st,S,United States,111240.0,33.1,0.0,0.0,no
+Michael Drake,female,18.0,3rd,S,Belgium,345764.0,18.0,2.0,0.0,no
+Glenn Williams,male,31.0,3rd,S,Belgium,345763.0,18.0,3.0,0.0,no
+Joshua Hunt,male,15.0,3rd,S,Belgium,345763.0,18.0,2.0,0.0,no
+Kevin Nguyen,female,31.0,3rd,S,Belgium,345763.0,18.0,1.0,0.0,no
+Megan Smith,male,35.0,3rd,S,Belgium,345780.0,9.1,0.0,0.0,no
+Margaret Shaffer,male,28.0,3rd,S,Belgium,345770.0,9.1,0.0,0.0,no
+Tyler Davis,female,10.0,3rd,S,Belgium,345773.0,24.03,0.0,2.0,no
+Donna Herrera,male,36.0,3rd,S,Belgium,345773.0,24.03,1.0,1.0,no
+Kenneth Wright,female,30.0,3rd,S,Belgium,345773.0,24.03,1.0,1.0,no
+Connie Holloway,male,23.0,3rd,S,Belgium,345777.0,9.1,0.0,0.0,no
+Keith Mccoy,male,22.0,3rd,C,Turkey,2658.0,7.0406,0.0,0.0,yes
+Virginia Barber,male,40.0,2nd,S,United States,28221.0,13.0,0.0,0.0,no
+Nathaniel Arias,male,20.0,3rd,S,Sweden,350416.0,7.1701,0.0,0.0,no
+Audrey Whitaker,female,14.0,3rd,S,Sweden,350406.0,7.1701,0.0,0.0,no
+Kathryn Stevens,male,21.0,3rd,S,Slovenia,349252.0,7.1711,0.0,0.0,no
+Angela Orozco,male,22.0,3rd,S,Belgium,345767.0,9.0,0.0,0.0,no
+Edward Parsons,male,48.0,1st,S,United States,36967.0,34.0,0.0,0.0,no
+Julia Jones,female,36.0,2nd,S,England,13528.0,21.0,0.0,0.0,yes
+James Estes,female,37.0,1st,C,,17755.0,512.0607,0.0,0.0,yes
+Timothy Guerrero,male,35.0,3rd,S,England,359309.0,8.01,0.0,0.0,no
+Gregory Logan,male,47.0,2nd,S,England,31352.0,21.0,1.0,0.0,no
+Casey Harrison,female,32.0,2nd,S,England,31352.0,21.0,0.0,0.0,yes
+John Mckenzie,male,23.0,2nd,S,England,28666.0,10.1,1.0,0.0,no
+Eric Duke,male,31.0,3rd,S,England,49867.0,7.11,0.0,0.0,no
+Carlos Holloway,male,63.0,1st,C,United States,110813.0,75.05,1.0,0.0,no
+Megan Saunders,female,60.0,1st,C,England,110813.0,75.05,1.0,0.0,yes
+Katrina Walker,male,19.0,2nd,B,Northern Ireland,239856.0,,0.0,0.0,no
+Jesse Valenzuela,female,12.0,2nd,S,Scotland,33595.0,15.15,0.0,0.0,yes
+James Cisneros,female,40.0,2nd,S,Scotland,33595.0,15.15,0.0,0.0,yes
+Frederick Stevens,male,23.0,3rd,C,Lebanon,2647.0,7.0406,0.0,0.0,no
+Toni Ross,female,37.0,2nd,S,England,27267.0,13.0,0.0,0.0,yes
+Kimberly Moore,male,66.0,3rd,S,England,3101316.0,8.01,0.0,0.0,no
+Wesley Park,male,59.0,1st,S,United States,113800.0,26.11,0.0,0.0,no
+Michelle Gregory,male,37.0,2nd,S,Hungary,228414.0,26.0,1.0,0.0,no
+Frank Torres,female,37.0,2nd,S,England,228414.0,26.0,1.0,0.0,yes
+Craig Villa,male,2.0,2nd,S,England,29103.0,23.0,1.0,1.0,yes
+George Patton,female,4.0,2nd,S,England,29103.0,23.0,1.0,1.0,yes
+Isaac Maynard,female,29.0,2nd,S,England,29103.0,23.0,0.0,2.0,yes
+Zachary Rush,male,27.0,3rd,S,Sweden,350043.0,7.1511,0.0,0.0,yes
+Nicholas Valentine,female,0.8333333333,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+Katie Aguilar,female,4.0,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+Suzanne Guzman,male,36.0,2nd,S,England,34651.0,27.15,1.0,2.0,no
+Jessica Clay,female,33.0,2nd,S,England,34651.0,27.15,1.0,2.0,yes
+Kelly Jackson,male,65.0,2nd,S,England,24579.0,10.1,0.0,0.0,no
+Kathleen Webster,male,26.0,2nd,S,England,2159.0,12.1706,0.0,0.0,no
+Courtney Watkins,male,31.0,2nd,S,England,244270.0,13.0,0.0,0.0,yes
+Luis Thomas,male,54.0,1st,S,United States,35281.0,77.0509,0.0,1.0,no
+Jonathan Rose,male,21.0,1st,S,United States,35281.0,77.0509,0.0,1.0,no
+Robert Morgan,female,55.0,1st,C,,17760.0,135.1208,0.0,0.0,yes
+Carl Krause,male,57.0,1st,S,United States,36928.0,164.1704,1.0,1.0,no
+Stacy Mercado,female,31.0,1st,S,United States,36928.0,164.1704,0.0,2.0,yes
+Janet Reyes,female,45.0,1st,S,United States,36928.0,164.1704,1.0,1.0,yes
+David Rodriguez,male,51.0,3rd,S,Sweden,347064.0,7.15,0.0,0.0,no
+Erin Sanders,male,50.0,1st,S,United States,113503.0,211.1,1.0,1.0,no
+Julie Allen,male,27.0,1st,S,United States,113503.0,211.1,0.0,2.0,no
+Catherine Holland MD,female,50.0,1st,S,United States,113503.0,211.1,1.0,1.0,yes
+Nicholas Bryant,male,18.0,3rd,S,Finland,3101267.0,6.0911,1.0,0.0,no
+Roy Gardner,male,21.0,3rd,S,Finland,3101266.0,6.0911,1.0,0.0,no
+Ann Delgado,female,47.0,3rd,S,England,363272.0,7.0,1.0,0.0,yes
+Brian Shepherd,female,30.0,2nd,S,England,2926.0,26.0,1.0,0.0,yes
+Donna Villa,female,21.0,1st,S,United States,113795.0,26.11,0.0,0.0,yes
+Heather Zavala,male,37.0,3rd,C,,3410.0,8.1403,0.0,0.0,no
+Michael Martin,male,21.0,3rd,S,Wales,751.0,7.11,0.0,0.0,no
+Richard Vance,male,51.0,1st,C,Switzerland,17597.0,61.0707,0.0,1.0,no
+Brenda Marshall,male,23.0,2nd,S,England,244373.0,13.0,0.0,0.0,yes
+Joseph Brown,male,43.0,1st,S,United States,113510.0,35.0,0.0,0.0,no
+Michele Jones,male,28.0,3rd,S,England,2466.0,8.01,0.0,0.0,no
+Dennis Hines,male,28.0,3rd,S,Wales,54636.0,16.02,0.0,0.0,no
+Erin Li,male,21.0,1st,C,Switzerland,17597.0,61.0707,0.0,1.0,yes
+Wendy Daniels,female,31.0,1st,C,,16966.0,134.1,0.0,0.0,yes
+Vanessa Perez,male,21.0,3rd,S,South Africa,3101317.0,7.05,0.0,0.0,no
+James Fields,male,27.0,3rd,S,Switzerland,315154.0,8.1303,0.0,0.0,no
+Evelyn Sanchez,male,54.0,3rd,S,England,34244.0,7.05,0.0,0.0,no
+Ann Rowland,male,36.0,3rd,S,Belgium,345771.0,9.1,0.0,0.0,no
+Karl Miller,male,32.0,2nd,S,England,250654.0,,,,no
+James Harris,male,46.0,1st,S,England,19947.0,35.1,0.0,0.0,yes
+Nicholas Andrade,female,26.0,2nd,S,England,220844.0,13.1,0.0,0.0,yes
+Christopher Mendez,male,62.0,1st,S,Canada,113807.0,26.11,0.0,0.0,no
+Todd Dunn,male,27.0,3rd,C,Lebanon,2659.0,14.0901,1.0,0.0,no
+Timothy Owens,female,15.0,3rd,C,Lebanon,2659.0,14.0901,1.0,0.0,yes
+Sandra York,female,36.0,1st,C,United States,17760.0,135.1208,0.0,0.0,yes
+Erica Pearson,male,26.0,3rd,C,Lebanon,2685.0,7.0406,0.0,0.0,no
+Alexander Black,male,45.0,3rd,C,Lebanon,2628.0,7.0407,0.0,0.0,no
+James Reed,female,23.0,3rd,C,Lebanon,2668.0,22.0702,0.0,2.0,yes
+Samantha Mcdonald,female,24.0,2nd,S,France,248747.0,13.0,0.0,0.0,no
+Joshua Bryant,male,22.0,3rd,C,Turkey,2656.0,7.0406,0.0,0.0,no
+Douglas Cook,male,27.0,3rd,C,Turkey,2670.0,7.0406,0.0,0.0,no
+Ryan Jacobs,male,25.0,3rd,C,Lebanon,2620.0,7.0406,0.0,0.0,yes
+Sarah Hayes,male,29.0,3rd,S,Germany,315082.0,7.1706,0.0,0.0,no
+Katie Marshall,male,21.0,victualling crew,S,England,,,,,no
+Christina Harris,male,34.0,engineering crew,S,England,,,,,no
+Taylor Collins,male,26.0,engineering crew,S,England,,,,,no
+Grant Hunter,male,20.0,victualling crew,S,Channel Islands,,,,,no
+Willie Salazar,male,31.0,victualling crew,S,England,,,,,no
+Joyce Cortez,male,37.0,victualling crew,S,England,,,,,no
+Andrew Holland,male,22.0,restaurant staff,S,England,,,,,no
+Courtney Wilson,male,24.0,engineering crew,S,England,,,,,yes
+Mary Beard,male,17.0,victualling crew,S,England,,,,,no
+Matthew Mueller,male,26.0,victualling crew,S,England,,,,,no
+Joy Benson,male,30.0,engineering crew,S,England,,,,,no
+Dr. Robert Patterson Jr.,male,36.0,victualling crew,S,England,,,,,no
+Joshua Cunningham,male,36.0,engineering crew,B,England,,,,,no
+Jonathan Kelly,male,41.0,victualling crew,B,England,,,,,no
+Frederick Bryant,male,40.0,deck crew,S,England,,,,,yes
+James Russell,male,48.0,victualling crew,S,England,,,,,no
+Clinton Davis,male,19.0,victualling crew,S,England,,,,,yes
+Louis Murray,male,35.0,deck crew,S,England,,,,,yes
+Olivia Grant,male,26.0,victualling crew,S,England,,,,,no
+Alison Todd,male,41.0,victualling crew,S,Ireland,,,,,no
+Michelle Beltran,male,26.0,restaurant staff,S,England,,,,,no
+Michael Wheeler,male,21.0,engineering crew,S,England,,,,,yes
+Katelyn Cobb,male,23.0,victualling crew,S,England,,,,,no
+Sabrina Parrish,male,37.0,victualling crew,B,England,,,,,no
+Brian Flores,male,28.0,victualling crew,S,England,,,,,yes
+Amber Holland,male,33.0,victualling crew,S,England,,,,,no
+Kristen Brown,male,36.0,victualling crew,B,England,,,,,no
+Mary Payne,male,46.0,engineering crew,S,Wales,,,,,no
+Rachael Martinez,male,46.0,deck crew,S,England,,,,,yes
+Darryl Mann,male,24.0,engineering crew,S,England,,,,,no
+Faith Maynard,male,19.0,victualling crew,S,England,,,,,yes
+Connie West,male,24.0,restaurant staff,S,England,,,,,no
+Shawn Peters,male,34.0,engineering crew,S,England,,,,,no
+Jennifer Lewis,male,19.0,victualling crew,S,England,,,,,no
+Brooke Hernandez,male,41.0,victualling crew,S,England,,,,,no
+Mary Lyons,male,42.0,victualling crew,B,England,,,,,no
+Mrs. Shelly Crawford,male,30.0,engineering crew,S,England,,,,,no
+Lauren Johnson,male,36.0,victualling crew,S,England,,,,,no
+Robert Wallace,male,29.0,engineering crew,S,England,,,,,no
+Sara Scott,male,40.0,victualling crew,S,England,,,,,no
+Ethan Brown,male,40.0,engineering crew,S,England,,,,,no
+Jeff Francis,male,16.0,victualling crew,S,England,,,,,no
+Amanda Bright,male,28.0,engineering crew,S,England,,,,,yes
+Stacey Garrett,male,33.0,engineering crew,S,England,,,,,no
+Lisa Murray,male,34.0,victualling crew,B,England,,,,,no
+Tracy Herrera,male,36.0,victualling crew,S,England,,,,,no
+Mark Gardner,male,32.0,victualling crew,S,England,,,,,no
+Joshua Lopez,male,26.0,victualling crew,S,England,,,,,no
+Kristen Barrett,male,27.0,restaurant staff,S,England,,,,,no
+David West,male,53.0,victualling crew,S,England,,,,,no
+Peter Lopez,male,55.0,victualling crew,S,Scotland,,,,,no
+David Holden,male,33.0,restaurant staff,S,England,,,,,no
+Mark Walker,male,35.0,engineering crew,B,Northern Ireland,,,,,no
+Lisa Parks,male,24.0,engineering crew,S,England,,,,,yes
+Reginald Smith,male,31.0,victualling crew,S,England,,,,,no
+Kevin Miller,male,35.0,victualling crew,S,England,,,,,no
+James Sherman,male,19.0,victualling crew,S,England,,,,,no
+Jonathan Anderson,male,51.0,engineering crew,B,England,,,,,no
+Elizabeth Norris,male,24.0,engineering crew,S,England,,,,,no
+Justin Deleon,male,30.0,victualling crew,S,England,,,,,no
+Henry Mora,male,30.0,engineering crew,S,England,,,,,no
+Jennifer Klein,female,33.0,victualling crew,S,England,,,,,yes
+Rachel Smith,male,47.0,engineering crew,S,England,,,,,no
+Christopher Burton,male,22.0,restaurant staff,S,England,,,,,no
+Leslie Clay,male,31.0,victualling crew,S,England,,,,,no
+Jessica Rose,male,39.0,engineering crew,S,England,,,,,no
+Sheila Caldwell,male,40.0,victualling crew,B,England,,,,,no
+Kenneth Green,male,26.0,restaurant staff,S,England,,,,,no
+Vernon Williams,male,22.0,engineering crew,S,England,,,,,no
+Susan Hester,male,31.0,engineering crew,S,England,,,,,no
+Cassandra Ellis,male,28.0,restaurant staff,S,England,,,,,no
+Emily Lopez,male,20.0,engineering crew,S,England,,,,,no
+Shaun Mullins,male,20.0,engineering crew,S,England,,,,,no
+Jordan Reynolds,male,20.0,engineering crew,S,England,,,,,yes
+William Soto,male,34.0,victualling crew,B,England,,,,,no
+Peter Jones,male,23.0,engineering crew,S,England,,,,,no
+Sean Rodriguez,male,28.0,engineering crew,S,England,,,,,no
+Gerald Dixon,male,41.0,engineering crew,S,England,,,,,no
+Shirley Love,male,23.0,engineering crew,S,England,,,,,yes
+Michelle Wheeler,male,26.0,engineering crew,B,England,,,,,no
+Karen Walker,male,37.0,engineering crew,S,England,,,,,no
+John Beasley,male,32.0,engineering crew,S,Northern Ireland,,,,,no
+Robin Burns,male,22.0,engineering crew,S,England,,,,,no
+Jeffrey Dennis,female,45.0,victualling crew,S,Switzerland,,,,,yes
+Debra Vance,male,26.0,restaurant staff,S,England,,,,,no
+Jacob Gray,male,30.0,victualling crew,S,England,,,,,no
+Mark Jackson,male,43.0,restaurant staff,S,England,,,,,no
+Isaac Robinson,male,59.0,victualling crew,S,Scotland,,,,,no
+Pamela Molina,male,27.0,restaurant staff,S,England,,,,,no
+Bradley Sanders,male,40.0,victualling crew,B,England,,,,,no
+Mary Black,male,38.0,victualling crew,S,England,,,,,no
+Thomas Wiggins,male,33.0,victualling crew,B,England,,,,,no
+Anthony Aguirre,male,46.0,engineering crew,S,England,,,,,no
+Robert Colon,male,24.0,victualling crew,S,England,,,,,no
+Kyle May,female,31.0,restaurant staff,S,England,,,,,yes
+Donald Ferrell,male,28.0,deck crew,B,England,,,,,yes
+Donald Ford,male,37.0,victualling crew,S,England,,,,,no
+Debra Kennedy,male,36.0,victualling crew,B,England,,,,,no
+Martha Brown,male,39.0,engineering crew,S,England,,,,,no
+Richard Alvarado,male,29.0,deck crew,S,England,,,,,no
+Kenneth King,male,43.0,victualling crew,S,England,,,,,no
+Melissa Foster,male,30.0,engineering crew,S,England,,,,,no
+Kenneth Harrington,male,52.0,victualling crew,B,England,,,,,no
+Russell Weeks,male,34.0,engineering crew,S,England,,,,,no
+Andrea Gonzalez,male,43.0,deck crew,S,England,,,,,yes
+Megan Nelson,male,22.0,victualling crew,B,England,,,,,yes
+Albert Griffith,male,42.0,deck crew,B,England,,,,,yes
+Crystal Johnson,male,38.0,victualling crew,S,,,,,,no
+Derek Simmons,male,31.0,victualling crew,S,England,,,,,no
+Melissa Rogers,male,28.0,victualling crew,S,England,,,,,no
+Amanda Sanders,male,25.0,engineering crew,S,England,,,,,no
+Jonathan Walker,male,31.0,victualling crew,S,England,,,,,no
+Trevor Morris,male,33.0,victualling crew,B,England,,,,,no
+Justin Nelson,male,34.0,victualling crew,B,Wales,,,,,yes
+Kelly Mckee,male,28.0,engineering crew,S,Wales,,,,,no
+April Murphy,male,25.0,engineering crew,S,England,,,,,no
+Amy Reynolds,male,41.0,victualling crew,B,England,,,,,no
+Kevin Zuniga,male,34.0,victualling crew,S,England,,,,,no
+Catherine Hansen,male,26.0,deck crew,S,England,,,,,yes
+Douglas Gomez,male,22.0,victualling crew,S,England,,,,,no
+Daniel Montgomery,male,37.0,victualling crew,S,England,,,,,no
+Derek Mathews,male,21.0,victualling crew,B,England,,,,,no
+Sonya Gordon,male,18.0,victualling crew,S,England,,,,,yes
+Jenna Miller,male,30.0,victualling crew,B,England,,,,,no
+Melissa Hutchinson,male,31.0,victualling crew,B,Ireland,,,,,yes
+John Johnson,male,20.0,victualling crew,S,England,,,,,yes
+James Gray,male,29.0,victualling crew,S,England,,,,,no
+Jonathan Pittman,male,35.0,engineering crew,S,England,,,,,no
+William Williams,male,35.0,engineering crew,S,England,,,,,no
+Rachel Olson,male,23.0,victualling crew,S,England,,,,,no
+Mary Vaughan,male,22.0,victualling crew,S,England,,,,,no
+Erik West,male,31.0,engineering crew,S,England,,,,,no
+Charles Adams,male,45.0,victualling crew,S,England,,,,,no
+Chelsea Lang,male,30.0,engineering crew,B,Northern Ireland,,,,,no
+Joshua Roth,male,25.0,victualling crew,S,Australia,,,,,no
+Kathryn Hopkins,male,40.0,engineering crew,S,England,,,,,no
+Anita Rubio MD,male,31.0,victualling crew,S,England,,,,,no
+Brittany Davis,male,27.0,engineering crew,S,England,,,,,no
+William Alvarez,male,46.0,engineering crew,S,England,,,,,no
+James Lowe,male,33.0,victualling crew,B,England,,,,,no
+Kristopher Bennett,male,32.0,restaurant staff,S,Italy,,,,,no
+Patricia West,male,44.0,engineering crew,S,England,,,,,no
+Amy Lawson,male,34.0,victualling crew,S,England,,,,,no
+Mariah Frey,male,37.0,engineering crew,S,England,,,,,no
+Dr. Kristin Norman,female,33.0,victualling crew,S,England,,,,,yes
+Robert Cummings,male,28.0,victualling crew,S,England,,,,,no
+Michael Butler,male,22.0,engineering crew,S,England,,,,,yes
+Paul Franklin,male,39.0,victualling crew,B,England,,,,,no
+Michael Martin,male,21.0,victualling crew,S,England,,,,,no
+Mr. Jeremiah Stone,male,25.0,restaurant staff,S,England,,,,,no
+Brian Yoder,male,32.0,victualling crew,S,England,,,,,yes
+Ellen Bell,male,25.0,victualling crew,S,England,,,,,no
+Matthew Davis,male,25.0,engineering crew,S,England,,,,,no
+Thomas Brock IV,male,28.0,victualling crew,B,England,,,,,no
+Mr. Michael White,male,37.0,engineering crew,B,England,,,,,no
+Andrew Porter,male,29.0,victualling crew,S,England,,,,,no
+Christine Hernandez,male,50.0,victualling crew,S,England,,,,,no
+Karen Watkins,male,25.0,engineering crew,S,England,,,,,no
+Alexander Garrett,male,34.0,victualling crew,S,England,,,,,no
+Emily Grant,male,40.0,engineering crew,S,Ireland,,,,,yes
+Eddie Lee,male,33.0,deck crew,S,England,,,,,yes
+Vanessa Willis,male,31.0,deck crew,S,England,,,,,no
+Carolyn Arnold,male,22.0,engineering crew,S,England,,,,,no
+Donald Miller,male,29.0,victualling crew,S,England,,,,,no
+Susan Coleman,male,58.0,engineering crew,B,Ireland,,,,,no
+Brandi Kirby,male,33.0,victualling crew,S,England,,,,,yes
+Tiffany Foster,male,17.0,victualling crew,S,Northern Ireland,,,,,yes
+Ryan Hutchinson,male,38.0,engineering crew,S,England,,,,,yes
+Michelle Martinez,male,34.0,engineering crew,S,England,,,,,yes
+Timothy Weber,male,25.0,victualling crew,B,England,,,,,no
+Rebecca Price,male,32.0,victualling crew,S,England,,,,,no
+Rebekah Nelson,male,45.0,victualling crew,S,England,,,,,no
+Micheal Brown,male,26.0,engineering crew,S,England,,,,,no
+Aaron Thompson,male,26.0,engineering crew,S,England,,,,,no
+Brett Floyd,male,28.0,engineering crew,S,England,,,,,no
+Daniel Smith,male,27.0,victualling crew,S,England,,,,,no
+Timothy Garcia,male,33.0,engineering crew,S,England,,,,,no
+Mary Santana,male,19.0,restaurant staff,S,England,,,,,no
+Shawn Cain,male,36.0,engineering crew,S,England,,,,,no
+Krista Johns,male,28.0,deck crew,S,England,,,,,no
+Anthony Johnson,male,49.0,engineering crew,S,England,,,,,no
+Zachary Sampson,male,30.0,engineering crew,S,England,,,,,yes
+Alexis Fleming,male,28.0,restaurant staff,S,France,,,,,no
+Melinda Moran,male,30.0,victualling crew,S,England,,,,,no
+Brian Cuevas,male,27.0,engineering crew,B,England,,,,,no
+Aaron Howard,male,23.0,engineering crew,S,England,,,,,no
+Sarah Cox,male,20.0,victualling crew,S,England,,,,,yes
+Tracy Estrada,male,43.0,victualling crew,B,England,,,,,yes
+Morgan Jennings,male,45.0,engineering crew,B,England,,,,,no
+Kimberly Barry,male,21.0,engineering crew,S,England,,,,,yes
+Julia Peters,male,33.0,victualling crew,S,England,,,,,no
+Renee Perkins,male,39.0,victualling crew,B,England,,,,,no
+Sarah Novak,male,45.0,victualling crew,S,England,,,,,no
+Andrew Solomon,male,44.0,engineering crew,S,England,,,,,no
+Richard Hawkins,male,17.0,restaurant staff,S,England,,,,,no
+Sharon Flores,male,30.0,victualling crew,S,England,,,,,yes
+Caleb Price,male,35.0,victualling crew,B,England,,,,,no
+Andrea Jacobs,male,49.0,victualling crew,B,England,,,,,yes
+Paula Hanson,male,38.0,victualling crew,B,Scotland,,,,,yes
+Ryan Jackson,male,35.0,engineering crew,S,England,,,,,no
+Tamara Berry,male,26.0,engineering crew,S,England,,,,,no
+Cody Torres,male,18.0,victualling crew,S,England,,,,,yes
+Kathleen Shaw,male,18.0,victualling crew,S,England,,,,,no
+Kimberly Dixon,male,32.0,victualling crew,B,England,,,,,no
+Brandi Taylor,male,26.0,victualling crew,B,Wales,,,,,no
+Mrs. Leslie Harrison,male,33.0,engineering crew,S,England,,,,,no
+Nicholas Walker,male,29.0,victualling crew,B,England,,,,,no
+Jerry Hampton,male,39.0,deck crew,S,England,,,,,no
+Joseph Horton,male,23.0,engineering crew,S,England,,,,,no
+David Schroeder,male,19.0,victualling crew,S,England,,,,,no
+James Hill,male,18.0,restaurant staff,S,England,,,,,no
+Mr. Jimmy Smith,male,35.0,victualling crew,B,England,,,,,no
+Matthew Nguyen,male,20.0,restaurant staff,S,England,,,,,no
+James Brown,male,29.0,victualling crew,B,England,,,,,no
+Elizabeth Bell,male,38.0,victualling crew,S,England,,,,,no
+Eric Walker,male,20.0,restaurant staff,S,England,,,,,no
+Rebecca Adams,male,27.0,engineering crew,S,England,,,,,yes
+Sydney Horne,male,37.0,engineering crew,S,England,,,,,no
+Laurie Harmon,male,30.0,engineering crew,S,England,,,,,yes
+David Hill,male,34.0,engineering crew,S,England,,,,,yes
+Robert Williams,male,49.0,victualling crew,S,England,,,,,no
+Adriana Ramirez,male,39.0,engineering crew,B,England,,,,,no
+Brandi Coleman,male,44.0,victualling crew,B,England,,,,,no
+Beth Mata,male,27.0,engineering crew,S,Guyana,,,,,no
+Jason Parker,male,22.0,engineering crew,S,England,,,,,yes
+Richard Johnson,male,39.0,victualling crew,B,England,,,,,no
+Robert Taylor,male,17.0,restaurant staff,S,Italy,,,,,no
+Michael Johnson,male,35.0,victualling crew,B,England,,,,,no
+William Washington,male,23.0,engineering crew,S,England,,,,,yes
+Whitney Kline,male,20.0,restaurant staff,S,England,,,,,no
+Catherine Bowen,male,22.0,victualling crew,S,England,,,,,no
+Michelle Cox,male,27.0,engineering crew,S,England,,,,,no
+Earl Dean,male,36.0,engineering crew,B,Ireland,,,,,no
+Gary Clark,male,48.0,victualling crew,S,England,,,,,no
+Patricia Ellis,male,38.0,engineering crew,S,England,,,,,no
+Eduardo Cantrell,male,24.0,engineering crew,B,India,,,,,no
+Tiffany Vaughn,male,33.0,victualling crew,S,England,,,,,no
+Oscar Lewis,male,41.0,engineering crew,S,England,,,,,yes
+Amanda Johnson,male,22.0,engineering crew,S,England,,,,,no
+Stephanie Rollins,male,44.0,engineering crew,S,England,,,,,no
+Gary Holland,male,23.0,victualling crew,S,England,,,,,no
+Michael Hanson,male,23.0,victualling crew,S,England,,,,,no
+Paul Bryant,male,39.0,victualling crew,S,England,,,,,no
+Jordan Goodman,male,39.0,victualling crew,S,Wales,,,,,no
+Donna Reyes,male,48.0,victualling crew,S,England,,,,,no
+Patricia Aguirre,male,23.0,engineering crew,S,England,,,,,no
+Justin Hanna,male,29.0,victualling crew,S,England,,,,,yes
+Devin Watkins,male,34.0,victualling crew,S,England,,,,,no
+Steven Lawson,male,18.0,engineering crew,B,Northern Ireland,,,,,no
+Rebecca Rodriguez,male,43.0,victualling crew,B,England,,,,,yes
+Joseph Lam,male,25.0,deck crew,S,England,,,,,yes
+Justin Norris,male,27.0,deck crew,S,England,,,,,yes
+Mary Aguirre,male,27.0,victualling crew,B,England,,,,,no
+Timothy Johnson,male,33.0,engineering crew,S,England,,,,,no
+Morgan Banks,male,38.0,victualling crew,B,England,,,,,no
+Jeffrey Boyer,male,22.0,victualling crew,B,England,,,,,no
+Julie Bishop,male,39.0,engineering crew,B,England,,,,,no
+Kelly Reid,male,37.0,victualling crew,B,England,,,,,yes
+Melissa Yoder,male,30.0,engineering crew,S,England,,,,,no
+Diane Thomas,male,29.0,victualling crew,B,England,,,,,no
+Sheila Perez,male,42.0,victualling crew,S,England,,,,,no
+Edward Banks,male,33.0,engineering crew,S,England,,,,,no
+Mr. David Klein,male,39.0,engineering crew,S,England,,,,,no
+Derek Lawrence,male,30.0,restaurant staff,S,England,,,,,no
+Alexis Gordon,male,19.0,victualling crew,S,England,,,,,no
+Eric Wilson,male,23.0,restaurant staff,S,England,,,,,no
+Victoria Johnson,male,21.0,engineering crew,S,England,,,,,yes
+Nicholas Knight,male,29.0,engineering crew,B,England,,,,,no
+Anna Horton,male,52.0,engineering crew,S,England,,,,,yes
+Gabrielle Taylor,male,24.0,deck crew,B,England,,,,,yes
+Stephanie Jackson,male,26.0,victualling crew,B,England,,,,,no
+Martin Mason,male,46.0,deck crew,B,Ireland,,,,,yes
+Lisa Morris,male,22.0,victualling crew,S,Wales,,,,,yes
+Kaitlin Kirk,male,33.0,victualling crew,S,England,,,,,no
+Tina Taylor,male,44.0,victualling crew,S,England,,,,,no
+Maria Nichols,male,22.0,engineering crew,S,England,,,,,no
+Valerie Tucker,male,33.0,engineering crew,S,England,,,,,no
+Meghan Moore,male,27.0,deck crew,S,England,,,,,yes
+Holly King,male,37.0,engineering crew,B,England,,,,,no
+Jennifer Powell,male,27.0,victualling crew,S,England,,,,,no
+Sharon Fernandez,male,28.0,victualling crew,S,England,,,,,no
+Daniel Henson,male,30.0,engineering crew,S,England,,,,,no
+Paul Byrd,male,30.0,engineering crew,B,Scotland,,,,,no
+Emily Morales,male,21.0,engineering crew,S,England,,,,,yes
+Mr. Timothy Ray,male,45.0,victualling crew,B,England,,,,,no
+Michael Chan,male,29.0,engineering crew,S,England,,,,,yes
+Stacey Soto,male,37.0,restaurant staff,S,England,,,,,no
+Angela Suarez,male,32.0,victualling crew,S,England,,,,,no
+Bradley Mclaughlin,male,26.0,engineering crew,S,England,,,,,no
+Allen Simmons,male,36.0,victualling crew,S,England,,,,,yes
+Gabriel Gill,male,31.0,restaurant staff,S,England,,,,,no
+Joseph Burch,male,32.0,victualling crew,S,England,,,,,no
+Gabriel Pierce,male,38.0,victualling crew,B,England,,,,,no
+Aaron Torres,male,38.0,victualling crew,S,England,,,,,no
+Brian Jefferson,male,61.0,engineering crew,S,England,,,,,yes
+Savannah Holder,male,36.0,engineering crew,S,England,,,,,no
+Donna Estrada,male,32.0,engineering crew,S,England,,,,,no
+Wendy Burton,female,45.0,victualling crew,S,England,,,,,yes
+Karen Weaver,male,28.0,victualling crew,S,England,,,,,no
+Glen Morris,male,29.0,engineering crew,S,England,,,,,no
+Mrs. Jennifer Colon,male,41.0,engineering crew,S,England,,,,,no
+Matthew Garcia,male,40.0,victualling crew,B,England,,,,,no
+Elizabeth George,male,22.0,engineering crew,S,England,,,,,no
+Jessica Meza,male,26.0,engineering crew,S,England,,,,,no
+Kimberly Scott,male,22.0,engineering crew,S,England,,,,,no
+Derrick Johnson,male,28.0,engineering crew,B,Northern Ireland,,,,,yes
+Adam Harris,male,43.0,engineering crew,S,England,,,,,no
+Denise Henson,female,45.0,victualling crew,S,England,,,,,yes
+Scott Rogers,male,24.0,restaurant staff,S,England,,,,,no
+Paige Jordan,male,24.0,engineering crew,S,England,,,,,no
+Elizabeth Flores,male,30.0,victualling crew,S,England,,,,,no
+Bradley Lee,male,29.0,victualling crew,S,England,,,,,yes
+Cassidy Hays,male,37.0,victualling crew,S,United States,,,,,no
+Jill White,male,35.0,engineering crew,B,Northern Ireland,,,,,yes
+Martha Doyle,male,31.0,deck crew,B,England,,,,,yes
+Mitchell Salinas,male,22.0,victualling crew,S,England,,,,,yes
+Mr. Joseph Ryan,male,23.0,engineering crew,S,England,,,,,no
+James Sanchez,male,41.0,victualling crew,S,England,,,,,no
+Sean Garcia,male,32.0,engineering crew,S,England,,,,,no
+Angelica Henry,male,47.0,victualling crew,S,England,,,,,no
+Elizabeth Gardner,male,25.0,victualling crew,B,England,,,,,no
+Kathy Allen,male,54.0,engineering crew,S,Ireland,,,,,no
+Gregory Harrison,male,30.0,engineering crew,S,England,,,,,no
+Brian Pearson,male,39.0,deck crew,S,England,,,,,yes
+Chelsea Rivera,male,21.0,victualling crew,S,England,,,,,no
+Justin Atkinson,male,21.0,victualling crew,S,England,,,,,yes
+William Lee,male,40.0,victualling crew,B,England,,,,,yes
+Rebecca White,male,24.0,engineering crew,S,England,,,,,no
+Timothy Galloway,male,19.0,victualling crew,S,England,,,,,no
+Richard Barnett,male,17.0,victualling crew,S,England,,,,,no
+Valerie Buck,male,29.0,engineering crew,S,England,,,,,no
+Charlotte Hodge,male,17.0,victualling crew,S,England,,,,,no
+Claudia Hughes,male,39.0,engineering crew,S,England,,,,,yes
+Dana Horn,male,40.0,victualling crew,S,England,,,,,yes
+Andrea Tran,male,38.0,engineering crew,B,England,,,,,no
+Philip Miller,male,54.0,engineering crew,S,England,,,,,no
+Bruce Montgomery,male,32.0,victualling crew,S,England,,,,,yes
+Daniel Smith,male,21.0,victualling crew,S,England,,,,,yes
+Stephanie Tucker,male,34.0,engineering crew,B,Northern Ireland,,,,,no
+Maria Cross,male,23.0,victualling crew,S,England,,,,,no
+Cynthia White,male,52.0,victualling crew,S,England,,,,,no
+Brandon Cabrera,male,43.0,victualling crew,S,England,,,,,no
+Christopher Lee,male,45.0,victualling crew,B,England,,,,,no
+Shannon Salazar,male,24.0,engineering crew,S,England,,,,,no
+Jennifer Myers,male,22.0,engineering crew,S,England,,,,,yes
+Norman Walker,male,30.0,victualling crew,S,England,,,,,no
+Bonnie Brooks,male,43.0,deck crew,B,England,,,,,yes
+Alexis Wood,male,28.0,engineering crew,S,England,,,,,yes
+Jeffrey Nunez,male,40.0,victualling crew,B,England,,,,,no
+Rose Cox,male,26.0,victualling crew,S,England,,,,,no
+Robert Irwin,male,33.0,engineering crew,B,England,,,,,no
+Ian Craig,male,45.0,engineering crew,S,England,,,,,no
+Michele House,male,37.0,victualling crew,B,England,,,,,no
+Scott Skinner,male,29.0,deck crew,S,England,,,,,yes
+Christopher White,male,36.0,victualling crew,S,England,,,,,no
+Christine Holmes,male,25.0,engineering crew,S,England,,,,,no
+Kevin Swanson,male,43.0,victualling crew,B,England,,,,,no
+Kelly Lane,male,40.0,victualling crew,S,England,,,,,no
+Lori Martin,male,36.0,victualling crew,S,England,,,,,no
+Stephen Castillo,male,31.0,engineering crew,S,England,,,,,no
+Matthew Perez,male,25.0,victualling crew,S,England,,,,,no
+Kimberly Burgess,male,19.0,victualling crew,B,England,,,,,no
+Elizabeth Jackson,male,29.0,engineering crew,B,England,,,,,no
+Mr. Matthew Holt,male,26.0,engineering crew,S,England,,,,,no
+Shelley Perez,male,46.0,engineering crew,B,England,,,,,no
+Breanna Benton,male,43.0,victualling crew,S,England,,,,,no
+Michael Tucker,male,29.0,deck crew,B,England,,,,,yes
+Tracy Pineda,male,22.0,victualling crew,S,England,,,,,no
+Anthony Miller,male,28.0,victualling crew,B,England,,,,,no
+Stephanie Sparks,male,24.0,victualling crew,S,England,,,,,no
+Renee King,male,29.0,deck crew,B,England,,,,,no
+Joseph Knight,male,29.0,engineering crew,S,England,,,,,no
+Joseph Stone,male,15.0,victualling crew,S,England,,,,,no
+Erica Everett,male,40.0,deck crew,S,England,,,,,yes
+Stephanie Hansen,male,33.0,deck crew,S,England,,,,,yes
+Nathaniel Torres,male,23.0,engineering crew,S,England,,,,,no
+Heather Pierce,male,36.0,engineering crew,B,England,,,,,no
+Matthew Johnson,male,38.0,victualling crew,B,England,,,,,no
+Amanda Meadows,male,31.0,victualling crew,B,England,,,,,no
+Cassie White,male,34.0,victualling crew,S,England,,,,,no
+Michael Johnson,male,18.0,victualling crew,S,England,,,,,no
+Angela White,male,32.0,victualling crew,S,England,,,,,no
+Christopher Perez,male,53.0,deck crew,S,England,,,,,yes
+Bryan Griffin,male,23.0,engineering crew,S,England,,,,,yes
+Rhonda Rhodes,male,27.0,engineering crew,S,England,,,,,no
+Jessica English,male,41.0,engineering crew,S,England,,,,,no
+Darlene Ross,male,23.0,engineering crew,S,England,,,,,yes
+Sierra Simmons,male,31.0,victualling crew,S,England,,,,,no
+Katrina Chandler,male,28.0,deck crew,B,England,,,,,no
+Brian Alexander,male,19.0,victualling crew,S,England,,,,,yes
+Adam Flores,male,31.0,victualling crew,S,England,,,,,no
+Anna Schwartz,male,19.0,engineering crew,S,England,,,,,no
+Mr. Scott Fisher,male,21.0,victualling crew,S,England,,,,,no
+Timothy Blevins,male,20.0,victualling crew,S,England,,,,,no
+Amanda Little,male,33.0,engineering crew,S,England,,,,,no
+Dennis Manning,male,30.0,engineering crew,S,England,,,,,no
+Zachary Byrd,male,22.0,victualling crew,B,England,,,,,no
+Steven Spencer,male,59.0,engineering crew,S,England,,,,,no
+Morgan Johnson,male,38.0,restaurant staff,S,France,,,,,no
+Christine Duncan,male,27.0,engineering crew,S,Wales,,,,,no
+Donna Beck,male,35.0,victualling crew,B,England,,,,,no
+Paul Fowler,male,29.0,restaurant staff,S,England,,,,,no
+Elizabeth Kaiser,male,28.0,restaurant staff,S,England,,,,,no
+Steven Anderson,male,55.0,victualling crew,B,England,,,,,no
+Stephanie Thompson,male,25.0,victualling crew,S,England,,,,,no
+Michele Williams,female,24.0,victualling crew,S,England,,,,,yes
+Michael Stanley,male,23.0,deck crew,B,England,,,,,yes
+Emily Webb,male,38.0,engineering crew,S,England,,,,,no
+Brooke Kelley,male,41.0,victualling crew,B,England,,,,,yes
+Christopher Simpson,male,17.0,victualling crew,S,England,,,,,no
+Cindy Johnston,male,37.0,victualling crew,S,England,,,,,no
+Todd Baldwin,male,29.0,victualling crew,S,England,,,,,no
+Gina Dawson,male,32.0,deck crew,S,England,,,,,yes
+Brad Osborn,male,21.0,victualling crew,S,England,,,,,no
+Charles Curry,male,24.0,restaurant staff,S,England,,,,,no
+Desiree Khan,male,32.0,victualling crew,B,England,,,,,yes
+Rebecca Wu,male,31.0,engineering crew,S,England,,,,,yes
+Thomas Kim,male,38.0,engineering crew,S,England,,,,,no
+Kimberly Rocha,male,30.0,engineering crew,S,England,,,,,no
+Tracy Brown,male,40.0,engineering crew,S,England,,,,,yes
+Jason Smith,male,44.0,engineering crew,S,England,,,,,no
+Kevin Adams,male,25.0,engineering crew,S,England,,,,,no
+Danielle Rodriguez,male,30.0,victualling crew,S,England,,,,,yes
+Brian Hernandez,male,18.0,victualling crew,S,England,,,,,no
+Bradley Patel,male,23.0,engineering crew,B,Scotland,,,,,no
+Stephen Gill,male,22.0,engineering crew,S,England,,,,,yes
+Joseph Collins,male,43.0,engineering crew,B,England,,,,,no
+Derrick Vargas,male,37.0,engineering crew,S,England,,,,,no
+Lauren Osborne,male,30.0,victualling crew,S,England,,,,,no
+William Owens,male,44.0,engineering crew,B,England,,,,,no
+Barbara Williams,male,28.0,victualling crew,S,England,,,,,no
+Pamela Ruiz,male,26.0,engineering crew,S,Scotland,,,,,no
+Jason Howard,male,36.0,victualling crew,B,England,,,,,no
+Jose Barnes,male,34.0,victualling crew,S,Ireland,,,,,no
+Troy Gibson,male,35.0,victualling crew,S,England,,,,,no
+Denise Mason,male,18.0,victualling crew,S,England,,,,,no
+Larry Caldwell,male,28.0,victualling crew,S,Ireland,,,,,no
+Cassandra Lane,male,20.0,victualling crew,S,England,,,,,no
+Cheryl Davis DDS,male,42.0,deck crew,S,England,,,,,no
+Brian Key,male,48.0,victualling crew,S,England,,,,,no
+Scott Watkins,male,30.0,engineering crew,S,England,,,,,no
+Susan Wright DVM,male,36.0,victualling crew,S,England,,,,,no
+Thomas Mendoza,male,43.0,engineering crew,S,England,,,,,no
+Jessica Williams,male,31.0,victualling crew,S,England,,,,,no
+Ashley Sanchez,male,33.0,victualling crew,S,England,,,,,no
+Christine Joseph,male,49.0,victualling crew,S,England,,,,,yes
+Mark Thompson,male,21.0,victualling crew,S,England,,,,,no
+Russell Golden,male,43.0,engineering crew,S,England,,,,,yes
+James Potter,male,20.0,victualling crew,S,England,,,,,no
+Christopher Davis,male,41.0,engineering crew,S,England,,,,,no
+Brenda Smith,male,46.0,victualling crew,B,England,,,,,no
+Dawn Sandoval,male,34.0,victualling crew,S,England,,,,,no
+Cassandra Miller,male,55.0,victualling crew,B,England,,,,,no
+Dr. Joseph Williams,female,40.0,victualling crew,S,England,,,,,yes
+Victor Tran,male,36.0,victualling crew,B,England,,,,,no
+Nicole Rasmussen,male,22.0,victualling crew,S,England,,,,,no
+Robert Oliver,female,50.0,victualling crew,S,England,,,,,yes
+William Garner,male,18.0,engineering crew,S,England,,,,,no
+Carla Smith,male,29.0,victualling crew,S,England,,,,,yes
+Jessica Rogers,male,41.0,deck crew,S,England,,,,,yes
+Jacqueline Brown,male,35.0,victualling crew,S,England,,,,,no
+Tiffany Burton,male,25.0,victualling crew,B,United States,,,,,no
+Abigail Herrera,male,26.0,victualling crew,B,England,,,,,no
+Sarah Martinez,male,27.0,victualling crew,S,England,,,,,yes
+Kathleen Gamble,male,24.0,victualling crew,S,England,,,,,no
+Kristen Steele,male,20.0,engineering crew,S,England,,,,,no
+Meghan Stevens,male,47.0,engineering crew,S,England,,,,,no
+Mr. Jon Benton DVM,male,38.0,deck crew,B,England,,,,,yes
+Erik Young,male,30.0,engineering crew,S,England,,,,,yes
+Monica Brown,male,40.0,victualling crew,B,England,,,,,yes
+Matthew Lewis,male,41.0,victualling crew,B,England,,,,,no
+Wayne Anderson,male,29.0,engineering crew,S,England,,,,,no
+James Hill,male,33.0,victualling crew,S,England,,,,,no
+Jeremy Thomas,male,31.0,engineering crew,S,England,,,,,no
+David Bryan,male,36.0,engineering crew,S,England,,,,,no
+Nicole Moore,male,20.0,victualling crew,S,England,,,,,no
+Jose Thomas,male,37.0,victualling crew,S,England,,,,,no
+Donna Sanford,male,29.0,deck crew,B,Wales,,,,,yes
+William Gonzalez,male,25.0,deck crew,S,England,,,,,yes
+Tina Roberts,male,31.0,victualling crew,B,England,,,,,yes
+Elizabeth Bailey,male,45.0,victualling crew,S,England,,,,,no
+Tyler Palmer,male,26.0,deck crew,S,Ireland,,,,,no
+Pamela Martin,male,24.0,victualling crew,S,England,,,,,no
+Christina Morales,male,34.0,victualling crew,S,England,,,,,no
+Cynthia Santiago,male,32.0,engineering crew,B,Scotland,,,,,no
+Donna Wright,male,36.0,victualling crew,B,England,,,,,no
+Cindy Perez,male,32.0,engineering crew,S,England,,,,,yes
+Wendy Walker,male,40.0,victualling crew,S,England,,,,,no
+Bradley Tyler,male,50.0,victualling crew,S,United States,,,,,no
+Mindy Osborne,male,27.0,engineering crew,S,England,,,,,no
+Sara Patterson,male,27.0,victualling crew,S,Scotland,,,,,no
+Kerry Deleon,male,21.0,victualling crew,S,England,,,,,no
+Joseph Bailey,female,28.0,victualling crew,S,England,,,,,yes
+Heather Morris,male,40.0,engineering crew,S,England,,,,,no
+Ryan Sanchez,female,20.0,restaurant staff,S,England,,,,,yes
+Martin Ibarra,female,39.0,victualling crew,S,Channel Islands,,,,,yes
+Stephanie Parker,male,25.0,engineering crew,S,England,,,,,no
+Emma Yates,male,32.0,engineering crew,S,England,,,,,yes
+Nicholas Murphy,male,39.0,engineering crew,S,England,,,,,no
+Miss Sarah Vincent,male,30.0,deck crew,S,England,,,,,no
+Jason Carrillo,male,29.0,deck crew,S,Wales,,,,,no
+Jeremy Bell,male,20.0,restaurant staff,S,England,,,,,no
+Jodi Villanueva,male,25.0,restaurant staff,S,England,,,,,yes
+Christian Morgan,male,30.0,deck crew,B,England,,,,,no
+Melissa Erickson,male,22.0,engineering crew,S,England,,,,,no
+Patricia Wilcox,male,59.0,engineering crew,S,England,,,,,no
+Tina Mcintyre,male,31.0,victualling crew,B,England,,,,,yes
+Crystal Parker,male,28.0,engineering crew,S,England,,,,,no
+Richard Martin,male,53.0,victualling crew,B,England,,,,,no
+Susan Heath,male,25.0,engineering crew,S,England,,,,,yes
+James Harding,male,38.0,engineering crew,S,England,,,,,no
+Katelyn Webb,male,23.0,engineering crew,S,,,,,,no
+Erica Jacobs,male,38.0,victualling crew,S,England,,,,,no
+Christine Mata,male,47.0,deck crew,S,Ireland,,,,,yes
+Wendy Sanders,male,38.0,engineering crew,S,England,,,,,no
+Lindsey Mccullough,male,36.0,victualling crew,B,Scotland,,,,,no
+Jared Harris,male,37.0,victualling crew,S,England,,,,,no
+Ryan Carney DVM,male,29.0,engineering crew,S,England,,,,,yes
+Margaret Holmes,male,34.0,engineering crew,S,England,,,,,no
+Brittany Patrick,male,30.0,engineering crew,S,England,,,,,no
+Kristen Miller,male,36.0,deck crew,S,Ireland,,,,,yes
+Maria Deleon,male,17.0,victualling crew,S,England,,,,,no
+Peter Ballard,male,38.0,engineering crew,S,England,,,,,no
+Bryan Palmer,male,21.0,engineering crew,S,England,,,,,yes
+John Yang,male,30.0,victualling crew,B,England,,,,,yes
+Catherine Thompson,female,40.0,victualling crew,S,England,,,,,yes
+Ethan Miller,male,23.0,victualling crew,B,England,,,,,yes
+Dylan Acosta,male,21.0,victualling crew,B,England,,,,,no
+Ricky Scott,male,36.0,victualling crew,B,England,,,,,no
+Stephen Reyes,male,44.0,victualling crew,B,England,,,,,no
+Sarah Benjamin,male,26.0,engineering crew,B,Northern Ireland,,,,,no
+Anna Dorsey,male,32.0,engineering crew,S,England,,,,,no
+Jasmine Taylor,male,22.0,engineering crew,B,Northern Ireland,,,,,no
+Marvin Anderson,male,34.0,victualling crew,S,England,,,,,no
+James Watson,male,27.0,engineering crew,B,Ireland,,,,,no
+Betty Smith,male,28.0,victualling crew,S,England,,,,,no
+Richard Briggs,male,28.0,engineering crew,S,England,,,,,no
+Tyler Ramirez,male,26.0,engineering crew,B,Scotland,,,,,no
+Victoria Fletcher,male,32.0,engineering crew,B,Northern Ireland,,,,,no
+Logan Nelson,male,51.0,victualling crew,S,England,,,,,yes
+Kristin Santana,male,46.0,engineering crew,S,England,,,,,no
+Holly Mckenzie,male,53.0,victualling crew,B,Lebanon,,,,,no
+Mr. Richard Perez,male,19.0,engineering crew,S,England,,,,,no
+Connie Park,male,20.0,restaurant staff,S,Spain,,,,,no
+Katie Gray,male,23.0,restaurant staff,S,England,,,,,no
+Donald Jordan,male,24.0,deck crew,B,England,,,,,no
+Sandra George,male,39.0,victualling crew,S,England,,,,,no
+Dr. Sergio Martinez,male,32.0,deck crew,S,England,,,,,yes
+Hannah Burke,male,29.0,engineering crew,S,England,,,,,yes
+Jason Carter,male,22.0,engineering crew,S,England,,,,,no
+Rebecca Campos,male,44.0,engineering crew,S,England,,,,,no
+Catherine Anderson,male,42.0,victualling crew,S,England,,,,,no
+Janet Mendoza,male,27.0,engineering crew,S,England,,,,,no
+Joseph Bailey,male,26.0,engineering crew,S,England,,,,,no
+Joanna Davis,male,30.0,engineering crew,S,England,,,,,no
+Steven Carr,male,28.0,victualling crew,B,England,,,,,yes
+Tara Allen,male,23.0,engineering crew,S,England,,,,,no
+Brittany Gibson,male,36.0,victualling crew,B,England,,,,,no
+Joanna Anderson,male,24.0,engineering crew,B,Scotland,,,,,no
+Kayla Jones,male,37.0,victualling crew,S,England,,,,,no
+Travis Taylor,male,20.0,victualling crew,S,Scotland,,,,,no
+Mrs. Michelle Rangel DVM,male,39.0,deck crew,B,Scotland,,,,,no
+Bruce Davis,male,42.0,restaurant staff,S,Italy,,,,,no
+Stuart Macias,male,26.0,victualling crew,S,England,,,,,yes
+Candace Williams,male,30.0,engineering crew,S,England,,,,,no
+Lisa Buck,male,33.0,engineering crew,S,England,,,,,no
+David Nelson,male,39.0,victualling crew,S,England,,,,,no
+Melinda Clayton,male,48.0,deck crew,B,Australia,,,,,no
+Kristina Carson,male,46.0,victualling crew,S,England,,,,,no
+Mr. Maxwell Robertson,male,35.0,victualling crew,S,England,,,,,yes
+Anna Wheeler,male,30.0,engineering crew,S,Scotland,,,,,no
+Mathew Lawrence,male,42.0,engineering crew,S,England,,,,,no
+Sabrina Caldwell,male,22.0,engineering crew,S,England,,,,,no
+Jennifer Bond,male,21.0,engineering crew,S,England,,,,,no
+Pamela Perez,male,30.0,engineering crew,S,England,,,,,yes
+Ryan Allen,male,30.0,engineering crew,S,England,,,,,yes
+Mary Rose,male,29.0,engineering crew,S,England,,,,,yes
+Brooke Nunez,male,44.0,victualling crew,B,England,,,,,no
+David Gallegos,male,31.0,engineering crew,S,England,,,,,no
+Cassandra Salinas,male,27.0,victualling crew,S,England,,,,,no
+Johnny Duncan,male,32.0,engineering crew,S,England,,,,,yes
+Rick Bender,male,27.0,deck crew,B,Channel Islands,,,,,yes
+Noah Moore,male,63.0,deck crew,B,England,,,,,no
+Donald Patton,male,31.0,victualling crew,S,England,,,,,no
+Melissa Perez,male,39.0,victualling crew,S,Scotland,,,,,no
+Thomas Jones,male,32.0,victualling crew,B,England,,,,,no
+Calvin Hall,male,27.0,deck crew,S,England,,,,,yes
+Brett Ryan,male,36.0,engineering crew,S,England,,,,,yes
+Sheryl Brown,male,43.0,victualling crew,S,Wales,,,,,no
+Paula Morris,male,17.0,victualling crew,S,England,,,,,no
+Nancy Price,male,19.0,restaurant staff,S,England,,,,,no
+Keith Vargas,male,32.0,engineering crew,S,England,,,,,no
+Michael Henry,male,32.0,engineering crew,S,England,,,,,no
+Debbie Moore,male,29.0,engineering crew,S,England,,,,,no
+Jesse Black,male,29.0,victualling crew,S,England,,,,,no
+Alice Fisher,male,45.0,engineering crew,B,England,,,,,no
+Tracie Miller,male,37.0,victualling crew,S,England,,,,,no
+Cheyenne Williams,male,27.0,engineering crew,B,England,,,,,no
+Maria Lozano,male,18.0,victualling crew,S,England,,,,,no
+Christopher Rodriguez,male,45.0,deck crew,S,England,,,,,yes
+Ryan Harris,male,24.0,victualling crew,S,England,,,,,no
+Maria Wilkinson,male,28.0,engineering crew,S,England,,,,,yes
+James Compton,male,25.0,victualling crew,S,England,,,,,yes
+Hannah Roberts,male,21.0,restaurant staff,S,England,,,,,no
+Michael Pierce,male,39.0,engineering crew,S,England,,,,,yes
+Randall Munoz,male,34.0,victualling crew,S,England,,,,,no
+Paula Smith,male,31.0,victualling crew,S,England,,,,,no
+Shirley Green,male,49.0,victualling crew,B,England,,,,,no
+Debra Martinez,male,20.0,restaurant staff,S,England,,,,,no
+Alexis Garcia,male,17.0,restaurant staff,S,England,,,,,no
+Charles Hudson,male,22.0,victualling crew,S,England,,,,,no
+Melissa Wilkinson,male,37.0,deck crew,B,England,,,,,yes
+Lauren Mays,male,20.0,restaurant staff,S,England,,,,,no
+Sandra Waters,male,48.0,victualling crew,S,England,,,,,no
+Brittney Price,male,32.0,victualling crew,S,England,,,,,no
+David Fisher,male,19.0,engineering crew,S,England,,,,,yes
+Joseph Moore,male,23.0,engineering crew,S,England,,,,,no
+Molly Smith,male,26.0,deck crew,S,England,,,,,yes
+Judith Thomas,male,25.0,victualling crew,S,England,,,,,no
+Anthony Mitchell,male,30.0,victualling crew,S,Germany,,,,,yes
+Savannah Butler,male,23.0,victualling crew,B,England,,,,,yes
+Elizabeth Harrington,male,27.0,engineering crew,S,England,,,,,no
+Kevin Collins,male,25.0,victualling crew,B,England,,,,,no
+Jacob Holt,male,35.0,restaurant staff,S,England,,,,,no
+Karen Perry,male,17.0,restaurant staff,S,England,,,,,no
+Christopher Wallace,male,33.0,restaurant staff,S,England,,,,,no
+Amy Cervantes,male,25.0,engineering crew,S,England,,,,,no
+Joseph Harris,male,34.0,deck crew,B,England,,,,,yes
+Robert Simmons,male,18.0,victualling crew,S,England,,,,,no
+Christopher Johnson,male,24.0,engineering crew,S,England,,,,,yes
+Christine Carter,male,28.0,restaurant staff,S,England,,,,,no
+Joanna Wang,male,33.0,deck crew,S,Channel Islands,,,,,yes
+Amanda Morgan MD,male,33.0,engineering crew,S,England,,,,,no
+Jacob Jackson,male,36.0,victualling crew,S,England,,,,,no
+Kevin Howell,male,34.0,victualling crew,S,England,,,,,no
+Tanya Nelson,male,22.0,victualling crew,S,England,,,,,yes
+Andrew Johnson,male,30.0,engineering crew,S,England,,,,,yes
+Joseph Nguyen,male,23.0,victualling crew,S,England,,,,,yes
+Michael Austin,male,20.0,engineering crew,S,England,,,,,no
+Gabriel Stout,male,17.0,restaurant staff,S,England,,,,,no
+Ronald Kelley,female,36.0,victualling crew,S,England,,,,,yes
+David Russell,male,23.0,victualling crew,S,England,,,,,no
+Brooke Montoya,male,24.0,engineering crew,S,England,,,,,yes
+Jessica Hoover,male,21.0,victualling crew,S,England,,,,,yes
+Erin Patel,male,46.0,victualling crew,B,England,,,,,no
+Cole Stokes,male,22.0,engineering crew,S,England,,,,,no
+Kelly Carlson DDS,male,23.0,victualling crew,S,England,,,,,no
+John Ramsey,male,20.0,victualling crew,S,England,,,,,yes
+Richard Miller,male,31.0,engineering crew,S,England,,,,,no
+Nathan Thompson,male,22.0,engineering crew,S,England,,,,,yes
+Maria Banks,male,44.0,victualling crew,B,England,,,,,no
+Ryan Williams,male,29.0,victualling crew,S,England,,,,,no
+Derek Williams,male,29.0,engineering crew,S,England,,,,,yes
+Frederick Lopez,male,50.0,victualling crew,B,England,,,,,no
+Randall Kim,male,38.0,victualling crew,B,Channel Islands,,,,,no
+Stacie Mitchell,male,21.0,restaurant staff,S,England,,,,,no
+Michael Bernard,male,32.0,victualling crew,B,England,,,,,yes
+Carolyn Smith,male,20.0,engineering crew,S,England,,,,,no
+Joshua Pratt,male,55.0,victualling crew,S,England,,,,,no
+Hailey Brady,male,34.0,engineering crew,S,England,,,,,no
+Charles Guzman,male,30.0,engineering crew,S,England,,,,,no
+Crystal Rose,male,31.0,victualling crew,B,England,,,,,no
+Ashley Romero,male,22.0,restaurant staff,S,England,,,,,no
+Julian Fisher,male,32.0,engineering crew,S,England,,,,,yes
+Daniel Mckay,male,25.0,victualling crew,S,England,,,,,no
+Karen Mack,male,19.0,victualling crew,S,England,,,,,no
+Brittney Cowan,male,30.0,engineering crew,S,England,,,,,no
+Taylor Murphy,male,36.0,engineering crew,S,England,,,,,no
+Anthony Mcbride,male,22.0,victualling crew,S,England,,,,,no
+Gregory Russell,male,30.0,victualling crew,S,England,,,,,no
+Michael Ford,male,22.0,restaurant staff,S,England,,,,,no
+Roy Doyle,male,29.0,victualling crew,S,England,,,,,no
+Mary Thomas,male,19.0,victualling crew,S,England,,,,,no
+Steven Diaz,male,37.0,victualling crew,B,England,,,,,no
+Derek Randall,male,40.0,victualling crew,B,Wales,,,,,no
+Megan Bryant,male,35.0,engineering crew,S,England,,,,,no
+Deborah Taylor,female,41.0,victualling crew,S,England,,,,,yes
+Mary Kramer,male,30.0,victualling crew,S,England,,,,,no
+Brandon Richards,female,41.0,victualling crew,S,England,,,,,yes
+Jason Poole,male,31.0,victualling crew,S,England,,,,,no
+Wayne Dunlap,male,27.0,victualling crew,S,Ireland,,,,,no
+Charles Russell,male,36.0,victualling crew,S,England,,,,,yes
+Sandra Williams,male,23.0,restaurant staff,S,England,,,,,no
+Claire Morales,male,26.0,engineering crew,B,England,,,,,no
+Amy Jones,male,49.0,restaurant staff,S,England,,,,,no
+Alexander Avila,male,31.0,victualling crew,B,England,,,,,no
+Cindy Gray,male,32.0,deck crew,B,England,,,,,yes
+Candace Ramirez,male,24.0,engineering crew,S,England,,,,,no
+Lindsay Hutchinson,male,58.0,victualling crew,B,England,,,,,yes
+Larry Fritz DDS,male,17.0,victualling crew,S,England,,,,,no
+Andrea White,male,27.0,engineering crew,S,England,,,,,no
+Ariana Johnson,male,28.0,victualling crew,S,Channel Islands,,,,,no
+Kelly Alvarez,male,33.0,victualling crew,S,Canada,,,,,yes
+Aaron Davis,male,24.0,restaurant staff,S,Italy,,,,,no
+Debra Patterson,male,25.0,restaurant staff,S,England,,,,,no
+Angelica Anderson,male,47.0,victualling crew,S,Wales,,,,,no
+Jessica Allen,male,30.0,engineering crew,S,England,,,,,no
+Joshua Foley,male,24.0,restaurant staff,S,England,,,,,no
+Angela Moore,male,26.0,victualling crew,S,England,,,,,no
+Christopher Swanson,male,22.0,engineering crew,S,England,,,,,no
+Daniel Curtis,male,23.0,engineering crew,S,England,,,,,no
+Mrs. Andrea Whitehead,male,23.0,engineering crew,S,England,,,,,no
+Anna Marks,male,23.0,victualling crew,S,England,,,,,yes
+Laura Butler,male,31.0,deck crew,S,England,,,,,no
+William Chavez,male,33.0,deck crew,S,England,,,,,yes
+Sean Solis,male,42.0,restaurant staff,S,Italy,,,,,no
+Dr. Christine Taylor MD,male,41.0,engineering crew,S,Northern Ireland,,,,,no
+Krystal Pena,male,28.0,engineering crew,S,England,,,,,yes
+Emily Fleming,male,20.0,victualling crew,S,England,,,,,no
+Ashley Gonzalez,male,55.0,victualling crew,S,England,,,,,no
+Raymond Riley,male,25.0,victualling crew,S,England,,,,,no
+Edwin Mcconnell,male,24.0,engineering crew,S,England,,,,,yes
+Eric Maxwell,male,40.0,engineering crew,S,England,,,,,no
+Cynthia Watts,male,31.0,engineering crew,S,England,,,,,yes
+Larry Warren,male,24.0,restaurant staff,S,England,,,,,no
+Bryan Mckee,male,25.0,victualling crew,S,England,,,,,yes
+James Smith,male,42.0,victualling crew,S,England,,,,,no
+Alex Blanchard,male,40.0,victualling crew,B,England,,,,,no
+George Weaver,male,32.0,engineering crew,S,England,,,,,no
+Scott Vasquez,male,20.0,engineering crew,S,England,,,,,yes
+Breanna Cole,male,32.0,engineering crew,S,England,,,,,no
+John Baker,male,25.0,engineering crew,S,England,,,,,yes
+Erin Andersen,male,19.0,engineering crew,S,England,,,,,no
+Sharon Taylor,male,29.0,victualling crew,B,England,,,,,no
+Kayla Watson,male,31.0,victualling crew,S,England,,,,,yes
+Jennifer Leonard,male,24.0,victualling crew,S,England,,,,,no
+Richard Myers,male,37.0,victualling crew,S,England,,,,,no
+Natasha Norton,male,37.0,deck crew,S,Northern Ireland,,,,,no
+Gregory Boyle,male,23.0,victualling crew,S,England,,,,,no
+David Watson,male,23.0,engineering crew,S,England,,,,,no
+Jessica Fuentes,male,41.0,victualling crew,B,England,,,,,no
+Heather Gonzalez,male,33.0,victualling crew,S,England,,,,,no
+Kenneth Carroll,male,36.0,victualling crew,B,England,,,,,no
+Joseph Anderson,female,28.0,victualling crew,S,Northern Ireland,,,,,yes
+Erik Woods,male,31.0,engineering crew,B,England,,,,,no
+Melissa Douglas,female,30.0,victualling crew,S,England,,,,,yes
+Aaron Pierce,male,40.0,engineering crew,S,England,,,,,no
+Jenna Paul,male,29.0,victualling crew,B,Scotland,,,,,no
+Stuart Graham,male,62.0,deck crew,S,England,,,,,no
+Caroline Howard,male,22.0,engineering crew,S,England,,,,,no
+Kerri Murphy,female,45.0,victualling crew,S,England,,,,,yes
+Robert Fields,male,40.0,victualling crew,S,England,,,,,no
+Ryan Fernandez,male,38.0,victualling crew,S,England,,,,,no
+Haley Best,male,27.0,engineering crew,S,England,,,,,no
+Tiffany Wilkinson,male,20.0,victualling crew,B,England,,,,,no
+Kristen Reid,male,39.0,engineering crew,B,Scotland,,,,,no
+Mikayla Lewis,male,24.0,victualling crew,S,England,,,,,no
+Amy Holloway,male,35.0,victualling crew,S,,,,,,no
+Carl Waters,male,33.0,victualling crew,S,England,,,,,no
+Diana Gray,male,26.0,deck crew,S,England,,,,,no
+Linda Green,female,22.0,victualling crew,S,England,,,,,no
+Cindy Brady,male,41.0,engineering crew,S,England,,,,,no
+Tina Fowler,male,26.0,engineering crew,S,England,,,,,no
+Lori Kennedy,male,21.0,engineering crew,S,England,,,,,yes
+Jason Santos,male,36.0,engineering crew,S,England,,,,,yes
+Daniel Horn,male,38.0,victualling crew,S,England,,,,,no
+Karen King,male,31.0,engineering crew,S,England,,,,,no
+Christian Adams,female,47.0,victualling crew,S,England,,,,,yes
+Joel Harper,male,36.0,victualling crew,B,England,,,,,no
+Amy Simmons,male,30.0,engineering crew,S,,,,,,no
+Timothy Lopez,male,28.0,victualling crew,B,Scotland,,,,,yes
+Stacey Donaldson,male,20.0,engineering crew,S,England,,,,,no
+Katherine King,male,33.0,victualling crew,S,England,,,,,no
+Tiffany Hubbard,male,29.0,victualling crew,S,England,,,,,no
+Brian Norton,male,25.0,engineering crew,S,England,,,,,yes
+Michael Mullins,male,19.0,victualling crew,S,England,,,,,no
+Pedro Patel,male,35.0,victualling crew,S,England,,,,,no
+Lori Blake,male,34.0,victualling crew,B,England,,,,,no
+Anthony Cobb,male,31.0,victualling crew,B,England,,,,,no
+Diana Lang,male,28.0,engineering crew,S,England,,,,,no
+Dean Howell,male,25.0,engineering crew,S,England,,,,,no
+Katherine Atkinson,male,48.0,victualling crew,B,Northern Ireland,,,,,no
+Cameron Patel,male,45.0,victualling crew,B,England,,,,,no
+Christine Jackson,male,24.0,deck crew,S,England,,,,,yes
+Jonathan Dixon,male,20.0,victualling crew,S,England,,,,,no
+Samuel Walton,male,24.0,deck crew,S,England,,,,,no
+David Webb,male,22.0,victualling crew,S,England,,,,,no
+Brian Lamb,male,40.0,deck crew,S,England,,,,,no
+Robin Mitchell,male,24.0,engineering crew,S,England,,,,,yes
+Robert Brooks,male,42.0,engineering crew,S,England,,,,,no
+Toni Oliver,male,49.0,engineering crew,S,England,,,,,no
+Alexander Brown,male,19.0,victualling crew,S,England,,,,,no
+Dr. Cory Conley MD,male,28.0,engineering crew,S,England,,,,,yes
+Christine Anderson,male,32.0,victualling crew,S,England,,,,,no
+Logan Rangel,male,19.0,deck crew,S,England,,,,,no
+Amber Armstrong,male,27.0,victualling crew,S,England,,,,,yes
+Cynthia Colon,male,23.0,restaurant staff,S,England,,,,,no
+Todd Smith,male,35.0,victualling crew,S,England,,,,,no
+Ashley Rich,male,17.0,victualling crew,S,England,,,,,no
+Jennifer Brown,male,46.0,victualling crew,S,England,,,,,yes
+Christopher Ochoa,male,23.0,victualling crew,S,England,,,,,yes
+James Jones,male,30.0,victualling crew,B,England,,,,,yes
+Lisa Ellis,male,24.0,engineering crew,S,England,,,,,no
+Victor Chang,male,25.0,victualling crew,B,England,,,,,no
+Samuel Jones,male,35.0,engineering crew,S,England,,,,,yes
+Stephen Smith,male,39.0,victualling crew,S,England,,,,,no
+Vanessa Chan,male,25.0,victualling crew,S,England,,,,,no
+Carolyn Hutchinson,male,44.0,engineering crew,S,England,,,,,yes
+Deborah Cline,male,25.0,engineering crew,S,England,,,,,yes
+Daniel Carrillo,male,27.0,restaurant staff,S,England,,,,,no
+Matthew Pearson,male,31.0,engineering crew,S,England,,,,,no
+Jason Lopez,male,29.0,victualling crew,B,England,,,,,yes
+Alejandro Bentley,male,28.0,victualling crew,S,England,,,,,no
+Cesar Turner,male,30.0,victualling crew,S,Scotland,,,,,no
+John Reed,male,32.0,engineering crew,S,England,,,,,no
+Barbara Chavez,male,39.0,engineering crew,S,England,,,,,yes
+Angela Arias,male,37.0,engineering crew,B,Ireland,,,,,no
+Jerry Walters,male,42.0,victualling crew,S,England,,,,,no
+Patricia Mendoza,male,28.0,victualling crew,B,England,,,,,no
+Melissa Lynch DVM,male,17.0,restaurant staff,S,England,,,,,no
+Brandon Barber,male,20.0,restaurant staff,S,Italy,,,,,no
+Angela Grant,male,35.0,restaurant staff,S,England,,,,,no
+Maria Page,male,38.0,engineering crew,S,Netherlands,,,,,no
+Joshua Burns,male,36.0,engineering crew,S,England,,,,,no
+Danny Thomas,male,38.0,victualling crew,S,England,,,,,no
+Angela Flores,male,33.0,engineering crew,S,England,,,,,no
+Stacy Anderson,male,34.0,engineering crew,S,England,,,,,no
+Matthew Brown,male,21.0,restaurant staff,S,England,,,,,no
+Brooke Ward,male,32.0,deck crew,S,Channel Islands,,,,,yes
+Sara Hamilton,male,19.0,restaurant staff,S,England,,,,,no
+Brad Thomas,male,18.0,restaurant staff,S,England,,,,,no
+Rachel Lopez,male,25.0,restaurant staff,S,Italy,,,,,no
+Patricia Ortega,male,35.0,restaurant staff,S,England,,,,,no
+Cynthia Burnett,male,37.0,victualling crew,S,England,,,,,no
+Logan Anderson,female,36.0,victualling crew,S,England,,,,,no
+Dennis Roberson,male,48.0,victualling crew,B,England,,,,,no
+Joe Martin,female,32.0,victualling crew,S,Ireland,,,,,no
+Jessica Bailey,male,23.0,engineering crew,B,England,,,,,no
+Taylor Brown,male,34.0,victualling crew,B,England,,,,,no
+Joy Hanna,male,31.0,engineering crew,S,England,,,,,no
+Connie Kidd,male,40.0,victualling crew,B,England,,,,,no
+Cathy Weaver,male,37.0,victualling crew,S,England,,,,,yes
+Steven Hayes,male,40.0,engineering crew,S,England,,,,,no
+Lee Russo,male,37.0,victualling crew,B,England,,,,,no
+Brad Owen,male,26.0,victualling crew,S,England,,,,,no
+Olivia Sampson,male,26.0,engineering crew,S,England,,,,,no
+Raven White,male,15.0,victualling crew,S,England,,,,,no
+Amanda Hancock,male,27.0,engineering crew,S,England,,,,,no
+Christopher Anderson,male,25.0,victualling crew,B,England,,,,,no
+Patricia Howard,male,31.0,engineering crew,S,England,,,,,no
+Kevin Zamora,male,50.0,victualling crew,B,England,,,,,no
+Ernest Martinez,male,28.0,engineering crew,S,England,,,,,no
+Mrs. Mary Smith,male,52.0,victualling crew,S,United States,,,,,yes
+Pam Wall,male,21.0,victualling crew,S,England,,,,,no
+Sandra Nguyen,male,30.0,deck crew,B,England,,,,,yes
+Rodney Goodwin,male,30.0,victualling crew,B,England,,,,,yes
+Joseph Haynes,male,29.0,victualling crew,B,England,,,,,yes
+Christopher Stewart,male,18.0,victualling crew,S,England,,,,,yes
+Cameron Harrison,male,21.0,engineering crew,S,England,,,,,no
+Dustin Davis,male,32.0,engineering crew,S,England,,,,,yes
+Christopher Howard,male,37.0,victualling crew,S,England,,,,,no
+Marcia Wilson,male,27.0,victualling crew,S,England,,,,,no
+Alicia Martinez,male,28.0,engineering crew,S,England,,,,,no
+Ms. Melinda Garcia,male,32.0,victualling crew,B,Australia,,,,,no
+Joseph Cooper,male,23.0,engineering crew,S,England,,,,,yes
+Patricia Harmon,male,39.0,victualling crew,S,England,,,,,no
+Beth Shaw,male,37.0,victualling crew,S,England,,,,,yes
+Jacob Sawyer,male,39.0,deck crew,S,England,,,,,no
+Alison Harrison,male,42.0,victualling crew,S,England,,,,,no
+Tina Santos,male,26.0,engineering crew,S,England,,,,,no
+Stephen Walker,male,28.0,victualling crew,S,England,,,,,yes
+Carlos Pruitt,male,35.0,victualling crew,S,Ireland,,,,,no
+Frederick Lopez,male,59.0,victualling crew,S,England,,,,,no
+Antonio Carr,male,34.0,victualling crew,S,England,,,,,no
+Christopher Anderson,male,28.0,engineering crew,B,England,,,,,no
+Scott Joseph,male,53.0,engineering crew,S,England,,,,,no
+Brian Flynn,male,38.0,victualling crew,S,England,,,,,yes
+Joshua Chang,male,36.0,victualling crew,S,England,,,,,no
+Damon Haley,male,39.0,engineering crew,S,England,,,,,no
+Beth Holloway,male,31.0,victualling crew,S,England,,,,,yes
+Victor Cuevas,male,39.0,victualling crew,S,Austria,,,,,no
+Rachel Hayes,male,37.0,engineering crew,S,England,,,,,no
+Dillon Mckinney,male,35.0,engineering crew,S,England,,,,,no
+Alan Green,male,40.0,engineering crew,S,England,,,,,no
+Samuel Taylor,male,31.0,engineering crew,S,England,,,,,no
+Craig Johnson,male,49.0,victualling crew,S,England,,,,,no
+Jane Ward,male,41.0,victualling crew,S,United States,,,,,no
+Eileen Rogers,male,45.0,victualling crew,S,England,,,,,no
+Stephanie Combs,male,37.0,engineering crew,S,England,,,,,no
+Carlos Santos,male,19.0,victualling crew,B,England,,,,,no
+Lindsay Morgan,male,24.0,victualling crew,S,England,,,,,no
+Thomas Rojas,male,40.0,victualling crew,S,England,,,,,yes
+Lisa Chavez,male,26.0,engineering crew,S,England,,,,,no
+Dr. William Paul MD,male,41.0,deck crew,B,England,,,,,yes
+Mary Barker,male,40.0,victualling crew,S,England,,,,,yes
+Cassidy Carter,male,32.0,engineering crew,S,England,,,,,no
+Heather Lindsey,male,20.0,restaurant staff,S,England,,,,,no
+Reginald Jones,male,26.0,restaurant staff,S,England,,,,,no
