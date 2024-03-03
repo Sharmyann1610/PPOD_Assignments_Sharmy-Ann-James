@@ -1,0 +1,2208 @@
+gender,embarked,sibsp,parch,survived,age,country,fare,ticketno,name,class
+male,S,0.0,0.0,no,46,United States,1.8555994691740365,377338.34461173706,"Burke, Mr. Jeremiah",1st
+male,S,0.0,2.0,no,14,United States,14.795599469174038,3115333.344611737,"Mason, Mr. J.",1st
+male,S,1.0,1.0,no,14,United States,14.795599469174038,361130.34461173706,"Neal, Mr. Bentley Harold",1st
+female,S,1.0,1.0,yes,30,England,14.795599469174038,361148.34461173706,"Reed, Mr. James George",1st
+female,S,0.0,0.0,yes,14,Norway,1.875599469174036,381296.34461173706,"Roth, Miss. Sarah",1st
+male,S,0.0,0.0,yes,30,United States,1.875599469174036,16748.344611737077,"Jones, Mr. Charles Cresson",1st
+male,C,1.0,0.0,no,30,France,18.74559946917404,264720.34461173706,"Andrews, Mr. Thomas",1st
+female,C,1.0,0.0,yes,30,France,18.74559946917404,251801.34461173703,"Abbing, Mr. Anthony",1st
+male,C,0.0,0.0,yes,30,Lebanon,12.896499469174035,16741.344611737077,"Hold, Mr. Stephen",1st
+male,S,0.0,0.0,yes,14,Finland,1.9261994691740352,361143.34461173706,"Andrews, Mr. Thomas",1st
+male,S,0.0,0.0,no,30,Sweden,1.795599469174037,15667.344611737077,"White, Mrs. Ella",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,327058.34461173706,"Chaffee, Mrs. Carrie Constance",1st
+female,S,1.0,0.0,no,30,Sweden,3.8361994691740353,379292.34461173706,"Hall, Mr. J.",1st
+male,S,0.0,1.0,yes,14,England,3.8155994691740354,363269.34461173706,"Abbing, Mr. Anthony",1st
+female,S,0.0,1.0,yes,14,England,3.8155994691740354,348978.34461173706,"Adams, Mr. John",1st
+male,S,0.0,0.0,no,30,England,7.745599469174037,14817.344611737077,"Adams, Mr. John",1st
+male,S,0.0,0.0,no,30,England,1.916499469174035,22541.34461173708,"Charters, Mr. David",1st
+male,S,0.0,0.0,no,14,Finland,1.9261994691740352,361149.34461173706,"Curtis, Mr. Arthur",1st
+male,S,0.0,0.0,no,30,Argentina,1.7555994691740349,15288.344611737077,"Stewart, Mr. John",1st
+male,S,0.0,0.0,no,30,Argentina,1.7555994691740349,20673.34461173708,"Adams, Mr. John",1st
+female,S,0.0,0.0,yes,30,United States,206.3464994691741,31543.34461173708,"Becker, Master. Richard F.",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,3115380.344611737,"Farrell, Mr. James",1st
+male,S,1.0,2.0,yes,14,Canada,145.90559946917404,124479.34461173706,"Kelly, Miss. Mary",1st
+female,S,1.0,2.0,no,14,Canada,145.90559946917404,126443.34461173706,"Farrell, Mr. James",1st
+male,S,1.0,2.0,no,30,Canada,145.90559946917404,124630.34461173706,"Wright, Miss. Marion",1st
+female,S,1.0,2.0,no,30,United States,145.90559946917404,27280.34461173708,"Buckley, Miss. Katherine",1st
+male,S,0.0,0.0,no,14,England,2.805599469174036,359829.34461173706,"Walker, Mr. William Anderson",1st
+male,C,0.0,0.0,no,14,Lebanon,1.786299469174036,14917.344611737077,"Allison, Mr. Hudson Joshua Creighton",1st
+female,S,1.0,0.0,yes,14,Denmark,1.915699469174036,345046.34461173706,"Hall, Mr. J.",1st
+male,S,0.0,0.0,no,30,Norway,16.84619946917404,16716.344611737077,"Head, Mr. Christopher",1st
+male,S,0.0,0.0,yes,46,United States,20.85559946917404,31822.34461173708,"Abbing, Mr. Anthony",1st
+male,S,4.0,2.0,no,14,Sweden,25.796199469174034,16691.344611737077,"Abbing, Mr. Anthony",1st
+female,S,4.0,2.0,no,14,Sweden,25.796199469174034,361146.34461173706,"Becker, Master. Richard F.",1st
+female,S,4.0,2.0,no,14,Sweden,25.796199469174034,361128.34461173706,"McNamee, Mrs. Eileen",1st
+female,S,4.0,2.0,yes,14,Finland,1.9261994691740352,16218.344611737077,"Marks, Mr. James",1st
+female,S,4.0,2.0,no,30,Sweden,1.896199469174036,363271.34461173706,"Cornblatt, Mr. Harris",1st
+female,S,4.0,2.0,no,14,Sweden,25.796199469174034,361129.34461173706,"Head, Mr. Christopher",1st
+female,S,4.0,2.0,no,14,Sweden,25.796199469174034,361143.34461173706,"Radeff, Mr. Alexander",1st
+male,S,1.0,5.0,no,30,Sweden,25.796199469174034,16688.344611737077,"Ellis, Mr. John Bertie",1st
+male,S,0.0,0.0,no,30,Sweden,1.896199469174036,3115358.344611737,"Silvey, Mrs. Alice Gray",1st
+female,S,1.0,5.0,no,30,Sweden,25.796199469174034,361154.34461173706,"Goldschmidt, Mr. George B.",1st
+male,S,0.0,0.0,no,14,Sweden,1.915699469174036,62937.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,14,Argentina,5.845599469174035,43171.34461173708,"Caram, Mr. Joseph",1st
+male,S,0.0,0.0,no,30,England,4.845599469174035,48717.34461173708,"Abbing, Mr. Anthony",1st
+female,C,1.0,0.0,yes,62,United States,71.93579946917404,127860.34461173706,"Douglas, Mrs. Mahala",1st
+male,B,0.0,0.0,no,30,Northern Ireland,,126124.34461173706,"Webber, Miss. Susan",1st
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,384442.34461173706,"Davidson, Mr. Thornton",1st
+female,S,1.0,0.0,yes,30,England,20.74559946917404,264715.34461173706,"Ford, Mr. Arthur",1st
+male,S,1.0,0.0,no,30,England,20.74559946917404,16213.344611737077,"Dodge, Dr. Washington",1st
+female,S,2.0,0.0,yes,46,United States,45.83629946917404,31674.34461173708,"Abbing, Mr. Anthony",1st
+male,S,1.0,0.0,no,30,Switzerland,11.905599469174035,361156.34461173706,"Farrell, Mr. James",1st
+female,S,1.0,0.0,no,14,Switzerland,11.905599469174035,16719.344611737077,"Cox, Mr. William Denton",1st
+male,S,0.0,0.0,no,30,Sweden,1.896199469174036,16691.344611737077,"Andrews, Mr. Thomas",1st
+male,C,0.0,0.0,no,62,Argentina,43.84569946917404,31541.34461173708,"Lucas, Mr. William Arthur",1st
+male,S,0.0,0.0,no,46,England,7.745599469174037,16992.344611737077,"Stokes, Mr. Philip Joseph",1st
+male,S,0.0,0.0,no,30,Argentina,1.7555994691740349,396718.34461173706,"Abbing, Mr. Anthony",1st
+male,S,4.0,2.0,no,14,Sweden,25.816499469174037,16734.344611737077,"Sadlier, Mr. Matthew",1st
+male,S,4.0,2.0,no,14,Sweden,25.816499469174037,363303.34461173706,"Abbing, Mr. Anthony",1st
+male,S,4.0,2.0,yes,14,Sweden,25.816499469174037,361154.34461173706,"Jones, Mr. Charles Cresson",1st
+male,S,4.0,2.0,no,14,Sweden,25.816499469174037,361138.34461173706,"Cox, Mr. William Denton",1st
+female,S,4.0,2.0,yes,14,Sweden,25.816499469174037,20278.34461173708,"Abbing, Mr. Anthony",1st
+male,S,1.0,5.0,no,30,Sweden,25.816499469174037,3115348.344611737,"Perry, Mr. Edgar Lionel",1st
+male,S,0.0,0.0,yes,30,Sweden,1.8966994691740344,329103.34461173706,"Arnold-Franchi, Mr. Josef",1st
+female,S,1.0,5.0,yes,30,Sweden,25.816499469174037,25272.34461173708,"Lane, Mr. Patrick",1st
+female,C,0.0,0.0,yes,46,Lebanon,1.7861994691740364,362189.34461173706,"McCarthy, Miss. Catherine",1st
+male,S,0.0,0.0,no,30,Argentina,1.7555994691740349,16719.344611737077,"Robins, Mr. Victor",1st
+male,C,1.0,0.0,no,46,United States,241.846199469174,38226.34461173708,"Milling, Mr. Jacob Christian",1st
+female,C,1.0,0.0,yes,14,United States,241.846199469174,127872.34461173706,"Allison, Mr. Hudson Joshua Creighton",1st
+female,C,0.0,0.0,no,14,Lebanon,8.835799469174034,18199.34461173708,"Hall, Mr. J.",1st
+male,C,0.0,0.0,no,30,Canada,1.7861994691740364,364114.34461173706,"Connaughton, Mr. Michael",1st
+female,C,0.0,0.0,yes,30,France,63.80559946917404,124555.34461173706,"Chapman, Mr. Charles Henry",1st
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,16718.344611737077,"Hodgkinson, Mr. Leonard",1st
+female,C,0.0,0.0,yes,14,Lebanon,1.786299469174036,397228.34461173706,"Lee, Mr. H.",1st
+male,S,1.0,0.0,no,30,Finland,9.915599469174037,32575.34461173708,"Fleming, Miss. Honor",1st
+female,S,3.0,0.0,yes,30,Finland,9.915599469174037,37634.34461173708,"Farrell, Mr. James",1st
+female,C,2.0,1.0,yes,14,Lebanon,13.795799469174035,344976.34461173706,"Abbing, Mr. Anthony",1st
+female,C,2.0,1.0,yes,14,Lebanon,13.795799469174035,16686.344611737077,"Allen, Mr. Frederick",1st
+female,C,2.0,1.0,yes,14,Lebanon,13.795799469174035,16727.344611737077,"Head, Mr. Christopher",1st
+female,C,0.0,3.0,yes,30,Lebanon,13.795799469174035,382639.34461173706,"Roberts, Mr. Hugh H.",1st
+female,S,0.0,0.0,yes,14,England,2.755599469174035,361808.34461173706,"Abbing, Mr. Anthony",1st
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,361530.34461173706,"Green, Mr. George",1st
+male,S,0.0,0.0,no,14,England,5.845599469174035,15651.344611737077,"Hall, Mr. J.",1st
+male,S,0.0,0.0,no,30,Channel Islands,4.845599469174035,47177.34461173708,"Taylor, Mr. J.",1st
+male,S,0.0,0.0,no,30,Bosnia,1.916699469174036,20674.34461173708,"Abbing, Mr. Anthony",1st
+female,S,0.0,0.0,yes,30,England,7.745599469174037,28945.34461173708,"Lines, Mrs. Elizabeth Lindsey",1st
+male,S,0.0,0.0,no,30,England,4.845599469174035,43169.34461173708,"Drew, Master. Marshall Brines",1st
+female,S,0.0,0.0,yes,30,Hungary,2.8763994691740367,363976.34461173706,"Abbing, Mr. Anthony",1st
+female,C,0.0,1.0,no,14,Lebanon,8.835699469174035,329150.34461173706,"Smith, Mr. F.",1st
+female,C,0.0,1.0,no,46,Lebanon,8.835699469174035,16695.344611737077,"Taylor, Mr. J.",1st
+female,S,0.0,0.0,yes,30,,72.91559946917404,34038.34461173708,"Jones, Mr. Charles Cresson",1st
+male,S,0.0,0.0,yes,46,England,24.74559946917404,127862.34461173706,"Campbell, Mr. Donald S.",1st
+female,Q,0.0,0.0,no,30,Ireland,1.9162994691740352,359840.34461173706,"Butler, Mr. Reginald Fenton",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,16766.344611737077,"Andersen-Jensen, Miss. Carla Christine Nielsine",1st
+female,C,0.0,0.0,yes,30,Italy,70.79659946917404,31635.34461173708,"Williams, Mr. Leslie",1st
+male,S,0.0,0.0,no,46,England,6.846199469174037,42287.34461173708,"Ismay, Mr. Joseph Bruce",1st
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,16381.344611737077,"Abbing, Mr. Anthony",1st
+male,C,0.0,0.0,no,46,United States,19.92619946917404,31628.34461173708,"Rice, Mr. Charles",1st
+male,C,0.0,1.0,no,30,Canada,241.84609946917405,31836.34461173708,"Kerr, Mr. Thomas Russell",1st
+female,C,0.0,1.0,yes,46,Canada,241.84609946917405,124218.34461173706,"Fortune, Mr. Mark",1st
+male,S,1.0,0.0,yes,30,England,20.74559946917404,45093.34461173708,"Smith, Mr. F.",1st
+female,S,1.0,0.0,yes,30,England,20.74559946917404,47661.34461173708,"Curtis, Mr. Arthur",1st
+male,S,0.0,0.0,no,30,Canada,69.78659946917404,127864.34461173706,"Willer, Mr. Aaron",1st
+male,S,0.0,0.0,no,46,England,20.74559946917404,264718.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,14,England,2.755599469174035,17526.344611737077,"Abbing, Mr. Anthony",1st
+male,S,2.0,1.0,yes,14,India,33.745599469174046,262804.34461173706,"Wilson, Miss. Helen Alice",1st
+female,S,2.0,1.0,yes,14,India,33.745599469174046,48717.34461173708,"Gallagher, Mr. Martin",1st
+female,S,2.0,1.0,yes,14,India,33.745599469174046,17151.344611737077,"Abbing, Mr. Anthony",1st
+female,S,0.0,3.0,yes,30,United States,33.745599469174046,264710.34461173706,"Abbing, Mr. Anthony",1st
+male,S,1.0,1.0,yes,30,United States,46.85569946917404,31821.34461173708,"Becker, Master. Richard F.",1st
+female,S,1.0,1.0,yes,46,United States,46.85569946917404,27302.34461173708,"Bourke, Mrs. Catherine",1st
+male,S,0.0,0.0,yes,30,England,7.745599469174037,16974.344611737077,"Connaughton, Mr. Michael",1st
+male,C,0.0,0.0,yes,30,United States,24.74559946917404,31663.34461173708,"Johnson, Mr. August",1st
+male,S,0.0,0.0,no,30,Sweden,1.896199469174036,363296.34461173706,"Andrews, Mr. Thomas",1st
+female,S,0.0,0.0,yes,14,United States,7.745599469174037,250920.34461173703,"Smith, Mr. F.",1st
+male,S,0.0,0.0,no,30,Finland,3.8155994691740354,377357.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,England,7.745599469174037,42286.34461173708,"Abbing, Mr. Anthony",1st
+female,C,0.0,0.0,yes,30,United States,57.81579946917404,27116.34461173708,"Head, Mr. Christopher",1st
+female,C,0.0,0.0,yes,46,,241.846199469174,124479.34461173706,"Gordon, Mr. J.",1st
+male,S,0.0,0.0,yes,30,,50.83669946917404,345025.34461173706,"Ali, Mr. William",1st
+female,S,0.0,0.0,yes,30,England,215.89629946917407,38226.34461173708,"Sullivan, Mr. S.",1st
+male,S,0.0,0.0,no,30,Norway,1.896199469174036,79370.34461173709,"Snyder, Mrs. Nelle",1st
+male,C,0.0,0.0,no,30,,20.74559946917404,124218.34461173706,"Kiernan, Mr. Philip",1st
+male,C,1.0,0.0,yes,30,United States,85.75629946917404,127638.34461173706,"Abbing, Mr. Anthony",1st
+female,C,1.0,0.0,yes,14,United States,85.75629946917404,25833.34461173708,"Lowe, Mr. Harold Godfrey",1st
+male,S,0.0,0.0,no,14,Sweden,1.8955994691740357,62937.34461173708,"Allen, Mr. Frederick",1st
+male,S,0.0,0.0,yes,30,Sweden,20.85559946917404,25837.34461173708,"Casey, Mr. Thomas",1st
+male,S,0.0,0.0,no,46,United States,29.84559946917404,126125.34461173706,"Abbing, Mr. Anthony",1st
+male,C,0.0,0.0,yes,30,United States,25.74559946917404,31674.34461173708,"Connaughton, Mr. Michael",1st
+female,S,0.0,0.0,yes,30,United States,158.91599946917407,127826.34461173706,"Clark, Mr. Walter Miller",1st
+female,S,0.0,0.0,yes,62,England,20.85559946917404,127121.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,46,England,20.85559946917404,31032.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,,1.916699469174036,16753.344611737077,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,United States,7.745599469174037,262793.34461173706,"Edwards, Mr. Charles Essex",1st
+female,Q,0.0,2.0,no,30,Ireland,1.8955994691740357,384226.34461173706,"Ali, Mr. William",1st
+male,Q,1.0,1.0,no,46,Ireland,9.845599469174036,363273.34461173706,"Bonnell, Miss. Elizabeth",1st
+female,Q,1.0,1.0,no,30,Ireland,9.845599469174036,378577.34461173706,"Kelly, Miss. Mary",1st
+female,C,0.0,0.0,yes,46,United States,256.816199469174,127862.34461173706,"Hoyt, Mr. William Fisher",1st
+male,S,0.0,0.0,no,30,Wales,10.765599469174036,329154.34461173706,"Lee, Mr. H.",1st
+male,S,0.0,0.0,no,46,,7.745599469174037,16233.344611737077,"Johansson, Mr. Gustaf Joel",1st
+female,S,0.0,1.0,yes,30,England,49.745599469174046,127839.34461173706,"Hunt, Mr. Tom",1st
+male,S,0.0,0.0,no,30,United States,7.745599469174037,16189.344611737077,"Nasser, Mr. Nicholas",1st
+female,Q,0.0,0.0,yes,30,Ireland,1.886199469174036,21141.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,46,United States,24.845599469174036,127122.34461173706,"Gallagher, Mr. Martin",1st
+female,S,0.0,0.0,no,14,Sweden,1.915699469174036,21143.34461173708,"Abbing, Mr. Anthony",1st
+male,S,,,no,30,England,,244499.34461173703,"Andrews, Mr. Thomas",1st
+male,C,0.0,0.0,no,46,United States,44.83669946917404,127569.34461173706,"Abbing, Mr. Anthony",1st
+male,S,1.0,0.0,no,30,England,1.745599469174035,46368.34461173708,"Uruchurtu, Don. Manuel Ramirez",1st
+male,S,1.0,0.0,no,30,England,1.795599469174037,378582.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,yes,30,United States,20.85559946917404,50994.34461173708,"King, Mr. G.",1st
+male,C,0.0,0.0,no,46,United States,33.86559946917404,27115.34461173708,"Abbing, Mr. Anthony",1st
+male,S,,,no,14,France,,251282.34461173703,"Cameron, Miss. Clear Annie",1st
+male,S,0.0,0.0,no,30,,7.745599469174037,264715.34461173706,"Anderson, Mr. Harry",1st
+male,S,0.0,0.0,no,30,Sweden,1.8966994691740344,384226.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,344010.34461173706,"Taylor, Mr. J.",1st
+female,S,0.0,0.0,yes,14,England,7.745599469174037,38131.34461173708,"Cardeza, Mr. Thomas Drake Martinez",1st
+female,S,0.0,2.0,yes,14,South Africa,33.745599469174046,47178.34461173708,"Farrell, Mr. James",1st
+female,S,2.0,0.0,yes,46,United States,45.83629946917404,125492.34461173706,"Abbing, Mr. Anthony",1st
+female,S,1.0,1.0,yes,30,South Africa,33.745599469174046,247544.34461173703,"Abbing, Mr. Anthony",1st
+female,C,0.0,0.0,yes,46,United States,21.886099469174034,25831.34461173708,"Norris, Mr. James",1st
+male,S,1.0,1.0,no,46,South Africa,33.745599469174046,27600.34461173708,"Andersson, Miss. Erna Alexandra",1st
+female,S,1.0,0.0,yes,14,Sweden,20.74559946917404,28329.34461173708,"Crosby, Captain. Edward Gifford",1st
+male,S,1.0,0.0,no,30,Sweden,20.74559946917404,258318.34461173703,"Abbing, Mr. Anthony",1st
+female,Q,0.0,0.0,no,30,Ireland,1.7963994691740366,3115340.344611737,"Abbing, Mr. Anthony",1st
+male,Q,0.0,0.0,yes,30,Ireland,1.897299469174035,3115361.344611737,"Charters, Mr. David",1st
+female,C,0.0,0.0,yes,46,India,70.79659946917404,31658.34461173708,"Abbing, Mr. Anthony",1st
+male,C,1.0,1.0,no,14,Lebanon,9.786699469174035,51737.34461173708,"Cooper, Mr. Harry",1st
+female,C,1.0,1.0,no,14,Lebanon,9.786699469174035,329152.34461173706,"Louch, Mr. Charles",1st
+female,C,0.0,2.0,no,30,Lebanon,9.786699469174035,15544.344611737077,"Abbing, Mr. Anthony",1st
+male,Q,0.0,0.0,no,14,Ireland,0.8955994691740363,23298.34461173708,"Abbing, Mr. Anthony",1st
+female,C,0.0,0.0,yes,46,,128.84559946917403,25831.34461173708,"Bourke, Miss. Mary",1st
+female,Q,0.0,0.0,no,14,Ireland,1.9162994691740352,362187.34461173706,"Gallagher, Mr. Martin",1st
+female,S,0.0,0.0,yes,30,England,7.745599469174037,40426.34461173708,"Webber, Miss. Susan",1st
+male,S,0.0,0.0,no,30,England,7.745599469174037,42286.34461173708,"Abbing, Mr. Anthony",1st
+male,C,0.0,0.0,no,30,Lebanon,1.786299469174036,364471.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,46,United States,20.85559946917404,34009.34461173708,"Randall, Mr. Frank Henry",1st
+male,S,0.0,0.0,no,46,England,7.745599469174037,262764.34461173706,"Knight, Mr. Robert",1st
+female,S,0.0,0.0,yes,30,United States,7.745599469174037,45484.34461173708,"Farrell, Mr. James",1st
+female,S,0.0,0.0,no,30,Croatia (Modern),2.875899469174035,363309.34461173706,"Becker, Master. Richard F.",1st
+female,S,0.0,0.0,no,30,Croatia (Modern),2.875899469174035,56861.34461173708,"Stewart, Mr. John",1st
+male,S,0.0,0.0,no,14,Croatia (Modern),2.875899469174035,381721.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Croatia (Modern),2.875899469174035,329156.34461173706,"Hodgkinson, Mr. Leonard",1st
+male,S,0.0,0.0,no,30,Scotland,25.74559946917404,31651.34461173708,"Green, Mr. George",1st
+male,S,0.0,0.0,yes,46,United States,20.79649946917404,25879.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,2.0,yes,14,Siam,23.74559946917404,258426.34461173703,"West, Miss. Barbara Joyce",1st
+male,S,1.0,1.0,yes,30,Siam,23.74559946917404,43173.34461173708,"Abbing, Mr. Anthony",1st
+female,S,1.0,1.0,yes,30,United States,23.74559946917404,250918.34461173703,"Burns, Miss. Elizabeth Margaret",1st
+male,S,0.0,0.0,no,14,Croatia (Modern),2.875899469174035,18201.34461173708,"Scott, Mr. Archibald",1st
+male,S,0.0,0.0,no,14,Croatia (Modern),2.875899469174035,21606.34461173708,"Johnson, Mr. August",1st
+female,S,0.0,0.0,yes,30,England,15.745599469174037,42100.34461173708,"Scott, Mr. Archibald",1st
+male,B,0.0,0.0,no,30,Northern Ireland,,16229.344611737077,"Farrell, Mr. James",1st
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,16736.344611737077,"Cohen, Mr. Gurshon",1st
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,16762.344611737077,"Abbing, Mr. Anthony",1st
+female,C,0.0,0.0,yes,46,United States,21.82669946917404,31635.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,363297.34461173706,"Kimball, Mr. Edwin Nelson Jr.",1st
+male,C,1.0,0.0,no,30,Canada,8.835799469174034,16732.344611737077,"Ali, Mr. William",1st
+female,C,1.0,0.0,no,14,Lebanon,8.835799469174034,35240.34461173708,"Long, Mr. Frank",1st
+male,S,0.0,0.0,no,14,England,7.745599469174037,257946.34461173703,"Head, Mr. Christopher",1st
+female,C,0.0,1.0,yes,46,United States,506.806299469174,31824.34461173708,"Head, Mr. Christopher",1st
+male,C,0.0,1.0,yes,30,United States,506.806299469174,31487.34461173708,"Smith, Mr. F.",1st
+male,S,0.0,0.0,no,30,Sweden,1.8966994691740344,363293.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,361120.34461173706,"Becker, Master. Richard F.",1st
+male,S,0.0,0.0,no,30,United States,-0.2544005308259636,127847.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,14,Uruguay,41.76559946917404,31543.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Uruguay,41.76559946917404,126116.34461173706,"Caldwell, Master. Alden Gates",1st
+female,Q,0.0,0.0,no,46,Ireland,1.8955994691740357,363975.34461173706,"Anderson, Mr. Harry",1st
+male,S,1.0,0.0,no,46,England,20.74559946917404,15232.344611737077,"Charters, Mr. David",1st
+male,S,1.0,2.0,yes,14,United States,114.74559946917404,31822.34461173708,"Abbing, Mr. Anthony",1st
+female,S,1.0,2.0,yes,14,United States,114.74559946917404,31822.34461173708,"Andrews, Mr. Thomas",1st
+female,S,1.0,0.0,no,46,England,20.74559946917404,45095.34461173708,"Smith, Miss. Katherine Elizabeth",1st
+female,S,1.0,2.0,yes,30,United States,114.74559946917404,25833.34461173708,"Abbing, Mr. Anthony",1st
+male,S,1.0,2.0,yes,30,United States,114.74559946917404,31651.34461173708,"Guggenheim, Mr. Benjamin",1st
+male,S,0.0,0.0,no,30,England,1.795599469174037,363290.34461173706,"Hall, Mr. J.",1st
+male,S,0.0,0.0,no,46,United States,20.74559946917404,31826.34461173708,"Burton, Mr. Edward John",1st
+female,C,0.0,0.0,yes,30,United States,21.886099469174034,125427.34461173706,"Simpson, Dr. John Edward",1st
+female,S,1.0,0.0,yes,30,United States,72.91559946917404,31519.34461173708,"Goodwin, Miss. Lillian Amy",1st
+male,S,1.0,0.0,no,30,England,72.91559946917404,127576.34461173706,"Becker, Master. Richard F.",1st
+male,S,0.0,0.0,no,30,,2.755599469174035,21600.34461173708,"Abbing, Mr. Anthony",1st
+male,S,1.0,0.0,no,46,United States,55.77619946917404,49339.34461173708,"Wilson, Miss. Helen Alice",1st
+female,S,1.0,0.0,yes,46,United States,55.77619946917404,125494.34461173706,"Buckley, Miss. Katherine",1st
+male,S,1.0,0.0,yes,30,United States,47.76559946917404,31648.34461173708,"Bourke, Mrs. Catherine",1st
+female,S,1.0,0.0,yes,30,United States,47.76559946917404,49347.34461173708,"Corey, Mrs. Mary Emma",1st
+male,S,0.0,0.0,no,46,United States,7.845599469174035,244146.34461173703,"Moody, Mr. James Paul",1st
+male,S,1.0,0.0,no,30,England,20.74559946917404,16069.344611737077,"Abbing, Mr. Anthony",1st
+female,S,1.0,0.0,no,30,England,20.74559946917404,251855.34461173703,"Taylor, Mr. J.",1st
+male,Q,0.0,0.0,no,14,Ireland,1.886399469174036,18067.34461173708,"Hoyt, Mrs. Jane Anne",1st
+female,C,0.0,0.0,yes,30,,256.816199469174,127571.34461173706,"Abbing, Mr. Anthony",1st
+female,S,0.0,0.0,yes,30,England,80.84559946917403,14761.344611737077,"Humphreys, Mr. Humphrey",1st
+male,C,0.0,0.0,yes,46,Belgium,23.88559946917404,50994.34461173708,"Kennedy, Mr. John",1st
+female,S,0.0,1.0,yes,46,England,49.745599469174046,33994.34461173708,"Jackson, Mr. Cecil",1st
+male,S,0.0,0.0,yes,30,,50.83669946917404,16210.344611737077,"Jones, Mr. Thomas William",1st
+male,B,0.0,0.0,no,46,Scotland,,25844.34461173708,"Roth, Miss. Sarah",1st
+male,S,0.0,0.0,no,30,England,2.755599469174035,363298.34461173706,"Robinson, Mrs. Annie",1st
+female,S,1.0,1.0,yes,30,England,24.74559946917404,40426.34461173708,"Louch, Mr. Charles",1st
+female,S,0.0,2.0,yes,46,England,24.74559946917404,26299.34461173708,"Brown, Mrs. Margaret",1st
+male,C,1.0,0.0,no,30,,8.835699469174035,382430.34461173706,"Bourke, Mrs. Catherine",1st
+male,C,1.0,0.0,no,30,,8.835699469174035,17402.344611737077,"Abbing, Mr. Anthony",1st
+male,S,1.0,0.0,no,30,England,20.74559946917404,248426.34461173703,"Brown, Mrs. Margaret",1st
+male,S,,,no,30,England,,262792.34461173706,"Abelson, Mr. Samuel",1st
+female,S,1.0,0.0,yes,30,England,21.74559946917404,47178.34461173708,"Buckley, Mr. Daniel",1st
+female,C,1.0,0.0,yes,30,United States,130.89629946917407,14760.344611737077,"Andrews, Mr. Thomas",1st
+male,C,1.0,0.0,no,30,United States,130.89629946917407,127109.34461173706,"Reynolds, Mr. Harold",1st
+female,S,0.0,0.0,yes,30,England,145.90559946917404,127575.34461173706,"Morgan, Mr. Thomas A.",1st
+male,S,0.0,0.0,no,30,United States,46.745599469174046,31663.34461173708,"Head, Mr. Christopher",1st
+male,S,0.0,0.0,no,14,,1.7555994691740349,361137.34461173706,"Radeff, Mr. Alexander",1st
+male,S,0.0,0.0,yes,14,England,2.755599469174035,344943.34461173706,"Kiernan, Mr. Philip",1st
+male,Q,0.0,0.0,no,30,Ireland,1.795599469174037,16758.344611737077,"Chapman, Mr. Charles Henry",1st
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,28379.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,England,4.845599469174035,249575.34461173703,"Shepherd, Mr. Jonathan",1st
+male,S,0.0,0.0,no,30,Finland,7.745599469174037,43171.34461173708,"Gregory, Mr. David",1st
+male,S,0.0,0.0,yes,30,England,4.845599469174035,29251.34461173708,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Ireland,19.85649946917404,31664.34461173708,"Abbing, Mr. Anthony",1st
+female,S,0.0,2.0,yes,14,England,20.79559946917404,16212.344611737077,"Abbing, Mr. Anthony",1st
+male,S,1.0,1.0,no,30,England,20.79559946917404,48326.34461173708,"Abbing, Mr. Anthony",1st
+female,S,1.0,1.0,yes,30,England,20.79559946917404,225602.34461173703,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,20674.34461173708,"Abbing, Mr. Anthony",1st
+female,C,1.0,1.0,yes,30,United States,77.77579946917403,127580.34461173706,"Quick, Miss. Phyllis May",1st
+male,C,1.0,1.0,no,30,United States,77.77579946917403,27302.34461173708,"Ingram, Mr. George",1st
+female,C,0.0,2.0,yes,62,United States,77.77579946917403,31825.34461173708,"Fortune, Mr. Mark",1st
+male,Q,0.0,0.0,no,30,United States,1.886399469174036,381292.34461173706,"Evans, Miss. Edith Corse",1st
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,16755.344611737077,"Abbing, Mr. Anthony",1st
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,16210.344611737077,"Connaughton, Mr. Michael",1st
+female,Q,0.0,0.0,no,46,Ireland,1.866299469174036,378914.34461173706,"Andrews, Mr. Thomas",1st
+male,Q,0.0,0.0,no,62,Ireland,1.8955994691740357,381292.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,46,,2.755599469174035,35506.34461173708,"Bateman, Revd. Robert James",1st
+female,S,0.0,0.0,yes,30,England,4.845599469174035,43169.34461173708,"Compton, Miss. Sara Rebecca",1st
+female,S,0.0,0.0,no,30,United States,7.745599469174037,251802.34461173703,"Dennis, Mr. Samuel",1st
+female,S,0.0,0.0,no,30,,15.745599469174037,258412.34461173703,"Reed, Mr. James George",1st
+male,S,0.0,0.0,no,30,Croatia (Modern),1.916699469174036,363319.34461173706,"Cribb, Miss. Laura Mae",1st
+male,S,0.0,0.0,no,30,Hungary,1.916699469174036,16716.344611737077,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,14,Hungary,1.916699469174036,388812.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,Poland,2.755599469174035,3115361.344611737,"Sullivan, Mr. S.",1st
+female,S,2.0,0.0,yes,46,United States,19.88659946917404,31831.34461173708,"Savage, Mr. Charles Joseph",1st
+female,Q,0.0,0.0,yes,14,Ireland,1.8955994691740357,348981.34461173706,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,30,England,5.845599469174035,264716.34461173706,"Abbing, Mr. Anthony",1st
+male,S,1.0,1.0,yes,14,England,9.925599469174037,16210.344611737077,"Ward, Mr. Arthur",1st
+male,S,1.0,1.0,yes,14,England,9.925599469174037,3115381.344611737,"Abbing, Mr. Anthony",1st
+female,S,0.0,2.0,yes,30,England,9.925599469174037,363272.34461173706,"Johnson, Mr. August",1st
+male,S,0.0,0.0,no,46,England,1.795599469174037,16725.344611737077,"Casey, Mr. Thomas",1st
+male,S,0.0,0.0,no,46,United States,20.85559946917404,31672.34461173708,"Roth, Miss. Sarah",1st
+male,S,0.0,0.0,no,14,United States,2.7757994691740366,3115331.344611737,"Icard, Miss. Rose Amélie",1st
+female,S,0.0,1.0,yes,14,United States,10.765599469174036,62937.34461173708,"Sadlier, Mr. Matthew",1st
+male,S,0.0,1.0,no,46,Australia,10.765599469174036,16742.344611737077,"Abbing, Mr. Anthony",1st
+male,S,1.0,1.0,no,62,United States,65.74559946917404,31666.34461173708,"Hold, Mr. Stephen",1st
+female,S,0.0,2.0,yes,30,United States,20.85559946917404,27574.34461173708,"Abbing, Mr. Anthony",1st
+female,S,1.0,1.0,yes,62,United States,65.74559946917404,127569.34461173706,"Ismay, Mr. Joseph Bruce",1st
+male,S,0.0,0.0,no,14,Croatia (Modern),2.875899469174035,385176.34461173706,"Anderson, Mr. Harry",1st
+male,C,1.0,0.0,no,30,United States,65.79639946917403,31677.34461173708,"Abbing, Mr. Anthony",1st
+female,C,1.0,0.0,yes,30,Peru,65.79639946917403,47704.34461173708,"Dodge, Dr. Washington",1st
+male,B,0.0,0.0,no,30,Northern Ireland,,,"Adams, Mr. John",1st
+male,C,0.0,0.0,no,30,,1.786299469174036,384434.34461173706,"Abbing, Mr. Anthony",1st
+female,S,0.0,0.0,no,30,Sweden,4.845999469174036,361155.34461173706,"Green, Mr. George",1st
+male,S,0.0,0.0,yes,46,,2.755599469174035,329158.34461173706,"Fortune, Mr. Mark",1st
+male,S,0.0,0.0,no,14,,4.776099469174035,384443.34461173706,"Stone, Mrs. Martha Evelyn",1st
+female,Q,0.0,0.0,yes,30,Ireland,0.9355994691740364,349743.34461173706,"Abbing, Mr. Anthony",1st
+male,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,362191.34461173706,"Scott, Mr. Archibald",1st
+male,S,0.0,0.0,yes,46,England,20.85559946917404,26816.34461173708,"Bailey, Mr. Henry Joseph",1st
+male,S,0.0,2.0,no,14,Sweden,8.825599469174037,361136.34461173706,"Johnson, Mr. August",1st
+male,S,1.0,1.0,no,30,Sweden,8.825599469174037,16734.344611737077,"Sage, Mr. Frederick",1st
+female,S,1.0,1.0,no,30,Sweden,8.825599469174037,381295.34461173706,"Lowe, Mr. Harold Godfrey",1st
+male,S,0.0,0.0,yes,30,United States,24.845599469174036,50994.34461173708,"Abbing, Mr. Anthony",1st
+female,S,0.0,0.0,yes,30,England,145.90559946917404,34009.34461173708,"Caram, Mr. Joseph",1st
+male,S,0.0,0.0,no,30,,1.916699469174036,27098.34461173708,"Abbing, Mr. Anthony",1st
+female,C,1.0,2.0,yes,30,Canada,46.745599469174046,127861.34461173706,"Douglas, Mrs. Mahala",1st
+male,C,1.0,0.0,no,30,Canada,46.745599469174046,31539.34461173708,"Appleton, Mrs. Charlotte",1st
+male,S,1.0,1.0,yes,14,England,30.89559946917404,,"Sadlier, Mr. Matthew",1st
+male,S,2.0,0.0,no,30,England,18.77559946917404,16728.344611737077,"Abbing, Mr. Anthony",1st
+male,S,0.0,0.0,no,14,England,67.84559946917403,,"Chip, Mr. Chang",1st
+male,S,0.0,0.0,no,30,Wales,2.755599469174035,363279.34461173706,"Barton, Mr. David John",1st
+male,S,2.0,0.0,no,30,England,18.77559946917404,338017.34461173706,"Abbing, Mr. Anthony",1st
+male,S,2.0,0.0,no,14,England,2.755599469174035,361148.34461173706,"Abbing, Mr. Anthony",1st
+female,S,0.0,2.0,yes,46,England,30.89559946917404,,"Charters, Mr. David",1st
+female,S,0.0,0.0,yes,30,England,7.745599469174037,,"Potter, Mrs. Lily Alexenia",1st
+female,S,1.0,0.0,yes,30,England,10.765599469174036,357186.34461173706,"Edwards, Mr. Charles Essex",1st
+male,S,1.0,0.0,no,30,England,10.765599469174036,359835.34461173706,"Connaughton, Mr. Michael",1st
+male,S,0.0,0.0,no,14,England,67.84559946917403,,"Abbing, Mr. Anthony",1st
+male,S,1.0,2.0,yes,14,England,14.856199469174038,3115349.344611737,"Abbing, Mr. Anthony",1st
+female,S,1.0,2.0,yes,14,England,14.856199469174038,363289.34461173706,"Keane, Mr. Andrew",1st
+male,S,1.0,2.0,no,30,England,14.856199469174038,359839.34461173706,"Bonnell, Miss. Caroline",1st
+female,S,1.0,2.0,yes,30,England,14.856199469174038,3115372.344611737,"Oliver, Mr. H.",1st
+male,S,0.0,0.0,no,30,Bosnia,1.916699469174036,16737.344611737077,"Jones, Mr. Charles Cresson",1st
+female,C,1.0,0.0,yes,30,Italy,21.886099469174034,,"Abbing, Mr. Anthony",1st
+male,C,1.0,0.0,no,30,Italy,21.886099469174034,,"Farrell, Mr. James",1st
+male,S,1.0,0.0,yes,30,United States,11.825599469174032,14817.344611737077,"Andrews, Mr. Thomas",1st
+female,S,1.0,0.0,yes,30,United States,11.825599469174032,3115357.344611737,"Scott, Mr. Archibald",1st
+male,S,0.0,0.0,yes,30,Belgium,3.845599469174036,379301.34461173706,"Louch, Mr. Charles",2nd
+male,S,0.0,0.0,no,30,Channel Islands,25.845599469174036,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,,1.916699469174036,3115344.344611737,"Kelly, Miss. Mary",2nd
+male,S,0.0,0.0,no,30,England,1.795599469174037,16409.344611737077,"Andersen-Jensen, Miss. Carla Christine Nielsine",2nd
+male,S,0.0,0.0,no,30,England,1.795599469174037,359638.34461173706,"Cook, Mr. Jacob",2nd
+male,S,0.0,0.0,no,14,Belgium,3.845599469174036,44697.34461173708,"Abbing, Mr. Anthony",2nd
+female,Q,0.0,0.0,yes,14,Ireland,1.9162994691740352,345045.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,14,England,67.84559946917403,,"Nilsson, Miss. Berta Olivia",2nd
+male,S,1.0,0.0,yes,30,Canada,51.745599469174046,,"Abbing, Mr. Anthony",2nd
+female,S,1.0,0.0,yes,14,United States,51.745599469174046,,"Hill, Mr. H. P.",2nd
+male,S,0.0,0.0,no,14,Croatia (Modern),1.916699469174036,396718.34461173706,"Lee, Mr. H.",2nd
+male,S,0.0,0.0,no,46,Hungary,2.875899469174035,364473.34461173706,"Desvernine, Mr. Louis Gabriel",2nd
+male,S,0.0,0.0,no,46,,1.916699469174036,3115341.344611737,"Abbing, Mr. Anthony",2nd
+male,S,1.0,1.0,yes,46,United States,75.91579946917403,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,2.0,yes,14,United States,75.91579946917403,,"Wick, Miss. Mary Natalie",2nd
+female,S,1.0,1.0,yes,30,United States,75.91579946917403,,"Farrell, Mr. James",2nd
+female,S,0.0,1.0,yes,14,England,17.74559946917404,,"Davis, Mr. John",2nd
+female,S,0.0,1.0,yes,30,England,17.74559946917404,,"Abbing, Mr. Anthony",2nd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,17660.344611737077,"Nasser, Mr. Nicholas",2nd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,68702.34461173708,"Reeves, Mr. David",2nd
+male,S,0.0,0.0,yes,14,England,2.755599469174035,361154.34461173706,"Abbing, Mr. Anthony",2nd
+male,Q,0.0,0.0,no,30,Ireland,2.8357994691740345,3115374.344611737,"Abbing, Mr. Anthony",2nd
+female,C,1.0,0.0,yes,46,United States,100.82619946917406,,"Lee, Mr. H.",2nd
+female,C,1.0,1.0,yes,30,Canada,241.84609946917405,,"Scott, Mr. Archibald",2nd
+male,C,1.0,0.0,no,46,United States,100.82619946917406,,"Smith, Mr. F.",2nd
+male,S,0.0,0.0,no,46,England,20.74559946917404,,"Taylor, Mr. J.",2nd
+female,S,0.0,0.0,yes,30,United States,6.836199469174037,16745.344611737077,"Bourke, Miss. Mary",2nd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,16739.344611737077,"Snyder, Mrs. Nelle",2nd
+male,C,0.0,0.0,no,30,Croatia (Modern),1.916699469174036,17301.344611737077,"Wright, Miss. Marion",2nd
+male,S,0.0,2.0,yes,14,United States,26.845599469174036,,"Abbing, Mr. Anthony",2nd
+male,S,1.0,1.0,no,46,England,26.845599469174036,,"Allen, Miss. Elisabeth Walton",2nd
+female,S,1.0,1.0,yes,30,United States,26.845599469174036,,"Sirota, Mr. Morris",2nd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,385175.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,0.0,0.0,yes,30,England,2.755599469174035,377357.34461173706,"Abbing, Mr. Anthony",2nd
+female,C,1.0,0.0,yes,46,England,50.92629946917405,,"Compton, Miss. Sara Rebecca",2nd
+male,C,1.0,0.0,yes,46,England,33.86559946917404,,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,no,30,United States,23.88559946917404,,"Keane, Mr. Andrew",2nd
+male,S,0.0,0.0,yes,30,Channel Islands,1.8555994691740365,16726.344611737077,"McCoy, Miss. Agnes",2nd
+female,C,1.0,0.0,yes,30,Spain,7.915799469174034,,"Chaffee, Mrs. Carrie Constance",2nd
+female,C,1.0,0.0,yes,30,Spain,7.915799469174034,,"Abbing, Mr. Anthony",2nd
+male,Q,0.0,0.0,no,62,Ireland,1.8955994691740357,16744.344611737077,"Abbing, Mr. Anthony",2nd
+male,S,1.0,0.0,no,30,United States,7.925599469174037,361134.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,1.0,0.0,yes,30,United States,7.925599469174037,363270.34461173706,"Abbing, Mr. Anthony",2nd
+female,C,0.0,1.0,yes,30,United States,77.77579946917403,,"Jackson, Mr. Cecil",2nd
+male,S,0.0,0.0,no,14,Sweden,1.896199469174036,396718.34461173706,"Andrews, Mr. Thomas",2nd
+male,S,0.0,0.0,no,30,United States,7.745599469174037,,"Wright, Miss. Marion",2nd
+male,S,0.0,0.0,no,14,Sweden,1.896199469174036,377360.34461173706,"Johansson, Mr. Gustaf Joel",2nd
+male,S,0.0,0.0,no,46,Sweden,0.9361994691740354,390629.34461173706,"Frauenthal, Mr. Isaac Gerald",2nd
+male,C,0.0,0.0,no,30,,1.7861994691740364,16693.344611737077,"Daniel, Mr. Robert Williams",2nd
+male,C,1.0,1.0,no,14,Lebanon,1.786299469174036,16381.344611737077,"Abbing, Mr. Anthony",2nd
+male,C,1.0,1.0,no,30,Lebanon,1.786299469174036,18202.34461173708,"Icard, Miss. Rose Amélie",2nd
+male,S,0.0,0.0,no,46,England,1.795599469174037,329219.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,0.0,0.0,yes,14,United States,6.836199469174037,385126.34461173706,"Sharp, Mr. Percival",2nd
+male,S,0.0,0.0,no,30,Sweden,7.745599469174037,,"Abbing, Mr. Anthony",2nd
+female,C,0.0,0.0,yes,30,United States,241.846199469174,,"Canavan, Mr. Patrick",2nd
+male,S,0.0,0.0,no,30,,1.7555994691740349,21612.34461173708,"Andrews, Mr. Thomas",2nd
+female,C,1.0,0.0,yes,46,United States,72.79599946917403,,"Abbing, Mr. Anthony",2nd
+female,C,0.0,0.0,no,30,United States,25.87629946917404,,"Charters, Mr. David",2nd
+male,S,0.0,0.0,no,30,England,9.765599469174036,359564.34461173706,"Goodwin, Miss. Lillian Amy",2nd
+male,S,0.0,0.0,no,14,Norway,7.745599469174037,,"Smith, Mr. F.",2nd
+male,S,0.0,0.0,no,46,England,1.795599469174037,380779.34461173706,"Abbing, Mr. Anthony",2nd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,20629.34461173708,"Long, Mr. Frank",2nd
+male,S,0.0,0.0,no,46,England,215.89629946917407,,"Charters, Mr. David",2nd
+male,S,1.0,0.0,no,30,England,20.74559946917404,,"Bailey, Mr. Percy",2nd
+male,S,0.0,0.0,no,14,England,4.845599469174035,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,yes,30,,1.7555994691740349,3115377.344611737,"Andrews, Mr. Thomas",2nd
+male,S,0.0,0.0,no,14,Sweden,1.8966994691740344,37633.34461173708,"Abbing, Mr. Anthony",2nd
+female,C,0.0,0.0,yes,46,United States,25.87639946917404,,"Charters, Mr. David",2nd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,16409.344611737077,"Simpson, Dr. John Edward",2nd
+female,C,0.0,0.0,yes,46,United States,104.91639946917404,,"Nichols, Mr. Arthur",2nd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,400591.34461173706,"Abbing, Mr. Anthony",2nd
+male,Q,0.0,0.0,no,46,Ireland,0.9355994691740364,400591.34461173706,"Compton, Miss. Sara Rebecca",2nd
+male,S,0.0,0.0,yes,30,Canada,20.79649946917404,,"Silvey, Mrs. Alice Gray",2nd
+male,Q,0.0,0.0,no,14,Ireland,1.9162994691740352,329153.34461173706,"Phillips, Mr. A. George",2nd
+male,Q,0.0,0.0,no,14,Ireland,1.8955994691740357,359839.34461173706,"Farrell, Mr. James",2nd
+male,S,0.0,0.0,yes,30,,50.83669946917404,361536.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,2.0,2.0,no,14,England,28.81619946917404,359831.34461173706,"Burton, Mr. Edward John",2nd
+female,S,2.0,2.0,no,14,England,28.81619946917404,364109.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,England,2.755599469174035,359567.34461173706,"Ali, Mr. William",2nd
+male,S,2.0,2.0,no,14,England,28.81619946917404,17540.344611737077,"Abbing, Mr. Anthony",2nd
+female,S,1.0,3.0,no,46,Scotland,28.81619946917404,35398.34461173708,"Dennis, Mr. Samuel",2nd
+male,S,1.0,3.0,no,14,England,28.81619946917404,376382.34461173706,"Smith, Mr. F.",2nd
+male,S,0.0,0.0,no,30,United States,21.89559946917404,,"Taylor, Mr. J.",2nd
+female,S,3.0,2.0,yes,30,Canada,257.745599469174,,"Johansson, Mr. Gustaf Joel",2nd
+female,S,3.0,2.0,yes,30,Canada,257.745599469174,,"Andersen-Jensen, Miss. Carla Christine Nielsine",2nd
+female,S,3.0,2.0,yes,30,Canada,257.745599469174,,"Farrell, Mr. James",2nd
+male,S,3.0,2.0,no,14,Canada,257.745599469174,,"Ali, Mr. Ahmed",2nd
+male,S,1.0,4.0,no,62,Canada,257.745599469174,,"Abbing, Mr. Anthony",2nd
+female,S,1.0,4.0,yes,46,Canada,257.745599469174,,"Buckley, Mr. Daniel",2nd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,363311.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,United States,7.745599469174037,,"Webber, Miss. Susan",2nd
+female,C,0.0,0.0,yes,30,England,50.92629946917405,,"Gallagher, Mr. Martin",2nd
+male,S,0.0,0.0,no,30,England,20.85559946917404,,"Turner, Mr. George Frederick",2nd
+male,S,2.0,0.0,yes,46,United States,127.87559946917403,,"Scott, Mr. Archibald",2nd
+male,C,1.0,0.0,yes,46,United States,21.886099469174034,,"Cunningham, Mr. Bernard",2nd
+female,S,1.0,0.0,yes,46,United States,127.87559946917403,,"Cribb, Miss. Laura Mae",2nd
+female,C,0.0,2.0,yes,30,Switzerland,43.84559946917405,,"Williams, Mr. Leslie",2nd
+male,C,1.0,1.0,yes,46,Switzerland,73.78559946917404,,"Abbing, Mr. Anthony",2nd
+female,C,1.0,1.0,yes,46,Switzerland,73.78559946917404,,"Abbing, Mr. Anthony",2nd
+male,B,0.0,0.0,no,30,England,,,"Hickman, Mr. Lewis",2nd
+male,S,0.0,0.0,no,30,England,,,"Brown, Mrs. Margaret",2nd
+female,S,0.0,0.0,no,30,India,7.745599469174037,,"Brown, Mrs. Margaret",2nd
+male,S,1.0,0.0,no,30,England,47.76559946917404,,"Abbing, Mr. Anthony",2nd
+female,S,1.0,0.0,yes,30,England,47.76559946917404,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,England,20.74559946917404,,"Pålsson, Master. Paul Folke",2nd
+male,S,1.0,0.0,no,30,England,15.745599469174037,,"Davis, Mr. John",2nd
+male,S,1.0,0.0,no,30,England,15.745599469174037,,"Abbing, Mr. Anthony",2nd
+male,Q,0.0,0.0,no,30,Ireland,1.886599469174035,344990.34461173706,"Scott, Mr. Archibald",2nd
+male,S,0.0,0.0,no,30,England,8.845599469174035,16721.344611737077,"Becker, Master. Richard F.",2nd
+female,S,0.0,0.0,yes,30,England,7.745599469174037,,"Cardeza, Mr. Thomas Drake Martinez",2nd
+male,S,0.0,0.0,no,14,England,20.74559946917404,,"Christy, Miss. Rachel Juli Cohen",2nd
+male,S,0.0,0.0,no,30,Channel Islands,4.845599469174035,,"Adams, Mr. John",2nd
+male,S,0.0,0.0,no,46,England,32.84559946917404,,"Carr, Miss. Jane",2nd
+female,C,0.0,0.0,yes,30,United States,1.786299469174036,329219.34461173706,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,363305.34461173706,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,no,78,Bulgaria,1.916699469174036,16689.344611737077,"Kelly, Miss. Mary",2nd
+female,C,0.0,1.0,yes,30,United States,53.82559946917404,,"Buckley, Miss. Katherine",2nd
+female,C,0.0,1.0,yes,46,United States,53.82559946917404,,"Turner, Mr. George Frederick",2nd
+female,S,0.0,0.0,yes,30,,205.8455994691741,,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,no,30,,73.78559946917404,,"Ryan, Mr. Edward",2nd
+male,S,0.0,0.0,no,46,England,4.845599469174035,,"Head, Mr. Christopher",2nd
+male,S,1.0,0.0,no,14,England,5.845599469174035,,"Cunningham, Mr. Bernard",2nd
+male,S,1.0,0.0,no,30,England,5.845599469174035,,"Ali, Mr. Ahmed",2nd
+male,S,0.0,0.0,no,30,England,7.845599469174035,,"Elias, Mr. Joseph jr.",2nd
+male,S,0.0,0.0,no,30,Wales,2.755599469174035,357161.34461173706,"Guggenheim, Mr. Benjamin",2nd
+male,S,0.0,0.0,no,30,Ireland,7.745599469174037,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Scott, Mr. Archibald",2nd
+female,Q,0.0,0.0,yes,14,Ireland,1.886399469174036,345034.34461173706,"Caram, Mr. Joseph",2nd
+male,S,0.0,0.0,no,30,Argentina,7.745599469174037,,"Bonnell, Miss. Elizabeth",2nd
+female,Q,0.0,0.0,yes,14,Ireland,1.8955994691740357,378925.34461173706,"Andrews, Mr. Thomas",2nd
+male,C,1.0,0.0,yes,46,United States,83.76569946917404,,"Daniels, Miss. Sarah Rebecca",2nd
+female,C,1.0,0.0,yes,30,United States,83.76569946917404,,"Hickman, Mr. Lewis",2nd
+male,C,0.0,0.0,no,62,United States,28.87569946917404,,"Guggenheim, Mr. Benjamin",2nd
+male,S,0.0,2.0,yes,14,England,14.846199469174037,364118.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,1.0,1.0,no,30,England,14.846199469174037,361144.34461173706,"Casey, Mr. Thomas",2nd
+male,S,0.0,0.0,no,46,,1.915599469174035,17602.344611737077,"Fortune, Mr. Mark",2nd
+female,S,1.0,1.0,yes,30,England,14.846199469174037,361140.34461173706,"Smith, Mr. F.",2nd
+male,S,5.0,2.0,no,14,England,40.92559946917404,361138.34461173706,"Fox, Mr. Patrick",2nd
+male,S,5.0,2.0,no,14,England,40.92559946917404,384440.34461173706,"Christy, Miss. Rachel Juli Cohen",2nd
+male,S,5.0,2.0,no,14,England,40.92559946917404,364113.34461173706,"Hill, Mr. H. P.",2nd
+female,S,5.0,2.0,no,14,England,40.92559946917404,16740.344611737077,"Goodwin, Miss. Lillian Amy",2nd
+female,S,5.0,2.0,no,14,England,40.92559946917404,16715.344611737077,"Perry, Mr. Edgar Lionel",2nd
+male,S,5.0,2.0,no,14,England,40.92559946917404,16217.344611737077,"Abbing, Mr. Anthony",2nd
+male,S,1.0,6.0,no,46,England,40.92559946917404,18645.34461173708,"Connaughton, Mr. Michael",2nd
+female,S,1.0,6.0,no,46,England,40.92559946917404,3115381.344611737,"Campbell, Mr. Donald S.",2nd
+male,S,0.0,0.0,yes,46,United States,22.845599469174036,,"Fortune, Mr. Mark",2nd
+female,S,0.0,0.0,yes,14,England,147.83589946917405,,"Clarke, Mr. Charles Valentine",2nd
+male,S,0.0,1.0,no,30,Canada,24.74559946917404,,"Futrelle, Mrs. Lily May",2nd
+female,S,0.0,1.0,yes,46,England,147.83589946917405,,"Dwan, Mr. Frank",2nd
+male,S,0.0,0.0,no,46,South Africa,7.745599469174037,,"Allison, Mr. Hudson Joshua Creighton",2nd
+female,C,0.0,1.0,yes,46,United States,57.81579946917404,,"Abbing, Mr. Anthony",2nd
+male,C,0.0,1.0,yes,30,United States,57.81579946917404,,"Abbing, Mr. Anthony",2nd
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,46,England,2.755599469174035,361147.34461173706,"Goodwin, Miss. Lillian Amy",2nd
+male,S,0.0,0.0,no,30,Norway,2.807099469174036,373372.34461173706,"Murphy, Miss. Catherine",2nd
+male,S,0.0,0.0,no,30,England,2.755599469174035,16747.344611737077,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,no,46,France,73.78559946917404,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,14,Finland,3.9066994691740335,364092.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,2.0,0.0,no,30,Finland,1.9261994691740352,16883.344611737077,"Connaughton, Mr. Michael",2nd
+male,S,2.0,0.0,no,30,Finland,1.9261994691740352,16409.344611737077,"Hoyt, Mr. William Fisher",2nd
+male,S,0.0,0.0,no,14,Sweden,1.896199469174036,363281.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,0.0,0.0,no,30,Switzerland,2.915599469174035,16210.344611737077,"Snow, Mr. Eustace Philip",2nd
+male,S,1.0,0.0,no,30,Norway,0.9359994691740364,361157.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,1.0,0.0,no,14,Norway,0.9359994691740364,396718.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,1.0,0.0,no,30,Finland,9.915599469174037,16761.344611737077,"Hill, Mr. H. P.",2nd
+female,S,1.0,0.0,yes,30,Finland,9.915599469174037,361151.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Adams, Mr. John",2nd
+male,S,1.0,1.0,yes,14,United States,8.845599469174035,,"Scott, Mr. Archibald",2nd
+female,S,0.0,2.0,yes,30,United States,8.845599469174035,,"Buckley, Mr. Daniel",2nd
+male,S,0.0,0.0,no,14,Belgium,3.845599469174036,16743.344611737077,"Abbing, Mr. Anthony",2nd
+male,C,0.0,0.0,yes,30,Lebanon,1.786299469174036,361127.34461173706,"West, Miss. Barbara Joyce",2nd
+male,C,0.0,0.0,no,14,Lebanon,1.7861994691740364,382468.34461173706,"Partner, Mr. Austin",2nd
+male,C,0.0,0.0,no,30,Lebanon,1.786299469174036,337658.34461173706,"Rice, Master. Eric",2nd
+male,S,2.0,0.0,no,46,United States,8.765799469174036,3115329.344611737,"Rice, Master. Eric",2nd
+male,S,1.0,0.0,no,30,Denmark,1.915699469174036,361808.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,Denmark,1.915699469174036,329163.34461173706,"Cardeza, Mr. Thomas Drake Martinez",2nd
+female,S,1.0,0.0,yes,46,United States,8.765799469174036,378924.34461173706,"Brown, Mrs. Margaret",2nd
+male,S,0.0,0.0,no,46,United States,7.745599469174037,,"Barbara, Miss. Saiide",2nd
+male,C,1.0,0.0,yes,30,United States,49.82659946917404,,"Charters, Mr. David",2nd
+female,C,1.0,0.0,yes,30,United States,49.82659946917404,,"Abbing, Mr. Anthony",2nd
+female,Q,0.0,0.0,no,14,Ireland,1.886399469174036,16882.344611737077,"Mitchell, Mr. Henry Michael",2nd
+female,S,0.0,0.0,no,30,England,1.8555994691740365,377357.34461173706,"Abbing, Mr. Anthony",2nd
+female,S,0.0,1.0,yes,14,Scotland,27.74559946917404,,"Keane, Mr. Andrew",2nd
+male,C,1.0,0.0,yes,46,United States,70.88629946917403,,"Lee, Mr. H.",2nd
+female,C,1.0,0.0,yes,46,United States,70.88629946917403,,"Ross, Mr. John Hugo",2nd
+male,S,0.0,1.0,no,30,Scotland,27.74559946917404,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,30,England,36.82559946917404,,"Shepherd, Mr. Jonathan",2nd
+male,S,0.0,0.0,yes,62,England,4.845599469174035,,"Blank, Mr. Henry",2nd
+male,S,1.0,0.0,no,46,United States,77.83619946917403,,"Bourke, Miss. Mary",2nd
+female,S,1.0,0.0,yes,30,United States,77.83619946917403,,"Schmidt, Mr. Augustus",2nd
+male,S,0.0,0.0,no,46,England,4.845599469174035,,"Brown, Mrs. Margaret",2nd
+male,S,0.0,0.0,no,46,England,,,"Abbing, Mr. Anthony",2nd
+male,S,,,no,30,England,,,"Rice, Master. Eric",2nd
+female,S,0.0,2.0,yes,14,England,20.79559946917404,,"Desvernine, Mr. Louis Gabriel",2nd
+male,S,1.0,1.0,no,46,England,20.79559946917404,,"Kink, Miss. Maria",2nd
+male,Q,0.0,0.0,no,30,Ireland,0.9157994691740364,15921.344611737077,"Collett, Mr. Sidney Clarence Stuart",2nd
+female,S,1.0,1.0,yes,46,England,20.79559946917404,,"Taylor, Mr. J.",2nd
+male,C,0.0,0.0,yes,30,Egypt,70.88629946917403,,"Cox, Mr. William Denton",2nd
+male,S,0.0,0.0,yes,46,England,24.74559946917404,,"Smith, Mr. F.",2nd
+female,C,0.0,0.0,yes,30,United States,77.77579946917403,,"Farrell, Mr. James",2nd
+male,S,1.0,1.0,no,46,Canada,87.84559946917403,,"Smith, Mr. F.",2nd
+female,S,1.0,1.0,yes,46,Canada,87.84559946917403,,"Beane, Mr. Edward",2nd
+male,S,0.0,0.0,no,46,England,36.84559946917405,,"Blank, Mr. Henry",2nd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,17530.344611737077,"Cook, Mr. Jacob",2nd
+male,S,0.0,0.0,yes,30,Sweden,0.9361994691740354,363302.34461173706,"Cardeza, Mr. Thomas Drake Martinez",2nd
+male,S,0.0,0.0,yes,30,,50.83669946917404,329217.34461173706,"Abbing, Mr. Anthony",2nd
+female,Q,0.0,0.0,no,14,Ireland,0.8955994691740363,386688.34461173706,"Long, Mr. Frank",2nd
+female,S,0.0,0.0,yes,14,Finland,1.9261994691740352,3115371.344611737,"Laitinen, Miss. Kristina Sofia",2nd
+female,S,0.0,0.0,no,30,Finland,1.9261994691740352,357342.34461173706,"Phillips, Mr. A. George",2nd
+female,S,0.0,0.0,yes,30,Sweden,2.935899469174036,16756.344611737077,"Holland, Mr. Thomas",2nd
+male,S,0.0,0.0,no,30,Hungary,1.916699469174036,406142.34461173706,"Smith, Mr. F.",2nd
+female,S,0.0,0.0,no,30,Sweden,1.896199469174036,363317.34461173706,"Goodwin, Miss. Lillian Amy",2nd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,3115373.344611737,"Abbing, Mr. Anthony",2nd
+female,S,1.0,2.0,yes,30,England,59.745599469174046,,"Abbing, Mr. Anthony",2nd
+female,S,1.0,2.0,yes,30,England,59.745599469174046,,"Webber, Miss. Susan",2nd
+male,S,1.0,2.0,no,46,England,59.745599469174046,,"Charters, Mr. David",2nd
+female,S,1.0,2.0,yes,46,India,59.745599469174046,,"Farrell, Mr. James",2nd
+female,S,0.0,0.0,yes,46,India,10.745599469174037,,"Knight, Mr. Robert",2nd
+male,S,2.0,0.0,no,30,England,67.84559946917403,,"Abbing, Mr. Anthony",2nd
+male,S,2.0,0.0,no,30,England,67.84559946917403,,"Rogers, Mr. Michael",2nd
+male,S,2.0,0.0,no,30,England,67.84559946917403,,"Bedford, Mr. William Barnett",2nd
+male,S,0.0,0.0,no,46,England,45.91589946917404,,"Hardy, Mr. John",2nd
+female,S,1.0,1.0,no,14,Finland,7.745599469174037,,"Canavan, Mr. Patrick",2nd
+male,S,0.0,0.0,no,46,England,44.745599469174046,,"Becker, Master. Richard F.",2nd
+female,C,0.0,1.0,yes,14,United States,51.93629946917404,,"Boyd, Mr. John",2nd
+female,C,0.0,1.0,yes,46,United States,51.93629946917404,,"Lee, Mr. H.",2nd
+female,S,0.0,1.0,yes,14,Finland,6.796499469174036,16409.344611737077,"Charters, Mr. David",2nd
+female,S,1.0,1.0,yes,30,Finland,6.796499469174036,16739.344611737077,"Williams, Mr. Leslie",2nd
+female,S,2.0,1.0,yes,14,England,17.74559946917404,,"Jackson, Mr. Cecil",2nd
+male,S,2.0,1.0,no,30,England,5.845599469174035,,"Andrews, Mr. Thomas",2nd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Bourke, Miss. Mary",2nd
+female,S,1.0,3.0,yes,46,England,17.74559946917404,,"King, Mr. G.",2nd
+male,S,0.0,0.0,no,46,England,7.745599469174037,,"Andersen-Jensen, Miss. Carla Christine Nielsine",2nd
+female,C,1.0,0.0,yes,46,United States,71.93579946917404,,"Drew, Master. Marshall Brines",2nd
+female,S,1.0,0.0,yes,30,England,20.74559946917404,,"Smith, Mr. F.",2nd
+male,S,1.0,0.0,no,46,England,20.74559946917404,,"Roth, Miss. Sarah",2nd
+male,S,0.0,0.0,no,46,Sweden,0.8355994691740354,16760.344611737077,"Campbell, Mr. Donald S.",2nd
+male,S,0.0,0.0,no,14,Norway,16.84619946917404,329155.34461173706,"Abbing, Mr. Anthony",2nd
+male,S,1.0,0.0,no,46,United States,46.745599469174046,,"Smith, Mr. F.",2nd
+female,S,1.0,0.0,yes,30,United States,46.745599469174046,,"Haas, Miss. Aloisia",2nd
+male,S,0.0,0.0,yes,30,United States,20.85559946917404,,"Abbing, Mr. Anthony",2nd
+female,S,0.0,0.0,yes,30,Finland,1.9261994691740352,361154.34461173706,"Richards, Mrs. Emily",2nd
+male,S,0.0,0.0,no,30,England,67.84559946917403,,"Lang, Mr. Fang",2nd
+male,Q,0.0,0.0,no,30,,1.8955994691740357,16694.344611737077,"Smart, Mr. John Montgomery",2nd
+male,S,0.0,0.0,yes,46,Japan,7.745599469174037,,"Fortune, Mr. Mark",2nd
+female,S,0.0,0.0,yes,30,England,2.755599469174035,327057.34461173706,"Johnson, Mr. August",2nd
+male,S,1.0,0.0,no,62,England,20.74559946917404,,"Connaughton, Mr. Michael",2nd
+female,S,1.0,0.0,no,62,England,20.74559946917404,,"Keane, Mr. Andrew",2nd
+male,S,1.0,0.0,yes,30,United States,94.74559946917404,,"Becker, Master. Richard F.",2nd
+female,S,1.0,0.0,yes,30,United States,94.74559946917404,,"Anderson, Mr. James",2nd
+male,C,0.0,0.0,no,46,United States,24.876699469174035,,"Andersson, Miss. Ellis Anna Maria",2nd
+male,S,0.0,0.0,no,46,Norway,1.875599469174036,18414.34461173708,"Lyons, Mr. William Henry",2nd
+male,S,,,no,30,,,,"Ali, Mr. William",2nd
+male,S,0.0,0.0,no,30,England,6.796199469174034,,"Partner, Mr. Austin",2nd
+male,S,0.0,0.0,yes,30,England,1.916499469174035,359829.34461173706,"Porter, Mr. Walter Chamberlain",2nd
+male,C,0.0,0.0,no,14,,12.896499469174035,361808.34461173706,"Abbing, Mr. Anthony",2nd
+female,C,0.0,0.0,yes,14,Syria,1.786299469174036,16764.344611737077,"Ali, Mr. William",2nd
+male,C,0.0,0.0,no,30,Lebanon,8.835799469174034,355892.34461173706,"Adams, Mr. John",2nd
+female,S,0.0,0.0,yes,30,,74.74559946917404,,"Sullivan, Mr. S.",2nd
+female,S,0.0,0.0,yes,14,Channel Islands,4.845599469174035,,"Peters, Miss. Catherine",2nd
+male,S,0.0,0.0,no,30,,1.916699469174036,363314.34461173706,"Robinson, Mrs. Annie",2nd
+female,S,1.0,0.0,no,14,United States,1.9261994691740352,3115344.344611737,"Desvernine, Mr. Louis Gabriel",2nd
+female,S,1.0,0.0,no,30,Finland,1.9261994691740352,16409.344611737077,"Abbing, Mr. Anthony",2nd
+female,C,0.0,0.0,no,46,United States,22.885899469174035,,"Sloan, Mr. Peter",2nd
+male,S,0.0,0.0,yes,46,England,,,"Williams, Mr. Leslie",2nd
+male,S,0.0,0.0,no,14,Bulgaria,1.916699469174036,384441.34461173706,"Aks, Mrs. Leah",2nd
+female,C,1.0,0.0,no,14,,8.835699469174035,363282.34461173706,"Richards, Mrs. Emily",2nd
+female,C,1.0,0.0,no,14,,8.835699469174035,16210.344611737077,"Campbell, Mr. Donald S.",2nd
+female,S,2.0,1.0,yes,30,England,21.74559946917404,,"Lee, Mr. H.",2nd
+male,S,1.0,0.0,no,46,South Africa,21.74559946917404,,"Rice, Master. Albert",2nd
+male,C,0.0,0.0,yes,30,Croatia (Modern),1.916699469174036,49917.34461173708,"Bell, Mr. Joseph",2nd
+male,S,0.0,0.0,yes,30,Sweden,1.8966994691740344,18204.34461173708,"Reed, Mr. James George",2nd
+male,S,0.0,0.0,no,30,,1.7555994691740349,406149.34461173706,"Kelly, Miss. Mary",2nd
+male,S,0.0,0.0,no,46,Wales,9.745599469174037,,"Lyons, Mr. William Henry",2nd
+male,S,2.0,0.0,no,30,England,25.845599469174036,,"Abbing, Mr. Anthony",2nd
+male,S,2.0,0.0,no,30,England,25.845599469174036,,"Allen, Mr. Frederick",2nd
+male,S,0.0,0.0,no,30,England,4.845599469174035,,"Abbing, Mr. Anthony",2nd
+male,S,0.0,0.0,no,14,Denmark,1.915699469174036,372651.34461173706,"Cardeza, Mr. Thomas Drake Martinez",2nd
+male,S,0.0,0.0,no,46,Denmark,1.7556994691740364,16693.344611737077,"Williams, Mr. Leslie",2nd
+male,S,1.0,0.0,no,14,Denmark,1.915699469174036,24548.34461173708,"Ross, Mr. John Hugo",2nd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,396718.34461173706,"Wilson, Miss. Helen Alice",2nd
+female,C,0.0,0.0,yes,30,United States,7.896599469174037,,"Andrews, Mr. Thomas",2nd
+male,S,0.0,0.0,yes,30,Norway,2.7658994691740366,22537.34461173708,"Moore, Mr. John J.",2nd
+male,S,0.0,0.0,no,30,Finland,0.8366994691740355,363268.34461173706,"Charters, Mr. David",2nd
+male,S,0.0,0.0,no,30,Sweden,1.8966994691740344,3115361.344611737,"Lam, Mr. Ali",3rd
+male,S,0.0,0.0,no,30,Sweden,2.875699469174036,16751.344611737077,"Abelson, Mrs. Hannah",3rd
+male,S,0.0,0.0,no,30,United States,1.896199469174036,3115363.344611737,"Ryan, Mr. Edward",3rd
+male,S,0.0,0.0,no,30,United States,1.915699469174036,378572.34461173706,"Gordon, Mr. J.",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.896199469174036,361148.34461173706,"Burton, Mr. Edward John",3rd
+male,S,1.0,1.0,yes,14,,5.766399469174035,397187.34461173706,"Canavan, Mr. Patrick",3rd
+female,S,1.0,1.0,yes,14,,5.766399469174035,16381.344611737077,"Cooper, Mr. Harry",3rd
+male,S,,,no,46,United States,,53952.34461173708,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,United States,1.896199469174036,363295.34461173706,"Abbing, Mr. Anthony",3rd
+female,S,0.0,2.0,yes,30,,5.766399469174035,16750.344611737077,"Brown, Mrs. Margaret",3rd
+male,S,0.0,0.0,no,14,United States,,381292.34461173706,"Lee, Mr. H.",3rd
+male,S,1.0,2.0,no,14,England,17.835599469174035,361535.34461173706,"Nourney, Mr. Alfred",3rd
+female,S,1.0,2.0,no,14,England,17.835599469174035,16717.344611737077,"Abbing, Mr. Anthony",3rd
+male,S,1.0,2.0,no,30,Scotland,17.835599469174035,363276.34461173706,"Kelly, Miss. Mary",3rd
+female,S,1.0,2.0,no,30,Scotland,17.835599469174035,378916.34461173706,"Taylor, Mr. J.",3rd
+male,S,0.0,0.0,no,46,United States,20.74559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,16738.344611737077,"Brailey, Mr. William Theodore Ronald",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.915699469174036,23615.34461173708,"Brown, Mrs. Margaret",3rd
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,363303.34461173706,"Abbing, Mr. Anthony",3rd
+male,C,0.0,2.0,no,30,Lebanon,1.786299469174036,16210.344611737077,"Casey, Mr. Thomas",3rd
+male,S,0.0,0.0,no,46,England,20.74559946917404,,"Webb, Mr. Brook Holding",3rd
+female,S,1.0,0.0,no,14,Finland,3.9065994691740342,19613.34461173708,"Knight, Mr. Robert",3rd
+female,S,1.0,0.0,no,30,Finland,3.9065994691740342,17403.344611737077,"Kelly, Miss. Mary",3rd
+male,S,0.0,0.0,yes,30,Finland,1.9261994691740352,329148.34461173706,"McCaffry, Mr. Thomas Francis",3rd
+male,S,0.0,0.0,no,14,Finland,1.766199469174035,377677.34461173706,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Norway,2.826399469174035,357337.34461173706,"Louch, Mr. Charles",3rd
+male,S,1.0,0.0,no,30,Russia,20.74559946917404,,"Bonnell, Miss. Elizabeth",3rd
+female,S,1.0,0.0,yes,30,Russia,20.74559946917404,,"Hold, Mr. Stephen",3rd
+male,S,0.0,0.0,no,30,Hungary,1.916699469174036,344989.34461173706,"Small, Mr. William",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.8966994691740344,363278.34461173706,"Walker, Mr. William Anderson",3rd
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,35237.34461173708,"Morrow, Mr. Thomas Rowan",3rd
+male,S,0.0,0.0,no,30,Sweden,1.8460994691740356,363320.34461173706,"Canavan, Mr. Patrick",3rd
+female,S,0.0,0.0,no,30,United States,15.745599469174037,,"Cardeza, Mr. Thomas Drake Martinez",3rd
+female,C,0.0,1.0,yes,14,Slovenia,7.825999469174034,16732.344611737077,"Wilson, Miss. Helen Alice",3rd
+male,C,0.0,1.0,yes,30,United States,7.825999469174034,363267.34461173706,"Gallagher, Mr. Martin",3rd
+male,C,0.0,0.0,no,14,Greece,1.786299469174036,329164.34461173706,"Goodwin, Miss. Lillian Amy",3rd
+female,Q,0.0,0.0,yes,46,Ireland,6.815599469174035,,"Rice, Master. Eric",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,361533.34461173706,"Hold, Mr. Stephen",3rd
+male,Q,0.0,0.0,no,30,Ireland,6.815599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,United States,1.795599469174037,17968.344611737077,"Sloan, Miss. Mary",3rd
+male,S,0.0,0.0,no,30,England,205.8455994691741,,"Brown, Mrs. Margaret",3rd
+female,Q,0.0,0.0,yes,14,Ireland,1.8955994691740357,363975.34461173706,"Campbell, Mr. Donald S.",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,344997.34461173706,"Douglas, Mrs. Mahala",3rd
+male,S,0.0,0.0,no,14,Scotland,2.755599469174035,361133.34461173706,"Cornblatt, Mr. Harris",3rd
+male,Q,0.0,0.0,no,46,Ireland,1.9062994691740356,385176.34461173706,"Abbing, Mr. Anthony",3rd
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,46,England,7.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,349163.34461173706,"Smith, Mr. F.",3rd
+male,C,0.0,0.0,no,46,United States,23.88559946917404,,"Connaughton, Mr. Michael",3rd
+male,S,1.0,0.0,no,46,United States,45.91589946917404,,"Abbing, Mr. Anthony",3rd
+female,S,1.0,0.0,yes,30,United States,45.91589946917404,,"Abbing, Mr. Anthony",3rd
+male,C,1.0,0.0,no,30,Lebanon,8.835699469174035,329160.34461173706,"Matthews, Mr. William John",3rd
+female,C,1.0,0.0,no,14,Lebanon,8.835699469174035,3115383.344611737,"Farrell, Mr. James",3rd
+male,Q,1.0,0.0,no,30,Ireland,1.8955994691740357,3115353.344611737,"Black, Mr. D.",3rd
+male,Q,1.0,0.0,no,30,Ireland,1.8955994691740357,16210.344611737077,"Abbing, Mr. Anthony",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8864994691740355,396716.34461173706,"Franklin, Mr. Alan Vincent",3rd
+male,S,1.0,0.0,yes,46,United States,46.85569946917404,,"Connaughton, Mr. Michael",3rd
+female,S,1.0,0.0,yes,46,United States,46.85569946917404,,"Kink, Miss. Maria",3rd
+female,S,0.0,2.0,yes,14,Switzerland,16.74559946917404,3115347.344611737,"Futrelle, Mr. Jacques Heath",3rd
+female,S,1.0,1.0,yes,30,Switzerland,16.74559946917404,20674.34461173708,"Abbing, Mr. Anthony",3rd
+female,S,2.0,0.0,no,30,Switzerland,2.875899469174035,329159.34461173706,"Gregory, Mr. David",3rd
+male,S,3.0,1.0,yes,30,Switzerland,16.74559946917404,50634.34461173708,"Andrews, Mr. Thomas",3rd
+male,S,2.0,0.0,no,30,Switzerland,2.875899469174035,16716.344611737077,"Adams, Mr. John",3rd
+male,Q,0.0,0.0,no,46,United States,6.815599469174035,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,no,46,United States,20.85559946917404,,"Connaughton, Mr. Michael",3rd
+female,S,1.0,1.0,no,14,Sweden,6.776399469174034,16409.344611737077,"Moore, Mr. John J.",3rd
+male,S,1.0,1.0,no,14,Sweden,1.915699469174036,16697.344611737077,"Johnson, Mr. August",3rd
+female,S,0.0,2.0,no,30,Sweden,6.776399469174034,18199.34461173708,"Brown, Mrs. Margaret",3rd
+male,B,0.0,0.0,no,46,Northern Ireland,,,"Morgan, Mr. Thomas A.",3rd
+male,C,0.0,0.0,no,78,Bulgaria,1.916699469174036,378565.34461173706,"Ward, Mr. Arthur",3rd
+male,C,0.0,0.0,yes,30,Turkey,1.786299469174036,388976.34461173706,"Buckley, Mr. Daniel",3rd
+female,S,0.0,0.0,yes,30,,205.80649946917404,,"Abbing, Mr. Anthony",3rd
+male,S,,,no,30,England,,,"Knight, Mr. Robert",3rd
+male,S,0.0,0.0,no,30,Scotland,1.8555994691740365,3115343.344611737,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Sweden,4.845599469174035,,"Ali, Mr. William",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,50931.34461173708,"Abbing, Mr. Anthony",3rd
+male,S,1.0,1.0,no,30,United States,20.74559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,1.0,1.0,no,30,United States,20.74559946917404,,"Andrews, Mr. Thomas",3rd
+female,S,0.0,0.0,no,30,Finland,3.856499469174036,20673.34461173708,"McCarthy, Mr. Timothy J.",3rd
+male,Q,0.0,0.0,no,30,Ireland,4.885799469174035,,"Schmidt, Mr. Augustus",3rd
+male,S,0.0,0.0,yes,30,China/Hong Kong,50.83669946917404,21618.34461173708,"Campbell, Mr. Donald S.",3rd
+male,S,0.0,0.0,no,30,,50.83669946917404,15667.344611737077,"Adams, Mr. John",3rd
+female,S,0.0,0.0,yes,30,Sweden,1.795599469174037,16707.344611737077,"Abbing, Mr. Anthony",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.8955994691740357,50634.34461173708,"Parker, Mr. Clifford Richard",3rd
+male,S,0.0,0.0,yes,30,,50.83669946917404,3115356.344611737,"Bonnell, Miss. Elizabeth",3rd
+female,C,1.0,2.0,yes,14,France,35.85629946917405,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,2.0,yes,14,France,35.85629946917405,,"Connaughton, Mr. Michael",3rd
+male,C,1.0,2.0,no,30,France,35.85629946917405,,"Isham, Miss. Ann Elizabeth",3rd
+female,C,1.0,2.0,yes,30,France,35.85629946917405,,"McCarthy, Mr. Timothy J.",3rd
+male,S,0.0,0.0,no,30,United States,3.836399469174035,359430.34461173706,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Sweden,1.896199469174036,363316.34461173706,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Sweden,1.896199469174036,384435.34461173706,"Parker, Mr. Clifford Richard",3rd
+female,S,0.0,0.0,yes,46,United States,19.926299469174037,,"Abbing, Mr. Anthony",3rd
+male,S,3.0,1.0,no,14,,19.835999469174038,363312.34461173706,"Abbing, Mr. Anthony",3rd
+female,S,3.0,1.0,no,14,,19.835999469174038,345037.34461173706,"Williams, Mr. Leslie",3rd
+female,S,3.0,1.0,no,14,,19.835999469174038,398527.34461173706,"Abbing, Mr. Anthony",3rd
+female,S,3.0,1.0,no,14,,19.835999469174038,21600.34461173708,"Guggenheim, Mr. Benjamin",3rd
+female,S,0.0,4.0,no,30,,19.835999469174038,3115338.344611737,"Connaughton, Mr. Michael",3rd
+female,C,0.0,0.0,yes,14,Switzerland,6.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Finland,1.9261994691740352,364091.34461173706,"Sadlier, Mr. Matthew",3rd
+female,S,0.0,0.0,yes,30,Scotland,27.74559946917404,,"Connaughton, Mr. Michael",3rd
+female,S,0.0,0.0,yes,30,England,4.845599469174035,,"Allen, Mr. William Henry",3rd
+female,Q,1.0,0.0,no,14,Ireland,9.845599469174036,,"Williams, Mr. Leslie",3rd
+male,Q,1.0,0.0,no,14,Ireland,9.845599469174036,,"Radeff, Mr. Alexander",3rd
+female,C,0.0,0.0,yes,30,France,100.82619946917406,,"Farrell, Mr. James",3rd
+male,S,0.0,0.0,no,46,England,18.77559946917404,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,yes,30,,506.806299469174,,"Andrews, Mr. Thomas",3rd
+male,S,0.0,0.0,no,30,Canada,6.916199469174035,,"Shannon, Mr. Andrew John",3rd
+male,C,0.0,0.0,no,30,United States,21.886099469174034,,"Minahan, Miss. Daisy E.",3rd
+male,S,0.0,0.0,no,30,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,no,30,Sweden,1.896199469174036,,"Jones, Mr. Charles Cresson",3rd
+female,S,0.0,0.0,no,46,England,1.8955994691740357,,"Scott, Mr. Archibald",3rd
+male,S,0.0,0.0,no,46,Sweden,20.85559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,30,Sweden,9.855599469174036,,"Lyons, Mr. William Henry",3rd
+female,S,1.0,0.0,no,30,Sweden,9.855599469174036,,"Carr, Miss. Jane",3rd
+male,S,1.0,0.0,yes,14,Finland,1.9261994691740352,,"Veström, Miss. Hulda Amanda Adolfina",3rd
+female,C,0.0,0.0,yes,46,Sweden,21.886099469174034,,"Elliott, Mr. Everett Edward",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.9162994691740352,,"Charters, Mr. David",3rd
+female,C,0.0,1.0,yes,14,France,33.82559946917404,,"Brown, Mrs. Margaret",3rd
+female,C,0.0,1.0,yes,46,United States,33.82559946917404,,"Dodge, Dr. Washington",3rd
+male,Q,0.0,0.0,no,62,Ireland,6.815599469174035,,"Phillips, Mr. A. George",3rd
+male,S,0.0,0.0,no,30,,50.83669946917404,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,30,Austria,3.845599469174036,,"Farrell, Mr. James",3rd
+male,S,0.0,0.0,no,30,Latvia,1.795599469174037,,"Carter, Mrs. Lilian",3rd
+female,S,1.0,0.0,no,30,England,10.765599469174036,,"McIntyre, Mr. William",3rd
+male,S,1.0,0.0,no,30,England,10.765599469174036,,"Bowen, Miss. Grace Scott",3rd
+male,S,0.0,0.0,no,14,England,1.9162994691740352,,"Brown, Mrs. Margaret",3rd
+female,C,0.0,0.0,yes,30,United States,71.93579946917404,,"Silverthorne, Mr. Spencer Victor",3rd
+male,S,0.0,0.0,no,30,United States,24.74559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,United States,39.84559946917405,,"Hartley, Mr. Wallace Henry",3rd
+male,S,1.0,0.0,no,46,England,20.74559946917404,,"Moore, Mr. John J.",3rd
+female,S,1.0,0.0,yes,46,England,20.74559946917404,,"Johnson, Mr. August",3rd
+male,S,0.0,0.0,no,14,England,1.795599469174037,,"Taylor, Mr. J.",3rd
+male,S,0.0,0.0,yes,30,Croatia (Modern),2.875899469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,Sweden,1.7556994691740364,,"Charters, Mr. David",3rd
+female,S,0.0,0.0,yes,30,United States,1.915699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.8562994691740349,,"Abbing, Mr. Anthony",3rd
+female,C,0.0,0.0,yes,46,France,140.84609946917405,,"Lee, Mr. H.",3rd
+male,C,0.0,0.0,no,30,Greece,0.8264994691740353,,"Dodge, Dr. Washington",3rd
+male,S,0.0,0.0,no,46,,1.916699469174036,,"Charters, Mr. David",3rd
+male,S,0.0,0.0,no,14,Scotland,1.8555994691740365,,"Webber, Miss. Susan",3rd
+female,S,0.0,0.0,no,46,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,,"Brady, Mr. John Bertram",3rd
+female,S,0.0,1.0,yes,14,United States,205.80649946917404,,"Taylor, Mr. J.",3rd
+male,S,0.0,0.0,yes,30,Norway,1.766599469174036,,"Williams, Mr. Leslie",3rd
+male,S,0.0,0.0,no,30,Finland,1.766199469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,United States,20.74559946917404,,"Boyd, Mr. John",3rd
+female,Q,0.0,0.0,no,14,Ireland,1.9162994691740352,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,14,England,80.84559946917403,,"Head, Mr. Christopher",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Cribb, Miss. Laura Mae",3rd
+male,S,0.0,0.0,no,30,Finland,1.9261994691740352,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,30,France,9.745599469174037,,"Clark, Mr. William",3rd
+male,C,0.0,2.0,yes,14,France,31.74559946917404,,"Hill, Mr. H. P.",3rd
+male,C,1.0,1.0,no,46,France,31.74559946917404,,"Smith, Mr. F.",3rd
+female,C,1.0,1.0,yes,30,France,31.74559946917404,,"Young, Miss. Marie Grice",3rd
+male,C,0.0,0.0,yes,14,Lebanon,1.786299469174036,,"Davis, Mr. John",3rd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Smith, Mr. F.",3rd
+male,C,0.0,0.0,no,30,United States,9.856299469174036,,"Charters, Mr. David",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8864994691740355,,"Connaughton, Mr. Michael",3rd
+male,C,0.0,0.0,no,30,Turkey,1.786299469174036,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,yes,30,France,23.88559946917404,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,30,Yugoslavia,1.916699469174036,,"Chapman, Mrs. Sara Elizabeth",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Carter, Master. William Thornton II",3rd
+male,C,0.0,0.0,no,30,Slovenia,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,14,United States,47.76559946917404,,"Shepherd, Mr. Jonathan",3rd
+female,S,1.0,0.0,yes,14,Scotland,47.76559946917404,,"Ford, Mr. H.",3rd
+male,C,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Harper, Mrs. Myra Raymond",3rd
+male,S,0.0,0.0,no,30,England,10.745599469174037,,"Sadlier, Mr. Matthew",3rd
+female,C,0.0,0.0,yes,30,Belgium,43.84569946917404,,"Johnson, Mr. August",3rd
+male,S,0.0,0.0,no,46,Canada,69.78659946917404,,"Boyd, Mr. John",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,,"Davis, Mr. John",3rd
+male,S,0.0,0.0,no,46,United States,45.91589946917404,,"Chip, Mr. Chang",3rd
+male,Q,0.0,0.0,yes,14,United States,1.8955994691740357,,"Humphreys, Mr. Humphrey",3rd
+female,Q,2.0,0.0,yes,30,Ireland,17.795599469174036,,"Curtis, Mr. Arthur",3rd
+female,Q,2.0,0.0,yes,30,Ireland,17.795599469174036,,"Bonnell, Miss. Elizabeth",3rd
+male,Q,2.0,0.0,yes,30,Ireland,17.795599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Australia,7.845599469174035,,"Pålsson, Master. Paul Folke",3rd
+male,S,0.0,0.0,no,30,Canada,7.745599469174037,,"Estanislau, Mr. Manuel Gonçalves",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8963994691740356,,"Gallagher, Mr. Martin",3rd
+male,Q,0.0,0.0,no,14,Ireland,9.845599469174036,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,yes,30,Ireland,20.79649946917404,,"Bonnell, Miss. Elizabeth",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.9162994691740352,,"Allen, Mr. Frederick",3rd
+female,Q,0.0,0.0,yes,14,United States,2.745599469174035,,"Hold, Mr. Stephen",3rd
+female,Q,0.0,0.0,no,46,Ireland,1.8955994691740357,,"Barry, Miss. Julia",3rd
+male,S,0.0,0.0,no,46,Channel Islands,20.74559946917404,,"Adams, Mr. John",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.8955994691740357,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,30,England,10.765599469174036,,"Buckley, Miss. Katherine",3rd
+female,S,1.0,0.0,no,14,England,10.765599469174036,,"Fry, Mr. Richard",3rd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Theobald, Mr. Thomas Leonard",3rd
+female,S,0.0,0.0,no,62,England,2.755599469174035,,"Smith, Mr. F.",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Bishop, Mrs. Helen",3rd
+female,S,0.0,0.0,no,30,England,2.755599469174035,,"Johnson, Mr. August",3rd
+female,S,0.0,1.0,yes,14,England,13.845599469174038,,"White, Mrs. Ella",3rd
+female,S,0.0,1.0,yes,46,England,13.845599469174038,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,yes,14,England,4.845599469174035,,"Davis, Mr. John",3rd
+male,S,0.0,0.0,no,46,Italy,2.755599469174035,,"Behr, Mr. Karl Howell",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,C,1.0,0.0,no,30,United States,76.77609946917404,,"Hämäläinen, Mrs. Anna",3rd
+female,C,1.0,0.0,yes,30,United States,76.77609946917404,,"Black, Mr. D.",3rd
+male,S,0.0,0.0,yes,30,Norway,1.896199469174036,,"Roberts, Mr. Hugh H.",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Smith, Mr. F.",3rd
+male,C,0.0,0.0,no,62,United States,20.85559946917404,,"Compton, Miss. Sara Rebecca",3rd
+male,S,0.0,0.0,no,46,Denmark,7.745599469174037,,"Cardeza, Mr. Thomas Drake Martinez",3rd
+male,Q,2.0,0.0,no,46,United States,84.74559946917404,,"Abbing, Mr. Anthony",3rd
+female,Q,1.0,0.0,yes,30,United States,84.74559946917404,,"Smith, Mr. F.",3rd
+female,Q,1.0,0.0,yes,30,United States,84.74559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"McGovern, Ms. Mary",3rd
+male,S,0.0,0.0,no,62,England,4.845599469174035,,"Kink, Miss. Maria",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.9162994691740352,,"Abbing, Mr. Anthony",3rd
+male,C,1.0,0.0,yes,30,United States,51.89559946917404,,"Scott, Mr. Archibald",3rd
+male,S,0.0,0.0,no,30,Norway,1.875599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,Canada,24.845599469174036,,"Webber, Miss. Susan",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Andrews, Mr. Thomas",3rd
+male,S,0.0,0.0,no,46,United States,36.82559946917404,,"Becker, Master. Richard F.",3rd
+male,S,0.0,0.0,no,14,England,2.755599469174035,,"Donohoe, Miss. Bridget",3rd
+male,S,0.0,1.0,yes,14,,6.836199469174037,,"Bride, Mr. Harold Sydney",3rd
+female,S,0.0,1.0,yes,30,,6.836199469174037,,"Charters, Mr. David",3rd
+female,Q,1.0,0.0,yes,30,Ireland,18.77559946917404,,"Curtis, Mr. Arthur",3rd
+male,Q,1.0,0.0,no,30,Ireland,18.77559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,United States,8.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,20.74559946917404,,"Wilson, Miss. Helen Alice",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Sullivan, Mr. S.",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Smith, Mr. F.",3rd
+male,S,0.0,0.0,yes,30,Norway,1.896199469174036,,"Carter, Mrs. Lilian",3rd
+female,C,0.0,0.0,yes,30,Lebanon,1.786299469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Jones, Mr. Charles Cresson",3rd
+male,C,1.0,1.0,yes,14,Lebanon,9.786699469174035,,"Connaughton, Mr. Michael",3rd
+male,C,1.0,1.0,yes,14,Lebanon,9.786699469174035,,"Smith, Mr. F.",3rd
+female,C,0.0,2.0,yes,30,Lebanon,9.786699469174035,,"Gordon, Mr. J.",3rd
+male,S,0.0,0.0,no,14,England,4.845599469174035,,"Young, Mr. Francis James",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.886399469174036,,"Bochatay, Mr. Alexis Joseph",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,,"Parrish, Mrs. Lutie Davis",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+female,Q,1.0,0.0,yes,14,Ireland,9.845599469174036,,"Abbing, Mr. Anthony",3rd
+female,Q,1.0,0.0,yes,30,Ireland,9.845599469174036,,"Abbing, Mr. Anthony",3rd
+female,Q,0.0,0.0,yes,30,Ireland,9.845599469174036,,"Hansen, Mr. Claus Peter",3rd
+female,C,0.0,0.0,yes,30,Lebanon,1.7861994691740364,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,14,Sweden,1.8955994691740357,,"Oliver, Mr. H.",3rd
+male,Q,0.0,0.0,no,62,Ireland,3.876499469174036,,"Willer, Mr. Aaron",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Jones, Mr. Charles Cresson",3rd
+female,C,0.0,0.0,yes,14,Lebanon,1.7861994691740364,,"Goldsmith, Mr. Nathan",3rd
+male,C,0.0,0.0,no,14,Lebanon,1.786299469174036,,"Lee, Mr. H.",3rd
+female,C,0.0,2.0,yes,14,Lebanon,9.886599469174037,,"Jackson, Mr. Cecil",3rd
+male,C,1.0,1.0,yes,30,Lebanon,9.886599469174037,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,1.0,yes,14,Lebanon,9.886599469174037,,"West, Miss. Barbara Joyce",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Pålsson, Master. Paul Folke",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,14,Lebanon,1.786299469174036,,"Lindsay, Mr. William Charles",3rd
+male,C,1.0,0.0,no,30,United States,24.75609946917404,,"McCarthy, Mr. Timothy J.",3rd
+female,C,1.0,0.0,yes,14,Lebanon,24.75609946917404,,"White, Mrs. Ella",3rd
+male,C,0.0,0.0,no,14,Lebanon,1.7861994691740364,,"Bessette, Miss. Nellie Mayo",3rd
+male,C,0.0,1.0,no,30,United States,23.88559946917404,,"Veström, Miss. Hulda Amanda Adolfina",3rd
+female,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Frauenthal, Mr. Isaac Gerald",3rd
+male,S,1.0,1.0,yes,14,France,20.74559946917404,,"Sirota, Mr. Morris",3rd
+male,S,1.0,1.0,yes,14,France,20.74559946917404,,"Payne, Mr. Vivian Ponsonby",3rd
+male,S,0.0,2.0,no,30,Slovakia (Modern day),20.74559946917404,,"Morgan, Mr. Thomas A.",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Sadlier, Mr. Matthew",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Campbell, Mr. Donald S.",3rd
+female,C,1.0,0.0,yes,30,United States,107.79619946917406,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,0.0,yes,30,United States,107.79619946917406,,"Cardeza, Mr. Thomas Drake Martinez",3rd
+male,C,0.0,2.0,no,46,United States,107.79619946917406,,"Adams, Mr. John",3rd
+female,S,0.0,2.0,yes,14,United States,20.796399469174037,,"Cribb, Miss. Laura Mae",3rd
+male,S,1.0,1.0,no,14,England,30.89559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,England,20.74559946917404,,"White, Mrs. Ella",3rd
+female,S,0.0,0.0,no,30,Finland,1.9261994691740352,,"Hays, Mrs. Clara Jennings",3rd
+male,S,0.0,0.0,no,30,Sweden,2.755599469174035,,"Taylor, Mr. J.",3rd
+female,S,0.0,0.0,yes,14,Sweden,1.896199469174036,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,30,Sweden,1.915699469174036,,"Archer, Mr. Ernest Edward",3rd
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,,"Coleman, Mr. John",3rd
+male,C,1.0,0.0,yes,14,Lebanon,5.7865994691740354,,"Abelson, Mrs. Hannah",3rd
+female,C,1.0,0.0,yes,14,Lebanon,5.7865994691740354,,"Richards, Mrs. Emily",3rd
+male,S,0.0,0.0,no,46,Finland,1.766199469174035,,"Johnson, Mr. August",3rd
+male,S,0.0,0.0,yes,30,United States,1.9261994691740352,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,14,Lebanon,1.786299469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Scotland,7.845599469174035,,"Ali, Mr. William",3rd
+male,S,0.0,0.0,no,30,England,1.9055994691740352,,"Wilson, Miss. Helen Alice",3rd
+male,C,0.0,0.0,yes,14,Germany,7.915899469174034,,"Fischer, Mr. Eberhard Thelander",3rd
+female,S,0.0,0.0,yes,30,United States,4.845599469174035,,"Sadlier, Mr. Matthew",3rd
+female,S,0.0,0.0,yes,30,Sweden,1.8955994691740357,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,Norway,0.7864994691740352,,"O'Connor, Mr. Maurice",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.9062994691740356,,"Knight, Mr. Robert",3rd
+female,Q,1.0,0.0,yes,30,Ireland,9.845599469174036,,"Buckley, Mr. Daniel",3rd
+male,Q,1.0,0.0,no,30,Ireland,9.845599469174036,,"Cook, Mr. Jacob",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.886399469174036,,"Abbing, Mr. Anthony",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.8955994691740357,,"Abbing, Mr. Anthony",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Reynolds, Mr. Harold",3rd
+male,S,0.0,0.0,no,30,Sweden,3.7861994691740346,,"Lee, Mr. H.",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.9162994691740352,,"Ray, Mr. Frederick Dent",3rd
+female,S,0.0,0.0,yes,30,Sweden,1.896199469174036,,"Ryan, Mr. Edward",3rd
+male,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,,"Burke, Mr. Jeremiah",3rd
+female,Q,0.0,0.0,yes,14,Ireland,1.9062994691740356,,"Caram, Mr. Joseph",3rd
+female,C,0.0,0.0,yes,30,Spain,102.92559946917406,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,1.0,yes,14,Norway,-2.2239005308259645,,"Aks, Mrs. Leah",3rd
+male,S,0.0,0.0,no,30,Norway,16.84619946917404,,"Smith, Mr. F.",3rd
+male,S,0.0,1.0,no,46,United States,2.825699469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Norway,1.8058994691740349,,"Williams, Mr. Leslie",3rd
+female,S,0.0,0.0,no,30,Sweden,1.915699469174036,,"Compton, Miss. Sara Rebecca",3rd
+male,S,0.0,0.0,no,30,Sweden,1.915699469174036,,"Caram, Mr. Joseph",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.896199469174036,,"Keane, Mr. Andrew",3rd
+male,S,0.0,0.0,no,14,Norway,3.7861994691740346,,"Bonnell, Miss. Elizabeth",3rd
+male,C,0.0,0.0,yes,30,France,19.88659946917404,,"Hickman, Mr. Lewis",3rd
+female,S,0.0,0.0,no,30,Croatia,2.875899469174035,,"McCarthy, Mr. Timothy J.",3rd
+female,S,0.0,0.0,no,14,Croatia,2.875899469174035,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,14,Croatia,2.875899469174035,,"Dean, Mr. George H.",3rd
+male,S,0.0,0.0,no,14,Sweden,3.785999469174035,,"Ryan, Mr. Edward",3rd
+female,S,0.0,1.0,yes,30,United States,55.93629946917404,,"Harper, Mrs. Myra Raymond",3rd
+male,S,0.0,1.0,no,62,United States,55.93629946917404,,"Hämäläinen, Mrs. Anna",3rd
+female,Q,0.0,0.0,no,30,Ireland,1.866299469174036,,"Bourke, Mrs. Catherine",3rd
+male,S,0.0,0.0,no,30,United States,7.745599469174037,,"Smith, Mr. F.",3rd
+male,C,0.0,0.0,no,30,Cuba,21.886099469174034,,"Shepherd, Mr. Jonathan",3rd
+male,S,0.0,0.0,yes,30,England,4.845599469174035,,"Cunningham, Mr. Bernard",3rd
+male,C,0.0,0.0,yes,30,Spain,7.915899469174034,,"Veström, Miss. Hulda Amanda Adolfina",3rd
+male,S,0.0,0.0,no,30,Canada,4.845599469174035,,"Connaughton, Mr. Michael",3rd
+male,C,0.0,0.0,yes,30,Spain,7.915799469174034,,"Collins, Mr. John",3rd
+male,S,3.0,1.0,no,14,Sweden,15.756199469174035,,"Adams, Mr. John",3rd
+male,S,3.0,1.0,no,14,Sweden,15.756199469174035,,"Knight, Mr. Robert",3rd
+female,S,3.0,1.0,no,14,Sweden,15.756199469174035,,"Davis, Mr. John",3rd
+female,S,3.0,1.0,no,14,Sweden,15.756199469174035,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,4.0,no,30,Sweden,15.756199469174035,,"Milling, Mr. Jacob Christian",3rd
+male,S,4.0,1.0,no,14,Finland,33.87649946917404,,"Drew, Master. Marshall Brines",3rd
+male,S,4.0,1.0,no,14,United States,33.87649946917404,,"Anderson, Mr. Harry",3rd
+male,S,4.0,1.0,no,14,Finland,33.87649946917404,,"Reynolds, Mr. Harold",3rd
+male,S,4.0,1.0,no,14,Finland,33.87649946917404,,"Andrews, Mr. Thomas",3rd
+male,S,4.0,1.0,no,14,Finland,33.87649946917404,,"Johnson, Mr. August",3rd
+female,S,0.0,5.0,no,46,Finland,33.87649946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,14,Channel Islands,4.845599469174035,,"Bishop, Mr. Dickinson H.",3rd
+male,B,0.0,0.0,no,30,Northern Ireland,,,"Johnson, Mr. August",3rd
+female,S,0.0,1.0,yes,46,United States,20.74559946917404,,"Campbell, Mr. Donald S.",3rd
+male,B,0.0,0.0,no,30,England,,,"Harris, Mr. Charles William",3rd
+male,S,0.0,0.0,no,30,England,22.845599469174036,,"Ryan, Mr. Edward",3rd
+male,S,0.0,0.0,no,30,Slovenia,2.875899469174035,,"Kelly, Miss. Mary",3rd
+male,S,0.0,0.0,no,14,England,8.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Croatia,1.916699469174036,,"Cook, Mr. Jacob",3rd
+male,S,0.0,0.0,no,30,Canada,87.84559946917403,,"Hickman, Mr. Lewis",3rd
+male,S,1.0,1.0,no,14,England,7.896199469174036,,"Bonnell, Miss. Elizabeth",3rd
+female,S,1.0,1.0,no,14,England,7.896199469174036,,"Mason, Mr. J.",3rd
+female,S,0.0,2.0,no,30,England,7.896199469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,1.745599469174035,,"Rice, Master. Eric",3rd
+female,S,1.0,0.0,yes,30,England,60.86559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,30,England,60.86559946917404,,"Webber, Miss. Susan",3rd
+male,S,0.0,0.0,no,30,Norway,1.896199469174036,,"King, Mr. G.",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Finland,1.9261994691740352,,"Louch, Mr. Charles",3rd
+male,S,0.0,0.0,no,30,Finland,1.9261994691740352,,"Compton, Miss. Sara Rebecca",3rd
+female,C,1.0,0.0,yes,30,Spain,102.92559946917406,,"Collins, Mr. John",3rd
+male,C,1.0,0.0,no,30,Spain,102.92559946917406,,"Goldschmidt, Mr. George B.",3rd
+male,S,0.0,0.0,no,14,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,1.795599469174037,,"Bourke, Miss. Mary",3rd
+male,C,0.0,0.0,no,30,France,9.755599469174037,,"Graham, Mrs. Edith",3rd
+female,S,0.0,0.0,yes,30,Canada,87.84559946917403,,"Canavan, Mr. Patrick",3rd
+male,S,1.0,0.0,yes,30,Sweden,1.896199469174036,,"Williamson, Mr. James Bertram",3rd
+male,S,0.0,0.0,no,46,Germany,7.745599469174037,,"Hold, Mr. Stephen",3rd
+female,S,0.0,0.0,no,30,Croatia,1.916699469174036,,"Taylor, Mr. J.",3rd
+male,C,1.0,1.0,yes,14,Lebanon,16.81579946917404,,"Brown, Mrs. Margaret",3rd
+female,C,1.0,1.0,yes,14,Lebanon,16.81579946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Harris, Mr. Walter",3rd
+female,Q,0.0,0.0,no,30,Ireland,2.7664994691740343,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,14,Bulgaria,1.916699469174036,,"Keane, Mr. Andrew",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Knight, Mr. Robert",3rd
+female,S,0.0,0.0,no,14,Sweden,1.896199469174036,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,30,Sweden,1.896199469174036,,"Canavan, Mr. Patrick",3rd
+male,S,0.0,0.0,yes,46,Canada,24.845599469174036,,"Hodges, Mr. Henry Price",3rd
+female,S,0.0,1.0,yes,30,England,15.745599469174037,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,14,England,20.74559946917404,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,1.0,no,46,England,15.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,yes,30,Poland,2.755599469174035,,"Gregory, Mr. David",3rd
+female,S,0.0,0.0,yes,30,Poland,7.745599469174037,,"Rice, Master. Eric",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Phillips, Mr. A. George",3rd
+male,S,0.0,0.0,no,14,Croatia,2.875899469174035,,"Curtis, Mr. Arthur",3rd
+male,S,0.0,0.0,no,30,Croatia,2.875899469174035,,"Morgan, Mr. Thomas A.",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Wright, Miss. Marion",3rd
+male,C,0.0,0.0,yes,30,United States,6.886499469174037,,"Dennis, Mr. Samuel",3rd
+male,S,0.0,0.0,no,46,United States,46.745599469174046,,"Nasser, Mr. Nicholas",3rd
+female,C,0.0,1.0,yes,46,United States,77.77579946917403,,"Brown, Mrs. Margaret",3rd
+male,C,0.0,0.0,no,30,United States,9.745599469174037,,"Kelly, Miss. Mary",3rd
+male,C,0.0,0.0,no,14,,2.885899469174035,,"Louch, Mr. Charles",3rd
+female,S,1.0,1.0,yes,14,,20.74559946917404,,"Burke, Mr. Jeremiah",3rd
+female,S,1.0,1.0,yes,14,,20.74559946917404,,"Charters, Mr. David",3rd
+female,S,0.0,2.0,yes,30,,20.74559946917404,,"Dodge, Dr. Washington",3rd
+male,S,0.0,0.0,no,30,,1.916699469174036,,"Jones, Mr. Charles Cresson",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,,"Adams, Mr. John",3rd
+female,S,0.0,0.0,no,62,Norway,2.7658994691740366,,"Compton, Miss. Sara Rebecca",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.786299469174036,,"Andrews, Mr. Thomas",3rd
+male,S,0.0,0.0,no,14,Wales,1.795599469174037,,"Lane, Mr. Patrick",3rd
+male,S,0.0,0.0,no,30,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Bosnia,1.916699469174036,,"Taylor, Mr. J.",3rd
+male,S,1.0,0.0,no,30,Channel Islands,15.745599469174037,,"Hämäläinen, Mrs. Anna",3rd
+female,S,3.0,0.0,yes,30,Channel Islands,15.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,30,Netherlands,,,"Farrell, Mr. James",3rd
+female,S,0.0,0.0,yes,30,Spain,7.745599469174037,,"Sägesser, Mlle. Emma",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Hill, Mr. H. P.",3rd
+male,C,0.0,0.0,yes,30,United States,33.86559946917404,,"Chaffee, Mrs. Carrie Constance",3rd
+male,Q,4.0,1.0,no,14,Ireland,23.766199469174037,,"Roberts, Mr. Hugh H.",3rd
+male,Q,4.0,1.0,no,14,Ireland,23.766199469174037,,"Abbing, Mr. Anthony",3rd
+male,Q,4.0,1.0,no,14,Ireland,23.766199469174037,,"Buckley, Mr. Daniel",3rd
+male,Q,4.0,1.0,no,14,Ireland,23.766199469174037,,"Lefebvre, Mr. Paul Georges",3rd
+male,Q,4.0,1.0,no,14,Ireland,23.766199469174037,,"Lee, Mr. H.",3rd
+female,Q,0.0,5.0,no,30,Ireland,23.766199469174037,,"Palles, Mr. Thomas Henry Michael",3rd
+male,C,0.0,0.0,no,30,,9.745599469174037,,"Miles, Mr. Frank",3rd
+male,S,1.0,1.0,yes,14,England,12.895599469174032,,"Smith, Mr. F.",3rd
+male,S,1.0,1.0,yes,14,England,12.895599469174032,,"Sadlier, Mr. Matthew",3rd
+female,S,2.0,3.0,yes,30,England,12.895599469174032,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,46,England,4.845599469174035,,"Keane, Mr. Andrew",3rd
+male,C,0.0,0.0,no,30,,129.86639946917404,,"Roth, Miss. Sarah",3rd
+female,S,0.0,0.0,no,30,Finland,33.87649946917404,,"Dennis, Mr. Samuel",3rd
+male,S,0.0,0.0,no,30,Finland,1.766199469174035,,"Fortune, Mr. Mark",3rd
+female,Q,0.0,0.0,yes,30,Ireland,1.8860994691740365,,"Lee, Mr. H.",3rd
+male,S,0.0,0.0,no,62,England,8.845599469174035,,"Buckley, Mr. Daniel",3rd
+female,S,0.0,0.0,no,62,England,8.845599469174035,,"Gallagher, Mr. Martin",3rd
+female,S,0.0,1.0,yes,46,United States,205.80649946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,46,England,8.845599469174035,,"Carter, Mrs. Lilian",3rd
+female,S,1.0,0.0,no,46,England,8.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,46,England,241.846199469174,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,no,30,United States,44.83669946917404,,"Cumings, Mrs. Florence Briggs",3rd
+male,S,0.0,0.0,no,14,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Wales,2.755599469174035,,"Bradley, Mr. T.",3rd
+male,S,0.0,0.0,yes,46,United States,20.85559946917404,,"Goldsmith, Mr. Nathan",3rd
+male,S,0.0,0.0,no,46,Norway,1.896199469174036,,"Nasser, Mr. Nicholas",3rd
+male,S,0.0,0.0,no,30,United States,44.745599469174046,,"Jones, Mr. Charles Cresson",3rd
+female,S,1.0,1.0,no,14,Finland,14.785899469174035,,"Becker, Master. Richard F.",3rd
+female,S,0.0,2.0,no,46,Finland,14.785899469174035,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,1.0,no,14,Finland,14.785899469174035,,"Abbing, Mr. Anthony",3rd
+female,C,0.0,0.0,yes,30,France,21.886099469174034,,"Stone, Mr. Edmund",3rd
+male,C,0.0,0.0,no,46,United States,73.74559946917404,,"Guggenheim, Mr. Benjamin",3rd
+male,S,0.0,0.0,no,30,Canada,34.76619946917405,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,30,England,80.84559946917403,,"Hale, Mr. Reginald",3rd
+female,S,0.0,0.0,yes,30,Austria,2.755599469174035,,"Gregory, Mr. David",3rd
+male,C,1.0,0.0,no,46,United States,53.82559946917404,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,0.0,yes,46,United States,53.82559946917404,,"Cornblatt, Mr. Harris",3rd
+male,S,0.0,0.0,no,46,England,2.755599469174035,,"Knight, Mr. Robert",3rd
+male,S,0.0,0.0,no,46,Peru,20.85559946917404,,"Head, Mr. Christopher",3rd
+female,S,0.0,0.0,yes,30,Channel Islands,4.845599469174035,,"Green, Mr. George",3rd
+male,S,0.0,0.0,no,14,England,2.755599469174035,,"Charters, Mr. David",3rd
+male,Q,0.0,0.0,yes,30,Ireland,1.8955994691740357,,"Anderson, Mr. Harry",3rd
+male,Q,0.0,0.0,no,30,Ireland,18.77559946917404,,"Abbing, Mr. Anthony",3rd
+male,C,2.0,2.0,yes,14,United States,256.816199469174,,"Brady, Mr. John Bertram",3rd
+female,C,2.0,2.0,yes,14,United States,256.816199469174,,"Freeman, Mr. Ernest Edward Samuel",3rd
+female,C,2.0,2.0,yes,30,United States,256.816199469174,,"Fleming, Miss. Honor",3rd
+male,C,1.0,3.0,no,62,United States,256.816199469174,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,3.0,yes,46,United States,256.816199469174,,"Caram, Mr. Joseph",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.786299469174036,,"McCarthy, Mr. Timothy J.",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,,"Campbell, Mr. Donald S.",3rd
+male,S,0.0,0.0,yes,46,England,24.845599469174036,,"Jones, Mr. Charles Cresson",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.886299469174037,,"Carrau, Mr. Francisco Mauro Severiano",3rd
+male,S,0.0,0.0,no,14,England,1.8565994691740368,,"Ali, Mr. Ahmed",3rd
+male,S,0.0,0.0,no,46,Norway,1.795599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,8.0,2.0,no,14,England,63.85559946917404,,"Adams, Mr. John",3rd
+male,S,8.0,2.0,no,14,England,63.85559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,8.0,2.0,no,14,England,63.85559946917404,,"Johnson, Mr. August",3rd
+female,S,8.0,2.0,no,14,England,63.85559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,8.0,2.0,no,14,England,63.85559946917404,,"Cornblatt, Mr. Harris",3rd
+female,S,8.0,2.0,no,30,England,63.85559946917404,,"Behr, Mr. Karl Howell",3rd
+male,S,8.0,2.0,no,14,England,63.85559946917404,,"Mills, Mr. Christopher",3rd
+male,S,8.0,2.0,no,14,England,63.85559946917404,,"Botsford, Mr. William Hull",3rd
+male,S,8.0,2.0,no,14,England,63.85559946917404,,"Adams, Mr. John",3rd
+male,S,1.0,9.0,no,46,England,63.85559946917404,,"Bourke, Miss. Mary",3rd
+female,S,1.0,9.0,no,46,England,63.85559946917404,,"Kink, Miss. Maria",3rd
+female,C,0.0,0.0,yes,30,,63.80559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Sweden,3.806199469174036,,"Adams, Mr. John",3rd
+female,S,0.0,0.0,yes,30,Norway,1.875599469174036,,"Stephenson, Mrs. Martha",3rd
+male,S,0.0,0.0,yes,46,United States,20.74559946917404,,"Brown, Mrs. Margaret",3rd
+male,S,0.0,0.0,no,30,United States,1.9261994691740352,,"Abbing, Mr. Anthony",3rd
+male,C,2.0,0.0,no,14,Lebanon,15.876299469174038,,"Stone, Mr. Edmund",3rd
+male,C,2.0,0.0,no,30,Lebanon,15.876299469174038,,"Abbing, Mr. Anthony",3rd
+male,C,2.0,0.0,no,14,Lebanon,15.876299469174038,,"Andrews, Mr. Thomas",3rd
+female,S,1.0,1.0,yes,14,Sweden,10.885599469174036,,"Cooper, Mr. Harry",3rd
+female,S,1.0,1.0,yes,14,Sweden,10.885599469174036,,"Andrews, Mr. Thomas",3rd
+female,S,0.0,2.0,yes,30,Sweden,10.885599469174036,,"Hill, Mr. H. P.",3rd
+male,S,0.0,0.0,yes,30,Belgium,3.845599469174036,,"Davis, Mr. Stephen James",3rd
+male,S,0.0,0.0,no,14,England,2.755599469174035,,"Charters, Mr. David",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Troupiansky, Mr. Moses Aaron",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.886199469174036,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,0.0,yes,30,Germany,51.89559946917404,,"Johnston, Mrs. Eliza",3rd
+male,S,0.0,0.0,yes,30,Belgium,3.845599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Bourke, Miss. Mary",3rd
+male,S,0.0,0.0,no,46,,1.916699469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Johnson, Mr. August",3rd
+male,C,0.0,0.0,no,14,Lebanon,-1.2544005308259645,,"Johnson, Mr. August",3rd
+female,S,0.0,0.0,yes,30,,25.74559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,yes,30,United States,20.85559946917404,,"Caldwell, Master. Alden Gates",3rd
+male,S,,,no,30,Ireland,,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,20.74559946917404,,"Hill, Mr. H. P.",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Andrews, Mr. Thomas",3rd
+male,C,0.0,0.0,no,14,,1.7861994691740364,,"Jones, Mr. Charles Cresson",3rd
+male,S,0.0,0.0,no,46,England,9.765599469174036,,"Jones, Mr. Charles Cresson",3rd
+female,S,0.0,1.0,yes,30,United States,20.74559946917404,,"Brailey, Mr. William Theodore Ronald",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,,"Caldwell, Master. Alden Gates",3rd
+female,Q,0.0,0.0,yes,14,Ireland,1.9062994691740356,,"Ali, Mr. William",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,30,United States,147.83589946917405,,"Green, Mr. George",3rd
+female,S,0.0,2.0,yes,14,Finland,7.745599469174037,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,yes,30,United States,20.79649946917404,,"Caram, Mr. Joseph",3rd
+female,C,1.0,0.0,yes,30,United States,49.92559946917404,,"Smith, Mr. F.",3rd
+male,C,1.0,0.0,no,46,United States,49.92559946917404,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Guggenheim, Mr. Benjamin",3rd
+male,S,0.0,0.0,yes,46,Switzerland,29.84559946917404,,"Hickman, Mr. Lewis",3rd
+female,S,0.0,0.0,yes,14,England,30.89559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,30,Finland,7.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,30,Turkey,1.786299469174036,,"Bennett, Mrs. Mabel",3rd
+male,S,0.0,0.0,no,14,England,2.755599469174035,,"Adams, Mr. John",3rd
+male,S,0.0,0.0,no,30,Bosnia,1.916699469174036,,"Cook, Mr. Jacob",3rd
+male,S,0.0,0.0,no,30,United States,1.9261994691740352,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,14,Finland,0.8366994691740355,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,46,Sweden,7.845599469174035,,"Lee, Mr. H.",3rd
+male,S,3.0,2.0,no,14,United States,21.92559946917404,,"Andrews, Mr. Thomas",3rd
+male,S,3.0,2.0,no,14,United States,21.92559946917404,,"Clark, Mr. Walter Miller",3rd
+female,S,3.0,2.0,no,14,United States,21.92559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,3.0,2.0,no,14,United States,21.92559946917404,,"Campbell, Mr. Donald S.",3rd
+female,S,1.0,4.0,no,46,Sweden,21.92559946917404,,"Augustsson, Mr. Albert",3rd
+male,S,1.0,4.0,no,30,Sweden,21.92559946917404,,"Hill, Mr. H. P.",3rd
+male,S,0.0,0.0,no,46,,1.916699469174036,,"Taylor, Mr. J.",3rd
+female,Q,0.0,0.0,yes,30,Canada,6.815599469174035,,"Johnson, Mr. August",3rd
+male,S,0.0,0.0,no,30,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,14,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,yes,30,United States,29.84559946917404,,"Graham, Mrs. Edith",3rd
+male,S,0.0,0.0,no,46,England,20.85559946917404,,"Allison, Mr. Hudson Joshua Creighton",3rd
+male,S,0.0,0.0,no,30,Croatia,2.875899469174035,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,0.0,yes,46,England,7.745599469174037,,"Lee, Mr. H.",3rd
+male,C,0.0,0.0,no,46,France,24.876699469174035,,"Howard, Mr. Benjamin",3rd
+male,C,1.0,0.0,no,30,United States,54.745599469174046,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,England,20.74559946917404,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,0.0,yes,14,United States,54.745599469174046,,"Williams, Mr. Leslie",3rd
+female,Q,0.0,0.0,yes,14,Ireland,1.886399469174036,,"Hughes, Mr. William Thomas",3rd
+male,Q,0.0,0.0,no,30,Ireland,1.8955994691740357,,"Blake, Mr. Seaton",3rd
+male,S,1.0,0.0,yes,30,United States,76.79599946917403,,"Woodward, Mr. John Wesley",3rd
+female,S,1.0,0.0,yes,30,United States,76.79599946917403,,"Veström, Miss. Hulda Amanda Adolfina",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Smith, Mr. F.",3rd
+male,S,0.0,0.0,no,14,Norway,1.875599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Simpson, Dr. John Edward",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Carter, Mrs. Lilian",3rd
+male,C,0.0,2.0,yes,14,United States,128.84559946917403,,"Mason, Mr. J.",3rd
+male,C,1.0,1.0,yes,46,United States,128.84559946917403,,"Lucas, Mr. William Arthur",3rd
+female,C,1.0,1.0,yes,30,United States,128.84559946917403,,"Cardeza, Mr. Thomas Drake Martinez",3rd
+female,C,1.0,0.0,yes,46,United States,140.84609946917405,,"Sullivan, Mr. S.",3rd
+male,C,1.0,0.0,no,46,United States,140.84609946917405,,"Barbara, Miss. Saiide",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Bourke, Miss. Mary",3rd
+male,S,0.0,0.0,yes,30,Switzerland,24.845599469174036,,"Bourke, Miss. Mary",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Robins, Mr. Victor",3rd
+male,C,0.0,0.0,no,30,Croatia,2.8764994691740355,,"Small, Mr. William",3rd
+female,S,0.0,0.0,yes,30,England,1.8555994691740365,,"Radeff, Mr. Alexander",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Wood, Mr. Henry",3rd
+male,C,0.0,0.0,no,46,United States,9.745599469174037,,"Smith, Mr. F.",3rd
+male,S,0.0,0.0,no,62,England,20.85559946917404,,"Kimball, Mr. Edwin Nelson Jr.",3rd
+male,C,1.0,0.0,yes,46,United States,49.82659946917404,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,0.0,yes,46,Ireland,49.82659946917404,,"Goodwin, Miss. Lillian Amy",3rd
+female,C,1.0,0.0,yes,46,United States,72.79599946917403,,"Goodwin, Mrs. Augusta",3rd
+male,C,0.0,0.0,no,62,United States,21.886099469174034,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,4.845599469174035,,"Brown, Mrs. Margaret",3rd
+female,S,0.0,0.0,yes,62,United States,74.74559946917404,,"Davis, Mr. John",3rd
+male,S,0.0,0.0,no,46,England,,,"Brown, Mrs. Margaret",3rd
+male,S,0.0,0.0,no,14,Bulgaria,1.916699469174036,,"Connaughton, Mr. Michael",3rd
+female,S,0.0,0.0,no,30,Finland,3.906499469174035,,"Christy, Miss. Rachel Juli Cohen",3rd
+male,S,0.0,0.0,yes,30,Finland,1.9261994691740352,,"Goldschmidt, Mr. George B.",3rd
+male,S,1.0,0.0,no,62,United States,215.89629946917407,,"Butler, Mr. Reginald Fenton",3rd
+female,S,1.0,0.0,no,62,Germany,215.89629946917407,,"Long, Mr. Frank",3rd
+male,S,0.0,0.0,no,30,Croatia,2.875899469174035,,"Roth, Miss. Sarah",3rd
+female,S,0.0,1.0,no,14,United States,4.835899469174034,,"King, Mr. G.",3rd
+female,S,1.0,1.0,no,30,Sweden,4.835899469174034,,"Van Impe, Mrs. Rosalie Paula",3rd
+male,S,0.0,0.0,yes,14,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,yes,46,Finland,1.9261994691740352,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,1.7555994691740349,,"Smith, Mr. F.",3rd
+male,S,0.0,0.0,no,62,England,26.80609946917404,,"Campbell, Mr. Donald S.",3rd
+male,S,0.0,0.0,no,62,Sweden,1.896199469174036,,"Wright, Miss. Marion",3rd
+male,S,0.0,0.0,yes,14,Sweden,3.7861994691740346,,"Anderson, Mr. Harry",3rd
+male,S,0.0,0.0,no,30,Sweden,1.8966994691740344,,"Baxter, Mr. Thomas Ferguson",3rd
+male,S,0.0,0.0,no,14,England,7.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,14,England,59.745599469174046,,"Caram, Mr. Joseph",3rd
+female,S,0.0,0.0,yes,46,United States,19.926299469174037,,"Bourke, Mrs. Catherine",3rd
+male,C,0.0,1.0,yes,14,Lebanon,2.845999469174036,,"Harper, Mrs. Myra Raymond",3rd
+male,C,1.0,0.0,no,30,Lebanon,0.8264994691740353,,"Abbing, Mr. Anthony",3rd
+female,C,1.0,1.0,yes,14,Lebanon,2.845999469174036,,"Ali, Mr. William",3rd
+female,S,0.0,2.0,yes,14,United States,73.87559946917403,,"Andrews, Mr. Thomas",3rd
+male,S,1.0,1.0,no,46,United States,73.87559946917403,,"Bochatay, Mr. Alexis Joseph",3rd
+female,S,1.0,1.0,yes,30,United States,73.87559946917403,,"Nasser, Mr. Nicholas",3rd
+male,S,1.0,0.0,yes,46,United States,46.745599469174046,,"Williams, Mr. Leslie",3rd
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",3rd
+female,S,1.0,0.0,yes,46,United States,46.745599469174046,,"Head, Mr. Christopher",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.8966994691740344,,"Williams, Mr. Leslie",3rd
+male,C,1.0,1.0,no,46,United States,104.91639946917404,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,2.0,yes,14,United States,104.91639946917404,,"Hickman, Mr. Lewis",3rd
+female,C,1.0,1.0,yes,30,United States,104.91639946917404,,"Beane, Mr. Edward",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,0.0,no,30,,0.8264994691740353,,"Gregory, Mr. David",3rd
+male,C,0.0,0.0,no,14,,1.7861994691740364,,"Morgan, Mr. Thomas A.",3rd
+male,S,0.0,0.0,no,30,Scotland,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+female,C,0.0,0.0,yes,30,United States,74.74559946917404,,"Connaughton, Mr. Michael",3rd
+male,S,1.0,0.0,no,30,England,10.765599469174036,,"Abbing, Mr. Anthony",3rd
+female,S,1.0,0.0,yes,30,England,10.765599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Finland,1.9261994691740352,,"Allison, Master. Hudson Trevor",3rd
+male,Q,0.0,0.0,no,14,Ireland,1.8955994691740357,,"Nasser, Mr. Nicholas",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Cardeza, Mr. Thomas Drake Martinez",3rd
+female,S,0.0,0.0,yes,46,Ireland,4.845599469174035,,"Allison, Mr. Hudson Joshua Creighton",3rd
+male,S,0.0,0.0,no,46,England,2.755599469174035,,"Clark, Mr. Walter Miller",3rd
+male,C,0.0,0.0,no,14,Lebanon,1.786299469174036,,"Johnson, Mr. August",3rd
+male,S,0.0,0.0,yes,30,Sweden,,,"Clark, Mr. Walter Miller",3rd
+male,S,0.0,0.0,no,30,Bulgaria,1.916699469174036,,"Jones, Mr. Charles Cresson",3rd
+male,S,0.0,0.0,no,30,England,7.745599469174037,,"Adams, Mr. John",3rd
+female,S,0.0,0.0,yes,30,Scotland,6.875599469174036,,"Fletcher, Mr. Percy William",3rd
+female,S,0.0,0.0,yes,30,England,4.845599469174035,,"Ford, Mr. H.",3rd
+male,C,0.0,0.0,yes,30,United States,22.846499469174034,,"Bell, Mr. Joseph",3rd
+male,C,1.0,1.0,yes,14,Lebanon,9.786699469174035,,"Hickman, Mr. Lewis",3rd
+female,C,1.0,1.0,yes,14,Lebanon,9.786699469174035,,"Adams, Mr. John",3rd
+female,C,0.0,2.0,yes,30,Lebanon,9.786699469174035,,"Smith, Mr. F.",3rd
+male,S,0.0,0.0,no,30,Croatia,1.916699469174036,,"Allison, Master. Hudson Trevor",3rd
+female,S,0.0,0.0,yes,14,Finland,3.9065994691740342,,"Ali, Mr. William",3rd
+female,S,0.0,0.0,yes,62,Finland,3.856499469174036,,"Morgan, Mr. Thomas A.",3rd
+female,S,1.0,0.0,no,30,England,15.745599469174037,,"Fortune, Mr. Mark",3rd
+male,S,1.0,0.0,no,30,England,15.745599469174037,,"Canavan, Mr. Patrick",3rd
+male,C,0.0,0.0,no,30,Mexico,21.886099469174034,,"Howard, Mr. Benjamin",3rd
+male,S,1.0,1.0,no,14,England,8.845599469174035,,"Scott, Mr. Archibald",3rd
+male,S,1.0,1.0,no,14,England,8.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,2.0,no,30,England,8.845599469174035,,"Evans, Miss. Edith Corse",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,Belgium,3.745599469174035,,"Andrews, Mr. Thomas",3rd
+male,S,0.0,0.0,no,62,United States,27.845599469174036,,"Connaughton, Mr. Michael",3rd
+female,S,2.0,0.0,no,14,Belgium,12.745599469174037,,"Johnson, Mr. August",3rd
+male,S,3.0,0.0,no,30,Belgium,12.745599469174037,,"Clark, Mr. Walter Miller",3rd
+male,S,2.0,0.0,no,14,Belgium,12.745599469174037,,"Bennett, Mrs. Mabel",3rd
+female,S,1.0,0.0,no,30,Belgium,12.745599469174037,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Wells, Miss. Joan",3rd
+female,S,0.0,2.0,no,14,Belgium,18.77559946917404,,"Burns, Miss. Elizabeth Margaret",3rd
+male,S,1.0,1.0,no,30,Belgium,18.77559946917404,,"Farrell, Mr. James",3rd
+female,S,1.0,1.0,no,30,Belgium,18.77559946917404,,"Jones, Mr. Charles Cresson",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Barry, Miss. Julia",3rd
+male,C,0.0,0.0,yes,30,Turkey,1.7861994691740364,,"Allison, Mrs. Bessie Waldo",3rd
+male,S,0.0,0.0,no,30,United States,7.745599469174037,,"Lee, Mr. H.",3rd
+male,S,0.0,0.0,no,14,Sweden,1.915699469174036,,"Allison, Mr. Hudson Joshua Creighton",3rd
+female,S,0.0,0.0,no,14,Sweden,1.915699469174036,,"Connaughton, Mr. Michael",3rd
+male,S,0.0,0.0,no,30,Slovenia,1.916699469174036,,"Wilson, Miss. Helen Alice",3rd
+male,S,0.0,0.0,no,30,Belgium,3.745599469174035,,"Bishop, Mr. Dickinson H.",3rd
+male,S,0.0,0.0,no,46,United States,28.74559946917404,,"Ryan, Mr. Edward",3rd
+female,S,0.0,0.0,yes,30,England,15.745599469174037,,"Milling, Mr. Jacob Christian",3rd
+female,C,0.0,0.0,yes,30,,506.806299469174,,"Buckley, Mr. Daniel",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Farrell, Mr. James",3rd
+male,S,1.0,0.0,no,46,England,15.745599469174037,,"Hickman, Mr. Lewis",3rd
+female,S,0.0,0.0,yes,30,England,15.745599469174037,,"Eitemiller, Mr. George Floyd",3rd
+male,S,1.0,0.0,no,30,England,4.845599469174035,,"Sloper, Mr. William Thompson",3rd
+male,S,0.0,0.0,no,30,England,1.8555994691740365,,"Moore, Mr. John J.",3rd
+male,C,1.0,0.0,no,62,United States,69.79559946917404,,"Andrews, Mr. Thomas",3rd
+female,C,1.0,0.0,yes,46,England,69.79559946917404,,"Abbing, Mr. Anthony",3rd
+male,B,0.0,0.0,no,14,Northern Ireland,,,"Davis, Mr. John",3rd
+female,S,0.0,0.0,yes,14,Scotland,9.895599469174035,,"Farrell, Mr. James",3rd
+female,S,0.0,0.0,yes,30,Scotland,9.895599469174035,,"Mason, Mr. J.",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,,"Louch, Mr. Charles",3rd
+female,S,0.0,0.0,yes,30,England,7.745599469174037,,"Sloper, Mr. William Thompson",3rd
+male,S,0.0,0.0,no,62,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,46,United States,20.85559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,0.0,no,30,Hungary,20.74559946917404,,"Abbing, Mr. Anthony",3rd
+female,S,1.0,0.0,yes,30,England,20.74559946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,1.0,yes,14,England,17.74559946917404,,"Johnson, Mr. August",3rd
+female,S,1.0,1.0,yes,14,England,17.74559946917404,,"Hickman, Mr. Lewis",3rd
+female,S,0.0,2.0,yes,30,England,17.74559946917404,,"Farrell, Mr. James",3rd
+male,S,0.0,0.0,yes,30,Sweden,1.8966994691740344,,"Sullivan, Mr. S.",3rd
+female,S,1.0,2.0,yes,14,England,21.89559946917404,,"Partner, Mr. Austin",3rd
+female,S,1.0,2.0,yes,14,England,21.89559946917404,,"Prideaux, Mr. John Arthur (Jack)",3rd
+male,S,1.0,2.0,no,30,England,21.89559946917404,,"Rogers, Mr. Michael",3rd
+female,S,1.0,2.0,yes,30,England,21.89559946917404,,"Fox, Mr. Stanley Harrington",3rd
+male,S,0.0,0.0,no,62,England,4.845599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,England,6.916199469174035,,"Ryan, Mr. Edward",3rd
+male,S,0.0,0.0,yes,30,England,7.745599469174037,,"Williams, Mr. Leslie",3rd
+male,S,0.0,1.0,no,46,United States,71.79649946917404,,"Donohoe, Miss. Bridget",3rd
+male,S,0.0,1.0,no,30,United States,71.79649946917404,,"Cook, Mr. Jacob",3rd
+female,C,0.0,0.0,yes,46,,129.86639946917404,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,1.0,no,46,United States,158.91599946917407,,"Abbing, Mr. Anthony",3rd
+female,S,0.0,2.0,yes,30,United States,158.91599946917407,,"Abelson, Mr. Samuel",3rd
+female,S,1.0,1.0,yes,46,United States,158.91599946917407,,"Humphreys, Mr. Humphrey",3rd
+male,S,0.0,0.0,no,46,Sweden,1.8955994691740357,,"Abbing, Mr. Anthony",3rd
+male,S,1.0,1.0,no,46,United States,205.8455994691741,,"Morgan, Mr. Thomas A.",3rd
+male,S,0.0,2.0,no,30,United States,205.8455994691741,,"Robinson, Mrs. Annie",3rd
+female,S,1.0,1.0,yes,46,United States,205.8455994691741,,"Curtis, Mr. Arthur",3rd
+male,S,1.0,0.0,no,14,Finland,0.8366994691740355,,"Pålsson, Master. Paul Folke",3rd
+male,S,1.0,0.0,no,30,Finland,0.8366994691740355,,"Abelseth, Miss. Karen Marie",3rd
+female,S,1.0,0.0,yes,46,England,1.745599469174035,,"Head, Mr. Christopher",3rd
+female,S,1.0,0.0,yes,30,England,20.74559946917404,,"Guggenheim, Mr. Benjamin",3rd
+female,S,0.0,0.0,yes,30,United States,20.85559946917404,,"Connaughton, Mr. Michael",3rd
+male,C,0.0,0.0,no,30,,2.885899469174035,,"Lamb, Mr. John J.",3rd
+male,S,0.0,0.0,no,30,Wales,1.8555994691740365,,"Abbing, Mr. Anthony",3rd
+male,C,0.0,1.0,no,46,Switzerland,55.81629946917404,,"Lines, Mrs. Elizabeth Lindsey",3rd
+male,S,0.0,0.0,yes,30,England,7.745599469174037,,"Roth, Miss. Sarah",3rd
+male,S,0.0,0.0,no,46,United States,29.74559946917404,,"Abelson, Mrs. Hannah",3rd
+male,S,0.0,0.0,no,30,England,2.755599469174035,,"Abbing, Mr. Anthony",3rd
+male,S,0.0,0.0,no,30,Wales,10.765599469174036,,"Sirota, Mr. Morris",3rd
+male,C,0.0,1.0,yes,30,Switzerland,55.81629946917404,,"Smith, Mr. F.",3rd
+female,C,0.0,0.0,yes,30,,128.84559946917403,,"Shelley, Mrs. Imanita Parrish",3rd
+male,S,0.0,0.0,no,30,South Africa,1.795599469174037,,"Cribb, Miss. Laura Mae",3rd
+male,S,0.0,0.0,no,30,Switzerland,2.875899469174035,,"Kelly, Miss. Mary",3rd
+male,S,0.0,0.0,no,46,England,1.795599469174037,,"Brown, Mrs. Margaret",3rd
+male,S,0.0,0.0,no,30,Belgium,3.845599469174036,,"Becker, Master. Richard F.",3rd
+male,S,,,no,30,England,,,"Ali, Mr. William",3rd
+male,S,0.0,0.0,yes,46,England,29.84559946917404,,"Robinson, Mrs. Annie",3rd
+female,S,0.0,0.0,yes,30,England,7.845599469174035,,"Abbott, Mr. Eugene Joseph",3rd
+male,S,0.0,0.0,no,62,Canada,20.85559946917404,,"Head, Mr. Christopher",3rd
+male,C,1.0,0.0,no,30,Lebanon,8.835699469174035,,"Taylor, Mr. J.",3rd
+female,C,1.0,0.0,yes,14,Lebanon,8.835699469174035,,"Knight, Mr. Robert",3rd
+female,C,0.0,0.0,yes,30,United States,129.86639946917404,,"Hill, Mr. H. P.",3rd
+male,C,0.0,0.0,no,30,Lebanon,1.7861994691740364,,"Moore, Mr. John J.",3rd
+male,C,0.0,0.0,no,46,Lebanon,1.786299469174036,,"Woodward, Mr. John Wesley",3rd
+female,C,0.0,2.0,yes,30,Lebanon,16.81579946917404,,"Nilsson, Miss. Berta Olivia",3rd
+female,S,0.0,0.0,no,30,France,7.745599469174037,,"Watson, Mr. Willim",3rd
+male,C,0.0,0.0,no,30,Turkey,1.7861994691740364,,"Head, Mr. Christopher",3rd
+male,C,0.0,0.0,no,30,Turkey,1.7861994691740364,,"Sullivan, Mr. S.",3rd
+male,C,0.0,0.0,yes,30,Lebanon,1.7861994691740364,,"Brooks, Mr. J.",deck crew
+male,S,0.0,0.0,no,30,Germany,1.9161994691740356,,"Allen, Mr. Frederick",deck crew
+male,S,,,no,30,England,,,"Sadlier, Mr. Matthew",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Mitchell, Mr. Henry Michael",deck crew
+male,S,,,no,14,Channel Islands,,,"Buckley, Mr. Daniel",deck crew
+male,S,,,no,30,England,,,"Lam, Mr. Ali",deck crew
+male,S,,,no,30,England,,,"McCarthy, Mr. Timothy J.",deck crew
+male,S,,,no,30,England,,,"Andersen-Jensen, Miss. Carla Christine Nielsine",deck crew
+male,S,,,yes,30,England,,,"Moore, Mr. John J.",deck crew
+male,S,,,no,14,England,,,"McCarthy, Mr. Timothy J.",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Salonen, Mr. Johan Werner",deck crew
+male,S,,,no,30,England,,,"Caram, Mr. Joseph",deck crew
+male,B,,,no,30,England,,,"Smith, Mr. F.",deck crew
+male,B,,,no,46,England,,,"Harris, Mr. Walter",deck crew
+male,S,,,yes,30,England,,,"Andrews, Mr. Thomas",deck crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,yes,14,England,,,"Sadlier, Mr. Matthew",deck crew
+male,S,,,yes,30,England,,,"Phillips, Mr. A. George",deck crew
+male,S,,,no,30,England,,,"Bonnell, Miss. Elizabeth",deck crew
+male,S,,,no,46,Ireland,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Scott, Mr. Archibald",deck crew
+male,S,,,yes,30,England,,,"Williams, Mr. Leslie",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,B,,,no,30,England,,,"Farrell, Mr. James",deck crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Simmons, Mr. John",deck crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,46,Wales,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,yes,46,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Abelson, Mrs. Hannah",deck crew
+male,S,,,yes,14,England,,,"Smart, Mr. John Montgomery",deck crew
+male,S,,,no,30,England,,,"Fortune, Mr. Mark",deck crew
+male,S,,,no,30,England,,,"Clark, Mr. Walter Miller",deck crew
+male,S,,,no,14,England,,,"Connaughton, Mr. Michael",deck crew
+male,S,,,no,46,England,,,"Brady, Mr. John Bertram",deck crew
+male,B,,,no,46,England,,,"Smith, Mr. F.",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Andrews, Mr. Thomas",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,14,England,,,"Buckley, Mr. Daniel",deck crew
+male,S,,,yes,30,England,,,"Payne, Mr. Vivian Ponsonby",deck crew
+male,S,,,no,30,England,,,"Blake, Mr. Seaton",deck crew
+male,B,,,no,30,England,,,"Keane, Mr. Andrew",deck crew
+male,S,,,no,30,England,,,"Bourke, Miss. Mary",deck crew
+male,S,,,no,30,England,,,"Allison, Master. Hudson Trevor",deck crew
+male,S,,,no,30,England,,,"Allen, Mr. Frederick",deck crew
+male,S,,,no,30,England,,,"Gordon, Mr. J.",deck crew
+male,S,,,no,46,England,,,"Andrews, Mr. Thomas",deck crew
+male,S,,,no,46,Scotland,,,"Anderson, Mr. Harry",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,B,,,no,30,Northern Ireland,,,"Davis, Mr. John",deck crew
+male,S,,,yes,30,England,,,"Dodge, Dr. Washington",deck crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",deck crew
+male,S,,,no,30,England,,,"Williams, Mr. Leslie",deck crew
+male,S,,,no,14,England,,,"Clark, Mr. William",deck crew
+male,B,,,no,46,England,,,"Pålsson, Master. Paul Folke",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Roth, Miss. Sarah",deck crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",deck crew
+female,S,,,yes,30,England,,,"Hickman, Mr. Lewis",deck crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",deck crew
+male,S,,,no,30,England,,,"Sharp, Mr. Percival",deck crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",engineering crew
+male,S,,,no,30,England,,,"Casey, Mr. Thomas",engineering crew
+male,B,,,no,30,England,,,"Shaw, Mr. Henry",engineering crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,no,30,England,,,"Louch, Mr. Charles",engineering crew
+male,S,,,no,30,England,,,"Wilson, Miss. Helen Alice",engineering crew
+male,S,,,no,30,England,,,"Sirota, Mr. Morris",engineering crew
+male,S,,,no,14,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,14,England,,,"Walker, Mr. William Anderson",engineering crew
+male,S,,,yes,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Corey, Mrs. Mary Emma",engineering crew
+male,S,,,no,30,England,,,"Bonnell, Miss. Elizabeth",engineering crew
+male,S,,,no,30,England,,,"Ryan, Mr. Edward",engineering crew
+male,S,,,no,46,England,,,"Stephenson, Mrs. Martha",engineering crew
+male,S,,,yes,30,England,,,"Middleton, Mr. Alfred Pirrie",engineering crew
+male,B,,,no,30,England,,,"Sullivan, Mr. S.",engineering crew
+male,S,,,no,30,England,,,"Long, Mr. Frank",engineering crew
+male,S,,,no,30,Northern Ireland,,,"Allison, Mr. Hudson Joshua Creighton",engineering crew
+male,S,,,no,30,England,,,"Fox, Mr. Stanley Harrington",engineering crew
+female,S,,,yes,46,Switzerland,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Keane, Mr. Andrew",engineering crew
+male,S,,,no,30,England,,,"King, Mr. G.",engineering crew
+male,S,,,no,46,England,,,"Douglas, Mrs. Mahala",engineering crew
+male,S,,,no,46,Scotland,,,"Pfropper, Mr. Richard Paul Jozef",engineering crew
+male,S,,,no,30,England,,,"Bennett, Mrs. Mabel",engineering crew
+male,B,,,no,30,England,,,"Walker, Mr. William Anderson",engineering crew
+male,S,,,no,30,England,,,"Walker, Mr. William Anderson",engineering crew
+male,B,,,no,30,England,,,"Allison, Master. Hudson Trevor",engineering crew
+male,S,,,no,46,England,,,"Jackson, Mr. Cecil",engineering crew
+male,S,,,no,30,England,,,"Watson, Mr. Willim",engineering crew
+female,S,,,yes,30,England,,,"McCoy, Mr. Bernard",engineering crew
+male,B,,,yes,30,England,,,"Young, Miss. Marie Grice",engineering crew
+male,S,,,no,30,England,,,"Abelson, Mr. Samuel",engineering crew
+male,B,,,no,30,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,30,England,,,"Marsh, Mr. Frederick Charles",engineering crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",engineering crew
+male,S,,,no,46,England,,,"Shaw, Mr. Henry",engineering crew
+male,S,,,no,30,England,,,"Campbell, Mr. Donald S.",engineering crew
+male,B,,,no,46,England,,,"Moss, Mr. William",engineering crew
+male,S,,,no,30,England,,,"Ware, Mr. William Jeffery",engineering crew
+male,S,,,yes,46,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,yes,30,England,,,"Charters, Mr. David",engineering crew
+male,B,,,yes,46,England,,,"Campbell, Mr. Donald S.",engineering crew
+male,S,,,no,30,,,,"Andersen-Jensen, Miss. Carla Christine Nielsine",engineering crew
+male,S,,,no,30,England,,,"Partner, Mr. Austin",engineering crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Gregory, Mr. David",engineering crew
+male,B,,,no,30,England,,,"Hickman, Mr. Lewis",engineering crew
+male,B,,,yes,30,Wales,,,"McMicken, Mr. Benjamin Tucker",engineering crew
+male,S,,,no,30,Wales,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Nasser, Mr. Nicholas",engineering crew
+male,B,,,no,46,England,,,"Davis, Mr. John",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Lester, Mr. James",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,14,England,,,"Caram, Mr. Joseph",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,yes,30,Ireland,,,"Evans, Miss. Edith Corse",engineering crew
+male,S,,,yes,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",engineering crew
+male,S,,,no,30,England,,,"Anderson, Mr. Harry",engineering crew
+male,S,,,no,30,England,,,"McMahon, Mr. Martin",engineering crew
+male,S,,,no,30,England,,,"Adams, Mr. John",engineering crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,no,30,England,,,"McCarthy, Mr. Timothy J.",engineering crew
+male,S,,,no,46,England,,,"Rice, Master. Eric",engineering crew
+male,B,,,no,30,Northern Ireland,,,"Dickson, Mr. William",engineering crew
+male,S,,,no,30,Australia,,,"Kent, Mr. Edward Austin",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Johnson, Mr. August",engineering crew
+male,S,,,no,30,England,,,"Hoyt, Mrs. Jane Anne",engineering crew
+male,S,,,no,46,England,,,"McCarthy, Mr. Timothy J.",engineering crew
+male,B,,,no,30,England,,,"Walker, Mr. William Anderson",engineering crew
+male,S,,,no,30,Italy,,,"Marvin, Mr. Daniel Warner",engineering crew
+male,S,,,no,46,England,,,"Lee, Mr. H.",engineering crew
+male,S,,,no,30,England,,,"Campbell, Mr. Donald S.",engineering crew
+male,S,,,no,30,England,,,"Cross, Mr. William Alfred",engineering crew
+female,S,,,yes,30,England,,,"Brooks, Mr. J.",engineering crew
+male,S,,,no,30,England,,,"Simmons, Mr. John",engineering crew
+male,S,,,yes,30,England,,,"Hopkins, Mr. Robert John",engineering crew
+male,B,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,30,England,,,"Frauenthal, Dr. Henry William",engineering crew
+male,S,,,no,30,England,,,"Rice, Master. Eric",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Young, Miss. Marie Grice",engineering crew
+male,B,,,no,30,England,,,"Williams, Mr. Leslie",engineering crew
+male,B,,,no,30,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,46,England,,,"Doyle, Miss. Elizabeth",engineering crew
+male,S,,,no,30,England,,,"Baxter, Mr. Thomas Ferguson",engineering crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,yes,30,Ireland,,,"Davis, Mr. John",engineering crew
+male,S,,,yes,30,England,,,"Willer, Mr. Aaron",engineering crew
+male,S,,,no,30,England,,,"Sage, Mr. Frederick",engineering crew
+male,S,,,no,30,England,,,"Silverthorne, Mr. Spencer Victor",engineering crew
+male,S,,,no,30,England,,,"Wood, Mr. Henry",engineering crew
+male,B,,,no,46,Ireland,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,14,Northern Ireland,,,"Brown, Mrs. Margaret",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Rice, Master. Eric",engineering crew
+male,B,,,no,30,England,,,"Johnson, Mr. August",engineering crew
+male,S,,,no,30,England,,,"Brailey, Mr. William Theodore Ronald",engineering crew
+male,S,,,no,46,England,,,"Hart, Mr. Benjamin",engineering crew
+male,S,,,no,30,England,,,"Walker, Mr. William Anderson",engineering crew
+male,S,,,no,30,England,,,"Lee, Mr. H.",engineering crew
+male,S,,,no,30,England,,,"Warren, Mr. Charles William",engineering crew
+male,S,,,no,30,England,,,"Cook, Mr. Jacob",engineering crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",engineering crew
+male,S,,,no,14,England,,,"Willer, Mr. Aaron",engineering crew
+male,S,,,no,30,England,,,"Porter, Mr. Walter Chamberlain",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,46,England,,,"Bailey, Mr. Percy",engineering crew
+male,S,,,yes,30,England,,,"Collyer, Mr. Harvey",engineering crew
+male,S,,,no,30,France,,,"Cave, Mr. Herbert",engineering crew
+male,S,,,no,30,England,,,"Robinson, Mrs. Annie",engineering crew
+male,B,,,no,30,England,,,"Brown, Mrs. Margaret",engineering crew
+male,S,,,no,30,England,,,"Johnson, Mr. August",engineering crew
+male,S,,,yes,14,England,,,"Guggenheim, Mr. Benjamin",engineering crew
+male,B,,,yes,46,England,,,"Pålsson, Master. Paul Folke",engineering crew
+male,B,,,no,46,England,,,"Fortune, Mr. Mark",engineering crew
+male,S,,,yes,30,England,,,"Williams, Mr. Leslie",engineering crew
+male,S,,,no,30,England,,,"Clark, Mr. William",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,46,England,,,"Cornblatt, Mr. Harris",engineering crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,yes,30,England,,,"Hill, Mr. H. P.",engineering crew
+male,B,,,no,30,England,,,"Ellis, Mr. John Bertie",engineering crew
+male,B,,,yes,46,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,yes,30,Scotland,,,"Sadlier, Mr. Matthew",engineering crew
+male,S,,,no,30,England,,,"Nasser, Mr. Nicholas",engineering crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,yes,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Thompson, Mr. John William",engineering crew
+male,B,,,no,30,England,,,"Dean, Mr. George H.",engineering crew
+male,B,,,no,30,Wales,,,"Davidson, Mr. Thornton",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Fox, Mr. Stanley Harrington",engineering crew
+male,S,,,no,30,England,,,"Bird, Miss. Ellen",engineering crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Robinson, Mrs. Annie",engineering crew
+male,B,,,no,30,England,,,"Burton, Mr. Edward John",engineering crew
+male,S,,,no,14,England,,,"Stone, Mrs. Martha Evelyn",engineering crew
+male,B,,,no,30,England,,,"Doyle, Miss. Elizabeth",engineering crew
+male,S,,,no,30,England,,,"King, Mr. G.",engineering crew
+male,S,,,no,14,England,,,"Hold, Mr. Stephen",engineering crew
+male,S,,,yes,30,England,,,"Haas, Miss. Aloisia",engineering crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,yes,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,yes,30,England,,,"Clark, Mr. Walter Miller",engineering crew
+male,S,,,no,46,England,,,"Smith, Mr. F.",engineering crew
+male,B,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,B,,,no,46,England,,,"White, Mrs. Ella",engineering crew
+male,S,,,no,30,Guyana,,,"Walker, Mr. William Anderson",engineering crew
+male,S,,,yes,30,England,,,"Goldschmidt, Mr. George B.",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,Italy,,,"Brown, Mrs. Margaret",engineering crew
+male,B,,,no,30,England,,,"Head, Mr. Christopher",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Buckley, Miss. Katherine",engineering crew
+male,B,,,no,30,Ireland,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,46,England,,,"Cornblatt, Mr. Harris",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,India,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Abelson, Mr. Samuel",engineering crew
+male,S,,,yes,46,England,,,"Head, Mr. Christopher",engineering crew
+male,S,,,no,30,England,,,"Douglas, Mrs. Mahala",engineering crew
+male,S,,,no,46,England,,,"Walsh, Miss. Catherine",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Williams, Mr. Leslie",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,Wales,,,"Salkjelsvik, Miss. Anna Kristine",engineering crew
+male,S,,,no,46,England,,,"Frauenthal, Mr. Isaac Gerald",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",engineering crew
+male,B,,,no,14,Northern Ireland,,,"Harris, Mr. Walter",engineering crew
+male,B,,,yes,46,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Cornblatt, Mr. Harris",engineering crew
+male,S,,,yes,30,England,,,"Gallagher, Mr. Martin",engineering crew
+male,B,,,no,30,England,,,"Hold, Mr. Stephen",engineering crew
+male,S,,,no,30,England,,,"Charters, Mr. David",engineering crew
+male,B,,,no,30,England,,,"West, Mr. Edwy Arthur",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,B,,,yes,30,England,,,"Stewart, Mr. John",engineering crew
+male,S,,,no,30,England,,,"Ward, Mr. Arthur",engineering crew
+male,B,,,no,30,England,,,"Hardy, Mr. John",engineering crew
+male,S,,,no,46,England,,,"Wilson, Miss. Helen Alice",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Prideaux, Mr. John Arthur (Jack)",engineering crew
+male,S,,,no,30,England,,,"Roberts, Mr. Hugh H.",engineering crew
+male,S,,,no,14,England,,,"Marvin, Mr. Daniel Warner",engineering crew
+male,S,,,no,30,England,,,"Anderson, Mr. Harry",engineering crew
+male,S,,,yes,30,England,,,"Lester, Mr. James",engineering crew
+male,B,,,no,30,England,,,"Morgan, Mr. Thomas A.",engineering crew
+male,S,,,yes,46,England,,,"Reed, Mr. James George",engineering crew
+male,B,,,yes,30,England,,,"Cook, Mr. Jacob",engineering crew
+male,B,,,no,30,England,,,"Johnston, Mrs. Eliza",engineering crew
+male,B,,,yes,46,Ireland,,,"King, Mr. G.",engineering crew
+male,S,,,yes,30,Wales,,,"Hickman, Mr. Lewis",engineering crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",engineering crew
+male,S,,,no,46,England,,,"Williams, Mr. Leslie",engineering crew
+male,S,,,no,30,England,,,"Dodge, Dr. Washington",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Farrell, Mr. James",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Newman, Mr. Charles Thomas",engineering crew
+male,S,,,no,30,England,,,"Baxter, Mr. Thomas Ferguson",engineering crew
+male,S,,,no,30,England,,,"Gregory, Mr. David",engineering crew
+male,B,,,no,30,Scotland,,,"Prideaux, Mr. John Arthur (Jack)",engineering crew
+male,S,,,yes,30,England,,,"Roth, Miss. Sarah",engineering crew
+male,B,,,no,46,England,,,"Richards, Mrs. Emily",engineering crew
+male,S,,,yes,30,England,,,"Smith, Mr. F.",engineering crew
+male,S,,,no,30,England,,,"Johnson, Mr. August",engineering crew
+male,S,,,no,30,England,,,"Moss, Mr. William",engineering crew
+male,S,,,no,30,England,,,"Brewer, Mr. Harry",engineering crew
+male,S,,,yes,30,England,,,"Bedford, Mr. William Barnett",engineering crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,30,England,,,"Webber, Miss. Susan",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,62,England,,,"Hickman, Mr. Lewis",engineering crew
+male,S,,,no,30,England,,,"Dodge, Dr. Washington",engineering crew
+male,S,,,no,30,England,,,"Veström, Miss. Hulda Amanda Adolfina",engineering crew
+female,S,,,yes,46,England,,,"Baxter, Mr. Thomas Ferguson",engineering crew
+male,S,,,no,30,England,,,"Fortune, Mr. Mark",engineering crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",engineering crew
+male,S,,,no,46,England,,,"Guggenheim, Mr. Benjamin",engineering crew
+male,B,,,no,30,England,,,"Barry, Miss. Julia",engineering crew
+male,S,,,no,30,England,,,"Nasser, Mr. Nicholas",engineering crew
+male,S,,,no,30,England,,,"Davis, Mr. John",engineering crew
+male,S,,,no,30,England,,,"Bradley, Mr. T.",engineering crew
+male,B,,,yes,30,Northern Ireland,,,"Goodwin, Miss. Lillian Amy",engineering crew
+male,S,,,no,46,England,,,"Charters, Mr. David",engineering crew
+female,S,,,yes,46,England,,,"Beesley, Mr. Lawrence",engineering crew
+male,S,,,no,30,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,30,England,,,"Howard, Mr. Benjamin",engineering crew
+male,S,,,no,30,England,,,"Canavan, Mr. Patrick",engineering crew
+male,S,,,yes,30,England,,,"Jones, Mr. Charles Cresson",engineering crew
+male,S,,,no,30,United States,,,"Abelson, Mrs. Hannah",engineering crew
+male,B,,,yes,30,Northern Ireland,,,"Sobey, Mr. Samuel James Hayden",engineering crew
+male,B,,,yes,30,England,,,"Evans, Miss. Edith Corse",engineering crew
+male,S,,,yes,30,England,,,"Curtis, Mr. Arthur",engineering crew
+male,S,,,no,30,England,,,"Graham, Mrs. Edith",engineering crew
+male,S,,,no,46,England,,,"Bell, Mr. Joseph",engineering crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",engineering crew
+male,S,,,no,46,England,,,"Ali, Mr. William",engineering crew
+male,B,,,no,30,England,,,"Roth, Miss. Sarah",engineering crew
+male,S,,,no,46,Ireland,,,"Bird, Miss. Ellen",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Charters, Mr. David",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Bennett, Mrs. Mabel",engineering crew
+male,B,,,yes,30,England,,,"Knight, Mr. Robert",engineering crew
+male,S,,,no,30,England,,,"Adams, Mr. John",engineering crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Smith, Mr. F.",engineering crew
+male,S,,,no,30,England,,,"Bessette, Miss. Nellie Mayo",engineering crew
+male,S,,,no,14,England,,,"Head, Mr. Christopher",engineering crew
+male,S,,,yes,30,England,,,"Roth, Miss. Sarah",engineering crew
+male,S,,,yes,30,England,,,"Hodgkinson, Mr. Leonard",engineering crew
+male,B,,,no,30,England,,,"Gallagher, Mr. Martin",engineering crew
+male,S,,,no,46,England,,,"Ali, Mr. William",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Clarke, Mr. Charles Valentine",engineering crew
+male,B,,,no,30,Northern Ireland,,,"Connaughton, Mr. Michael",engineering crew
+male,S,,,no,30,England,,,"Clark, Mr. Walter Miller",engineering crew
+male,S,,,no,46,England,,,"Rice, Master. Eric",engineering crew
+male,S,,,no,46,England,,,"Bourke, Miss. Mary",engineering crew
+male,B,,,no,46,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,30,England,,,"Morrow, Mr. Thomas Rowan",engineering crew
+male,S,,,yes,30,England,,,"Watson, Mr. Willim",engineering crew
+male,S,,,no,30,England,,,"Bell, Mr. Joseph",engineering crew
+male,B,,,yes,46,England,,,"Dodge, Dr. Washington",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Brown, Mrs. Margaret",engineering crew
+male,S,,,no,30,England,,,"Ford, Mr. Arthur",engineering crew
+male,B,,,no,30,England,,,"West, Miss. Barbara Joyce",engineering crew
+male,S,,,no,46,England,,,"McCarthy, Mr. Timothy J.",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,yes,30,England,,,"Caram, Mr. Joseph",engineering crew
+male,S,,,no,30,England,,,"Adams, Mr. John",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,46,England,,,"Goldschmidt, Mr. George B.",engineering crew
+male,S,,,no,30,England,,,"Robinson, Mrs. Annie",engineering crew
+male,S,,,no,30,England,,,"Sadlier, Mr. Matthew",engineering crew
+male,S,,,no,30,England,,,"Bradley, Mr. T.",engineering crew
+male,S,,,no,30,England,,,"Charters, Mr. David",engineering crew
+male,B,,,no,14,England,,,"Kelly, Miss. Mary",engineering crew
+male,B,,,no,30,England,,,"Rice, Master. Eric",engineering crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",engineering crew
+male,B,,,no,46,England,,,"Bourke, Miss. Mary",engineering crew
+male,S,,,no,46,England,,,"Guggenheim, Mr. Benjamin",engineering crew
+male,B,,,yes,30,England,,,"Snow, Mr. Eustace Philip",engineering crew
+male,S,,,no,30,England,,,"Shepherd, Mr. Jonathan",engineering crew
+male,B,,,no,30,England,,,"Davies, Master. John Morgan jr",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Christy, Mrs. Alice Frances",engineering crew
+male,S,,,no,14,England,,,"Bonnell, Miss. Elizabeth",engineering crew
+male,S,,,yes,30,England,,,"Sirota, Mr. Morris",engineering crew
+male,S,,,yes,30,England,,,"Allison, Mr. Hudson Joshua Creighton",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,14,England,,,"Scott, Mr. Archibald",engineering crew
+male,S,,,no,30,England,,,"Bourke, Miss. Mary",engineering crew
+male,S,,,yes,46,England,,,"Giglio, Mr. Victor Gaitan Andrea",engineering crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",engineering crew
+male,S,,,no,30,England,,,"Andrews, Mr. Thomas",engineering crew
+male,S,,,no,46,England,,,"Johnson, Mr. August",engineering crew
+male,S,,,yes,30,England,,,"Abelson, Mrs. Hannah",engineering crew
+male,S,,,no,30,England,,,"Black, Mr. D.",engineering crew
+male,B,,,no,30,England,,,"Connaughton, Mr. Michael",restaurant staff
+male,S,,,yes,14,England,,,"Jones, Mr. Charles Cresson",restaurant staff
+male,S,,,no,30,England,,,"Bowen, Miss. Grace Scott",restaurant staff
+male,S,,,no,14,England,,,"Blake, Mr. Seaton",restaurant staff
+male,S,,,no,30,England,,,"Murphy, Miss. Catherine",restaurant staff
+male,S,,,no,14,England,,,"Ryan, Mr. Edward",restaurant staff
+male,S,,,no,30,England,,,"Campbell, Mr. Donald S.",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,B,,,no,30,England,,,"McCarthy, Miss. Catherine",restaurant staff
+male,S,,,no,46,England,,,"Veström, Miss. Hulda Amanda Adolfina",restaurant staff
+male,S,,,no,30,France,,,"Chapman, Mrs. Sara Elizabeth",restaurant staff
+male,S,,,no,30,Wales,,,"Charters, Mr. David",restaurant staff
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,England,,,"Johnson, Mr. August",restaurant staff
+male,S,,,no,30,England,,,"Smith, Mr. F.",restaurant staff
+male,B,,,no,46,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+female,S,,,yes,30,England,,,"Adams, Mr. John",restaurant staff
+male,B,,,yes,30,England,,,"Siebert, Mr. Sidney Conrad",restaurant staff
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",restaurant staff
+male,B,,,yes,46,England,,,"Ryan, Mr. Edward",restaurant staff
+male,S,,,no,14,England,,,"Robinson, Mrs. Annie",restaurant staff
+male,S,,,no,30,England,,,"Ross, Mr. John Hugo",restaurant staff
+male,S,,,no,30,England,,,"Corey, Mrs. Mary Emma",restaurant staff
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,B,,,yes,30,England,,,"Connaughton, Mr. Michael",restaurant staff
+male,S,,,yes,30,England,,,"Johnson, Mr. August",restaurant staff
+male,S,,,no,30,England,,,"Knight, Mr. Robert",restaurant staff
+male,S,,,no,30,England,,,"Adams, Mr. John",restaurant staff
+male,S,,,yes,30,England,,,"Christy, Mrs. Alice Frances",restaurant staff
+male,S,,,no,46,England,,,"Bourke, Miss. Mary",restaurant staff
+male,S,,,no,30,England,,,"Casey, Mr. Thomas",restaurant staff
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,14,England,,,"Hartley, Mr. Wallace Henry",restaurant staff
+male,B,,,no,30,Scotland,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,yes,30,England,,,"Ali, Mr. William",restaurant staff
+male,B,,,no,46,England,,,"Cook, Mr. Jacob",restaurant staff
+male,S,,,no,30,England,,,"Davis, Mr. John",restaurant staff
+male,S,,,no,30,England,,,"Kelly, Miss. Mary",restaurant staff
+male,B,,,no,46,England,,,"Barker, Mr. Albert Vale",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,Scotland,,,"Abbing, Mr. Anthony",restaurant staff
+male,B,,,no,30,England,,,"Anderson, Mr. Harry",restaurant staff
+male,S,,,no,30,Ireland,,,"Ray, Mr. Frederick Dent",restaurant staff
+male,S,,,no,30,England,,,"Orr, Mr. James",restaurant staff
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,Ireland,,,"Buckley, Mr. Daniel",restaurant staff
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,46,England,,,"Abelson, Mrs. Hannah",restaurant staff
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",restaurant staff
+male,S,,,no,30,England,,,"Smith, Mr. F.",restaurant staff
+male,S,,,no,46,England,,,"Williams, Mr. Leslie",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,S,,,no,30,England,,,"Davis, Mr. John",restaurant staff
+male,S,,,yes,46,England,,,"Rotta, Sig. Angelo Mario",restaurant staff
+male,S,,,no,30,England,,,"Smith, Mr. F.",restaurant staff
+male,S,,,yes,46,England,,,"Brandeis, Mr. Emil Franklin",restaurant staff
+male,S,,,no,14,England,,,"Rowe, Mr. Alfred G.",restaurant staff
+male,S,,,no,46,England,,,"Farrell, Mr. James",restaurant staff
+male,B,,,no,46,England,,,"Milling, Mr. Jacob Christian",restaurant staff
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",restaurant staff
+male,B,,,no,46,England,,,"Goodwin, Miss. Lillian Amy",restaurant staff
+female,S,,,yes,30,England,,,"Ray, Mr. Frederick Dent",restaurant staff
+male,B,,,no,30,England,,,"Kerr, Mr. Thomas Russell",restaurant staff
+male,S,,,no,30,England,,,"Dodge, Dr. Washington",restaurant staff
+female,S,,,yes,46,England,,,"Dodge, Dr. Washington",restaurant staff
+male,S,,,no,14,England,,,"White, Mr. Edward Joseph",victualling crew
+male,S,,,yes,30,England,,,"McMahon, Mr. Martin",victualling crew
+male,S,,,yes,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Sloper, Mr. William Thompson",victualling crew
+male,B,,,no,30,United States,,,"Fortune, Mr. Mark",victualling crew
+male,B,,,no,30,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,yes,30,England,,,"Fox, Mr. Patrick",victualling crew
+male,S,,,no,30,England,,,"Hill, Mr. H. P.",victualling crew
+male,S,,,no,14,England,,,"McCarthy, Mr. Timothy J.",victualling crew
+male,S,,,no,46,England,,,"Brailey, Mr. William Theodore Ronald",victualling crew
+male,B,,,yes,30,England,,,"Chaffee, Mr. Herbert Fuller",victualling crew
+male,S,,,yes,30,England,,,"Head, Mr. Christopher",victualling crew
+male,B,,,yes,30,England,,,"Roth, Miss. Sarah",victualling crew
+male,B,,,no,46,England,,,"Moore, Mr. John J.",victualling crew
+male,S,,,no,30,England,,,"Johansson, Mr. Gustaf Joel",victualling crew
+male,S,,,no,30,England,,,"Ismay, Mr. Joseph Bruce",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Charles Cresson",victualling crew
+male,S,,,no,14,England,,,"Ryan, Mr. Edward",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,B,,,yes,30,Wales,,,"Andersen-Jensen, Miss. Carla Christine Nielsine",victualling crew
+male,S,,,yes,30,England,,,"Williams, Mr. Leslie",victualling crew
+male,B,,,yes,30,England,,,"Dawson, Mr. Joseph",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,Ireland,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,30,England,,,"Hodgkinson, Mr. Leonard",victualling crew
+male,S,,,no,30,England,,,"Partner, Mr. Austin",victualling crew
+male,B,,,no,30,Scotland,,,"Hill, Mr. H. P.",victualling crew
+male,B,,,no,30,England,,,"Gilbert, Mr. William",victualling crew
+male,S,,,yes,30,England,,,"White, Mrs. Ella",victualling crew
+male,S,,,no,30,England,,,"Hill, Mr. H. P.",victualling crew
+male,S,,,no,46,United States,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Becker, Master. Richard F.",victualling crew
+male,S,,,no,30,Scotland,,,"Dodge, Dr. Washington",victualling crew
+male,S,,,no,30,England,,,"Sloper, Mr. William Thompson",victualling crew
+female,S,,,yes,30,England,,,"Allen, Mr. Frederick",victualling crew
+male,S,,,no,30,England,,,"Robinson, Mrs. Annie",victualling crew
+female,S,,,yes,14,England,,,"Abbing, Mr. Anthony",victualling crew
+female,S,,,yes,30,Channel Islands,,,"Rogers, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Uruchurtu, Don. Manuel Ramirez",victualling crew
+male,S,,,yes,30,England,,,"Kerr, Mr. Thomas Russell",victualling crew
+male,S,,,no,30,England,,,"Blank, Mr. Henry",victualling crew
+male,S,,,no,30,England,,,"Roberts, Mr. Hugh H.",victualling crew
+male,S,,,no,30,Wales,,,"Sloper, Mr. William Thompson",victualling crew
+male,S,,,no,14,England,,,"Scott, Mr. Archibald",victualling crew
+male,S,,,yes,30,England,,,"Richards, Mrs. Emily",victualling crew
+male,B,,,no,30,England,,,"Lee, Mr. H.",victualling crew
+male,S,,,no,30,England,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,46,England,,,"Hold, Mr. Stephen",victualling crew
+male,B,,,yes,30,England,,,"Pålsson, Master. Paul Folke",victualling crew
+male,S,,,no,30,England,,,"Dodge, Dr. Washington",victualling crew
+male,B,,,no,46,England,,,"Bochatay, Mr. Alexis Joseph",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,S,,,no,30,,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Wright, Miss. Marion",victualling crew
+male,S,,,yes,46,Ireland,,,"Fortune, Mr. Mark",victualling crew
+male,S,,,no,30,England,,,"Long, Mr. Frank",victualling crew
+male,B,,,no,30,Scotland,,,"Johnson, Mr. August",victualling crew
+male,S,,,no,30,England,,,"Douglas, Mrs. Mahala",victualling crew
+male,S,,,yes,30,England,,,"Ali, Mr. William",victualling crew
+male,S,,,no,30,England,,,"Adams, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Hold, Mr. Stephen",victualling crew
+male,S,,,yes,30,Ireland,,,"Head, Mr. Christopher",victualling crew
+male,S,,,no,14,England,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Brown, Mr. Thomas William Solomon",victualling crew
+male,B,,,yes,30,England,,,"Head, Mr. Christopher",victualling crew
+female,S,,,yes,30,England,,,"Head, Mr. Christopher",victualling crew
+male,B,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Abelson, Mrs. Hannah",victualling crew
+male,B,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,B,,,no,46,England,,,"Blank, Mr. Henry",victualling crew
+male,B,,,no,30,Northern Ireland,,,"Harris, Mr. Walter",victualling crew
+male,S,,,no,30,England,,,"Ross, Mr. John Hugo",victualling crew
+male,B,,,no,30,Northern Ireland,,,"Moore, Mr. John J.",victualling crew
+male,S,,,no,30,England,,,"Cook, Mr. Jacob",victualling crew
+male,B,,,no,30,Ireland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Beane, Mr. Edward",victualling crew
+male,B,,,no,30,Scotland,,,"McCarthy, Mr. Timothy J.",victualling crew
+male,B,,,no,30,Northern Ireland,,,"Roberts, Mr. Hugh H.",victualling crew
+male,S,,,yes,46,England,,,"Hale, Mr. Reginald",victualling crew
+male,S,,,no,46,England,,,"Connaughton, Mr. Michael",victualling crew
+male,B,,,no,46,Lebanon,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,14,England,,,"Farrell, Mr. James",victualling crew
+male,S,,,no,14,Spain,,,"Shannon, Mr. Andrew John",victualling crew
+male,S,,,no,30,England,,,"Andrews, Mr. Thomas",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,England,,,"Smith, Mr. F.",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Watson, Mr. Willim",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Caram, Mr. Joseph",victualling crew
+male,B,,,yes,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,30,England,,,"Behr, Mr. Karl Howell",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,Scotland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Thomas William",victualling crew
+male,S,,,no,14,Scotland,,,"Andrews, Mr. Thomas",victualling crew
+male,B,,,no,30,Scotland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,Italy,,,"Ali, Mr. William",victualling crew
+male,S,,,yes,30,England,,,"Ware, Mr. Frederick",victualling crew
+male,S,,,no,30,England,,,"Mitchell, Mr. Henry Michael",victualling crew
+male,S,,,no,30,England,,,"Davis, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Blank, Mr. Henry",victualling crew
+male,B,,,no,46,Australia,,,"King, Mr. G.",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Cribb, Miss. Laura Mae",victualling crew
+male,S,,,no,30,Scotland,,,"Moore, Mr. John J.",victualling crew
+male,S,,,no,46,England,,,"Wells, Miss. Joan",victualling crew
+male,S,,,no,30,England,,,"Black, Mr. D.",victualling crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,yes,30,England,,,"Sloper, Mr. William Thompson",victualling crew
+male,S,,,yes,30,England,,,"Brandeis, Mr. Emil Franklin",victualling crew
+male,S,,,yes,30,England,,,"Beesley, Mr. Lawrence",victualling crew
+male,B,,,no,46,England,,,"Ali, Mr. William",victualling crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",victualling crew
+male,S,,,no,30,England,,,"Snyder, Mrs. Nelle",victualling crew
+male,S,,,yes,30,England,,,"Charters, Mr. David",victualling crew
+male,B,,,yes,30,Channel Islands,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,62,England,,,"Andersen, Mr. Albert Karvin",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Charles Cresson",victualling crew
+male,S,,,no,30,Scotland,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Payne, Mr. Vivian Ponsonby",victualling crew
+male,S,,,yes,30,England,,,"Adams, Mr. John",victualling crew
+male,S,,,yes,30,England,,,"Allison, Master. Hudson Trevor",victualling crew
+male,S,,,no,46,Wales,,,"Hart, Mr. Benjamin",victualling crew
+male,S,,,no,14,England,,,"Harris, Mr. Walter",victualling crew
+male,S,,,no,14,England,,,"Dodge, Dr. Washington",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Osborne, Mr. William Edward",victualling crew
+male,S,,,no,30,England,,,"Sadlier, Mr. Matthew",victualling crew
+male,S,,,no,30,England,,,"Chapman, Mrs. Sara Elizabeth",victualling crew
+male,B,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,B,,,no,30,England,,,"Kink, Miss. Maria",victualling crew
+male,S,,,no,14,England,,,"Best, Mr. Edwin Alfred",victualling crew
+male,S,,,yes,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Ball, Mr. Percy",victualling crew
+male,S,,,no,30,England,,,"Milling, Mr. Jacob Christian",victualling crew
+male,S,,,yes,30,England,,,"Ware, Mr. William Jeffery",victualling crew
+male,S,,,no,30,England,,,"Sadlier, Mr. Matthew",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,46,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,14,England,,,"Laitinen, Miss. Kristina Sofia",victualling crew
+male,S,,,no,30,England,,,"Farrell, Mr. James",victualling crew
+male,B,,,yes,30,England,,,"Randall, Mr. Frank Henry",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,England,,,"Buckley, Miss. Katherine",victualling crew
+male,S,,,no,30,England,,,"Hall, Mr. J.",victualling crew
+male,S,,,yes,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Veström, Miss. Hulda Amanda Adolfina",victualling crew
+male,S,,,yes,30,England,,,"Roth, Miss. Sarah",victualling crew
+male,S,,,no,30,England,,,"Smart, Mr. John Montgomery",victualling crew
+male,S,,,yes,30,Germany,,,"Richards, Mrs. Emily",victualling crew
+male,B,,,yes,30,England,,,"Buckley, Mr. Daniel",victualling crew
+male,S,,,no,30,England,,,"Guggenheim, Mr. Benjamin",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"White, Mrs. Ella",victualling crew
+male,S,,,no,14,England,,,"Aks, Mrs. Leah",victualling crew
+male,S,,,no,30,England,,,"Oliver, Mr. H.",victualling crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,B,,,yes,30,England,,,"Cornblatt, Mr. Harris",victualling crew
+male,S,,,no,14,England,,,"Whiteley, Mr. Thomas Arthur",victualling crew
+male,S,,,yes,30,England,,,"Watson, Mr. Willim",victualling crew
+male,S,,,no,30,England,,,"Beesley, Mr. Lawrence",victualling crew
+male,S,,,yes,30,Channel Islands,,,"Barton, Mr. David John",victualling crew
+male,S,,,no,30,England,,,"Wick, Miss. Mary Natalie",victualling crew
+male,S,,,no,30,England,,,"Adams, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Wilson, Miss. Helen Alice",victualling crew
+male,S,,,yes,30,England,,,"Barbara, Miss. Saiide",victualling crew
+male,S,,,yes,30,England,,,"Wright, Miss. Marion",victualling crew
+male,S,,,yes,30,England,,,"Walker, Mr. William Anderson",victualling crew
+male,S,,,no,14,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+female,S,,,yes,30,England,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,30,England,,,"Ford, Mr. H.",victualling crew
+male,S,,,yes,30,England,,,"Howard, Mr. Benjamin",victualling crew
+male,S,,,yes,30,England,,,"Bonnell, Miss. Elizabeth",victualling crew
+male,B,,,no,46,England,,,"Collyer, Mr. Harvey",victualling crew
+male,S,,,no,30,England,,,"Head, Mr. Christopher",victualling crew
+male,S,,,no,30,England,,,"Cooper, Mr. Harry",victualling crew
+male,S,,,yes,14,England,,,"Bourke, Miss. Mary",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,yes,30,England,,,"Hickman, Mr. Lewis",victualling crew
+male,B,,,no,46,England,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,30,England,,,"Johansson, Mr. Erik",victualling crew
+male,S,,,yes,30,England,,,"Kimball, Mr. Edwin Nelson Jr.",victualling crew
+male,B,,,no,46,England,,,"Welch, Mr. William Harold",victualling crew
+male,B,,,no,30,Channel Islands,,,"Lee, Mr. H.",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,yes,30,England,,,"Fortune, Mr. Mark",victualling crew
+male,S,,,no,14,England,,,"Van Impe, Mrs. Rosalie Paula",victualling crew
+male,S,,,no,46,England,,,"Allen, Mr. Frederick",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Shannon, Mr. Andrew John",victualling crew
+male,S,,,no,30,England,,,"Hall, Mr. J.",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,no,14,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,30,England,,,"Kennedy, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Gallagher, Mr. Martin",victualling crew
+male,S,,,no,30,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Radeff, Mr. Alexander",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,S,,,no,14,England,,,"Evans, Miss. Edith Corse",victualling crew
+male,B,,,no,30,England,,,"Beane, Mr. Edward",victualling crew
+male,B,,,no,30,Wales,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Cook, Mr. Jacob",victualling crew
+female,S,,,yes,46,England,,,"Keane, Mr. Andrew",victualling crew
+male,S,,,no,30,England,,,"Buckley, Mr. Daniel",victualling crew
+female,S,,,yes,46,England,,,"Wick, Miss. Mary Natalie",victualling crew
+male,S,,,no,30,England,,,"Sage, Mr. Frederick",victualling crew
+male,S,,,no,30,Ireland,,,"Howard, Mr. Benjamin",victualling crew
+male,S,,,yes,30,England,,,"White, Mrs. Ella",victualling crew
+male,S,,,no,30,England,,,"Miles, Mr. Frank",victualling crew
+male,B,,,no,30,England,,,"Douglas, Mrs. Mahala",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Turner, Mr. George Frederick",victualling crew
+male,B,,,yes,30,England,,,"Clark, Mr. Walter Miller",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,B,,,yes,46,England,,,"King, Mr. G.",victualling crew
+male,S,,,no,14,England,,,"Cardeza, Mr. Thomas Drake Martinez",victualling crew
+male,S,,,no,30,England,,,"Hunt, Mr. Tom",victualling crew
+male,S,,,no,30,Channel Islands,,,"Charters, Mr. David",victualling crew
+male,S,,,yes,30,Canada,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,Italy,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,Wales,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,30,England,,,"Caram, Mr. Joseph",victualling crew
+male,S,,,no,30,England,,,"Kelly, Miss. Mary",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Collins, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Perry, Mr. Edgar Lionel",victualling crew
+male,S,,,yes,30,England,,,"Dwan, Mr. Frank",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Charles Cresson",victualling crew
+male,S,,,yes,30,England,,,"Clark, Mr. Walter Miller",victualling crew
+male,S,,,no,46,Italy,,,"Ali, Mr. William",victualling crew
+male,S,,,no,46,Northern Ireland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Jonsson, Mr. Carl",victualling crew
+male,S,,,no,14,England,,,"Smith, Mr. F.",victualling crew
+male,S,,,no,46,England,,,"Allison, Mr. Hudson Joshua Creighton",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Clark, Mr. William",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Charles Cresson",victualling crew
+male,S,,,yes,30,England,,,"Bochatay, Mr. Alexis Joseph",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,no,46,England,,,"Barbara, Miss. Saiide",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,14,England,,,"Beane, Mr. Edward",victualling crew
+male,S,,,no,30,England,,,"Freeman, Mr. Ernest Edward Samuel",victualling crew
+male,S,,,yes,30,England,,,"Jackson, Mr. Cecil",victualling crew
+male,S,,,no,14,England,,,"Head, Mr. Christopher",victualling crew
+male,B,,,no,30,England,,,"Abelseth, Miss. Karen Marie",victualling crew
+male,S,,,yes,30,England,,,"McCarthy, Mr. Timothy J.",victualling crew
+male,S,,,no,30,England,,,"Roberts, Mr. Hugh H.",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,Northern Ireland,,,"Gregory, Mr. David",victualling crew
+male,S,,,no,30,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,no,30,England,,,"Ryan, Mr. Edward",victualling crew
+male,B,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+female,S,,,yes,30,Northern Ireland,,,"Howard, Mr. Benjamin",victualling crew
+male,B,,,no,30,England,,,"Davis, Mr. John",victualling crew
+female,S,,,yes,30,England,,,"Williams, Mr. Leslie",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,B,,,no,30,Scotland,,,"Abelson, Mr. Samuel",victualling crew
+male,S,,,no,62,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"McCoy, Miss. Agnes",victualling crew
+female,S,,,yes,46,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,no,30,England,,,"Daniels, Miss. Sarah Rebecca",victualling crew
+male,S,,,no,30,England,,,"Goldschmidt, Mr. George B.",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,B,,,no,14,England,,,"Ali, Mr. William",victualling crew
+male,B,,,no,30,Scotland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Gallagher, Mr. Martin",victualling crew
+male,S,,,no,30,,,,"White, Mrs. Ella",victualling crew
+male,S,,,no,30,England,,,"Hodges, Mr. Henry Price",victualling crew
+male,S,,,no,30,England,,,"Lee, Mr. H.",victualling crew
+female,S,,,no,30,England,,,"Bourke, Mrs. Catherine",victualling crew
+male,S,,,no,46,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,yes,30,England,,,"Fox, Mr. Patrick",victualling crew
+male,S,,,yes,30,England,,,"Cooper, Mr. Harry",victualling crew
+male,S,,,no,30,England,,,"Graham, Mrs. Edith",victualling crew
+male,S,,,no,30,England,,,"Ingram, Mr. George",victualling crew
+female,S,,,yes,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Clark, Mr. Walter Miller",victualling crew
+male,S,,,no,30,,,,"Guggenheim, Mr. Benjamin",victualling crew
+male,B,,,yes,30,Scotland,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,14,England,,,"Barbara, Miss. Saiide",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Lee, Mr. H.",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,14,England,,,"Johnson, Mr. August",victualling crew
+male,S,,,no,30,England,,,"Foster, Mr. Alfred Charles",victualling crew
+male,B,,,no,30,England,,,"Ali, Mr. William",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Lee, Mr. H.",victualling crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,B,,,no,46,Northern Ireland,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,46,England,,,"Sadlier, Mr. Matthew",victualling crew
+male,S,,,yes,30,England,,,"Webber, Miss. Susan",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Kink, Miss. Maria",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Davidson, Mr. Thornton",victualling crew
+male,S,,,yes,30,England,,,"Foley, Mr. Joseph",victualling crew
+male,S,,,no,46,England,,,"Abelson, Mrs. Hannah",victualling crew
+male,S,,,no,46,England,,,"Ali, Mr. William",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Partner, Mr. Austin",victualling crew
+male,S,,,no,30,England,,,"Mitchell, Mr. Henry Michael",victualling crew
+male,S,,,no,14,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,yes,30,England,,,"Clark, Mr. William",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Coleman, Mr. John",victualling crew
+male,S,,,no,14,England,,,"Bailey, Mr. Percy",victualling crew
+male,S,,,yes,46,England,,,"Boyd, Mr. John",victualling crew
+male,S,,,yes,30,England,,,"Gallagher, Mr. Martin",victualling crew
+male,B,,,yes,30,England,,,"Osborne, Mr. William Edward",victualling crew
+male,S,,,no,30,England,,,"Canavan, Mr. Patrick",victualling crew
+male,B,,,no,30,England,,,"Bennett, Mrs. Mabel",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Connaughton, Mr. Michael",victualling crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,yes,46,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,yes,30,England,,,"Adams, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Abbott, Mr. Eugene Joseph",victualling crew
+male,S,,,no,30,England,,,"Hold, Mr. Stephen",victualling crew
+male,B,,,yes,30,England,,,"Carr, Miss. Jane",victualling crew
+male,S,,,no,30,England,,,"Wood, Mr. Henry",victualling crew
+male,S,,,no,30,Scotland,,,"Davis, Mr. John",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Franklin, Mr. Alan Vincent",victualling crew
+male,B,,,no,30,Ireland,,,"Willer, Mr. Aaron",victualling crew
+male,S,,,no,46,England,,,"Burton, Mr. Edward John",victualling crew
+male,B,,,no,30,England,,,"Howard, Mr. Benjamin",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,14,Italy,,,"Warren, Mr. Charles William",victualling crew
+male,S,,,no,30,England,,,"Keane, Mr. Andrew",victualling crew
+male,S,,,no,30,Netherlands,,,"Lee, Mr. H.",victualling crew
+male,S,,,no,30,England,,,"Beesley, Mr. Lawrence",victualling crew
+male,S,,,no,30,England,,,"Giglio, Mr. Victor Gaitan Andrea",victualling crew
+male,S,,,no,30,England,,,"Morgan, Mr. Thomas A.",victualling crew
+male,S,,,no,30,England,,,"Moore, Mr. John J.",victualling crew
+male,S,,,no,30,England,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,yes,30,Channel Islands,,,"Brown, Mrs. Margaret",victualling crew
+male,S,,,no,14,England,,,"Humphreys, Mr. Humphrey",victualling crew
+male,S,,,no,14,England,,,"Bourke, Mrs. Catherine",victualling crew
+male,S,,,no,30,Italy,,,"Buckley, Mr. Daniel",victualling crew
+male,S,,,no,30,England,,,"Harrison, Mr. Norman E.",victualling crew
+male,S,,,no,30,England,,,"Ryan, Mr. Edward",victualling crew
+female,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,46,England,,,"Johnson, Mr. August",victualling crew
+female,S,,,no,30,Ireland,,,"Becker, Master. Richard F.",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Jones, Mr. Thomas William",victualling crew
+male,B,,,no,30,England,,,"Shepherd, Mr. Jonathan",victualling crew
+male,S,,,yes,30,England,,,"Gallagher, Mr. Martin",victualling crew
+male,S,,,no,30,England,,,"Adams, Mr. John",victualling crew
+male,B,,,no,30,England,,,"Sägesser, Mlle. Emma",victualling crew
+male,S,,,no,30,England,,,"Charters, Mr. David",victualling crew
+male,S,,,no,30,England,,,"Reynolds, Mr. Harold",victualling crew
+male,S,,,no,14,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"McMicken, Mr. Benjamin Tucker",victualling crew
+male,B,,,no,30,England,,,"Gibson, Miss. Dorothy Winifred",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,46,England,,,"Knight, Mr. Robert",victualling crew
+male,S,,,no,30,England,,,"Johnson, Mr. August",victualling crew
+male,S,,,yes,46,United States,,,"Wilkinson, Mrs. Elizabeth Anne",victualling crew
+male,S,,,no,30,England,,,"Ferrary, Mr. Antonio",victualling crew
+male,B,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,yes,30,England,,,"Cardeza, Mr. Thomas Drake Martinez",victualling crew
+male,S,,,yes,14,England,,,"White, Mrs. Ella",victualling crew
+male,S,,,no,30,England,,,"Wright, Miss. Marion",victualling crew
+male,S,,,yes,30,England,,,"Hart, Mr. Benjamin",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Ali, Mr. Ahmed",victualling crew
+male,S,,,no,30,England,,,"Dick, Mr. Albert Adrian",victualling crew
+male,B,,,no,30,Australia,,,"Carter, Mrs. Lilian",victualling crew
+male,S,,,yes,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Hold, Mr. Stephen",victualling crew
+male,S,,,yes,30,England,,,"Keeping, Mr. Edwin Herbert",victualling crew
+male,S,,,no,30,England,,,"Matthews, Mr. William John",victualling crew
+male,S,,,no,46,England,,,"Fox, Mr. Patrick",victualling crew
+male,S,,,no,30,England,,,"Smith, Mr. F.",victualling crew
+male,S,,,yes,30,England,,,"Gregory, Mr. David",victualling crew
+male,S,,,no,30,Ireland,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,England,,,"Cumings, Mrs. Florence Briggs",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Andrews, Mr. Thomas",victualling crew
+male,S,,,no,30,England,,,"Charters, Mr. David",victualling crew
+male,S,,,no,30,England,,,"Reid, Mr. Robert Thomas",victualling crew
+male,S,,,yes,30,England,,,"Augustsson, Mr. Albert",victualling crew
+male,S,,,no,30,Austria,,,"Sloan, Miss. Mary",victualling crew
+male,S,,,no,30,England,,,"Scott, Mr. Archibald",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Louch, Mr. Charles",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,46,United States,,,"Beane, Mr. Edward",victualling crew
+male,S,,,no,46,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,B,,,no,14,England,,,"Andersson, Miss. Erna Alexandra",victualling crew
+male,S,,,no,30,England,,,"Abbing, Mr. Anthony",victualling crew
+male,S,,,yes,30,England,,,"Johnson, Mr. August",victualling crew
+male,S,,,no,30,England,,,"McCarthy, Mr. Timothy J.",victualling crew
+male,B,,,yes,46,England,,,"Davis, Mr. John",victualling crew
+male,S,,,yes,30,England,,,"Compton, Miss. Sara Rebecca",victualling crew
+male,S,,,no,30,England,,,"Robinson, Mrs. Annie",victualling crew
+male,S,,,no,14,England,,,"Freeman, Mr. Ernest Edward Samuel",victualling crew
+male,S,,,no,30,England,,,"Caram, Mr. Joseph",victualling crew

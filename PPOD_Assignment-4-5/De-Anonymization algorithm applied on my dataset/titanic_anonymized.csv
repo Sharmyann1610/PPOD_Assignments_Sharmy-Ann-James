@@ -1,0 +1,2208 @@
+name,gender,age,class,embarked,country,ticketno,fare,sibsp,parch,survived
+Justin Griffin,male,40-60,3rd,S,Nationality_1,390323.56308366585,4.635485280556864,0.0,0.0,no
+Sean Smith,male,0-20,3rd,S,Nationality_1,3128318.563083666,17.575485280556865,0.0,2.0,no
+Garrett Parker,male,0-20,3rd,S,Nationality_1,374115.56308366585,17.575485280556865,1.0,1.0,no
+Kevin Anderson,female,20-40,3rd,S,Nationality_2,374133.56308366585,17.575485280556865,1.0,1.0,yes
+Nicole Carney,female,0-20,3rd,S,Nationality_3,394281.56308366585,4.655485280556864,0.0,0.0,yes
+Hannah Ortega,male,20-40,3rd,S,Nationality_1,29733.563083665864,4.655485280556864,0.0,0.0,yes
+Christina Burnett,male,20-40,2nd,C,Nationality_4,277705.56308366585,21.525485280556865,1.0,0.0,no
+Raven Hickman,female,20-40,2nd,C,Nationality_4,264786.56308366585,21.525485280556865,1.0,0.0,yes
+Brad Smith,male,20-40,3rd,C,Nationality_5,29726.563083665864,15.676385280556863,0.0,0.0,yes
+Carrie Barnes,male,0-20,3rd,S,Nationality_6,374128.56308366585,4.706085280556863,0.0,0.0,yes
+Brenda Reid,male,20-40,3rd,S,Nationality_7,28652.563083665864,4.5754852805568635,0.0,0.0,no
+Ashley Nielsen,male,20-40,3rd,S,Nationality_2,340043.56308366585,5.535485280556863,0.0,0.0,no
+Anna Mcgee,female,20-40,3rd,S,Nationality_7,392277.56308366585,6.616085280556863,1.0,0.0,no
+Michael Adams,male,0-20,3rd,S,Nationality_2,376254.56308366585,6.595485280556863,0.0,1.0,yes
+Jennifer Price,female,0-20,3rd,S,Nationality_2,361963.56308366585,6.595485280556863,0.0,1.0,yes
+Amber Barry,male,20-40,2nd,S,Nationality_2,27802.563083665864,10.525485280556863,0.0,0.0,no
+Julia Terry,male,20-40,3rd,S,Nationality_2,35526.56308366587,4.696385280556862,0.0,0.0,no
+Christina Williams,male,0-20,3rd,S,Nationality_6,374134.56308366585,4.706085280556863,0.0,0.0,no
+Kenneth Jefferson,male,20-40,3rd,S,Nationality_8,28273.563083665864,4.535485280556863,0.0,0.0,no
+Stephen Wolfe,male,20-40,3rd,S,Nationality_8,33658.56308366587,4.535485280556863,0.0,0.0,no
+Richard Sanders,female,20-40,1st,S,Nationality_1,44528.56308366587,209.12638528055686,0.0,0.0,yes
+Brenda Duncan DVM,male,20-40,3rd,S,Nationality_2,3128365.563083666,5.535485280556863,0.0,0.0,no
+Mary Mitchell,male,0-20,1st,S,Nationality_9,137464.56308366585,148.68548528055686,1.0,2.0,yes
+Holly Freeman,female,0-20,1st,S,Nationality_9,139428.56308366585,148.68548528055686,1.0,2.0,no
+Michael Sawyer,male,20-40,1st,S,Nationality_9,137615.56308366585,148.68548528055686,1.0,2.0,no
+Renee Watkins,female,20-40,1st,S,Nationality_1,40265.56308366587,148.68548528055686,1.0,2.0,no
+Isaac Elliott,male,0-20,3rd,S,Nationality_2,372814.56308366585,5.585485280556863,0.0,0.0,no
+Nancy Reyes,male,0-20,3rd,C,Nationality_5,27902.563083665864,4.566185280556864,0.0,0.0,no
+Francisco Malone,female,0-20,3rd,S,Nationality_10,358031.56308366585,4.6955852805568625,1.0,0.0,yes
+Bryan Reynolds,male,20-40,3rd,S,Nationality_3,29701.563083665864,19.626085280556865,0.0,0.0,no
+Katherine Byrd,male,40-60,1st,S,Nationality_1,44807.56308366587,23.635485280556864,0.0,0.0,yes
+Lauren Buck,male,0-20,3rd,S,Nationality_7,29676.563083665864,28.576085280556864,4.0,2.0,no
+Miguel Cabrera,female,0-20,3rd,S,Nationality_7,374131.56308366585,28.576085280556864,4.0,2.0,no
+Samantha Castillo,female,0-20,3rd,S,Nationality_7,374113.56308366585,28.576085280556864,4.0,2.0,no
+Karen Vazquez,female,0-20,3rd,S,Nationality_6,29203.563083665864,4.706085280556863,4.0,2.0,yes
+Ashley Schultz,female,20-40,3rd,S,Nationality_7,376256.56308366585,4.676085280556864,4.0,2.0,no
+Mark Price II,female,0-20,3rd,S,Nationality_7,374114.56308366585,28.576085280556864,4.0,2.0,no
+Kyle Koch,female,0-20,3rd,S,Nationality_7,374128.56308366585,28.576085280556864,4.0,2.0,no
+James Griffith,male,20-40,3rd,S,Nationality_7,29673.563083665864,28.576085280556864,1.0,5.0,no
+Tina Mccarthy,male,20-40,3rd,S,Nationality_7,3128343.563083666,4.676085280556864,0.0,0.0,no
+Cole Weaver,female,20-40,3rd,S,Nationality_7,374139.56308366585,28.576085280556864,1.0,5.0,no
+Tracey Larson,male,0-20,3rd,S,Nationality_7,75922.56308366587,4.6955852805568625,0.0,0.0,no
+Barry Duncan,male,0-20,2nd,S,Nationality_8,56156.56308366587,8.625485280556862,0.0,0.0,no
+Elizabeth Reynolds,male,20-40,2nd,S,Nationality_2,61702.56308366587,7.6254852805568625,0.0,0.0,no
+Kimberly Spears,female,60-80,1st,C,Nationality_1,140845.56308366585,74.71568528055687,1.0,0.0,yes
+Charles Edwards,male,20-40,1st,B,Nationality_11,139109.56308366585,,0.0,0.0,no
+Jennifer Franco,male,20-40,3rd,S,Nationality_12,397427.56308366585,4.696585280556864,0.0,0.0,no
+William Manning,female,20-40,2nd,S,Nationality_2,277700.56308366585,23.525485280556865,1.0,0.0,yes
+David Harris,male,20-40,2nd,S,Nationality_2,29198.563083665864,23.525485280556865,1.0,0.0,no
+Anthony Gray,female,40-60,1st,S,Nationality_1,44659.56308366587,48.61618528055686,2.0,0.0,yes
+Jerome Koch,male,20-40,3rd,S,Nationality_13,374141.56308366585,14.685485280556863,1.0,0.0,no
+Karen Watts,female,0-20,3rd,S,Nationality_13,29704.563083665864,14.685485280556863,1.0,0.0,no
+Gina Oneal,male,20-40,3rd,S,Nationality_7,29676.563083665864,4.676085280556864,0.0,0.0,no
+Sophia Hughes,male,60-80,1st,C,Nationality_8,44526.56308366587,46.62558528055686,0.0,0.0,no
+Lori Perez,male,40-60,2nd,S,Nationality_2,29977.563083665864,10.525485280556863,0.0,0.0,no
+Brian Ford,male,20-40,3rd,S,Nationality_8,409703.56308366585,4.535485280556863,0.0,0.0,no
+Tyler Ortega,male,0-20,3rd,S,Nationality_7,29719.563083665864,28.596385280556866,4.0,2.0,no
+Robert Nelson,male,0-20,3rd,S,Nationality_7,376288.56308366585,28.596385280556866,4.0,2.0,no
+Amy Miller,male,0-20,3rd,S,Nationality_7,374139.56308366585,28.596385280556866,4.0,2.0,yes
+Richard Shaw,male,0-20,3rd,S,Nationality_7,374123.56308366585,28.596385280556866,4.0,2.0,no
+Jessica Dunn,female,0-20,3rd,S,Nationality_7,33263.56308366587,28.596385280556866,4.0,2.0,yes
+Audrey Petersen,male,20-40,3rd,S,Nationality_7,3128333.563083666,28.596385280556866,1.0,5.0,no
+Carlos Moore,male,20-40,3rd,S,Nationality_7,342088.56308366585,4.676585280556862,0.0,0.0,yes
+Deborah Wright,female,20-40,3rd,S,Nationality_7,38257.56308366587,28.596385280556866,1.0,5.0,yes
+Susan Bell,female,40-60,3rd,C,Nationality_5,375174.56308366585,4.566085280556864,0.0,0.0,yes
+Lisa Allen,male,20-40,3rd,S,Nationality_8,29704.563083665864,4.535485280556863,0.0,0.0,no
+Stacy Rodriguez,male,40-60,1st,C,Nationality_1,51211.56308366587,244.62608528055685,1.0,0.0,no
+John Ball,female,0-20,1st,C,Nationality_1,140857.56308366585,244.62608528055685,1.0,0.0,yes
+Leslie York,female,0-20,3rd,C,Nationality_5,31184.563083665864,11.615685280556862,0.0,0.0,no
+Timothy Rivera,male,20-40,3rd,C,Nationality_9,377099.56308366585,4.566085280556864,0.0,0.0,no
+Andrea Davis,female,20-40,1st,C,Nationality_4,137540.56308366585,66.58548528055687,0.0,0.0,yes
+Dr. Brandon Smith PhD,male,20-40,3rd,S,Nationality_7,29703.563083665864,4.6955852805568625,0.0,0.0,no
+Christopher Taylor,female,0-20,3rd,C,Nationality_5,410213.56308366585,4.566185280556864,0.0,0.0,yes
+Ronald Sparks,male,20-40,3rd,S,Nationality_6,45560.56308366587,12.695485280556863,1.0,0.0,no
+Mario French,female,20-40,3rd,S,Nationality_6,50619.56308366587,12.695485280556863,3.0,0.0,yes
+Michelle Stephens,female,0-20,3rd,C,Nationality_5,357961.56308366585,16.575685280556865,2.0,1.0,yes
+Alexander Lopez,female,0-20,3rd,C,Nationality_5,29671.563083665864,16.575685280556865,2.0,1.0,yes
+Amanda Brown,female,0-20,3rd,C,Nationality_5,29712.563083665864,16.575685280556865,2.0,1.0,yes
+Valerie Hampton,female,20-40,3rd,C,Nationality_5,395624.56308366585,16.575685280556865,0.0,3.0,yes
+Amanda Brown,female,0-20,3rd,S,Nationality_2,374793.56308366585,5.535485280556863,0.0,0.0,yes
+Amber Wilson,male,20-40,3rd,C,Nationality_5,374515.56308366585,4.566085280556864,0.0,0.0,no
+John Smith,male,0-20,2nd,S,Nationality_2,28636.563083665864,8.625485280556862,0.0,0.0,no
+Theodore Sullivan,male,20-40,2nd,S,Nationality_14,60162.56308366587,7.6254852805568625,0.0,0.0,no
+Nicole Jones,male,20-40,3rd,S,Nationality_15,33659.56308366587,4.696585280556864,0.0,0.0,no
+Dana Wagner,female,20-40,2nd,S,Nationality_2,41930.56308366587,10.525485280556863,0.0,0.0,yes
+Mariah Hall,male,20-40,2nd,S,Nationality_2,56154.56308366587,7.6254852805568625,0.0,0.0,no
+Steven Chandler,female,20-40,3rd,S,Nationality_16,376961.56308366585,5.6562852805568635,0.0,0.0,yes
+Nancy Patel,female,0-20,3rd,C,Nationality_5,342135.56308366585,11.615585280556862,0.0,1.0,no
+Steve Brandt,female,40-60,3rd,C,Nationality_5,29680.563083665864,11.615585280556862,0.0,1.0,no
+John Hunt,female,20-40,1st,S,Nationality_17,47023.56308366587,75.69548528055687,0.0,0.0,yes
+Amy Bennett,male,40-60,1st,S,Nationality_2,140847.56308366585,27.525485280556865,0.0,0.0,yes
+Sarah Waller,female,20-40,3rd,Q,Nationality_18,372825.56308366585,4.696185280556863,0.0,0.0,no
+Karen Hebert,male,20-40,3rd,S,Nationality_2,29751.563083665864,5.535485280556863,0.0,0.0,no
+Katie Mahoney,female,20-40,1st,C,Nationality_19,44620.56308366587,73.57648528055687,0.0,0.0,yes
+Mark James,male,40-60,2nd,S,Nationality_2,55272.56308366587,9.626085280556863,0.0,0.0,no
+Robert Rowe,male,20-40,3rd,S,Nationality_12,29366.563083665864,4.696585280556864,0.0,0.0,no
+George Long,male,40-60,1st,C,Nationality_1,44613.56308366587,22.706085280556863,0.0,0.0,no
+Blake Schneider,male,20-40,1st,C,Nationality_9,44821.56308366587,244.62598528055688,0.0,1.0,no
+Cynthia Velazquez,female,40-60,1st,C,Nationality_9,137203.56308366585,244.62598528055688,0.0,1.0,yes
+Ashley Rice,male,20-40,2nd,S,Nationality_2,58078.56308366587,23.525485280556865,1.0,0.0,yes
+James Vang,female,20-40,2nd,S,Nationality_2,60646.56308366587,23.525485280556865,1.0,0.0,yes
+Judith Hoffman,male,20-40,1st,S,Nationality_9,140849.56308366585,72.56648528055686,0.0,0.0,no
+Dawn Santana,male,40-60,2nd,S,Nationality_2,277703.56308366585,23.525485280556865,0.0,0.0,no
+Jeanette Jones,male,0-20,3rd,S,Nationality_2,30511.563083665864,5.535485280556863,0.0,0.0,no
+Roberto Kaiser,male,0-20,2nd,S,Nationality_20,275789.56308366585,36.525485280556865,2.0,1.0,yes
+Shane Jackson,female,0-20,2nd,S,Nationality_20,61702.56308366587,36.525485280556865,2.0,1.0,yes
+William Burke,female,0-20,2nd,S,Nationality_20,30136.563083665864,36.525485280556865,2.0,1.0,yes
+Jeff Little,female,20-40,2nd,S,Nationality_1,277695.56308366585,36.525485280556865,0.0,3.0,yes
+Larry Werner,male,20-40,1st,S,Nationality_1,44806.56308366587,49.63558528055687,1.0,1.0,yes
+Kimberly Pacheco,female,40-60,1st,S,Nationality_1,40287.56308366587,49.63558528055687,1.0,1.0,yes
+Michael Stephens,male,20-40,2nd,S,Nationality_2,29959.563083665864,10.525485280556863,0.0,0.0,yes
+Philip White,male,20-40,1st,C,Nationality_1,44648.56308366587,27.525485280556865,0.0,0.0,yes
+Mark Morgan,male,20-40,3rd,S,Nationality_7,376281.56308366585,4.676085280556864,0.0,0.0,no
+James Cortez,female,0-20,2nd,S,Nationality_1,263905.56308366585,10.525485280556863,0.0,0.0,yes
+Angelica Watson,male,20-40,3rd,S,Nationality_6,390342.56308366585,6.595485280556863,0.0,0.0,no
+Dawn Cross,male,20-40,2nd,S,Nationality_2,55271.56308366587,10.525485280556863,0.0,0.0,no
+Benjamin Weber,female,20-40,1st,C,Nationality_1,40101.56308366587,60.595685280556864,0.0,0.0,yes
+Samuel Sims,female,40-60,1st,C,Nationality_17,137464.56308366585,244.62608528055685,0.0,0.0,yes
+Matthew Crawford,male,20-40,3rd,S,Nationality_17,358010.56308366585,53.61658528055686,0.0,0.0,yes
+Bridget Hopkins,female,20-40,1st,S,Nationality_2,51211.56308366587,218.67618528055687,0.0,0.0,yes
+Leonard Garcia,male,20-40,3rd,S,Nationality_3,92355.56308366587,4.676085280556864,0.0,0.0,no
+Alison Miller,male,20-40,1st,C,Nationality_17,137203.56308366585,23.525485280556865,0.0,0.0,no
+Tim Johnson,male,20-40,1st,C,Nationality_1,140623.56308366585,88.53618528055686,1.0,0.0,yes
+Barbara Silva,female,0-20,1st,C,Nationality_1,38818.56308366587,88.53618528055686,1.0,0.0,yes
+Bethany Duffy,male,0-20,3rd,S,Nationality_7,75922.56308366587,4.675485280556863,0.0,0.0,no
+Charles Smith,male,20-40,1st,S,Nationality_7,38822.56308366587,23.635485280556864,0.0,0.0,yes
+David Wiley,male,40-60,1st,S,Nationality_1,139110.56308366585,32.625485280556866,0.0,0.0,no
+Alexis Jarvis,male,20-40,1st,C,Nationality_1,44659.56308366587,28.525485280556865,0.0,0.0,yes
+Charles Lambert,female,20-40,1st,S,Nationality_1,140811.56308366585,161.69588528055687,0.0,0.0,yes
+Patrick Davis,female,60-80,1st,S,Nationality_2,140106.56308366585,23.635485280556864,0.0,0.0,yes
+Tyler Blair,male,40-60,1st,S,Nationality_2,44017.56308366587,23.635485280556864,0.0,0.0,no
+Justin Maldonado,male,20-40,3rd,S,Nationality_17,29738.563083665864,4.696585280556864,0.0,0.0,no
+Justin Diaz,male,20-40,2nd,S,Nationality_1,275778.56308366585,10.525485280556863,0.0,0.0,no
+Michael Pittman,female,20-40,3rd,Q,Nationality_18,397211.56308366585,4.675485280556863,0.0,2.0,no
+Ashley Wood,male,40-60,3rd,Q,Nationality_18,376258.56308366585,12.625485280556862,1.0,1.0,no
+Olivia Price,female,20-40,3rd,Q,Nationality_18,391562.56308366585,12.625485280556862,1.0,1.0,no
+Nicole Hicks,female,40-60,1st,C,Nationality_1,140847.56308366585,259.59608528055685,0.0,0.0,yes
+Lindsey Mendez,male,20-40,3rd,S,Nationality_21,342139.56308366585,13.545485280556862,0.0,0.0,no
+Michael Davis,male,40-60,2nd,S,Nationality_17,29218.563083665864,10.525485280556863,0.0,0.0,no
+Shannon Fox,female,20-40,1st,S,Nationality_2,140824.56308366585,52.525485280556865,0.0,1.0,yes
+Jeffery Vincent,male,20-40,2nd,S,Nationality_1,29174.563083665864,10.525485280556863,0.0,0.0,no
+Meghan Pham,female,20-40,3rd,Q,Nationality_18,34126.56308366587,4.666085280556864,0.0,0.0,yes
+Erin Rose,male,40-60,1st,S,Nationality_1,140107.56308366585,27.625485280556866,0.0,0.0,no
+Daniel Mayer,female,0-20,3rd,S,Nationality_7,34128.56308366587,4.6955852805568625,0.0,0.0,no
+Shawn Griffin,male,20-40,2nd,S,Nationality_2,257484.56308366585,,,,no
+Thomas Harris,male,40-60,1st,C,Nationality_1,140554.56308366585,47.61658528055686,0.0,0.0,no
+Cynthia Anderson,male,20-40,3rd,S,Nationality_2,59353.56308366587,4.525485280556863,1.0,0.0,no
+Rachel Taylor,male,20-40,3rd,S,Nationality_2,391567.56308366585,4.5754852805568635,1.0,0.0,no
+Michele Williams,male,20-40,1st,S,Nationality_1,63979.56308366587,23.635485280556864,0.0,0.0,yes
+John Reeves,male,40-60,1st,C,Nationality_1,40100.56308366587,36.64548528055686,0.0,0.0,no
+Theresa Brown,male,0-20,2nd,S,Nationality_4,264267.56308366585,,,,no
+Scott Thomas,male,20-40,2nd,S,Nationality_17,277700.56308366585,10.525485280556863,0.0,0.0,no
+Charles Long,male,20-40,3rd,S,Nationality_7,397211.56308366585,4.676585280556862,0.0,0.0,no
+Denise Kelly,male,20-40,3rd,S,Nationality_2,356995.56308366585,5.535485280556863,0.0,0.0,no
+Joseph Ellis,female,0-20,2nd,S,Nationality_2,51116.56308366587,10.525485280556863,0.0,0.0,yes
+Kari Ramirez,female,0-20,2nd,S,Nationality_22,60163.56308366587,36.525485280556865,0.0,2.0,yes
+Felicia Daniels,female,40-60,1st,S,Nationality_1,138477.56308366585,48.61618528055686,2.0,0.0,yes
+Anna Martin,female,20-40,2nd,S,Nationality_22,260529.56308366585,36.525485280556865,1.0,1.0,yes
+Lisa Fernandez,female,40-60,1st,C,Nationality_1,38816.56308366587,24.665985280556864,0.0,0.0,yes
+Kenneth Miller,male,40-60,2nd,S,Nationality_22,40585.56308366587,36.525485280556865,1.0,1.0,no
+Elizabeth Hawkins,female,0-20,2nd,S,Nationality_7,41314.56308366587,23.525485280556865,1.0,0.0,yes
+Samuel Rangel,male,20-40,2nd,S,Nationality_7,271303.56308366585,23.525485280556865,1.0,0.0,no
+Heather Fry,female,20-40,3rd,Q,Nationality_18,3128325.563083666,4.5762852805568635,0.0,0.0,no
+Diana Ford,male,20-40,3rd,Q,Nationality_18,3128346.563083666,4.677185280556863,0.0,0.0,yes
+Elizabeth Thomas,female,40-60,1st,C,Nationality_20,44643.56308366587,73.57648528055687,0.0,0.0,yes
+Theresa Richardson DDS,male,0-20,3rd,C,Nationality_5,64722.56308366587,12.566585280556863,1.0,1.0,no
+Katherine Olson,female,0-20,3rd,C,Nationality_5,342137.56308366585,12.566585280556863,1.0,1.0,no
+Cory Johnson,female,20-40,3rd,C,Nationality_5,28529.563083665864,12.566585280556863,0.0,2.0,no
+Christopher Lopez,male,0-20,3rd,Q,Nationality_18,36283.56308366587,3.6754852805568636,0.0,0.0,no
+Morgan Chen,female,40-60,1st,C,Nationality_17,38816.56308366587,131.62548528055686,0.0,0.0,yes
+Daniel Tanner,female,0-20,3rd,Q,Nationality_18,375172.56308366585,4.696185280556863,0.0,0.0,no
+Charles Patrick,female,20-40,2nd,S,Nationality_2,53411.56308366587,10.525485280556863,0.0,0.0,yes
+David Evans,male,20-40,2nd,S,Nationality_2,55271.56308366587,10.525485280556863,0.0,0.0,no
+April Robinson,male,20-40,3rd,C,Nationality_5,377456.56308366585,4.566185280556864,0.0,0.0,no
+Mrs. Ashley Lee,male,40-60,1st,S,Nationality_1,46994.56308366587,23.635485280556864,0.0,0.0,no
+Allison Parker,male,40-60,2nd,S,Nationality_2,275749.56308366585,10.525485280556863,0.0,0.0,no
+Brandi Frost,female,20-40,2nd,S,Nationality_1,58469.56308366587,10.525485280556863,0.0,0.0,yes
+Lisa Ramirez,female,20-40,3rd,S,Nationality_23,376294.56308366585,5.655785280556863,0.0,0.0,no
+James Alvarez,female,20-40,3rd,S,Nationality_23,69846.56308366587,5.655785280556863,0.0,0.0,no
+Brenda Osborn,male,0-20,3rd,S,Nationality_23,394706.56308366585,5.655785280556863,0.0,0.0,no
+Melissa Lane,male,20-40,3rd,S,Nationality_23,342141.56308366585,5.655785280556863,0.0,0.0,no
+William Shaw,male,20-40,1st,S,Nationality_24,44636.56308366587,28.525485280556865,0.0,0.0,no
+Katie Wyatt,male,40-60,1st,S,Nationality_1,38864.56308366587,23.576385280556863,0.0,0.0,yes
+Vincent Edwards,male,0-20,2nd,S,Nationality_25,271411.56308366585,26.525485280556865,0.0,2.0,yes
+Laurie Evans,male,20-40,2nd,S,Nationality_25,56158.56308366587,26.525485280556865,1.0,1.0,yes
+Scott Owens,female,20-40,2nd,S,Nationality_1,263903.56308366585,26.525485280556865,1.0,1.0,yes
+Ashley Mccoy,male,0-20,3rd,S,Nationality_23,31186.563083665864,5.655785280556863,0.0,0.0,no
+Stephanie Lucas,male,0-20,3rd,S,Nationality_23,34591.56308366587,5.655785280556863,0.0,0.0,no
+Nicole Jordan,female,20-40,2nd,S,Nationality_2,55085.56308366587,18.525485280556865,0.0,0.0,yes
+Adam Jones,male,20-40,2nd,B,Nationality_11,29214.563083665864,,0.0,0.0,no
+Pam Smith,female,20-40,3rd,Q,Nationality_18,29721.563083665864,4.675485280556863,0.0,0.0,no
+Sandra Miller,male,20-40,3rd,Q,Nationality_18,29747.563083665864,4.675485280556863,0.0,0.0,no
+Penny Lawson,female,40-60,1st,C,Nationality_1,44620.56308366587,24.606585280556864,0.0,0.0,yes
+James Cantu,male,20-40,3rd,S,Nationality_2,376282.56308366585,5.535485280556863,0.0,0.0,no
+Melissa Hunter,male,20-40,3rd,C,Nationality_9,29717.563083665864,11.615685280556862,1.0,0.0,no
+Joseph Bryan,female,0-20,3rd,C,Nationality_5,48225.56308366587,11.615685280556862,1.0,0.0,no
+Wanda Mitchell,male,0-20,2nd,S,Nationality_2,270931.56308366585,10.525485280556863,0.0,0.0,no
+Danny Pierce,female,40-60,1st,C,Nationality_1,44809.56308366587,509.58618528055683,0.0,1.0,yes
+Victoria Christensen,male,20-40,1st,C,Nationality_1,44472.56308366587,509.58618528055683,0.0,1.0,yes
+Melissa Farley,male,20-40,3rd,S,Nationality_7,376278.56308366585,4.676585280556862,0.0,0.0,no
+Marcus Rowe,male,20-40,3rd,S,Nationality_7,374105.56308366585,4.6955852805568625,0.0,0.0,no
+Judy Nelson,male,20-40,1st,S,Nationality_1,140832.56308366585,2.5254852805568633,0.0,0.0,no
+Sharon Payne,male,0-20,1st,S,Nationality_26,44528.56308366587,44.54548528055687,0.0,0.0,no
+Mary Clarke,male,20-40,1st,S,Nationality_26,139101.56308366585,44.54548528055687,0.0,0.0,no
+Maria Caldwell,female,40-60,3rd,Q,Nationality_18,376960.56308366585,4.675485280556863,0.0,0.0,no
+Kevin Hutchinson,male,40-60,2nd,S,Nationality_2,28217.563083665864,23.525485280556865,1.0,0.0,no
+Connie Douglas,male,0-20,1st,S,Nationality_1,44807.56308366587,117.52548528055686,1.0,2.0,yes
+Rick Klein,female,0-20,1st,S,Nationality_1,44807.56308366587,117.52548528055686,1.0,2.0,yes
+Kenneth Porter,female,40-60,2nd,S,Nationality_2,58080.56308366587,23.525485280556865,1.0,0.0,no
+Thomas Franco,female,20-40,1st,S,Nationality_1,38818.56308366587,117.52548528055686,1.0,2.0,yes
+Michael Hunter,male,20-40,1st,S,Nationality_1,44636.56308366587,117.52548528055686,1.0,2.0,yes
+Thomas Valdez,male,20-40,3rd,S,Nationality_2,376275.56308366585,4.5754852805568635,0.0,0.0,no
+Nancy Barton,male,40-60,1st,S,Nationality_1,44811.56308366587,23.525485280556865,0.0,0.0,no
+Hannah Wright,female,20-40,1st,C,Nationality_1,138412.56308366585,24.665985280556864,0.0,0.0,yes
+Aaron Dixon,female,20-40,1st,S,Nationality_1,44504.56308366587,75.69548528055687,1.0,0.0,yes
+Terry Cruz,male,20-40,1st,S,Nationality_2,140561.56308366585,75.69548528055687,1.0,0.0,no
+Carly Lambert,male,20-40,3rd,S,Nationality_17,34585.56308366587,5.535485280556863,0.0,0.0,no
+Stacy Young,male,40-60,1st,S,Nationality_1,62324.56308366587,58.556085280556864,1.0,0.0,no
+Christina Gill,female,40-60,1st,S,Nationality_1,138479.56308366585,58.556085280556864,1.0,0.0,yes
+Yvette Hayes,male,20-40,1st,S,Nationality_1,44633.56308366587,50.54548528055687,1.0,0.0,yes
+Kevin Johnston,female,20-40,1st,S,Nationality_1,62332.56308366587,50.54548528055687,1.0,0.0,yes
+Andrew Jordan,male,40-60,2nd,S,Nationality_1,257131.56308366585,10.625485280556862,0.0,0.0,no
+Nathaniel Owen,male,20-40,2nd,S,Nationality_2,29054.563083665864,23.525485280556865,1.0,0.0,no
+Frank Woods,female,20-40,2nd,S,Nationality_2,264840.56308366585,23.525485280556865,1.0,0.0,no
+Kristen Garcia,male,0-20,3rd,Q,Nationality_18,31052.563083665864,4.666285280556863,0.0,0.0,no
+Kristine Whitney,female,20-40,1st,C,Nationality_17,140556.56308366585,259.59608528055685,0.0,0.0,yes
+Levi Griffin,female,20-40,1st,S,Nationality_2,27746.563083665864,83.62548528055686,0.0,0.0,yes
+William Bell,male,40-60,1st,C,Nationality_27,63979.56308366587,26.665485280556865,0.0,0.0,yes
+Tamara Vaughan,female,40-60,1st,S,Nationality_2,46979.56308366587,52.525485280556865,0.0,1.0,yes
+Jordan Nash,male,20-40,3rd,S,Nationality_17,29195.563083665864,53.61658528055686,0.0,0.0,yes
+Christina Norris,male,40-60,1st,B,Nationality_24,38829.56308366587,,0.0,0.0,no
+Shannon Ortega,male,20-40,3rd,S,Nationality_2,376283.56308366585,5.535485280556863,0.0,0.0,no
+Douglas Richardson,female,20-40,2nd,S,Nationality_2,53411.56308366587,27.525485280556865,1.0,1.0,yes
+Darin Cruz,female,40-60,2nd,S,Nationality_2,39284.56308366587,27.525485280556865,0.0,2.0,yes
+Andrew Hernandez,male,20-40,3rd,C,Nationality_17,395415.56308366585,11.615585280556862,1.0,0.0,no
+Amanda Wilkins,male,20-40,3rd,C,Nationality_17,30387.563083665864,11.615585280556862,1.0,0.0,no
+David Klein,male,20-40,2nd,S,Nationality_2,261411.56308366585,23.525485280556865,1.0,0.0,no
+Sherri Andersen,male,20-40,2nd,S,Nationality_2,275777.56308366585,,,,no
+Gabriel Adams,female,20-40,2nd,S,Nationality_2,60163.56308366587,24.525485280556865,1.0,0.0,yes
+Joseph Williams,female,20-40,1st,C,Nationality_1,27745.563083665864,133.67618528055687,1.0,0.0,yes
+Joseph Smith,male,20-40,1st,C,Nationality_1,140094.56308366585,133.67618528055687,1.0,0.0,no
+Richard Jarvis,female,20-40,1st,S,Nationality_2,140560.56308366585,148.68548528055686,0.0,0.0,yes
+Christopher Kirby,male,20-40,1st,S,Nationality_1,44648.56308366587,49.525485280556865,0.0,0.0,no
+Travis Mcclure,male,0-20,3rd,S,Nationality_17,374122.56308366585,4.535485280556863,0.0,0.0,no
+Joseph Reyes,male,0-20,3rd,S,Nationality_2,357928.56308366585,5.535485280556863,0.0,0.0,yes
+Sarah Butler,male,20-40,3rd,Q,Nationality_18,29743.563083665864,4.5754852805568635,0.0,0.0,no
+Charles Payne,male,20-40,3rd,S,Nationality_12,41364.56308366587,4.696585280556864,0.0,0.0,no
+Amanda Scott,male,20-40,2nd,S,Nationality_2,262560.56308366585,7.6254852805568625,0.0,0.0,no
+Melissa Coleman,male,20-40,2nd,S,Nationality_6,56156.56308366587,10.525485280556863,0.0,0.0,no
+Jerry Riley,male,20-40,2nd,S,Nationality_2,42236.56308366587,7.6254852805568625,0.0,0.0,yes
+Matthew White,male,20-40,1st,S,Nationality_18,44649.56308366587,22.636385280556865,0.0,0.0,no
+Cameron Roman,female,0-20,2nd,S,Nationality_2,29197.563083665864,23.575485280556865,0.0,2.0,yes
+Matthew Holt,male,20-40,2nd,S,Nationality_2,61311.56308366587,23.575485280556865,1.0,1.0,no
+Sarah Scott,female,20-40,2nd,S,Nationality_2,238587.56308366585,23.575485280556865,1.0,1.0,yes
+Michael Watson,male,20-40,3rd,S,Nationality_12,33659.56308366587,4.696585280556864,0.0,0.0,no
+Samantha Hamilton,female,20-40,1st,C,Nationality_1,140565.56308366585,80.55568528055686,1.0,1.0,yes
+Gail Ramsey,male,20-40,1st,C,Nationality_1,40287.56308366587,80.55568528055686,1.0,1.0,no
+Barbara Miller,female,60-80,1st,C,Nationality_1,44810.56308366587,80.55568528055686,0.0,2.0,yes
+Nicholas King,male,20-40,3rd,Q,Nationality_1,394277.56308366585,4.666285280556863,0.0,0.0,no
+Angel Quinn,male,20-40,3rd,Q,Nationality_18,29740.563083665864,4.675485280556863,0.0,0.0,no
+Whitney Robinson,female,20-40,3rd,Q,Nationality_18,29195.563083665864,4.675485280556863,0.0,0.0,yes
+David Wilson,female,40-60,3rd,Q,Nationality_18,391899.56308366585,4.646185280556864,0.0,0.0,no
+Alexander Reyes,male,60-80,3rd,Q,Nationality_18,394277.56308366585,4.675485280556863,0.0,0.0,no
+Daniel Williams,male,40-60,3rd,S,Nationality_17,48491.56308366587,5.535485280556863,0.0,0.0,no
+Randall Mckee,female,20-40,2nd,S,Nationality_2,56154.56308366587,7.6254852805568625,0.0,0.0,yes
+Kristen Johnson,female,20-40,2nd,S,Nationality_1,264787.56308366585,10.525485280556863,0.0,0.0,no
+Jessica Jimenez,female,20-40,2nd,S,Nationality_17,271397.56308366585,18.525485280556865,0.0,0.0,no
+James Graham,male,20-40,3rd,S,Nationality_23,376304.56308366585,4.696585280556864,0.0,0.0,no
+Kimberly Wilson,male,20-40,3rd,S,Nationality_16,29701.563083665864,4.696585280556864,0.0,0.0,no
+Samantha Mccarty,male,0-20,3rd,S,Nationality_16,401797.56308366585,4.696585280556864,0.0,0.0,no
+Donna Mitchell,male,20-40,3rd,S,Nationality_28,3128346.563083666,5.535485280556863,0.0,0.0,no
+Joseph Tucker,female,40-60,1st,S,Nationality_1,44816.56308366587,22.666485280556863,2.0,0.0,yes
+Paul Wright,female,0-20,3rd,Q,Nationality_18,361966.56308366585,4.675485280556863,0.0,0.0,yes
+Michael Webb,male,20-40,2nd,S,Nationality_2,277701.56308366585,8.625485280556862,0.0,0.0,no
+Benjamin Shah,male,0-20,3rd,S,Nationality_2,29195.563083665864,12.705485280556863,1.0,1.0,yes
+Corey Knox,male,0-20,3rd,S,Nationality_2,3128366.563083666,12.705485280556863,1.0,1.0,yes
+Sean Ashley,female,20-40,3rd,S,Nationality_2,376257.56308366585,12.705485280556863,0.0,2.0,yes
+Samantha Waters,male,40-60,3rd,S,Nationality_2,29710.563083665864,4.5754852805568635,0.0,0.0,no
+Johnny Ruiz,male,40-60,1st,S,Nationality_1,44657.56308366587,23.635485280556864,0.0,0.0,no
+Richard Skinner,male,0-20,3rd,S,Nationality_1,3128316.563083666,5.5556852805568635,0.0,0.0,no
+Christopher Barrera,female,0-20,3rd,S,Nationality_1,75922.56308366587,13.545485280556862,0.0,1.0,yes
+Susan Dillon,male,40-60,3rd,S,Nationality_29,29727.563083665864,13.545485280556862,0.0,1.0,no
+Amber Underwood,male,60-80,1st,S,Nationality_1,44651.56308366587,68.52548528055686,1.0,1.0,no
+Sarah Daniels,female,20-40,1st,S,Nationality_1,40559.56308366587,23.635485280556864,0.0,2.0,yes
+Craig Jenkins,female,60-80,1st,S,Nationality_1,140554.56308366585,68.52548528055686,1.0,1.0,yes
+Julie Hernandez,male,0-20,3rd,S,Nationality_23,398161.56308366585,5.655785280556863,0.0,0.0,no
+Kathy Brown,male,20-40,1st,C,Nationality_1,44662.56308366587,68.57628528055686,1.0,0.0,no
+Scott Lucero,female,20-40,1st,C,Nationality_30,60689.56308366587,68.57628528055686,1.0,0.0,yes
+Austin Jacobson,male,20-40,2nd,B,Nationality_11,,,0.0,0.0,no
+Katie Arnold,male,20-40,3rd,C,Nationality_17,397419.56308366585,4.566185280556864,0.0,0.0,no
+Lucas Armstrong,female,20-40,3rd,S,Nationality_7,374140.56308366585,7.625885280556863,0.0,0.0,no
+Amanda Kim,male,40-60,3rd,S,Nationality_17,342143.56308366585,5.535485280556863,0.0,0.0,yes
+Nathan Lambert,male,0-20,3rd,S,Nationality_17,397428.56308366585,7.555985280556863,0.0,0.0,no
+Rachel Warren,female,20-40,3rd,Q,Nationality_18,362728.56308366585,3.7154852805568637,0.0,0.0,yes
+Jacob Allen,male,20-40,3rd,Q,Nationality_18,375176.56308366585,4.675485280556863,0.0,0.0,yes
+Steven Hansen,male,40-60,1st,S,Nationality_2,39801.56308366587,23.635485280556864,0.0,0.0,yes
+Jennifer Banks,male,0-20,3rd,S,Nationality_7,374121.56308366585,11.605485280556863,0.0,2.0,no
+Joseph Simmons,male,20-40,3rd,S,Nationality_7,29719.563083665864,11.605485280556863,1.0,1.0,no
+John Powers,female,20-40,3rd,S,Nationality_7,394280.56308366585,11.605485280556863,1.0,1.0,no
+Pamela Hodges,male,20-40,1st,S,Nationality_1,63979.56308366587,27.625485280556866,0.0,0.0,yes
+Emily Zimmerman,female,20-40,1st,S,Nationality_2,46994.56308366587,148.68548528055686,0.0,0.0,yes
+Melissa Anderson,male,20-40,3rd,S,Nationality_17,40083.56308366587,4.696585280556864,0.0,0.0,no
+Jessica Hess,female,20-40,1st,C,Nationality_9,140846.56308366585,49.525485280556865,1.0,2.0,yes
+Kelly Cantu,male,20-40,1st,C,Nationality_9,44524.56308366587,49.525485280556865,1.0,0.0,no
+Catherine King,male,0-20,2nd,S,Nationality_2,,33.67548528055686,1.0,1.0,yes
+Martin Heath,male,20-40,3rd,S,Nationality_2,29713.563083665864,21.555485280556866,2.0,0.0,no
+Anne Richards,male,0-20,2nd,S,Nationality_2,,70.62548528055686,0.0,0.0,no
+Jessica Vargas,male,20-40,3rd,S,Nationality_21,376264.56308366585,5.535485280556863,0.0,0.0,no
+Donald Cole,male,20-40,3rd,S,Nationality_2,351002.56308366585,21.555485280556866,2.0,0.0,no
+Norma Sullivan,male,0-20,3rd,S,Nationality_2,374133.56308366585,5.535485280556863,2.0,0.0,no
+Travis Maddox,female,40-60,2nd,S,Nationality_2,,33.67548528055686,0.0,2.0,yes
+Elizabeth Simmons,female,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Austin Hunter,female,20-40,3rd,S,Nationality_2,370171.56308366585,13.545485280556862,1.0,0.0,yes
+Mary Osborn,male,20-40,3rd,S,Nationality_2,372820.56308366585,13.545485280556862,1.0,0.0,no
+Heather Barnett,male,0-20,2nd,S,Nationality_2,,70.62548528055686,0.0,0.0,no
+Nicole Moreno,male,0-20,3rd,S,Nationality_2,3128334.563083666,17.636085280556866,1.0,2.0,yes
+Patricia Duncan,female,0-20,3rd,S,Nationality_2,376274.56308366585,17.636085280556866,1.0,2.0,yes
+Mark Reynolds,male,20-40,3rd,S,Nationality_2,372824.56308366585,17.636085280556866,1.0,2.0,no
+Nancy Owens,female,20-40,3rd,S,Nationality_2,3128357.563083666,17.636085280556866,1.0,2.0,yes
+Michael Ramirez,male,20-40,3rd,S,Nationality_15,29722.563083665864,4.696585280556864,0.0,0.0,no
+Jeffrey Pitts,female,20-40,2nd,C,Nationality_19,,24.665985280556864,1.0,0.0,yes
+Janet Crosby,male,20-40,2nd,C,Nationality_19,,24.665985280556864,1.0,0.0,no
+Anne Garcia,male,20-40,3rd,S,Nationality_1,27802.563083665864,14.605485280556861,1.0,0.0,yes
+Jeanette Graham,female,20-40,3rd,S,Nationality_1,3128342.563083666,14.605485280556861,1.0,0.0,yes
+Michael Alexander,male,20-40,3rd,S,Nationality_27,392286.56308366585,6.6254852805568625,0.0,0.0,yes
+Jessica Hudson,male,20-40,2nd,S,Nationality_14,,28.625485280556866,0.0,0.0,no
+Erik Davis,male,20-40,3rd,S,Nationality_17,3128329.563083666,4.696585280556864,0.0,0.0,no
+Michelle Stokes,male,20-40,3rd,S,Nationality_2,29394.563083665864,4.5754852805568635,0.0,0.0,no
+Anita Hammond MD,male,20-40,3rd,S,Nationality_2,372623.56308366585,4.5754852805568635,0.0,0.0,no
+David Burgess,male,0-20,3rd,S,Nationality_27,57682.56308366587,6.6254852805568625,0.0,0.0,no
+Alexandria Kim,female,0-20,3rd,Q,Nationality_18,358030.56308366585,4.696185280556863,0.0,0.0,yes
+Mary Smith,male,0-20,2nd,S,Nationality_2,,70.62548528055686,0.0,0.0,no
+Tracey Kim,male,20-40,1st,S,Nationality_9,,54.525485280556865,1.0,0.0,yes
+Robert Johnson,female,0-20,1st,S,Nationality_1,,54.525485280556865,1.0,0.0,yes
+Sarah Mcdowell,male,0-20,3rd,S,Nationality_23,409703.56308366585,4.696585280556864,0.0,0.0,no
+Monica Meyer,male,40-60,3rd,S,Nationality_16,377458.56308366585,5.655785280556863,0.0,0.0,no
+Kelsey Taylor,male,40-60,3rd,S,Nationality_17,3128326.563083666,4.696585280556864,0.0,0.0,no
+Sarah Khan,male,40-60,1st,S,Nationality_1,,78.69568528055686,1.0,1.0,yes
+Robin Walker,male,0-20,1st,S,Nationality_1,,78.69568528055686,0.0,2.0,yes
+Kevin Fields,female,20-40,1st,S,Nationality_1,,78.69568528055686,1.0,1.0,yes
+Michelle Espinoza,female,0-20,2nd,S,Nationality_2,,20.525485280556865,0.0,1.0,yes
+Mia Edwards,female,20-40,2nd,S,Nationality_2,,20.525485280556865,0.0,1.0,yes
+Jennifer Neal,female,20-40,3rd,Q,Nationality_18,30645.563083665864,4.675485280556863,0.0,0.0,no
+Ashley Leblanc,male,20-40,3rd,Q,Nationality_18,81687.56308366587,4.675485280556863,0.0,0.0,no
+Amanda Thompson,male,0-20,3rd,S,Nationality_2,374139.56308366585,5.535485280556863,0.0,0.0,yes
+Kirk Middleton,male,20-40,3rd,Q,Nationality_18,3128359.563083666,5.615685280556862,0.0,0.0,no
+Tony Anderson,female,40-60,1st,C,Nationality_1,,103.60608528055687,1.0,0.0,yes
+Terri Ruiz,female,20-40,1st,C,Nationality_9,,244.62598528055688,1.0,1.0,yes
+Peter Russell MD,male,40-60,1st,C,Nationality_1,,103.60608528055687,1.0,0.0,no
+Vanessa Montoya,male,40-60,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Cynthia Johnson,female,20-40,3rd,S,Nationality_1,29730.563083665864,9.616085280556863,0.0,0.0,yes
+Daniel Williams,female,20-40,3rd,Q,Nationality_18,29724.563083665864,4.675485280556863,0.0,0.0,no
+Edward Snyder,male,20-40,3rd,C,Nationality_23,30286.563083665864,4.696585280556864,0.0,0.0,no
+David Pittman,male,0-20,2nd,S,Nationality_1,,29.625485280556866,0.0,2.0,yes
+Kimberly Tucker,male,40-60,2nd,S,Nationality_2,,29.625485280556866,1.0,1.0,no
+Sara Berger,female,20-40,2nd,S,Nationality_1,,29.625485280556866,1.0,1.0,yes
+Mason Donovan,female,20-40,3rd,Q,Nationality_18,398160.56308366585,4.675485280556863,0.0,0.0,yes
+Caleb Gallegos,female,20-40,3rd,S,Nationality_2,390342.56308366585,5.535485280556863,0.0,0.0,yes
+Mary Vaughan,female,40-60,1st,C,Nationality_2,,53.706185280556866,1.0,0.0,yes
+Joshua Villarreal,male,40-60,1st,C,Nationality_2,,36.64548528055686,1.0,0.0,yes
+Joshua Hawkins,male,20-40,1st,C,Nationality_1,,26.665485280556865,0.0,0.0,no
+Connie Roach,male,20-40,3rd,S,Nationality_14,29711.563083665864,4.635485280556864,0.0,0.0,yes
+Erica Fox,female,20-40,2nd,C,Nationality_31,,10.695685280556862,1.0,0.0,yes
+Reginald Ferguson,female,20-40,2nd,C,Nationality_31,,10.695685280556862,1.0,0.0,yes
+Robert Wagner,male,60-80,3rd,Q,Nationality_18,29729.563083665864,4.675485280556863,0.0,0.0,no
+Marc Padilla,male,20-40,3rd,S,Nationality_1,374119.56308366585,10.705485280556863,1.0,0.0,no
+Dennis Mejia,female,20-40,3rd,S,Nationality_1,376255.56308366585,10.705485280556863,1.0,0.0,yes
+Brendan Tucker,female,20-40,1st,C,Nationality_1,,80.55568528055686,0.0,1.0,yes
+Yolanda Jenkins,male,0-20,3rd,S,Nationality_7,409703.56308366585,4.676085280556864,0.0,0.0,no
+Gavin Strickland,male,20-40,2nd,S,Nationality_1,,10.525485280556863,0.0,0.0,no
+Rebecca Huffman,male,0-20,3rd,S,Nationality_7,390345.56308366585,4.676085280556864,0.0,0.0,no
+Tammy Lee,male,40-60,3rd,S,Nationality_7,403614.56308366585,3.716085280556863,0.0,0.0,no
+Christopher Howard,male,20-40,3rd,C,Nationality_17,29678.563083665864,4.566085280556864,0.0,0.0,no
+George Tucker,male,0-20,3rd,C,Nationality_5,29366.563083665864,4.566185280556864,1.0,1.0,no
+Jacob Gibson,male,20-40,3rd,C,Nationality_5,31187.563083665864,4.566185280556864,1.0,1.0,no
+Alex Jones,male,40-60,3rd,S,Nationality_2,342204.56308366585,4.5754852805568635,0.0,0.0,no
+Daniel Torres,female,0-20,3rd,S,Nationality_1,398111.56308366585,9.616085280556863,0.0,0.0,yes
+Scott Miles,male,20-40,2nd,S,Nationality_7,,10.525485280556863,0.0,0.0,no
+Whitney Jones,female,20-40,1st,C,Nationality_1,,244.62608528055685,0.0,0.0,yes
+John Green,male,20-40,3rd,S,Nationality_17,34597.56308366587,4.535485280556863,0.0,0.0,no
+Robert Bowers,female,40-60,1st,C,Nationality_1,,75.57588528055686,1.0,0.0,yes
+Brenda Howell,female,20-40,1st,C,Nationality_1,,28.656185280556866,0.0,0.0,no
+Katherine Hopkins,male,20-40,3rd,S,Nationality_2,372549.56308366585,12.545485280556862,0.0,0.0,no
+Brenda Dunn,male,0-20,2nd,S,Nationality_3,,10.525485280556863,0.0,0.0,no
+Steven Lewis,male,40-60,3rd,S,Nationality_2,393764.56308366585,4.5754852805568635,0.0,0.0,no
+Amanda Smith,male,20-40,3rd,Q,Nationality_18,33614.56308366587,4.675485280556863,0.0,0.0,no
+Marissa Davidson,male,40-60,1st,S,Nationality_2,,218.67618528055687,0.0,0.0,no
+Christopher Evans,male,20-40,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,no
+Jenny King,male,0-20,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Jessica Mccarthy,male,20-40,3rd,S,Nationality_17,3128362.563083666,4.535485280556863,0.0,0.0,yes
+Kathryn Cardenas,male,0-20,3rd,S,Nationality_7,50618.56308366587,4.676585280556862,0.0,0.0,no
+Heidi Klein,female,40-60,1st,C,Nationality_1,,28.656285280556865,0.0,0.0,yes
+Patrick Vaughan,female,20-40,3rd,Q,Nationality_18,29394.563083665864,4.675485280556863,0.0,0.0,no
+Jessica Potter,female,40-60,1st,C,Nationality_1,,107.69628528055686,0.0,0.0,yes
+Angela Gutierrez,male,20-40,3rd,Q,Nationality_18,413576.56308366585,4.675485280556863,0.0,0.0,no
+Daniel Rogers,male,40-60,3rd,Q,Nationality_18,413576.56308366585,3.7154852805568637,0.0,0.0,no
+Jamie Hoover,male,20-40,1st,S,Nationality_9,,23.576385280556863,0.0,0.0,yes
+Patrick Lynn,male,0-20,3rd,Q,Nationality_18,342138.56308366585,4.696185280556863,0.0,0.0,no
+Joshua Valenzuela,male,0-20,3rd,Q,Nationality_18,372824.56308366585,4.675485280556863,0.0,0.0,no
+Dr. Ryan Martin,male,20-40,3rd,S,Nationality_17,374521.56308366585,53.61658528055686,0.0,0.0,yes
+Audrey Coleman,female,0-20,3rd,S,Nationality_2,372816.56308366585,31.596085280556863,2.0,2.0,no
+Frank Mendoza,female,0-20,3rd,S,Nationality_2,377094.56308366585,31.596085280556863,2.0,2.0,no
+Andrea Rodriguez,male,20-40,3rd,S,Nationality_2,372552.56308366585,5.535485280556863,0.0,0.0,no
+Julie Cunningham,male,0-20,3rd,S,Nationality_2,30525.563083665864,31.596085280556863,2.0,2.0,no
+Robert Mendez,female,40-60,3rd,S,Nationality_24,48383.56308366587,31.596085280556863,1.0,3.0,no
+Andrew Schmitt,male,0-20,3rd,S,Nationality_2,389367.56308366585,31.596085280556863,1.0,3.0,no
+Kelsey Dickson,male,20-40,1st,S,Nationality_1,,24.675485280556863,0.0,0.0,no
+Amber Rivera,female,20-40,1st,S,Nationality_9,,260.52548528055684,3.0,2.0,yes
+Stephen Mendez,female,20-40,1st,S,Nationality_9,,260.52548528055684,3.0,2.0,yes
+Sean Flores,female,20-40,1st,S,Nationality_9,,260.52548528055684,3.0,2.0,yes
+Emma Martinez,male,0-20,1st,S,Nationality_9,,260.52548528055684,3.0,2.0,no
+Ryan Haley,male,60-80,1st,S,Nationality_9,,260.52548528055684,1.0,4.0,no
+Amanda Weber,female,40-60,1st,S,Nationality_9,,260.52548528055684,1.0,4.0,yes
+Bernard Campbell,male,20-40,3rd,Q,Nationality_18,376296.56308366585,4.675485280556863,0.0,0.0,no
+Linda Stevens,male,20-40,2nd,S,Nationality_1,,10.525485280556863,0.0,0.0,no
+Karen Hayes,female,20-40,1st,C,Nationality_2,,53.706185280556866,0.0,0.0,yes
+Christopher Orozco,male,20-40,1st,S,Nationality_2,,23.635485280556864,0.0,0.0,no
+Shannon Rhodes,male,40-60,1st,S,Nationality_1,,130.65548528055686,2.0,0.0,yes
+Christopher Daniels,male,40-60,1st,C,Nationality_1,,24.665985280556864,1.0,0.0,yes
+Frederick Brown,female,40-60,1st,S,Nationality_1,,130.65548528055686,1.0,0.0,yes
+Victoria Allen,female,20-40,1st,C,Nationality_13,,46.625485280556866,0.0,2.0,yes
+Scott Mosley,male,40-60,1st,C,Nationality_13,,76.56548528055687,1.0,1.0,yes
+Holly Gilbert,female,40-60,1st,C,Nationality_13,,76.56548528055687,1.0,1.0,yes
+Juan Glass,male,20-40,2nd,B,Nationality_2,,,0.0,0.0,no
+William Perez,male,20-40,1st,S,Nationality_2,,,0.0,0.0,no
+Adam Kelly,female,20-40,2nd,S,Nationality_20,,10.525485280556863,0.0,0.0,no
+Mr. Justin James,male,20-40,1st,S,Nationality_2,,50.54548528055687,1.0,0.0,no
+Anthony Burnett,female,20-40,1st,S,Nationality_2,,50.54548528055687,1.0,0.0,yes
+Mrs. Stephanie Garcia,male,20-40,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Mary Parker,male,20-40,2nd,S,Nationality_2,,18.525485280556865,1.0,0.0,no
+Eric Mckinney,male,20-40,2nd,S,Nationality_2,,18.525485280556865,1.0,0.0,no
+Paul Butler,male,20-40,3rd,Q,Nationality_18,357975.56308366585,4.666485280556863,0.0,0.0,no
+Tristan Castillo,male,20-40,3rd,S,Nationality_2,29706.563083665864,11.625485280556862,0.0,0.0,no
+Mario Garcia,female,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Gabriel James,male,0-20,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Kyle Perez,male,20-40,2nd,S,Nationality_14,,7.6254852805568625,0.0,0.0,no
+Cassandra Harper,male,40-60,1st,S,Nationality_2,,35.625485280556866,0.0,0.0,no
+Jill Diaz,female,20-40,3rd,C,Nationality_1,342204.56308366585,4.566185280556864,0.0,0.0,yes
+Heather Nelson,male,20-40,3rd,C,Nationality_5,376290.56308366585,4.566085280556864,0.0,0.0,no
+Mark Brown,male,,3rd,C,Nationality_12,29674.563083665864,4.696585280556864,0.0,0.0,no
+David Reese,female,20-40,1st,C,Nationality_1,,56.60548528055686,0.0,1.0,yes
+Bryan Wells,female,40-60,1st,C,Nationality_1,,56.60548528055686,0.0,1.0,yes
+April Bender,female,20-40,1st,S,Nationality_17,,208.62548528055686,0.0,0.0,yes
+Timothy Huang,male,20-40,1st,C,Nationality_17,,76.56548528055687,0.0,0.0,no
+Thomas Parker,male,40-60,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Kim Steele,male,0-20,2nd,S,Nationality_2,,8.625485280556862,1.0,0.0,no
+Alex Harrison,male,20-40,2nd,S,Nationality_2,,8.625485280556862,1.0,0.0,no
+Jason Pierce,male,20-40,2nd,S,Nationality_2,,10.625485280556862,0.0,0.0,no
+Robert Murphy,male,20-40,3rd,S,Nationality_21,370146.56308366585,5.535485280556863,0.0,0.0,no
+Roberto Gordon,male,20-40,2nd,S,Nationality_18,,10.525485280556863,0.0,0.0,no
+Taylor Barnes,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Joshua Gilmore,female,0-20,3rd,Q,Nationality_18,358019.56308366585,4.666285280556863,0.0,0.0,yes
+Steven Holden,male,20-40,2nd,S,Nationality_8,,10.525485280556863,0.0,0.0,no
+Christopher Donaldson,female,0-20,3rd,Q,Nationality_18,391910.56308366585,4.675485280556863,0.0,0.0,yes
+Donald Davis,male,40-60,1st,C,Nationality_1,,86.54558528055686,1.0,0.0,yes
+Peter Thomas,female,20-40,1st,C,Nationality_1,,86.54558528055686,1.0,0.0,yes
+Gregory Moyer,male,60-80,1st,C,Nationality_1,,31.655585280556863,0.0,0.0,no
+Jonathan Hawkins,male,0-20,3rd,S,Nationality_2,377103.56308366585,17.626085280556865,0.0,2.0,yes
+Jesus Kennedy,male,20-40,3rd,S,Nationality_2,374129.56308366585,17.626085280556865,1.0,1.0,no
+Kathryn Reyes,male,40-60,3rd,S,Nationality_17,30587.563083665864,4.695485280556863,0.0,0.0,no
+William Neal,female,20-40,3rd,S,Nationality_2,374125.56308366585,17.626085280556865,1.0,1.0,yes
+Norma Parker,male,0-20,3rd,S,Nationality_2,374123.56308366585,43.705485280556864,5.0,2.0,no
+Mandy Kramer,male,0-20,3rd,S,Nationality_2,397425.56308366585,43.705485280556864,5.0,2.0,no
+Jessica Smith,male,0-20,3rd,S,Nationality_2,377098.56308366585,43.705485280556864,5.0,2.0,no
+Andrew Andrade,female,0-20,3rd,S,Nationality_2,29725.563083665864,43.705485280556864,5.0,2.0,no
+Edward Hale,female,0-20,3rd,S,Nationality_2,29700.563083665864,43.705485280556864,5.0,2.0,no
+Jeff Cantrell,male,0-20,3rd,S,Nationality_2,29202.563083665864,43.705485280556864,5.0,2.0,no
+Brandon George,male,40-60,3rd,S,Nationality_2,31630.563083665864,43.705485280556864,1.0,6.0,no
+Joshua Wilson,female,40-60,3rd,S,Nationality_2,3128366.563083666,43.705485280556864,1.0,6.0,no
+Rodney Wilson,male,40-60,1st,S,Nationality_1,,25.625485280556866,0.0,0.0,yes
+Elizabeth Clark,female,0-20,1st,S,Nationality_2,,150.61578528055688,0.0,0.0,yes
+Natasha Floyd,male,20-40,1st,S,Nationality_9,,27.525485280556865,0.0,1.0,no
+Carla Parker,female,40-60,1st,S,Nationality_2,,150.61578528055688,0.0,1.0,yes
+William Miller,male,40-60,2nd,S,Nationality_22,,10.525485280556863,0.0,0.0,no
+Jamie Norton,female,40-60,1st,C,Nationality_1,,60.595685280556864,0.0,1.0,yes
+Daniel Stuart Jr.,male,20-40,1st,C,Nationality_1,,60.595685280556864,0.0,1.0,yes
+John Blankenship,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Chris Hendricks,male,40-60,3rd,S,Nationality_2,374132.56308366585,5.535485280556863,0.0,0.0,no
+Daniel Palmer,male,20-40,3rd,S,Nationality_3,386357.56308366585,5.586985280556863,0.0,0.0,no
+Robert Stanton,male,20-40,3rd,S,Nationality_2,29732.563083665864,5.535485280556863,0.0,0.0,no
+Tammy Turner,male,40-60,1st,C,Nationality_4,,76.56548528055687,0.0,0.0,no
+Marie Fisher,male,0-20,3rd,S,Nationality_6,377077.56308366585,6.686585280556862,0.0,0.0,no
+Terry Avila,male,20-40,3rd,S,Nationality_6,29868.563083665864,4.706085280556863,2.0,0.0,no
+Janet Murray,male,20-40,3rd,S,Nationality_6,29394.563083665864,4.706085280556863,2.0,0.0,no
+Daniel Nichols,male,0-20,3rd,S,Nationality_7,376266.56308366585,4.676085280556864,0.0,0.0,no
+Michelle Adams,female,20-40,3rd,S,Nationality_13,29195.563083665864,5.695485280556863,0.0,0.0,no
+Michael Cunningham,male,20-40,3rd,S,Nationality_3,374142.56308366585,3.7158852805568636,1.0,0.0,no
+Danny Baxter,male,0-20,3rd,S,Nationality_3,409703.56308366585,3.7158852805568636,1.0,0.0,no
+Robert Phillips,male,20-40,3rd,S,Nationality_6,29746.563083665864,12.695485280556863,1.0,0.0,no
+Aaron Blake,female,20-40,3rd,S,Nationality_6,374136.56308366585,12.695485280556863,1.0,0.0,yes
+Dustin Copeland,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Donna Murphy,male,0-20,2nd,S,Nationality_1,,11.625485280556862,1.0,1.0,yes
+Regina Williams,female,20-40,2nd,S,Nationality_1,,11.625485280556862,0.0,2.0,yes
+Donald Jones,male,0-20,3rd,S,Nationality_27,29728.563083665864,6.6254852805568625,0.0,0.0,no
+Barbara Hunt,male,20-40,3rd,C,Nationality_5,374112.56308366585,4.566185280556864,0.0,0.0,yes
+Edward Mack,male,0-20,3rd,C,Nationality_5,395453.56308366585,4.566085280556864,0.0,0.0,no
+Brent Gonzalez,male,20-40,3rd,C,Nationality_5,350643.56308366585,4.566185280556864,0.0,0.0,no
+Joy Melton,male,40-60,3rd,S,Nationality_1,3128314.563083666,11.545685280556864,2.0,0.0,no
+Sara Wood,male,20-40,3rd,S,Nationality_10,374793.56308366585,4.6955852805568625,1.0,0.0,no
+Danielle King,male,20-40,3rd,S,Nationality_10,342148.56308366585,4.6955852805568625,0.0,0.0,no
+Tanya Jones,female,40-60,3rd,S,Nationality_1,391909.56308366585,11.545685280556864,1.0,0.0,yes
+Michael Molina,male,40-60,2nd,S,Nationality_1,,10.525485280556863,0.0,0.0,no
+Richard Jones,male,20-40,1st,C,Nationality_1,,52.60648528055687,1.0,0.0,yes
+Megan Duncan,female,20-40,1st,C,Nationality_1,,52.60648528055687,1.0,0.0,yes
+Laura Tyler,female,0-20,3rd,Q,Nationality_18,29867.563083665864,4.666285280556863,0.0,0.0,no
+William Mcbride,female,20-40,3rd,S,Nationality_2,390342.56308366585,4.635485280556864,0.0,0.0,no
+Rebecca Duran,female,0-20,2nd,S,Nationality_24,,30.525485280556865,0.0,1.0,yes
+Rose Roberts,male,40-60,1st,C,Nationality_1,,73.66618528055686,1.0,0.0,yes
+Ellen Wood,female,40-60,1st,C,Nationality_1,,73.66618528055686,1.0,0.0,yes
+Mr. Gregory Williams,male,20-40,2nd,S,Nationality_24,,30.525485280556865,0.0,1.0,no
+Melissa Edwards,male,20-40,1st,S,Nationality_2,,39.60548528055686,0.0,0.0,no
+Karen White,male,60-80,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Danielle Williams,male,40-60,1st,S,Nationality_1,,80.61608528055686,1.0,0.0,no
+Danielle Bailey,female,20-40,1st,S,Nationality_1,,80.61608528055686,1.0,0.0,yes
+Larry Turner,male,40-60,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Eduardo Green,male,40-60,1st,S,Nationality_2,,,0.0,0.0,no
+Casey Palmer,male,20-40,2nd,S,Nationality_2,,,,,no
+Aaron Martin,female,0-20,2nd,S,Nationality_2,,23.575485280556865,0.0,2.0,yes
+Valerie Bray,male,40-60,2nd,S,Nationality_2,,23.575485280556865,1.0,1.0,no
+Veronica Cochran,male,20-40,3rd,Q,Nationality_18,28906.563083665864,3.6956852805568636,0.0,0.0,no
+Jeanette Bruce,female,40-60,2nd,S,Nationality_2,,23.575485280556865,1.0,1.0,yes
+Katherine Wong,male,20-40,1st,C,Nationality_32,,73.66618528055686,0.0,0.0,yes
+Brooke Delacruz,male,40-60,1st,S,Nationality_2,,27.525485280556865,0.0,0.0,yes
+Christopher Bullock,female,20-40,1st,C,Nationality_1,,80.55568528055686,0.0,0.0,yes
+Katrina Moore,male,40-60,1st,S,Nationality_9,,90.62548528055686,1.0,1.0,no
+Jeffrey Hoffman,female,40-60,1st,S,Nationality_9,,90.62548528055686,1.0,1.0,yes
+Brittney Chang,male,40-60,1st,S,Nationality_2,,39.625485280556866,0.0,0.0,no
+Kristin Mcneil,female,20-40,3rd,Q,Nationality_18,30515.563083665864,4.675485280556863,0.0,0.0,yes
+Travis Snow,male,20-40,3rd,S,Nationality_7,376287.56308366585,3.716085280556863,0.0,0.0,yes
+Michael Davis,male,20-40,3rd,S,Nationality_17,342202.56308366585,53.61658528055686,0.0,0.0,yes
+Mary Woods,female,0-20,3rd,Q,Nationality_18,399673.56308366585,3.6754852805568636,0.0,0.0,no
+Beth Riley,female,0-20,3rd,S,Nationality_6,3128356.563083666,4.706085280556863,0.0,0.0,yes
+Robert Bryant,female,20-40,3rd,S,Nationality_6,370327.56308366585,4.706085280556863,0.0,0.0,no
+Diane Valdez,female,20-40,3rd,S,Nationality_7,29741.563083665864,5.715785280556863,0.0,0.0,yes
+Charles Peck,male,20-40,3rd,S,Nationality_16,419127.56308366585,4.696585280556864,0.0,0.0,no
+Morgan Aguirre,female,20-40,3rd,S,Nationality_7,376302.56308366585,4.676085280556864,0.0,0.0,no
+Michael Barajas,female,20-40,3rd,Q,Nationality_18,3128358.563083666,4.675485280556863,0.0,0.0,no
+Rhonda Collins,female,20-40,2nd,S,Nationality_2,,62.525485280556865,1.0,2.0,yes
+Valerie Gomez,female,20-40,2nd,S,Nationality_2,,62.525485280556865,1.0,2.0,yes
+Robert Dunlap,male,40-60,2nd,S,Nationality_2,,62.525485280556865,1.0,2.0,no
+Denise White,female,40-60,2nd,S,Nationality_20,,62.525485280556865,1.0,2.0,yes
+Gregory Mathews,female,40-60,2nd,S,Nationality_20,,13.525485280556863,0.0,0.0,yes
+Glenda Chavez,male,20-40,2nd,S,Nationality_2,,70.62548528055686,2.0,0.0,no
+James Mason,male,20-40,2nd,S,Nationality_2,,70.62548528055686,2.0,0.0,no
+Dave Berg,male,20-40,2nd,S,Nationality_2,,70.62548528055686,2.0,0.0,no
+Gregory Fernandez,male,40-60,1st,S,Nationality_2,,48.69578528055686,0.0,0.0,no
+Christopher Walker,female,0-20,2nd,S,Nationality_6,,10.525485280556863,1.0,1.0,no
+Cindy Stuart,male,40-60,1st,S,Nationality_2,,47.525485280556865,0.0,0.0,no
+Monica Smith,female,0-20,1st,C,Nationality_1,,54.716185280556864,0.0,1.0,yes
+Erica Potts,female,40-60,1st,C,Nationality_1,,54.716185280556864,0.0,1.0,yes
+Madeline Gomez,female,0-20,3rd,S,Nationality_6,29394.563083665864,9.576385280556863,0.0,1.0,yes
+Susan Jacobson,female,20-40,3rd,S,Nationality_6,29724.563083665864,9.576385280556863,1.0,1.0,yes
+Todd Conrad,female,0-20,2nd,S,Nationality_2,,20.525485280556865,2.0,1.0,yes
+Bethany Rivera,male,20-40,2nd,S,Nationality_2,,8.625485280556862,2.0,1.0,no
+Catherine Harris,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Casey Smith,female,40-60,2nd,S,Nationality_2,,20.525485280556865,1.0,3.0,yes
+Steven Reynolds,male,40-60,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Brittney Hamilton,female,40-60,1st,C,Nationality_1,,74.71568528055687,1.0,0.0,yes
+Allison English,female,20-40,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,yes
+Linda Skinner,male,40-60,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,no
+Kevin Carter,male,40-60,3rd,S,Nationality_7,29745.563083665864,3.615485280556863,0.0,0.0,no
+Dr. Adam Scott,male,0-20,3rd,S,Nationality_3,342140.56308366585,19.626085280556865,0.0,0.0,no
+Alfred Herrera,male,40-60,1st,S,Nationality_1,,49.525485280556865,1.0,0.0,no
+John Bridges,female,20-40,1st,S,Nationality_1,,49.525485280556865,1.0,0.0,yes
+Brittany Vasquez,male,20-40,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,yes
+Charles Holland,female,20-40,3rd,S,Nationality_6,374139.56308366585,4.706085280556863,0.0,0.0,yes
+Michael Brown,male,20-40,2nd,S,Nationality_2,,70.62548528055686,0.0,0.0,no
+James Burch,male,20-40,3rd,Q,Nationality_17,29679.563083665864,4.675485280556863,0.0,0.0,no
+Cathy Schaefer,male,40-60,2nd,S,Nationality_33,,10.525485280556863,0.0,0.0,yes
+Scott Sims,female,20-40,3rd,S,Nationality_2,340042.56308366585,5.535485280556863,0.0,0.0,yes
+Linda Williams,male,60-80,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,no
+Joseph Dixon,female,60-80,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,no
+Victoria Olson,male,20-40,1st,S,Nationality_1,,97.52548528055686,1.0,0.0,yes
+Matthew Russell,female,20-40,1st,S,Nationality_1,,97.52548528055686,1.0,0.0,yes
+Tracy Brewer,male,40-60,1st,C,Nationality_1,,27.656585280556865,0.0,0.0,no
+James Gilbert Jr.,male,40-60,3rd,S,Nationality_3,31399.563083665864,4.655485280556864,0.0,0.0,no
+Connor Davenport,male,20-40,2nd,S,Nationality_17,,,,,no
+Brittany Cardenas,male,20-40,2nd,S,Nationality_2,,9.576085280556862,0.0,0.0,no
+Eric Harrington,male,20-40,3rd,S,Nationality_2,372814.56308366585,4.696385280556862,0.0,0.0,yes
+Michael Adams,male,0-20,3rd,C,Nationality_17,374793.56308366585,15.676385280556863,0.0,0.0,no
+Timothy Edwards,female,0-20,3rd,C,Nationality_34,29749.563083665864,4.566185280556864,0.0,0.0,yes
+Katherine Howard,male,20-40,3rd,C,Nationality_5,368877.56308366585,11.615685280556862,0.0,0.0,no
+Vernon Brown,female,20-40,1st,S,Nationality_17,,77.52548528055686,0.0,0.0,yes
+Martin Miller,female,0-20,2nd,S,Nationality_14,,7.6254852805568625,0.0,0.0,yes
+Christina Villarreal,male,20-40,3rd,S,Nationality_17,376299.56308366585,4.696585280556864,0.0,0.0,no
+Sabrina Anderson,female,0-20,3rd,S,Nationality_1,3128329.563083666,4.706085280556863,1.0,0.0,no
+Eric Dixon,female,20-40,3rd,S,Nationality_6,29394.563083665864,4.706085280556863,1.0,0.0,no
+Rebecca Washington,female,40-60,1st,C,Nationality_1,,25.665785280556864,0.0,0.0,no
+Ms. Brandi Kim MD,male,40-60,1st,S,Nationality_2,,,0.0,0.0,yes
+Philip Williams,male,0-20,3rd,S,Nationality_12,397426.56308366585,4.696585280556864,0.0,0.0,no
+Valerie Cannon,female,0-20,3rd,C,Nationality_17,376267.56308366585,11.615585280556862,1.0,0.0,no
+Ashley Green,female,0-20,3rd,C,Nationality_17,29195.563083665864,11.615585280556862,1.0,0.0,no
+Michael Weeks,female,20-40,2nd,S,Nationality_2,,24.525485280556865,2.0,1.0,yes
+Christopher Jones,male,40-60,2nd,S,Nationality_22,,24.525485280556865,1.0,0.0,no
+Roy Anderson,male,20-40,3rd,C,Nationality_23,62902.56308366587,4.696585280556864,0.0,0.0,yes
+Andre Simpson MD,male,20-40,3rd,S,Nationality_7,31189.563083665864,4.676585280556862,0.0,0.0,yes
+Jamie Murray,male,20-40,3rd,S,Nationality_17,419134.56308366585,4.535485280556863,0.0,0.0,no
+Miss Ashley Chang,male,40-60,2nd,S,Nationality_21,,12.525485280556863,0.0,0.0,no
+Erica Ramos,male,20-40,2nd,S,Nationality_2,,28.625485280556866,2.0,0.0,no
+Joshua Nunez,male,20-40,2nd,S,Nationality_2,,28.625485280556866,2.0,0.0,no
+Jeffery Watkins,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Tonya Smith,male,0-20,3rd,S,Nationality_10,385636.56308366585,4.6955852805568625,0.0,0.0,no
+Cynthia Mann,male,40-60,3rd,S,Nationality_10,29678.563083665864,4.535585280556864,0.0,0.0,no
+Kelly Davis,male,0-20,3rd,S,Nationality_10,37533.56308366587,4.6955852805568625,1.0,0.0,no
+Daniel Webster,female,20-40,3rd,Q,Nationality_18,409703.56308366585,4.675485280556863,0.0,0.0,yes
+Gina Hunter,female,20-40,2nd,C,Nationality_1,,10.676485280556863,0.0,0.0,yes
+Thomas Miller,male,20-40,3rd,S,Nationality_3,35522.56308366587,5.5457852805568635,0.0,0.0,yes
+Adrian Dominguez,male,20-40,3rd,S,Nationality_6,376253.56308366585,3.6165852805568632,0.0,0.0,no
+Denise Brown,male,20-40,3rd,S,Nationality_7,3128346.563083666,4.676585280556862,0.0,0.0,no
+Melinda Mejia,male,20-40,3rd,S,Nationality_7,29736.563083665864,5.655585280556863,0.0,0.0,no
+Peter Casey,male,20-40,3rd,S,Nationality_1,3128348.563083666,4.676085280556864,0.0,0.0,no
+Richard Ferguson,male,20-40,3rd,S,Nationality_1,391557.56308366585,4.6955852805568625,0.0,0.0,no
+Jason Lewis,male,20-40,3rd,S,Nationality_7,374133.56308366585,4.676085280556864,0.0,0.0,yes
+Angela Bishop,male,0-20,3rd,S,Nationality_17,410172.56308366585,8.546285280556862,1.0,1.0,yes
+Robert Jones,female,0-20,3rd,S,Nationality_17,29366.563083665864,8.546285280556862,1.0,1.0,yes
+Mia Moreno,male,40-60,3rd,S,Nationality_1,66937.56308366587,,,,no
+James Nguyen,male,20-40,3rd,S,Nationality_1,376280.56308366585,4.676085280556864,0.0,0.0,no
+Jeffrey Dominguez,female,20-40,3rd,S,Nationality_17,29735.563083665864,8.546285280556862,0.0,2.0,yes
+Kyle Brown,male,0-20,3rd,S,Nationality_1,394277.56308366585,,0.0,0.0,no
+Amber Cook,male,0-20,3rd,S,Nationality_2,374520.56308366585,20.615485280556864,1.0,2.0,no
+Janice Norton,female,0-20,3rd,S,Nationality_2,29702.563083665864,20.615485280556864,1.0,2.0,no
+Jeffrey Lane,male,20-40,3rd,S,Nationality_24,376261.56308366585,20.615485280556864,1.0,2.0,no
+Dr. David Wilson,female,20-40,3rd,S,Nationality_24,391901.56308366585,20.615485280556864,1.0,2.0,no
+Alison Anderson,male,40-60,1st,S,Nationality_1,,23.525485280556865,0.0,0.0,no
+Anthony Green,male,20-40,3rd,S,Nationality_12,29723.563083665864,4.696585280556864,0.0,0.0,no
+Jeanne Houston,male,20-40,3rd,S,Nationality_7,36600.56308366587,4.6955852805568625,0.0,0.0,yes
+Lynn Poole,male,20-40,3rd,S,Nationality_7,376288.56308366585,4.6955852805568625,0.0,0.0,no
+Traci Barr,male,20-40,3rd,C,Nationality_5,29195.563083665864,4.566185280556864,0.0,2.0,no
+Maria Yang,male,40-60,1st,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Keith Acosta,female,0-20,3rd,S,Nationality_6,32598.563083665864,6.686485280556862,1.0,0.0,no
+Luke Gilmore,female,20-40,3rd,S,Nationality_6,30388.563083665864,6.686485280556862,1.0,0.0,no
+Stacey Pena,male,20-40,3rd,S,Nationality_6,342133.56308366585,4.706085280556863,0.0,0.0,yes
+Teresa Wells,male,0-20,3rd,S,Nationality_6,390662.56308366585,4.546085280556863,0.0,0.0,no
+David Benton,male,20-40,3rd,S,Nationality_3,370322.56308366585,5.606285280556863,0.0,0.0,no
+Bobby Flores,male,20-40,2nd,S,Nationality_35,,23.525485280556865,1.0,0.0,no
+Amanda David,female,20-40,2nd,S,Nationality_35,,23.525485280556865,1.0,0.0,yes
+Gabrielle Smith,male,20-40,3rd,S,Nationality_16,357974.56308366585,4.696585280556864,0.0,0.0,no
+Victoria Turner,male,20-40,3rd,S,Nationality_7,376263.56308366585,4.676585280556862,0.0,0.0,yes
+Jennifer Reyes,male,20-40,3rd,S,Nationality_7,48222.56308366587,4.6955852805568625,0.0,0.0,no
+Shannon Snow,male,20-40,3rd,S,Nationality_7,376305.56308366585,4.625985280556863,0.0,0.0,no
+Bobby Morgan,female,20-40,2nd,S,Nationality_1,,18.525485280556865,0.0,0.0,no
+Carlos Wright,female,0-20,3rd,C,Nationality_36,29717.563083665864,10.605885280556862,0.0,1.0,yes
+Marcia Anderson,male,20-40,3rd,C,Nationality_1,376252.56308366585,10.605885280556862,0.0,1.0,yes
+Alejandro Smith,male,0-20,3rd,C,Nationality_37,342149.56308366585,4.566185280556864,0.0,0.0,no
+Erin Torres,female,40-60,2nd,Q,Nationality_18,,9.595485280556863,0.0,0.0,yes
+John Powell,male,20-40,3rd,Q,Nationality_18,374518.56308366585,4.675485280556863,0.0,0.0,no
+Judy Holland,male,20-40,2nd,Q,Nationality_18,,9.595485280556863,0.0,0.0,no
+Linda Hansen,male,20-40,3rd,S,Nationality_1,30953.563083665864,4.5754852805568635,0.0,0.0,no
+Christian Holmes,male,20-40,1st,S,Nationality_2,,208.62548528055686,0.0,0.0,no
+Keith Armstrong,female,0-20,3rd,Q,Nationality_18,376960.56308366585,4.675485280556863,0.0,0.0,yes
+Jennifer Robertson,female,20-40,3rd,Q,Nationality_18,357982.56308366585,4.675485280556863,0.0,0.0,yes
+Joseph Fitzgerald,male,0-20,3rd,S,Nationality_24,374118.56308366585,5.535485280556863,0.0,0.0,no
+Megan Miller,male,40-60,3rd,Q,Nationality_18,398161.56308366585,4.686185280556863,0.0,0.0,no
+James Williams,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Melissa Palmer,female,40-60,2nd,S,Nationality_2,,10.625485280556862,0.0,0.0,yes
+Michelle Larson,male,20-40,3rd,Q,Nationality_18,362148.56308366585,4.675485280556863,0.0,0.0,yes
+Devin Thomas,male,40-60,1st,C,Nationality_1,,26.665485280556865,0.0,0.0,no
+Elizabeth Fields,male,40-60,1st,S,Nationality_1,,48.69578528055686,1.0,0.0,no
+Lonnie Eaton,female,20-40,1st,S,Nationality_1,,48.69578528055686,1.0,0.0,yes
+Sierra Jimenez,male,20-40,3rd,C,Nationality_5,342145.56308366585,11.615585280556862,1.0,0.0,no
+Madeline Sanchez,female,0-20,3rd,C,Nationality_5,3128368.563083666,11.615585280556862,1.0,0.0,no
+Melissa Farmer,male,20-40,3rd,Q,Nationality_18,3128338.563083666,4.675485280556863,1.0,0.0,no
+Jason May,male,20-40,3rd,Q,Nationality_18,29195.563083665864,4.675485280556863,1.0,0.0,no
+Ronald Villegas,male,20-40,3rd,Q,Nationality_18,409701.56308366585,4.666385280556863,0.0,0.0,no
+Desiree Lamb,male,40-60,1st,S,Nationality_1,,49.63558528055687,1.0,0.0,yes
+Michelle Hogan,female,40-60,1st,S,Nationality_1,,49.63558528055687,1.0,0.0,yes
+Elizabeth Walker,female,0-20,3rd,S,Nationality_13,3128332.563083666,19.525485280556865,0.0,2.0,yes
+Frederick Martinez,female,20-40,3rd,S,Nationality_13,33659.56308366587,19.525485280556865,1.0,1.0,yes
+Stephen Ray,female,20-40,3rd,S,Nationality_13,342144.56308366585,5.655785280556863,2.0,0.0,no
+Ashley Herring,male,20-40,3rd,S,Nationality_13,63619.56308366587,19.525485280556865,3.0,1.0,yes
+Gerald Johnson,male,20-40,3rd,S,Nationality_13,29701.563083665864,5.655785280556863,2.0,0.0,no
+Seth Scott,male,40-60,2nd,Q,Nationality_1,,9.595485280556863,0.0,0.0,no
+Jason Brady,male,40-60,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,no
+Kenneth Archer,female,0-20,3rd,S,Nationality_7,29394.563083665864,9.556285280556862,1.0,1.0,no
+Joseph Rivera,male,0-20,3rd,S,Nationality_7,29682.563083665864,4.6955852805568625,1.0,1.0,no
+Dwayne Gardner,female,20-40,3rd,S,Nationality_7,31184.563083665864,9.556285280556862,0.0,2.0,no
+Jessica Bolton,male,40-60,2nd,B,Nationality_11,,,0.0,0.0,no
+Aaron Chapman,male,,3rd,C,Nationality_12,391550.56308366585,4.696585280556864,0.0,0.0,no
+Craig Thomas,male,20-40,3rd,C,Nationality_38,401961.56308366585,4.566185280556864,0.0,0.0,yes
+Joann Lopez,female,20-40,1st,S,Nationality_17,,208.58638528055687,0.0,0.0,yes
+Amber Johnson,male,20-40,2nd,S,Nationality_2,,,,,no
+Ronald Moreno,male,20-40,3rd,S,Nationality_24,3128328.563083666,4.635485280556864,0.0,0.0,no
+Brian Heath,male,20-40,2nd,S,Nationality_7,,7.6254852805568625,0.0,0.0,no
+James Cooley,male,20-40,3rd,C,Nationality_5,63916.56308366587,4.566085280556864,0.0,0.0,no
+Matthew Castaneda,male,20-40,2nd,S,Nationality_1,,23.525485280556865,1.0,1.0,no
+Hector Ward,female,20-40,2nd,S,Nationality_1,,23.525485280556865,1.0,1.0,no
+Monica Gonzalez,female,20-40,3rd,S,Nationality_6,33658.56308366587,6.636385280556864,0.0,0.0,no
+Christine Ray,male,20-40,2nd,Q,Nationality_18,,7.665685280556863,0.0,0.0,no
+Morgan Burns,male,20-40,3rd,S,Nationality_39,34603.56308366587,53.61658528055686,0.0,0.0,yes
+Michael James,male,20-40,3rd,S,Nationality_17,28652.563083665864,53.61658528055686,0.0,0.0,no
+Anne Abbott,female,20-40,3rd,S,Nationality_7,29692.563083665864,4.5754852805568635,0.0,0.0,yes
+Kristen Cook,male,0-20,3rd,Q,Nationality_18,63619.56308366587,4.675485280556863,0.0,0.0,no
+Matthew Ochoa,male,20-40,3rd,S,Nationality_17,3128341.563083666,53.61658528055686,0.0,0.0,yes
+Jason Lopez,female,0-20,2nd,C,Nationality_4,,38.636185280556866,1.0,2.0,yes
+Amanda Rodriguez,female,0-20,2nd,C,Nationality_4,,38.636185280556866,1.0,2.0,yes
+Jeffrey Harper,male,20-40,2nd,C,Nationality_4,,38.636185280556866,1.0,2.0,no
+Brandi Myers,female,20-40,2nd,C,Nationality_4,,38.636185280556866,1.0,2.0,yes
+Christopher Morris,male,20-40,3rd,S,Nationality_1,372415.56308366585,6.616285280556863,0.0,0.0,no
+Jill Peck,male,20-40,3rd,S,Nationality_7,376301.56308366585,4.676085280556864,0.0,0.0,no
+Jenny Rowe,male,20-40,3rd,S,Nationality_7,397420.56308366585,4.676085280556864,0.0,0.0,no
+Matthew Burke,female,40-60,1st,S,Nationality_1,,22.706185280556866,0.0,0.0,yes
+David Watson,male,0-20,3rd,S,Nationality_17,376297.56308366585,22.615885280556864,3.0,1.0,no
+Renee Miller,female,0-20,3rd,S,Nationality_17,358022.56308366585,22.615885280556864,3.0,1.0,no
+Devon Cameron,female,0-20,3rd,S,Nationality_17,411512.56308366585,22.615885280556864,3.0,1.0,no
+Carrie Moreno,female,0-20,3rd,S,Nationality_17,34585.56308366587,22.615885280556864,3.0,1.0,no
+Linda Cox,female,20-40,3rd,S,Nationality_17,3128323.563083666,22.615885280556864,0.0,4.0,no
+Heather Parks,female,0-20,2nd,C,Nationality_13,,9.525485280556863,0.0,0.0,yes
+Julie Collins,male,20-40,3rd,S,Nationality_6,377076.56308366585,4.706085280556863,0.0,0.0,no
+Sherri Gonzalez,female,20-40,2nd,S,Nationality_24,,30.525485280556865,0.0,0.0,yes
+Theresa Johnson,female,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Brett Friedman,female,0-20,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,no
+Anthony Brown,male,0-20,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,no
+Ronald Spencer,female,20-40,1st,C,Nationality_4,,103.60608528055687,0.0,0.0,yes
+Michele Cox,male,40-60,3rd,S,Nationality_2,,21.555485280556866,0.0,0.0,no
+Victoria Reyes,male,20-40,1st,C,Nationality_17,,509.58618528055683,0.0,0.0,yes
+Linda Delgado,male,20-40,2nd,S,Nationality_9,,9.696085280556863,0.0,0.0,no
+Scott Payne,male,20-40,1st,C,Nationality_1,,24.665985280556864,0.0,0.0,no
+Julie Kramer,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Miguel Pruitt,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+William Johnson,female,20-40,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,no
+Aaron Collins,female,40-60,3rd,S,Nationality_2,,4.675485280556863,0.0,0.0,no
+Carla Lawson,male,40-60,1st,S,Nationality_7,,23.635485280556864,0.0,0.0,no
+Anna Armstrong,male,20-40,3rd,S,Nationality_7,,12.635485280556862,1.0,0.0,no
+Carolyn Henderson,female,20-40,3rd,S,Nationality_7,,12.635485280556862,1.0,0.0,no
+Victoria Jones,male,0-20,3rd,S,Nationality_6,,4.706085280556863,1.0,0.0,yes
+Jennifer Brown,female,40-60,1st,C,Nationality_7,,24.665985280556864,0.0,0.0,yes
+Natalie Hensley,male,20-40,3rd,Q,Nationality_18,,4.696185280556863,0.0,0.0,no
+Amanda Ball,female,0-20,1st,C,Nationality_4,,36.60548528055686,0.0,1.0,yes
+Michael Hughes,female,40-60,1st,C,Nationality_1,,36.60548528055686,0.0,1.0,yes
+Mr. Jose Jones,male,60-80,2nd,Q,Nationality_18,,9.595485280556863,0.0,0.0,no
+Elizabeth Moore,male,20-40,3rd,S,Nationality_17,,53.61658528055686,0.0,0.0,no
+Jared Henry,male,20-40,3rd,S,Nationality_40,,6.6254852805568625,0.0,0.0,no
+Heather Tucker,male,20-40,3rd,S,Nationality_41,,4.5754852805568635,0.0,0.0,no
+James Hill,female,20-40,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,no
+David Walters,male,20-40,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,no
+Anthony Park,male,0-20,3rd,S,Nationality_2,,4.696185280556863,0.0,0.0,no
+Leonard Gordon,female,20-40,1st,C,Nationality_1,,74.71568528055687,0.0,0.0,yes
+Jordan Yoder,male,20-40,1st,S,Nationality_1,,27.525485280556865,0.0,0.0,no
+Rita Taylor,male,20-40,1st,S,Nationality_1,,42.625485280556866,0.0,0.0,no
+Robert Miller,male,40-60,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,no
+David Whitaker,female,40-60,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,yes
+Sean Torres,male,0-20,3rd,S,Nationality_2,,4.5754852805568635,0.0,0.0,no
+Jeremy Mcdonald,male,20-40,3rd,S,Nationality_23,,5.655785280556863,0.0,0.0,yes
+Marc Franklin,male,40-60,3rd,S,Nationality_7,,4.535585280556864,0.0,0.0,no
+Cody King,female,20-40,3rd,S,Nationality_1,,4.6955852805568625,0.0,0.0,yes
+Cory Cunningham,male,20-40,3rd,S,Nationality_7,,4.636185280556862,0.0,0.0,yes
+Amy Lowery,female,40-60,1st,C,Nationality_4,,143.62598528055688,0.0,0.0,yes
+Michael Myers,male,20-40,3rd,C,Nationality_37,,3.606385280556863,0.0,0.0,no
+Thomas Rodriguez,male,40-60,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Miranda Silva,male,0-20,3rd,S,Nationality_24,,4.635485280556864,0.0,0.0,no
+Erika Young,female,40-60,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Andrew Rivera,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,yes
+Craig Johnson,female,0-20,1st,S,Nationality_1,,208.58638528055687,0.0,1.0,yes
+Jimmy Allen,male,20-40,3rd,S,Nationality_3,,4.546485280556864,0.0,0.0,yes
+Kyle Fitzpatrick,male,20-40,3rd,S,Nationality_6,,4.546085280556863,0.0,0.0,no
+Alyssa Chavez,male,20-40,1st,S,Nationality_1,,23.525485280556865,0.0,0.0,no
+Joseph Best,female,0-20,3rd,Q,Nationality_18,,4.696185280556863,0.0,0.0,no
+Stacy Owens,female,0-20,1st,S,Nationality_2,,83.62548528055686,0.0,0.0,yes
+Alicia Daniels,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Cheryl Mack,male,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,no
+Mrs. Sandra Pearson,male,20-40,2nd,C,Nationality_4,,12.525485280556863,0.0,0.0,no
+Daniel Warren,male,0-20,2nd,C,Nationality_4,,34.525485280556865,0.0,2.0,yes
+Rachel Garcia,male,40-60,2nd,C,Nationality_4,,34.525485280556865,1.0,1.0,no
+Andrew Little,female,20-40,2nd,C,Nationality_4,,34.525485280556865,1.0,1.0,yes
+Dr. Alison Clay,male,0-20,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,yes
+Gina Jordan,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Jordan Schneider,male,20-40,2nd,C,Nationality_1,,12.636185280556862,0.0,0.0,no
+Lisa Russo,female,20-40,3rd,Q,Nationality_18,,4.666385280556863,0.0,0.0,yes
+Audrey Martinez,male,20-40,3rd,C,Nationality_38,,4.566185280556864,0.0,0.0,no
+John Reid,male,20-40,1st,C,Nationality_4,,26.665485280556865,0.0,0.0,yes
+Adam Herrera,male,20-40,3rd,S,Nationality_42,,4.696585280556864,0.0,0.0,no
+Mr. Seth Martinez,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Tracy Salinas,male,20-40,3rd,C,Nationality_36,,4.696585280556864,0.0,0.0,no
+Courtney Jenkins,male,0-20,1st,S,Nationality_1,,50.54548528055687,1.0,0.0,no
+Gary Allison,female,0-20,1st,S,Nationality_24,,50.54548528055687,1.0,0.0,yes
+Michelle Sharp,male,20-40,3rd,C,Nationality_12,,4.696585280556864,0.0,0.0,no
+Heather Adams,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Vincent Smith,male,20-40,2nd,S,Nationality_2,,13.525485280556863,0.0,0.0,no
+Kyle Reynolds,female,20-40,1st,C,Nationality_27,,46.62558528055686,0.0,0.0,yes
+Eric Velez,male,40-60,1st,S,Nationality_9,,72.56648528055686,0.0,0.0,no
+Kimberly Kelly,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,yes
+Henry Lopez,male,40-60,1st,S,Nationality_1,,48.69578528055686,0.0,0.0,no
+Jennifer Boyd,male,0-20,3rd,Q,Nationality_1,,4.675485280556863,0.0,0.0,yes
+Adam Torres,female,20-40,3rd,Q,Nationality_18,,20.575485280556865,2.0,0.0,yes
+Stacy Villarreal,female,20-40,3rd,Q,Nationality_18,,20.575485280556865,2.0,0.0,yes
+Tammy Foster,male,20-40,3rd,Q,Nationality_18,,20.575485280556865,2.0,0.0,yes
+David Jacobs,male,20-40,2nd,S,Nationality_29,,10.625485280556862,0.0,0.0,no
+Ashley Murphy,male,20-40,2nd,S,Nationality_9,,10.525485280556863,0.0,0.0,no
+Danielle Vaughn DDS,female,20-40,3rd,Q,Nationality_18,,4.676285280556863,0.0,0.0,yes
+Timothy Briggs,male,0-20,3rd,Q,Nationality_18,,12.625485280556862,0.0,0.0,no
+Theresa Hancock,male,20-40,1st,S,Nationality_18,,23.576385280556863,0.0,0.0,yes
+Kenneth Ball,female,20-40,3rd,Q,Nationality_18,,4.696185280556863,0.0,0.0,yes
+Richard Decker,female,0-20,3rd,Q,Nationality_1,,5.525485280556863,0.0,0.0,yes
+Jodi Jordan,female,40-60,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Maria Perez,male,40-60,2nd,S,Nationality_14,,23.525485280556865,0.0,0.0,no
+Kara West,male,0-20,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Kevin Riley,male,20-40,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,no
+Robert Carr,female,0-20,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,no
+Luis Hunt,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Blake Bauer,female,60-80,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Kristina Quinn,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Richard Wilson,female,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Steve Smith,female,0-20,2nd,S,Nationality_2,,16.625485280556866,0.0,1.0,yes
+Amy Keller,female,40-60,2nd,S,Nationality_2,,16.625485280556866,0.0,1.0,yes
+Nicholas Ryan,male,0-20,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Shawn Parker,male,40-60,3rd,S,Nationality_19,,5.535485280556863,0.0,0.0,no
+Alexis Horne,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+David Brooks,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Raymond Cook,male,20-40,1st,C,Nationality_1,,79.55598528055687,1.0,0.0,no
+Randall Mccarthy,female,20-40,1st,C,Nationality_1,,79.55598528055687,1.0,0.0,yes
+Rachel Manning,male,20-40,3rd,S,Nationality_3,,4.676085280556864,0.0,0.0,yes
+Bryce Patton,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+David Myers,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Tracy Lee,male,60-80,1st,C,Nationality_1,,23.635485280556864,0.0,0.0,no
+Joseph Jones,male,40-60,2nd,S,Nationality_10,,10.525485280556863,0.0,0.0,no
+Tyler Simpson,male,40-60,1st,Q,Nationality_1,,87.52548528055686,2.0,0.0,no
+Lori Smith,female,20-40,1st,Q,Nationality_1,,87.52548528055686,1.0,0.0,yes
+John Grant,female,20-40,1st,Q,Nationality_1,,87.52548528055686,1.0,0.0,yes
+Jessica Franco,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Raymond Mcdonald,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Thomas Duncan,male,60-80,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Scott Nolan,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Richard Rivas,female,20-40,3rd,Q,Nationality_18,,4.696185280556863,0.0,0.0,yes
+David Silva,male,20-40,1st,C,Nationality_1,,54.67548528055686,1.0,0.0,yes
+Ashley Ayers,male,20-40,3rd,S,Nationality_3,,4.655485280556864,0.0,0.0,no
+Sheila Smith,male,40-60,1st,S,Nationality_9,,27.625485280556866,0.0,0.0,no
+Chase Castillo,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Monica Chaney,male,40-60,1st,S,Nationality_1,,39.60548528055686,0.0,0.0,no
+Jennifer Jones,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Allison Haney,male,0-20,3rd,S,Nationality_17,,9.616085280556863,0.0,1.0,yes
+Michelle Ewing,female,20-40,3rd,S,Nationality_17,,9.616085280556863,0.0,1.0,yes
+Michael Young,female,20-40,3rd,Q,Nationality_18,,21.555485280556866,1.0,0.0,yes
+Gary Reyes,male,20-40,3rd,Q,Nationality_18,,21.555485280556866,1.0,0.0,no
+Pamela Benson,male,40-60,2nd,S,Nationality_1,,11.525485280556863,0.0,0.0,no
+Shelby Lowe,male,20-40,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Ann Jefferson,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Paul Herrera,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Austin Gonzales,male,20-40,3rd,S,Nationality_3,,4.676085280556864,0.0,0.0,yes
+Lauren Moore,female,20-40,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,yes
+Cheryl Kim,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Alexis King,male,0-20,3rd,C,Nationality_5,,12.566585280556863,1.0,1.0,yes
+Ronald Weaver,male,0-20,3rd,C,Nationality_5,,12.566585280556863,1.0,1.0,yes
+Amber Garcia,female,20-40,3rd,C,Nationality_5,,12.566585280556863,0.0,2.0,yes
+William Cochran,male,0-20,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Adam Lopez,female,20-40,3rd,Q,Nationality_18,,4.666285280556863,0.0,0.0,yes
+Lori Austin,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,yes
+Kaitlin Sullivan,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Melinda Phillips,female,0-20,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,yes
+Thomas Wang,female,20-40,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,yes
+Thomas Obrien DDS,female,20-40,3rd,Q,Nationality_18,,12.625485280556862,0.0,0.0,yes
+Dr. Destiny Vasquez,female,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,yes
+Amanda Mercer,male,0-20,3rd,S,Nationality_7,,4.675485280556863,0.0,0.0,no
+Susan Ford,male,60-80,2nd,Q,Nationality_18,,6.656385280556863,0.0,0.0,no
+Jason Scott,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Howard Barber,female,0-20,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,yes
+Robert Bautista,male,0-20,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Charles Glover,female,0-20,3rd,C,Nationality_5,,12.666485280556863,0.0,2.0,yes
+Leah Smith,male,20-40,3rd,C,Nationality_5,,12.666485280556863,1.0,1.0,yes
+Andrew Wright,female,0-20,3rd,C,Nationality_5,,12.666485280556863,1.0,1.0,yes
+Joseph Gonzalez,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Bryan Weaver,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Christopher Gould,male,0-20,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Kelly Perkins,male,20-40,2nd,C,Nationality_1,,27.535985280556865,1.0,0.0,no
+Daniel Keller,female,0-20,2nd,C,Nationality_5,,27.535985280556865,1.0,0.0,yes
+Amanda Blanchard,male,0-20,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Gregory Hill,male,20-40,1st,C,Nationality_1,,26.665485280556865,0.0,1.0,no
+Joseph Anderson,female,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Amy Mcdaniel,male,0-20,2nd,S,Nationality_4,,23.525485280556865,1.0,1.0,yes
+Catherine Rodriguez,male,0-20,2nd,S,Nationality_4,,23.525485280556865,1.0,1.0,yes
+Gregory Jackson,male,20-40,2nd,S,Nationality_43,,23.525485280556865,0.0,2.0,no
+Austin Garcia,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Lisa Coleman,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Nicholas Munoz,female,20-40,1st,C,Nationality_1,,110.57608528055687,1.0,0.0,yes
+Michael Walker,female,20-40,1st,C,Nationality_1,,110.57608528055687,1.0,0.0,yes
+Jason Tyler,male,40-60,1st,C,Nationality_1,,110.57608528055687,0.0,2.0,no
+Robert Brown,female,0-20,1st,S,Nationality_1,,23.576285280556863,0.0,2.0,yes
+Victoria Clark,male,0-20,2nd,S,Nationality_2,,33.67548528055686,1.0,1.0,no
+Kyle Johnson,male,40-60,1st,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Pamela Greer,female,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,no
+Jeffrey Holland,male,20-40,3rd,S,Nationality_7,,5.535485280556863,0.0,0.0,no
+Rachel Steele,female,0-20,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,yes
+Patrick Cruz,female,20-40,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,yes
+Kristin Jackson,male,20-40,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,no
+Maria Powers,male,0-20,3rd,C,Nationality_5,,8.566485280556863,1.0,0.0,yes
+Damon Wade,female,0-20,3rd,C,Nationality_5,,8.566485280556863,1.0,0.0,yes
+Dawn Young,male,40-60,3rd,S,Nationality_6,,4.546085280556863,0.0,0.0,no
+Joshua Sparks,male,20-40,3rd,S,Nationality_1,,4.706085280556863,0.0,0.0,yes
+Sandra Greer,male,0-20,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Ronald Adkins,male,20-40,2nd,S,Nationality_24,,10.625485280556862,0.0,0.0,no
+Derrick Tate,male,20-40,3rd,S,Nationality_2,,4.685485280556863,0.0,0.0,no
+Kevin Stewart,male,0-20,1st,C,Nationality_44,,10.695785280556862,0.0,0.0,yes
+Lance Delgado,female,20-40,2nd,S,Nationality_1,,7.6254852805568625,0.0,0.0,yes
+Cody Randolph,female,20-40,3rd,S,Nationality_7,,4.675485280556863,0.0,0.0,yes
+Luis Rivera,male,40-60,3rd,S,Nationality_3,,3.566385280556863,0.0,0.0,no
+Ryan Clark,male,20-40,3rd,Q,Nationality_18,,4.686185280556863,0.0,0.0,no
+Nicole Wheeler,female,20-40,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,yes
+Jacob Willis,male,20-40,3rd,Q,Nationality_18,,12.625485280556862,1.0,0.0,no
+Nicole Savage,male,0-20,3rd,Q,Nationality_18,,4.666285280556863,0.0,0.0,no
+Aaron Jackson,male,0-20,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Jerry Fisher,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Sergio Henry,male,20-40,3rd,S,Nationality_7,,6.566085280556862,0.0,0.0,no
+Bruce Simon,female,20-40,3rd,Q,Nationality_18,,4.696185280556863,0.0,0.0,yes
+Luis Brown,female,20-40,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,yes
+Elizabeth Campbell,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,yes
+Karen Dixon,female,0-20,3rd,Q,Nationality_18,,4.686185280556863,0.0,0.0,yes
+David Davidson,female,20-40,1st,C,Nationality_31,,105.70548528055687,0.0,0.0,yes
+Linda Wright,male,0-20,3rd,S,Nationality_3,,0.5559852805568632,0.0,1.0,yes
+Hannah Brown,male,20-40,3rd,S,Nationality_3,,19.626085280556865,0.0,0.0,no
+Darryl Roberson,male,40-60,3rd,S,Nationality_1,,5.605585280556863,0.0,1.0,no
+John Evans,male,20-40,3rd,S,Nationality_3,,4.585785280556863,0.0,0.0,no
+Amber Bush,female,20-40,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,no
+Melanie Zuniga,male,20-40,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,no
+Sarah Mitchell,male,20-40,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,yes
+Peggy Williams,male,0-20,3rd,S,Nationality_3,,6.566085280556862,0.0,0.0,no
+Vincent Burke,male,20-40,1st,C,Nationality_4,,22.666485280556863,0.0,0.0,yes
+Johnathan Reynolds,female,20-40,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Angela Freeman,female,0-20,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Nathan Dominguez,male,0-20,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Scott Holmes,male,0-20,3rd,S,Nationality_7,,6.565885280556863,0.0,0.0,no
+Taylor Moses,female,20-40,1st,S,Nationality_1,,58.716185280556864,0.0,1.0,yes
+Melissa Coleman,male,60-80,1st,S,Nationality_1,,58.716185280556864,0.0,1.0,no
+Julie Dodson,female,20-40,3rd,Q,Nationality_18,,4.646185280556864,0.0,0.0,no
+Robert Harris,male,20-40,2nd,S,Nationality_1,,10.525485280556863,0.0,0.0,no
+Eric Becker,male,20-40,1st,C,Nationality_46,,24.665985280556864,0.0,0.0,no
+Julia Bryan,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Monica Quinn,male,20-40,2nd,C,Nationality_31,,10.695785280556862,0.0,0.0,yes
+Dennis Jones Jr.,male,20-40,2nd,S,Nationality_9,,7.6254852805568625,0.0,0.0,no
+Brenda Perez,male,20-40,2nd,C,Nationality_31,,10.695685280556862,0.0,0.0,yes
+Ryan Stewart,male,0-20,3rd,S,Nationality_7,,18.536085280556865,3.0,1.0,no
+Travis Willis,male,0-20,3rd,S,Nationality_7,,18.536085280556865,3.0,1.0,no
+Sean Stafford,female,0-20,3rd,S,Nationality_7,,18.536085280556865,3.0,1.0,no
+Miranda Morales,female,0-20,3rd,S,Nationality_7,,18.536085280556865,3.0,1.0,no
+Peter Johnson,female,20-40,3rd,S,Nationality_7,,18.536085280556865,0.0,4.0,no
+Devon Watson,male,0-20,3rd,S,Nationality_6,,36.65638528055686,4.0,1.0,no
+Bethany Collins,male,0-20,3rd,S,Nationality_1,,36.65638528055686,4.0,1.0,no
+Zachary Martinez,male,0-20,3rd,S,Nationality_6,,36.65638528055686,4.0,1.0,no
+Dr. Amanda Whitaker,male,0-20,3rd,S,Nationality_6,,36.65638528055686,4.0,1.0,no
+Peter Robinson,male,0-20,3rd,S,Nationality_6,,36.65638528055686,4.0,1.0,no
+Eric Quinn,female,40-60,3rd,S,Nationality_6,,36.65638528055686,0.0,5.0,no
+Mrs. Jennifer Hicks,male,0-20,2nd,S,Nationality_14,,7.6254852805568625,0.0,0.0,no
+Laura Mcgee,male,20-40,2nd,B,Nationality_11,,,0.0,0.0,no
+Scott Garcia,female,40-60,2nd,S,Nationality_1,,23.525485280556865,0.0,1.0,yes
+Douglas Benson,male,20-40,1st,B,Nationality_2,,,0.0,0.0,no
+Thomas Davis,male,20-40,1st,S,Nationality_2,,25.625485280556866,0.0,0.0,no
+Heidi Scott,male,20-40,3rd,S,Nationality_36,,5.655785280556863,0.0,0.0,no
+Kyle Torres,male,0-20,3rd,S,Nationality_2,,11.625485280556862,0.0,0.0,no
+Kristopher Robinson,male,20-40,3rd,S,Nationality_45,,4.696585280556864,0.0,0.0,no
+Anthony Allen,male,20-40,1st,S,Nationality_9,,90.62548528055686,0.0,0.0,no
+Joseph Munoz,male,0-20,3rd,S,Nationality_2,,10.676085280556864,1.0,1.0,no
+Lucas Taylor DDS,female,0-20,3rd,S,Nationality_2,,10.676085280556864,1.0,1.0,no
+Jennifer Salazar,female,20-40,3rd,S,Nationality_2,,10.676085280556864,0.0,2.0,no
+Aaron Hill,male,20-40,3rd,S,Nationality_2,,4.525485280556863,0.0,0.0,no
+Kristen Jarvis,female,20-40,1st,S,Nationality_2,,63.64548528055687,1.0,0.0,yes
+David Galvan,male,20-40,1st,S,Nationality_2,,63.64548528055687,1.0,0.0,no
+Tiffany Turner,male,20-40,3rd,S,Nationality_3,,4.676085280556864,0.0,0.0,no
+Stephanie Huber,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Sierra Blake,male,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,no
+Jill Hill,male,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,no
+Kimberly Lewis,female,20-40,1st,C,Nationality_31,,105.70548528055687,1.0,0.0,yes
+Kimberly Spears DVM,male,20-40,1st,C,Nationality_31,,105.70548528055687,1.0,0.0,no
+Lindsey White,male,0-20,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Michael Cross,male,20-40,3rd,S,Nationality_2,,4.5754852805568635,0.0,0.0,no
+Brent Hartman,male,20-40,2nd,C,Nationality_4,,12.535485280556863,0.0,0.0,no
+James Ryan,female,20-40,1st,S,Nationality_9,,90.62548528055686,0.0,0.0,yes
+Jonathan Miles,male,20-40,3rd,S,Nationality_7,,4.676085280556864,1.0,0.0,yes
+Jessica Davis,male,40-60,2nd,S,Nationality_44,,10.525485280556863,0.0,0.0,no
+Jose Anderson,female,20-40,3rd,S,Nationality_45,,4.696585280556864,0.0,0.0,no
+Gary Sanders,male,0-20,3rd,C,Nationality_5,,19.595685280556864,1.0,1.0,yes
+Jennifer Harris,female,0-20,3rd,C,Nationality_5,,19.595685280556864,1.0,1.0,yes
+Christina Rogers,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Michael Nguyen,female,20-40,3rd,Q,Nationality_18,,5.546385280556862,0.0,0.0,no
+Michelle Cunningham,male,0-20,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+John Fuentes,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Melissa Graves,female,0-20,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,no
+Mr. Stephen White,male,20-40,3rd,S,Nationality_7,,4.676085280556864,1.0,0.0,no
+Anthony Smith,male,40-60,1st,S,Nationality_9,,27.625485280556866,0.0,0.0,yes
+Garrett Cordova,female,20-40,2nd,S,Nationality_2,,18.525485280556865,0.0,1.0,yes
+Joyce Jones,female,0-20,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,yes
+Joshua Schmidt,male,40-60,2nd,S,Nationality_2,,18.525485280556865,0.0,1.0,no
+Allison Small,male,20-40,3rd,S,Nationality_28,,5.535485280556863,0.0,0.0,yes
+Johnny Miller,female,20-40,2nd,S,Nationality_28,,10.525485280556863,0.0,0.0,yes
+James Gardner,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Wendy Sellers,male,0-20,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Ronald Dunn,male,20-40,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Tara Bell,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Carol Jackson,male,20-40,2nd,C,Nationality_1,,9.666385280556863,0.0,0.0,yes
+Kelly Lopez,male,40-60,1st,S,Nationality_1,,49.525485280556865,0.0,0.0,no
+Kara Neal,female,40-60,1st,C,Nationality_1,,80.55568528055686,0.0,1.0,yes
+Austin Ochoa,male,20-40,2nd,C,Nationality_1,,12.525485280556863,0.0,0.0,no
+Kelly Miller,male,0-20,3rd,C,Nationality_17,,5.665785280556863,0.0,0.0,no
+Sean Smith,female,0-20,2nd,S,Nationality_17,,23.525485280556865,1.0,1.0,yes
+Isaiah Marquez,female,0-20,2nd,S,Nationality_17,,23.525485280556865,1.0,1.0,yes
+Paul Baird,female,20-40,2nd,S,Nationality_17,,23.525485280556865,0.0,2.0,yes
+Matthew Johnson,male,20-40,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Kelly Hernandez,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Matthew Weber,female,60-80,3rd,S,Nationality_3,,5.5457852805568635,0.0,0.0,no
+Jeffrey Christensen,male,20-40,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Charles Sanchez,male,0-20,3rd,S,Nationality_21,,4.5754852805568635,0.0,0.0,no
+Crystal Diaz,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Andrew Ware,male,20-40,3rd,S,Nationality_15,,4.696585280556864,0.0,0.0,no
+Steven Ward,male,20-40,2nd,S,Nationality_14,,18.525485280556865,1.0,0.0,no
+Rachel Stewart,female,20-40,2nd,S,Nationality_14,,18.525485280556865,3.0,0.0,yes
+Shane Ho,male,20-40,1st,C,Nationality_47,,,0.0,0.0,no
+Mark Lewis,female,20-40,2nd,S,Nationality_31,,10.525485280556863,0.0,0.0,yes
+Anthony Melton,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Kelly Washington DDS,male,20-40,1st,C,Nationality_1,,36.64548528055686,0.0,0.0,yes
+Christian Aguilar,male,0-20,3rd,Q,Nationality_18,,26.546085280556866,4.0,1.0,no
+Kevin Watson,male,0-20,3rd,Q,Nationality_18,,26.546085280556866,4.0,1.0,no
+Tracy Blanchard,male,0-20,3rd,Q,Nationality_18,,26.546085280556866,4.0,1.0,no
+Christian Horn,male,0-20,3rd,Q,Nationality_18,,26.546085280556866,4.0,1.0,no
+Johnny Watts,male,0-20,3rd,Q,Nationality_18,,26.546085280556866,4.0,1.0,no
+Wesley Foster,female,20-40,3rd,Q,Nationality_18,,26.546085280556866,0.0,5.0,no
+Robert Perez,male,20-40,2nd,C,Nationality_17,,12.525485280556863,0.0,0.0,no
+Jose Lee,male,0-20,2nd,S,Nationality_2,,15.675485280556861,1.0,1.0,yes
+Joyce Odom,male,0-20,2nd,S,Nationality_2,,15.675485280556861,1.0,1.0,yes
+Lori Kemp,female,20-40,2nd,S,Nationality_2,,15.675485280556861,2.0,3.0,yes
+Jeffrey Velez,female,40-60,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Jason Armstrong,male,20-40,1st,C,Nationality_17,,132.64628528055687,0.0,0.0,no
+Natasha Johnson,female,20-40,3rd,S,Nationality_6,,36.65638528055686,0.0,0.0,no
+Lori Marquez,male,20-40,3rd,S,Nationality_6,,4.546085280556863,0.0,0.0,no
+Randy Wilson,female,20-40,3rd,Q,Nationality_18,,4.665985280556864,0.0,0.0,yes
+Wendy Romero,male,60-80,3rd,S,Nationality_2,,11.625485280556862,0.0,0.0,no
+Matthew Rios,female,60-80,3rd,S,Nationality_2,,11.625485280556862,0.0,0.0,no
+Lisa Cooper,female,40-60,1st,S,Nationality_1,,208.58638528055687,0.0,1.0,yes
+Tammy Avery,male,40-60,3rd,S,Nationality_2,,11.625485280556862,1.0,0.0,no
+Joshua Davis,female,40-60,3rd,S,Nationality_2,,11.625485280556862,1.0,0.0,no
+Justin Johnson,male,40-60,1st,C,Nationality_2,,244.62608528055685,0.0,0.0,no
+Jamie David,male,20-40,1st,S,Nationality_1,,47.61658528055686,0.0,0.0,no
+Harry Santiago,male,0-20,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Deanna Young,male,20-40,3rd,S,Nationality_21,,5.535485280556863,0.0,0.0,no
+Amy White,male,40-60,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,yes
+Joshua Schmidt,male,40-60,3rd,S,Nationality_3,,4.676085280556864,0.0,0.0,no
+Maureen Wilson,male,20-40,1st,S,Nationality_1,,47.525485280556865,0.0,0.0,no
+Katherine Johnson,female,0-20,3rd,S,Nationality_6,,17.565785280556863,1.0,1.0,no
+Tina Griffin MD,female,40-60,3rd,S,Nationality_6,,17.565785280556863,0.0,2.0,no
+Jennifer Parker DDS,male,0-20,3rd,S,Nationality_6,,17.565785280556863,1.0,1.0,no
+Jeffrey Russell,female,20-40,1st,C,Nationality_4,,24.665985280556864,0.0,0.0,yes
+Ashley Torres,male,40-60,1st,C,Nationality_1,,76.52548528055686,0.0,0.0,no
+Robert Ramsey DDS,male,20-40,1st,S,Nationality_9,,37.546085280556866,0.0,0.0,no
+Christopher Perez,female,20-40,1st,S,Nationality_2,,83.62548528055686,0.0,0.0,yes
+Samantha Hood,female,20-40,3rd,S,Nationality_40,,5.535485280556863,0.0,0.0,yes
+Miss Jennifer Peterson,male,40-60,1st,C,Nationality_1,,56.60548528055686,1.0,0.0,no
+Christopher Carter,female,40-60,1st,C,Nationality_1,,56.60548528055686,1.0,0.0,yes
+Ashley Smith,male,40-60,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Amber Rodriguez,male,40-60,1st,S,Nationality_30,,23.635485280556864,0.0,0.0,no
+Susan Campbell,female,20-40,2nd,S,Nationality_14,,7.6254852805568625,0.0,0.0,yes
+Michael Morrow,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Eric Castro,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,yes
+Mr. Jordan Sanford,male,20-40,3rd,Q,Nationality_18,,21.555485280556866,0.0,0.0,no
+Mark White,male,0-20,1st,C,Nationality_1,,259.59608528055685,2.0,2.0,yes
+Stephanie Fowler,female,0-20,1st,C,Nationality_1,,259.59608528055685,2.0,2.0,yes
+Miss Lisa Munoz,female,20-40,1st,C,Nationality_1,,259.59608528055685,2.0,2.0,yes
+Adrian Freeman,male,60-80,1st,C,Nationality_1,,259.59608528055685,1.0,3.0,no
+Charles Norman,female,40-60,1st,C,Nationality_1,,259.59608528055685,1.0,3.0,yes
+Wesley Benson,male,20-40,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Jasmine Riddle,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Barbara King,male,40-60,1st,S,Nationality_2,,27.625485280556866,0.0,0.0,yes
+Jennifer Edwards,male,0-20,3rd,Q,Nationality_18,,4.6661852805568635,0.0,0.0,no
+Annette Reed,male,0-20,3rd,S,Nationality_2,,4.6364852805568635,0.0,0.0,no
+Maria Hernandez,male,40-60,3rd,S,Nationality_3,,4.5754852805568635,0.0,0.0,no
+Jennifer Cunningham,male,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Mitchell Fields,male,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Chelsea Carey,female,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Jennifer Phillips,female,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Amy Taylor,female,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Dawn Wong,female,20-40,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Alyssa Pena,male,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Guy Patterson,male,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Susan Hester,male,0-20,3rd,S,Nationality_2,,66.63548528055686,8.0,2.0,no
+Jeanne Smith,male,40-60,3rd,S,Nationality_2,,66.63548528055686,1.0,9.0,no
+Lance Farley,female,40-60,3rd,S,Nationality_2,,66.63548528055686,1.0,9.0,no
+Dennis Matthews,female,20-40,1st,C,Nationality_17,,66.58548528055687,0.0,0.0,yes
+Mrs. Samantha Ramirez,male,20-40,3rd,S,Nationality_7,,6.586085280556864,0.0,0.0,no
+Corey Boyd,female,20-40,3rd,S,Nationality_3,,4.655485280556864,0.0,0.0,yes
+Mark Lopez,male,40-60,1st,S,Nationality_1,,23.525485280556865,0.0,0.0,yes
+Benjamin Lane,male,20-40,3rd,S,Nationality_1,,4.706085280556863,0.0,0.0,no
+Clifford Reeves,male,0-20,3rd,C,Nationality_5,,18.656185280556866,2.0,0.0,no
+Michael Gonzalez,male,20-40,3rd,C,Nationality_5,,18.656185280556866,2.0,0.0,no
+Holly Perkins,male,0-20,3rd,C,Nationality_5,,18.656185280556866,2.0,0.0,no
+Brittany Coleman,female,0-20,3rd,S,Nationality_7,,13.665485280556863,1.0,1.0,yes
+Ricky Miller,female,0-20,3rd,S,Nationality_7,,13.665485280556863,1.0,1.0,yes
+Jennifer Davis MD,female,20-40,3rd,S,Nationality_7,,13.665485280556863,0.0,2.0,yes
+Michele Carter,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,yes
+Angela Love,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Shannon Phillips,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Shawn Morton,male,20-40,3rd,Q,Nationality_18,,4.666085280556864,0.0,0.0,no
+Gregory Simmons,female,20-40,1st,C,Nationality_44,,54.67548528055686,1.0,0.0,yes
+Benjamin Allen,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,yes
+Aaron Meyer,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Kurt Ferguson,male,40-60,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Kevin Smith,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Keith Jones,male,0-20,3rd,C,Nationality_5,,1.5254852805568633,0.0,0.0,no
+Shelley Barton,female,20-40,1st,S,Nationality_17,,28.525485280556865,0.0,0.0,yes
+Eric Briggs,male,20-40,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,yes
+Dawn Wade,male,20-40,3rd,S,Nationality_18,,,,,no
+Shannon Johnson,male,20-40,2nd,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Angela Moore,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Tammy Wood,male,0-20,3rd,C,Nationality_17,,4.566085280556864,0.0,0.0,no
+Shawn Hester,male,40-60,3rd,S,Nationality_2,,12.545485280556862,0.0,0.0,no
+Diana Wallace,female,20-40,2nd,S,Nationality_1,,23.525485280556865,0.0,1.0,yes
+Emily Anderson,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Margaret Jones,female,0-20,3rd,Q,Nationality_18,,4.686185280556863,0.0,0.0,yes
+Michael Mcclain,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Jacob Gregory,female,20-40,1st,S,Nationality_1,,150.61578528055688,0.0,0.0,yes
+Timothy Robertson,female,0-20,2nd,S,Nationality_6,,10.525485280556863,0.0,2.0,yes
+Brenda Jackson,male,20-40,1st,S,Nationality_1,,23.576385280556863,0.0,0.0,yes
+Andrea York,female,20-40,1st,C,Nationality_1,,52.705485280556864,1.0,0.0,yes
+Tiffany Rodriguez,male,40-60,1st,C,Nationality_1,,52.705485280556864,1.0,0.0,no
+Kaitlyn Ball,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Linda Ford MD,male,40-60,1st,S,Nationality_13,,32.625485280556866,0.0,0.0,yes
+Christopher Becker,female,0-20,2nd,S,Nationality_2,,33.67548528055686,0.0,0.0,yes
+Lisa Dean,female,20-40,2nd,S,Nationality_6,,10.525485280556863,0.0,0.0,yes
+Melissa Guerrero,male,20-40,3rd,C,Nationality_38,,4.566185280556864,0.0,0.0,no
+Justin Keller,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Kelly Costa,male,20-40,3rd,S,Nationality_15,,4.696585280556864,0.0,0.0,no
+Danny Allison,male,20-40,3rd,S,Nationality_1,,4.706085280556863,0.0,0.0,no
+Deborah Shaw,female,0-20,3rd,S,Nationality_6,,3.6165852805568632,0.0,0.0,yes
+Aaron Malone,male,40-60,2nd,S,Nationality_7,,10.625485280556862,0.0,0.0,no
+Tara Rivera,male,0-20,3rd,S,Nationality_1,,24.705485280556864,3.0,2.0,no
+Tyler Davidson,male,0-20,3rd,S,Nationality_1,,24.705485280556864,3.0,2.0,no
+Tiffany Thompson,female,0-20,3rd,S,Nationality_1,,24.705485280556864,3.0,2.0,no
+Jacob Rodriguez,female,0-20,3rd,S,Nationality_1,,24.705485280556864,3.0,2.0,no
+April Ramos,female,40-60,3rd,S,Nationality_7,,24.705485280556864,1.0,4.0,no
+Cory Clark,male,20-40,3rd,S,Nationality_7,,24.705485280556864,1.0,4.0,no
+Amanda Ferguson,male,40-60,3rd,S,Nationality_17,,4.696585280556864,0.0,0.0,no
+Jane Nunez,female,20-40,2nd,Q,Nationality_9,,9.595485280556863,0.0,0.0,yes
+Frank Hernandez,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Rachel Wilson,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Eric Rodriguez,male,20-40,1st,S,Nationality_1,,32.625485280556866,0.0,0.0,yes
+Charles Sanders,male,40-60,1st,S,Nationality_2,,23.635485280556864,0.0,0.0,no
+Angela Cooper,male,20-40,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+Mark Johnson,female,40-60,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Michele Mathis,male,40-60,1st,C,Nationality_4,,27.656585280556865,0.0,0.0,no
+Daniel Greene,male,20-40,1st,C,Nationality_1,,57.525485280556865,1.0,0.0,no
+Elizabeth Patterson,male,40-60,1st,S,Nationality_2,,23.525485280556865,0.0,0.0,no
+Andrew Taylor,female,0-20,1st,C,Nationality_1,,57.525485280556865,1.0,0.0,yes
+Rebecca Farmer,female,0-20,3rd,Q,Nationality_18,,4.666285280556863,0.0,0.0,yes
+Mr. Nicholas Smith MD,male,20-40,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Joshua Campbell,male,20-40,1st,S,Nationality_1,,79.57588528055686,1.0,0.0,yes
+Natalie House,female,20-40,1st,S,Nationality_1,,79.57588528055686,1.0,0.0,yes
+Stephanie Jones,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Ryan Cooper,male,0-20,3rd,S,Nationality_3,,4.655485280556864,0.0,0.0,no
+Sonya Giles,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Daniel Munoz,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+David Ferguson,male,0-20,1st,C,Nationality_1,,131.62548528055686,0.0,2.0,yes
+Christy Baldwin,male,40-60,1st,C,Nationality_1,,131.62548528055686,1.0,1.0,yes
+Bryan Snyder,female,20-40,1st,C,Nationality_1,,131.62548528055686,1.0,1.0,yes
+Julie Manning,female,40-60,1st,C,Nationality_1,,143.62598528055688,1.0,0.0,yes
+Lisa Kelley,male,40-60,1st,C,Nationality_1,,143.62598528055688,1.0,0.0,no
+Jeffrey Franklin,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Matthew Boone MD,male,20-40,1st,S,Nationality_13,,27.625485280556866,0.0,0.0,yes
+John Riley,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Ernest Lopez,male,20-40,3rd,C,Nationality_45,,5.656385280556863,0.0,0.0,no
+Gina Harper,female,20-40,3rd,S,Nationality_2,,4.635485280556864,0.0,0.0,yes
+Andrew Stein,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Scott Callahan,male,40-60,2nd,C,Nationality_1,,12.525485280556863,0.0,0.0,no
+Lisa Carpenter,male,60-80,1st,S,Nationality_2,,23.635485280556864,0.0,0.0,no
+Kelly Mccullough,male,40-60,1st,C,Nationality_1,,52.60648528055687,1.0,0.0,yes
+Monica Davis,female,40-60,1st,C,Nationality_18,,52.60648528055687,1.0,0.0,yes
+Steven Smith,female,40-60,1st,C,Nationality_1,,75.57588528055686,1.0,0.0,yes
+Isaiah Perry,male,60-80,1st,C,Nationality_1,,24.665985280556864,0.0,0.0,no
+Kimberly Torres,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Anthony Hicks,female,60-80,1st,S,Nationality_1,,77.52548528055686,0.0,0.0,yes
+Sara Avery,male,40-60,3rd,S,Nationality_2,,,0.0,0.0,no
+Kelsey Camacho,male,0-20,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Samantha Perkins,female,20-40,3rd,S,Nationality_6,,6.686385280556863,0.0,0.0,no
+Mark Bates,male,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,yes
+Todd Sullivan,male,60-80,1st,S,Nationality_1,,218.67618528055687,1.0,0.0,no
+Felicia Phillips,female,60-80,1st,S,Nationality_44,,218.67618528055687,1.0,0.0,no
+Charles Cordova,male,20-40,3rd,S,Nationality_45,,5.655785280556863,0.0,0.0,no
+James Mccormick,female,0-20,3rd,S,Nationality_1,,7.615785280556862,0.0,1.0,no
+Jennifer Brown,female,20-40,3rd,S,Nationality_7,,7.615785280556862,1.0,1.0,no
+Paige Cannon,male,0-20,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,yes
+Andres Payne,male,40-60,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,yes
+Jake Ward,male,20-40,3rd,S,Nationality_2,,4.535485280556863,0.0,0.0,no
+Jesse Sutton,male,60-80,1st,S,Nationality_2,,29.585985280556862,0.0,0.0,no
+Dr. Darlene Ali,male,60-80,3rd,S,Nationality_7,,4.676085280556864,0.0,0.0,no
+Ryan Diaz,male,0-20,3rd,S,Nationality_7,,6.566085280556862,0.0,0.0,yes
+Clayton Guerra,male,20-40,3rd,S,Nationality_7,,4.676585280556862,0.0,0.0,no
+Collin Jimenez,male,0-20,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Stephen Cox,male,0-20,2nd,S,Nationality_2,,62.525485280556865,0.0,0.0,no
+Monica Odom,female,40-60,1st,S,Nationality_1,,22.706185280556866,0.0,0.0,yes
+Margaret Wright,male,0-20,3rd,C,Nationality_5,,5.625885280556863,0.0,1.0,yes
+Monique Nguyen,male,20-40,3rd,C,Nationality_5,,3.606385280556863,1.0,0.0,no
+Russell Nelson DVM,female,0-20,3rd,C,Nationality_5,,5.625885280556863,1.0,1.0,yes
+Stephen Hoffman,female,0-20,1st,S,Nationality_1,,76.65548528055686,0.0,2.0,yes
+Steven Henry,male,40-60,1st,S,Nationality_1,,76.65548528055686,1.0,1.0,no
+Todd Jones,female,20-40,1st,S,Nationality_1,,76.65548528055686,1.0,1.0,yes
+Shawn Boyle,male,40-60,1st,S,Nationality_1,,49.525485280556865,1.0,0.0,yes
+Nicholas Rodriguez,male,20-40,2nd,S,Nationality_2,,,,,no
+Tammy Sharp,female,40-60,1st,S,Nationality_1,,49.525485280556865,1.0,0.0,yes
+Jeffrey Wood,male,20-40,3rd,S,Nationality_7,,4.676585280556862,0.0,0.0,yes
+Troy Green,male,40-60,1st,C,Nationality_1,,107.69628528055686,1.0,1.0,no
+Elizabeth Ramirez,male,0-20,1st,C,Nationality_1,,107.69628528055686,0.0,2.0,yes
+Patrick Ross,female,20-40,1st,C,Nationality_1,,107.69628528055686,1.0,1.0,yes
+Christopher Leach,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Amy Simmons,male,20-40,3rd,C,Nationality_17,,3.606385280556863,0.0,0.0,no
+Thomas Jenkins,male,0-20,3rd,C,Nationality_17,,4.566085280556864,0.0,0.0,no
+Mary Miles,male,20-40,3rd,S,Nationality_24,,5.535485280556863,0.0,0.0,no
+Keith French,female,20-40,1st,C,Nationality_1,,77.52548528055686,0.0,0.0,yes
+Kathryn Anderson,male,20-40,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,no
+Ernest Shepherd,female,20-40,3rd,S,Nationality_2,,13.545485280556862,1.0,0.0,yes
+Katherine Merritt,male,20-40,3rd,S,Nationality_6,,4.706085280556863,0.0,0.0,no
+Charles Parker,male,0-20,3rd,Q,Nationality_18,,4.675485280556863,0.0,0.0,no
+Caroline Wilson,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Christine Everett,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Jennifer Hunter,female,40-60,2nd,S,Nationality_18,,7.6254852805568625,0.0,0.0,yes
+Nicole Rodriguez,male,40-60,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Heather Bowman,male,0-20,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Robert Shepard,male,20-40,3rd,S,Nationality_7,,,0.0,0.0,yes
+Alan Humphrey,male,20-40,3rd,S,Nationality_12,,4.696585280556864,0.0,0.0,no
+Charles Cochran,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,no
+Stacy Bradley,female,20-40,2nd,S,Nationality_24,,9.655485280556864,0.0,0.0,yes
+Sherry King,female,20-40,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,yes
+Danielle Riley,male,20-40,1st,C,Nationality_1,,25.626385280556864,0.0,0.0,yes
+Nathan Chavez,male,0-20,3rd,C,Nationality_5,,12.566585280556863,1.0,1.0,yes
+Denise Stephens,female,0-20,3rd,C,Nationality_5,,12.566585280556863,1.0,1.0,yes
+Alyssa Sanford,female,20-40,3rd,C,Nationality_5,,12.566585280556863,0.0,2.0,yes
+Thomas Foster,male,20-40,3rd,S,Nationality_45,,4.696585280556864,0.0,0.0,no
+Bruce Vasquez MD,female,0-20,3rd,S,Nationality_6,,6.686485280556862,0.0,0.0,yes
+Joel Carr,female,60-80,3rd,S,Nationality_6,,6.636385280556864,0.0,0.0,yes
+Christina Choi,female,20-40,2nd,S,Nationality_2,,18.525485280556865,1.0,0.0,no
+Kari Blair,male,20-40,2nd,S,Nationality_2,,18.525485280556865,1.0,0.0,no
+Adrian Carr,male,20-40,1st,C,Nationality_48,,24.665985280556864,0.0,0.0,no
+Tammy Rasmussen,male,0-20,3rd,S,Nationality_2,,11.625485280556862,1.0,1.0,no
+Donna French,male,0-20,3rd,S,Nationality_2,,11.625485280556862,1.0,1.0,no
+Connie Green,male,20-40,3rd,S,Nationality_2,,11.625485280556862,0.0,2.0,no
+Laura Spencer,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+Peter Taylor,male,40-60,3rd,S,Nationality_27,,6.525485280556863,0.0,0.0,no
+Brian Levy,male,60-80,1st,S,Nationality_1,,30.625485280556866,0.0,0.0,no
+Alexandra Underwood,female,0-20,3rd,S,Nationality_27,,15.525485280556863,2.0,0.0,no
+Phillip Adams,male,20-40,3rd,S,Nationality_27,,15.525485280556863,3.0,0.0,no
+Kayla Grant,male,0-20,3rd,S,Nationality_27,,15.525485280556863,2.0,0.0,no
+Richard Dominguez,female,20-40,3rd,S,Nationality_27,,15.525485280556863,1.0,0.0,no
+Lindsay Norton,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+Daniel Russell,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+Kevin Mercado,female,0-20,3rd,S,Nationality_27,,21.555485280556866,0.0,2.0,no
+Eddie Hammond,male,20-40,3rd,S,Nationality_27,,21.555485280556866,1.0,1.0,no
+Frank Poole,female,20-40,3rd,S,Nationality_27,,21.555485280556866,1.0,1.0,no
+William Salinas,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+Kenneth Jensen,male,20-40,3rd,C,Nationality_38,,4.566085280556864,0.0,0.0,yes
+Tracie May,male,20-40,2nd,S,Nationality_1,,10.525485280556863,0.0,0.0,no
+Carolyn Fischer,male,0-20,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,no
+Brian Griffin,female,0-20,3rd,S,Nationality_7,,4.6955852805568625,0.0,0.0,no
+Mario Neal,male,20-40,3rd,S,Nationality_36,,4.696585280556864,0.0,0.0,no
+Roy Garcia,male,20-40,3rd,S,Nationality_27,,6.525485280556863,0.0,0.0,no
+Elizabeth Anthony,male,40-60,1st,S,Nationality_1,,31.525485280556865,0.0,0.0,no
+Maureen Lamb,female,20-40,2nd,S,Nationality_2,,18.525485280556865,0.0,0.0,yes
+Cody Vazquez,female,20-40,1st,C,Nationality_17,,509.58618528055683,0.0,0.0,yes
+Richard Sanchez,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Richard Torres,male,40-60,2nd,S,Nationality_2,,18.525485280556865,1.0,0.0,no
+Kimberly Ortiz,female,20-40,2nd,S,Nationality_2,,18.525485280556865,0.0,0.0,yes
+Amy Glenn,male,20-40,2nd,S,Nationality_2,,7.6254852805568625,1.0,0.0,no
+Jon Decker,male,20-40,3rd,S,Nationality_2,,4.635485280556864,0.0,0.0,no
+Jason Wagner,male,60-80,1st,C,Nationality_1,,72.57548528055686,1.0,0.0,no
+Cynthia Murphy,female,40-60,1st,C,Nationality_2,,72.57548528055686,1.0,0.0,yes
+Carolyn Martinez,male,0-20,2nd,B,Nationality_11,,,0.0,0.0,no
+Rachel Larson,female,0-20,2nd,S,Nationality_24,,12.675485280556863,0.0,0.0,yes
+Julie Wilson,female,20-40,2nd,S,Nationality_24,,12.675485280556863,0.0,0.0,yes
+Sean Morgan,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Jane Williams,female,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Mark Mora,male,60-80,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Susan Mcconnell,male,40-60,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,no
+Melissa Warren,male,20-40,2nd,S,Nationality_16,,23.525485280556865,1.0,0.0,no
+Leah Villegas,female,20-40,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,yes
+Rachel Johnson,male,0-20,2nd,S,Nationality_2,,20.525485280556865,1.0,1.0,yes
+Veronica Woods,female,0-20,2nd,S,Nationality_2,,20.525485280556865,1.0,1.0,yes
+Mary Cruz,female,20-40,2nd,S,Nationality_2,,20.525485280556865,0.0,2.0,yes
+Melinda Hall,male,20-40,3rd,S,Nationality_7,,4.676585280556862,0.0,0.0,yes
+Barbara Terry,female,0-20,2nd,S,Nationality_2,,24.675485280556863,1.0,2.0,yes
+Patricia Day,female,0-20,2nd,S,Nationality_2,,24.675485280556863,1.0,2.0,yes
+Jason Reyes,male,20-40,2nd,S,Nationality_2,,24.675485280556863,1.0,2.0,no
+Dana Oconnor,female,20-40,2nd,S,Nationality_2,,24.675485280556863,1.0,2.0,yes
+Sue Lopez,male,60-80,2nd,S,Nationality_2,,7.6254852805568625,0.0,0.0,no
+Michelle Jones,male,20-40,2nd,S,Nationality_2,,9.696085280556863,0.0,0.0,no
+Joshua Fields,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Daniel Sheppard,male,40-60,1st,S,Nationality_1,,74.57638528055686,0.0,1.0,no
+Edgar Atkinson,male,20-40,1st,S,Nationality_1,,74.57638528055686,0.0,1.0,no
+Jenny Landry,female,40-60,1st,C,Nationality_17,,132.64628528055687,0.0,0.0,yes
+Christian Daniels,male,40-60,1st,S,Nationality_1,,161.69588528055687,1.0,1.0,no
+Mark Harmon,female,20-40,1st,S,Nationality_1,,161.69588528055687,0.0,2.0,yes
+Larry Rodriguez,female,40-60,1st,S,Nationality_1,,161.69588528055687,1.0,1.0,yes
+Mark Taylor,male,40-60,3rd,S,Nationality_7,,4.675485280556863,0.0,0.0,no
+Michael Collier,male,40-60,1st,S,Nationality_1,,208.62548528055686,1.0,1.0,no
+Todd Lopez,male,20-40,1st,S,Nationality_1,,208.62548528055686,0.0,2.0,no
+Justin Whitehead,female,40-60,1st,S,Nationality_1,,208.62548528055686,1.0,1.0,yes
+Lisa Bradley,male,0-20,3rd,S,Nationality_6,,3.6165852805568632,1.0,0.0,no
+Tim Nelson,male,20-40,3rd,S,Nationality_6,,3.6165852805568632,1.0,0.0,no
+Joshua Warner,female,40-60,3rd,S,Nationality_2,,4.525485280556863,1.0,0.0,yes
+Sierra Wright,female,20-40,2nd,S,Nationality_2,,23.525485280556865,1.0,0.0,yes
+Shannon Bowman,female,20-40,1st,S,Nationality_1,,23.635485280556864,0.0,0.0,yes
+Lisa Carlson,male,20-40,3rd,C,Nationality_17,,5.665785280556863,0.0,0.0,no
+Jonathan Rodriguez MD,male,20-40,3rd,S,Nationality_21,,4.635485280556864,0.0,0.0,no
+Philip Reynolds,male,40-60,1st,C,Nationality_13,,58.59618528055687,0.0,1.0,no
+Madeline Smith,male,20-40,2nd,S,Nationality_2,,10.525485280556863,0.0,0.0,yes
+Edward Riley,male,40-60,1st,S,Nationality_1,,32.525485280556865,0.0,0.0,no
+Richard Haynes,male,20-40,3rd,S,Nationality_2,,5.535485280556863,0.0,0.0,no
+Dale Rasmussen,male,20-40,3rd,S,Nationality_21,,13.545485280556862,0.0,0.0,no
+Timothy Moss,male,20-40,1st,C,Nationality_13,,58.59618528055687,0.0,1.0,yes
+Samuel Dalton,female,20-40,1st,C,Nationality_17,,131.62548528055686,0.0,0.0,yes
+Wendy Davis,male,20-40,3rd,S,Nationality_22,,4.5754852805568635,0.0,0.0,no
+Phillip Pierce,male,20-40,3rd,S,Nationality_13,,5.655785280556863,0.0,0.0,no
+Amy Hodge,male,40-60,3rd,S,Nationality_2,,4.5754852805568635,0.0,0.0,no
+Gregory Parsons,male,20-40,3rd,S,Nationality_27,,6.6254852805568625,0.0,0.0,no
+Luis Ford,male,20-40,2nd,S,Nationality_2,,,,,no
+Shawn Combs,male,40-60,1st,S,Nationality_2,,32.625485280556866,0.0,0.0,yes
+Haley Stevens,female,20-40,2nd,S,Nationality_2,,10.625485280556862,0.0,0.0,yes
+Megan Rogers,male,60-80,1st,S,Nationality_9,,23.635485280556864,0.0,0.0,no
+Cassandra Sanchez,male,20-40,3rd,C,Nationality_5,,11.615585280556862,1.0,0.0,no
+Brandy Figueroa,female,0-20,3rd,C,Nationality_5,,11.615585280556862,1.0,0.0,yes
+Melissa Valentine,female,20-40,1st,C,Nationality_1,,132.64628528055687,0.0,0.0,yes
+Karen Brady,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,no
+Joseph Martinez,male,40-60,3rd,C,Nationality_5,,4.566185280556864,0.0,0.0,no
+Timothy Stanley,female,20-40,3rd,C,Nationality_5,,19.595685280556864,0.0,2.0,yes
+Carlos Tanner,female,20-40,2nd,S,Nationality_4,,10.525485280556863,0.0,0.0,no
+Catherine Rodriguez,male,20-40,3rd,C,Nationality_38,,4.566085280556864,0.0,0.0,no
+Amanda Ho,male,20-40,3rd,C,Nationality_38,,4.566085280556864,0.0,0.0,no
+Kyle Jones,male,20-40,3rd,C,Nationality_5,,4.566085280556864,0.0,0.0,yes
+Dustin Long,male,20-40,3rd,S,Nationality_44,,4.696085280556863,0.0,0.0,no
+Scott Nguyen,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Sara Thompson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Ashlee Campbell,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Richard Sims,male,0-20,victualling crew,S,Nationality_14,,,,,no
+Alicia Olson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jennifer Ochoa,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Amanda Stevenson,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Mark Suarez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Sara Reed,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Patrick Berry,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Phillip Newman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+David Humphrey,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Dalton Newton,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Julie Spencer,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Dr. Dalton Castro,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Tony Clark,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Nicole Richardson,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Katie Francis,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Nancy Vazquez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Michael Harris,male,40-60,victualling crew,S,Nationality_18,,,,,no
+Richard Robinson,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Lindsey Perry,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Miguel Sawyer,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Tina Williams,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Albert Smith,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Ricky Smith,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Christopher Sanchez,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Timothy King,male,40-60,engineering crew,S,Nationality_21,,,,,no
+Tina Crawford,male,40-60,deck crew,S,Nationality_2,,,,,yes
+Marissa Noble,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Gary Bauer,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Angela Martin,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Brianna Smith,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Robert Thomas,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Amy Esparza,male,40-60,victualling crew,S,Nationality_2,,,,,no
+John Flores,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Brandy Dudley,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Ryan Mitchell,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Sally Murphy,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Chris Scott,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Julie Rodriguez,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jeffrey Martin,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Amanda Mcdaniel,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Karen Robinson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Taylor Hicks,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Timothy Cervantes,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Sherri Crosby,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jason Kaufman,male,20-40,victualling crew,S,Nationality_2,,,,,no
+James Martinez,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Joseph Kramer,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Phillip Wagner,male,40-60,victualling crew,S,Nationality_24,,,,,no
+Tiffany Hall,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Alexandra Peterson,male,20-40,engineering crew,B,Nationality_11,,,,,no
+Jennifer Lowe,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Kristy Monroe,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jennifer Evans,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Steven White,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Lawrence Thomas,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Jacqueline Wilson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Darren Stewart,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brett Wright,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Tina Larson,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Marco Padilla,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Cathy Wright,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Vincent Ramsey,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Andre Miranda,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Michelle Hale,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Heather Smith,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Aaron Patton,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Annette Hart,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Anna Walker,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Michael Smith,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Karen Freeman,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Michael Manning,male,0-20,engineering crew,S,Nationality_2,,,,,yes
+Thomas Bell,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Dominique Whitaker,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Becky Thompson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Tracy Murphy,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Shawn Moore,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Robert Williams,male,20-40,engineering crew,B,Nationality_2,,,,,no
+John Murphy,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Holly Mitchell,male,20-40,engineering crew,S,Nationality_11,,,,,no
+Angela Baker,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Lauren Landry,female,40-60,victualling crew,S,Nationality_13,,,,,yes
+Jordan Smith,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Holly Huerta,male,20-40,victualling crew,S,Nationality_2,,,,,no
+William Vargas,male,40-60,restaurant staff,S,Nationality_2,,,,,no
+Tyler Williams,male,40-60,victualling crew,S,Nationality_24,,,,,no
+Brian Scott,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Jill Boone,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Omar Clarke,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Michele Wilson,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Ashley Bailey,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Karen Meza,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Michele Gibson,female,20-40,restaurant staff,S,Nationality_2,,,,,yes
+Courtney Rogers,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Andrew Graves,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Samuel Humphrey,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Gregory Hester,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Diana Hawkins,male,20-40,deck crew,S,Nationality_2,,,,,no
+Breanna Carter,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Kelly Cook,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jeremiah Robinson,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Crystal Johnson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jeffrey Fisher,male,40-60,deck crew,S,Nationality_2,,,,,yes
+Shaun Gonzales,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Marie Gomez,male,40-60,deck crew,B,Nationality_2,,,,,yes
+Jose Reyes,male,20-40,victualling crew,S,Nationality_17,,,,,no
+Karen Kirk,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Eric Ward,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Bethany Burns,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Eric Beltran,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Samantha Morales,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jeffrey Arroyo,male,20-40,victualling crew,B,Nationality_21,,,,,yes
+Robert Doyle,male,20-40,engineering crew,S,Nationality_21,,,,,no
+Jason Alexander,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Elizabeth Reese,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Mark Murphy,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Joseph Shepard,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Aaron Payne,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jose Johnson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brian Freeman,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Dawn Moreno,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Kenneth Rodriguez,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Mary Jenkins,male,20-40,victualling crew,B,Nationality_18,,,,,yes
+James Adams,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Mary Simon,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brian Fields,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Julie Patel,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Zachary Williamson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Ricky Stevens,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Amy Clark,male,20-40,engineering crew,S,Nationality_2,,,,,no
+William Lara,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Michele Ortiz,male,20-40,engineering crew,B,Nationality_11,,,,,no
+Tanya Reilly,male,20-40,victualling crew,S,Nationality_29,,,,,no
+Dan Hill,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Chelsea Walker,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Michelle Raymond,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Joseph Parker,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Patty Murphy,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Emily Mejia,male,20-40,restaurant staff,S,Nationality_19,,,,,no
+Timothy Jones,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Deborah Reed,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jason Smith,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Lori Baird,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Joshua Singh,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jocelyn Shepard,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Gabrielle Bates,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Sandra Knox,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Alexandra Harris,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Theresa Ward,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Aaron Newton,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Philip Nelson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jordan Cooper,male,20-40,victualling crew,B,Nationality_2,,,,,no
+April Kelly,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Shane Richards,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Billy Blankenship,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Anna Vega,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brett Brooks,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Timothy Gonzales,male,20-40,engineering crew,S,Nationality_18,,,,,yes
+Todd Barnes,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Kimberly Jackson,male,20-40,deck crew,S,Nationality_2,,,,,no
+Bradley Baker,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jennifer Pearson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kent Barton,male,40-60,engineering crew,B,Nationality_18,,,,,no
+Jennifer Bender,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Mr. Cameron Montoya,male,0-20,victualling crew,S,Nationality_11,,,,,yes
+Anna Erickson,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Perry Martinez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Randy White,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Tamara Hunter,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brandy Schmidt,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Charles Henson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Colleen Carpenter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Karen Stein,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Monica Spencer,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Nicole Bowman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Dr. Danielle Padilla MD,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+David Pratt,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Norma Galvan,male,20-40,deck crew,S,Nationality_2,,,,,no
+Bianca Monroe,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Steven Nunez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+James Obrien,male,20-40,restaurant staff,S,Nationality_4,,,,,no
+Anthony Erickson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Gene Peterson,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Kyle Watson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Janet Black,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Meagan Bishop MD,male,40-60,victualling crew,B,Nationality_2,,,,,yes
+Jennifer Ross,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Sherri Hunt,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Marilyn Franklin,male,20-40,victualling crew,S,Nationality_2,,,,,no
+John Gonzales,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Valerie Richardson,male,40-60,victualling crew,S,Nationality_2,,,,,no
+John Thomas,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Alex Potts,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Austin Crawford,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Benjamin Acosta,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Michael Blake,male,40-60,victualling crew,B,Nationality_2,,,,,yes
+Daniel Davis,male,20-40,victualling crew,B,Nationality_24,,,,,yes
+Matthew Sweeney,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Angela Newman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Gregory Taylor,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Crystal Stone,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Stacy Thompson,male,20-40,victualling crew,B,Nationality_2,,,,,no
+David Brown,male,20-40,victualling crew,B,Nationality_21,,,,,no
+Jennifer Moreno,male,20-40,engineering crew,S,Nationality_2,,,,,no
+William Harris,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Karen Allen,male,20-40,deck crew,S,Nationality_2,,,,,no
+Nicole Mason,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Natalie Mcguire,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Kathleen Kelley,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Lee Singleton,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jessica Brewer,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Nancy Baldwin,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Peter Martinez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+David Shaw,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Jasmine White,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Vincent Lopez,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Mrs. Rebecca Hall,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Pamela York,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Travis Richard,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Kirsten Mccoy,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Stephanie Cervantes,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Rachel Booth,male,20-40,engineering crew,S,Nationality_49,,,,,no
+Tracy Wagner,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Brian Hudson,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Michael Mitchell,male,0-20,restaurant staff,S,Nationality_19,,,,,no
+Emily Ali,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Erin Brown,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Ronnie Phillips,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Miguel Hansen,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kevin Roberts,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Melanie Hale,male,20-40,engineering crew,B,Nationality_18,,,,,no
+Jeremy Hernandez,male,40-60,victualling crew,S,Nationality_2,,,,,no
+John Ibarra,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Mercedes Hopkins,male,20-40,engineering crew,B,Nationality_20,,,,,no
+Christina Lawson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+David Cline,male,40-60,engineering crew,S,Nationality_2,,,,,yes
+Rebecca Brown,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brittany Mcdowell,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Kenneth Hernandez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Raymond Hughes,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Ricky Estrada,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Misty Hale,male,20-40,victualling crew,S,Nationality_21,,,,,no
+David Henry,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Mrs. Melanie Powell,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Tracy Rhodes,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Nathan Gonzalez MD,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Matthew Castro,male,0-20,engineering crew,B,Nationality_11,,,,,no
+Tiffany Torres,male,40-60,victualling crew,B,Nationality_2,,,,,yes
+Eric Davis,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Jennifer Williams,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Melissa Cabrera,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Michael Lopez,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Phillip Mckee,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Victor Potts,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Nicholas Scott,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Mark Fowler,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Savannah Hanson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Anne Flores,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Robert Chapman,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Edwin Andrews,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Cathy Tate,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Megan Costa DDS,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Brittany Wolfe,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Sean Harrington,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Janet Sweeney,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Thomas Guerrero,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Kim Gonzalez,male,40-60,engineering crew,S,Nationality_2,,,,,yes
+Kathryn Jensen,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Debbie Taylor,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Cheryl Nelson,male,40-60,deck crew,B,Nationality_18,,,,,yes
+Clayton Rodriguez,male,20-40,victualling crew,S,Nationality_21,,,,,yes
+Daniel Ward,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Raymond Guzman,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Heather Buchanan,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Justin Moore,male,20-40,engineering crew,S,Nationality_2,,,,,no
+April Stevens,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Lindsay Dickerson,male,20-40,engineering crew,B,Nationality_2,,,,,no
+David Myers,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Daniel Ayala,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Benjamin Boyle,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Crystal Nunez,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Robert Jackson,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Jack Smith,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Cameron Hernandez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+John Rose,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Vanessa Mills,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Chelsea Nguyen,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Nicholas Stone,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Julia Smith,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Kimberly Craig,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kathryn Abbott,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Mark Adams,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brenda Harris,male,60-80,engineering crew,S,Nationality_2,,,,,yes
+John Ward,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Phillip Jones,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jennifer Campbell,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Lisa Rice,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Russell Jensen,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Christine Nguyen,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Jessica Nash,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Ruben Hudson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Richard Pennington,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Guy Stewart,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Lisa Ramsey,male,20-40,engineering crew,B,Nationality_11,,,,,yes
+Tammy Zimmerman,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Antonio Griffith,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Sarah Allison,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Breanna Terry,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Scott Graham,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Raymond Ellison,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Daniel Gilmore,male,20-40,victualling crew,S,Nationality_1,,,,,no
+Jacob Dorsey,male,20-40,engineering crew,B,Nationality_11,,,,,yes
+Jean Skinner,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Patrick Phelps,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Monica Wood,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jeffrey Roberts,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Heather Briggs,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Douglas Bridges,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Mary Chavez,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Robert Warner,male,40-60,engineering crew,S,Nationality_18,,,,,no
+Krista Mcdaniel,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Michael Brown,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Samuel Solomon,male,20-40,victualling crew,S,Nationality_2,,,,,no
+George Garcia,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Brandon Stephens,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Denise Galvan,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kristina Evans,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Melanie Quinn,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Jennifer Garcia,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Alicia Lopez,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Mrs. Ashley Bryant,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+John Stewart,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Karen Quinn,male,20-40,engineering crew,B,Nationality_2,,,,,no
+James Ramirez,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Donna Thompson,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Danny Weber,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Bethany Beasley,male,20-40,engineering crew,B,Nationality_11,,,,,no
+William Shah,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jessica Preston,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Erin Barker,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Lawrence Todd,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Sharon Collins,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Erik Hudson,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Perry Watkins,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Ashley Contreras,male,40-60,deck crew,B,Nationality_2,,,,,yes
+Sophia Walker,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Sherry Anderson,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Tiffany Pearson DVM,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Charles Reyes,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Jessica Collins,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Robert Thomas,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Linda Perry,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Julie Melendez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jordan Cook,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Peter Duncan,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Kelly Carter,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Stephanie Campbell,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Mr. Roy Clarke Jr.,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jill Davis,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Valerie Henry,male,0-20,victualling crew,B,Nationality_2,,,,,no
+Matthew Gonzalez,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Mr. Robert Graham,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Steven Moore,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Lisa Shaw,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Andrew Roach,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Michelle Mckenzie,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Patrick Perez,male,20-40,victualling crew,B,Nationality_2,,,,,no
+William Carr,male,20-40,victualling crew,S,Nationality_2,,,,,no
+David Miller,male,20-40,deck crew,B,Nationality_2,,,,,no
+Cassandra Ferguson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Ryan Flores,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Mr. John Gibbs,male,20-40,deck crew,S,Nationality_2,,,,,yes
+William Rivera,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Emily Day,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Larry Shaw,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Debra Richmond,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Melissa Luna,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jonathan Anderson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+David Jordan,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Erik Cline,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Joshua Williams,male,40-60,deck crew,S,Nationality_2,,,,,yes
+Chloe Burns,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Willie Shaffer,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Victoria Guerrero,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Janice Jimenez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Kimberly Mcdonald,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Miss Krystal Smith,male,20-40,deck crew,B,Nationality_2,,,,,no
+Brittany Hunt,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Ryan Fox,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Paul Cooley,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Jennifer Love,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Robert Washington,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Angela Ward,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Justin Zimmerman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Scott Shannon,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Dustin Taylor,male,40-60,engineering crew,S,Nationality_2,,,,,no
+William Macias PhD,male,20-40,restaurant staff,S,Nationality_4,,,,,no
+Pamela Hernandez,male,20-40,engineering crew,S,Nationality_21,,,,,no
+Marc Murray,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Sandra Mann,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Daniel Smith,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Denise Payne,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Christopher Carpenter,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jimmy Norris,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Angela Carter,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Stephen Kelly,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Teresa Nguyen,male,40-60,victualling crew,B,Nationality_2,,,,,yes
+Andrea Turner,male,0-20,victualling crew,S,Nationality_2,,,,,no
+William Pearson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Taylor Carrillo,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Steven Allen,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Jennifer Brown,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Katherine Mclaughlin,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Mary Freeman,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Dr. Timothy Curtis Jr.,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Chad Newman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Scott Diaz,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jonathan Gallegos,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Nicole Carroll,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Anita Duncan,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Katherine Scott,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Margaret Washington,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Valerie Hood,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Sarah Lewis,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Nancy Larson,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Samuel Johnson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Joshua Lopez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+James Williams,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Rodney Adams,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Courtney Kelley MD,male,20-40,engineering crew,S,Nationality_24,,,,,no
+Angela Burch,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Katrina Brown,male,20-40,victualling crew,S,Nationality_18,,,,,no
+Rebecca Daniels,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Sherry Hamilton,male,0-20,victualling crew,S,Nationality_2,,,,,no
+James Boyle,male,20-40,victualling crew,S,Nationality_18,,,,,no
+Donna Mclean,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Richard Duncan,male,40-60,deck crew,S,Nationality_2,,,,,no
+Thomas Bennett,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Jeffrey Carter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Timothy Johnson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Wesley Jackson,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Mr. Bruce Vargas,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brian Garner,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Melissa Trevino,male,40-60,victualling crew,S,Nationality_2,,,,,yes
+Valerie Kelly,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Michael Wright DVM,male,40-60,engineering crew,S,Nationality_2,,,,,yes
+Juan Snyder,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Julie Williams,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Andrew Miller,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Elizabeth Rush,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Mary Pitts,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Carrie Murphy,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Brian Weber,male,20-40,victualling crew,B,Nationality_2,,,,,no
+William York,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Natalie Smith,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Jeffrey Hunter,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Tracy Garcia,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Stacy Hahn,male,40-60,deck crew,S,Nationality_2,,,,,yes
+Steven Baker,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Lauren Wolf,male,20-40,victualling crew,B,Nationality_1,,,,,no
+Elizabeth Stone,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Rhonda Navarro,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Rachael Peterson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Marissa Mcmahon,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Erica Powell,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Shannon Walker,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Shane Tanner,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Kari Wright,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Elizabeth Green,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Dennis Hamilton,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Laura Benson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+George Dickson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brad Davis,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brian Cox,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Amy Phillips,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Taylor Davies,male,20-40,deck crew,B,Nationality_21,,,,,yes
+Mark James,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Gregory Davis,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Karina Mahoney,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Gabriel Spencer,male,20-40,deck crew,S,Nationality_18,,,,,no
+Amanda Richardson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Stephanie Lewis,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Alexandra Ruiz,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Nicole Ruiz,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jennifer Franklin,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Rhonda Moore,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Daniel Brown,male,40-60,victualling crew,S,Nationality_1,,,,,no
+Angel Sellers,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Amy Aguilar,male,20-40,victualling crew,S,Nationality_24,,,,,no
+Rhonda Garrison,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kathleen Wagner,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Terry Carpenter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Oscar Gentry,female,0-20,restaurant staff,S,Nationality_2,,,,,yes
+Vincent Greene,female,20-40,victualling crew,S,Nationality_14,,,,,yes
+Courtney Cook,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Sara Brown,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Natalie Stone,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Christopher Smith,male,20-40,deck crew,S,Nationality_2,,,,,no
+George Garcia,male,20-40,deck crew,S,Nationality_21,,,,,no
+Charles May,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Christina Hines,male,20-40,restaurant staff,S,Nationality_2,,,,,yes
+Lisa Ford,male,20-40,deck crew,B,Nationality_2,,,,,no
+Jonathan Allen,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Julie Peters,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Scott Miller,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Natasha Friedman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+George Rose,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Michele Goodwin,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Jennifer Kent,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Paula Smith,male,20-40,engineering crew,S,Nationality_17,,,,,no
+Tammy Hart,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Matthew Flores,male,40-60,deck crew,S,Nationality_18,,,,,yes
+Shawn Fischer,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Amanda Mccoy,male,20-40,victualling crew,B,Nationality_24,,,,,no
+Shari Greene,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Christopher Barrett,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Rachel Nichols,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kristina Lewis,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kara Weeks,male,20-40,deck crew,S,Nationality_18,,,,,yes
+Patricia Bautista,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Fernando Gibbs,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Travis Harper,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Tammy Eaton,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Alfred Harris,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Yesenia Mckenzie,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Valerie Reed,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Thomas Riddle,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jennifer Wilson,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Jacqueline Smith,male,20-40,engineering crew,B,Nationality_11,,,,,no
+Sydney Smith,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Willie Thompson,male,20-40,engineering crew,B,Nationality_11,,,,,no
+Paul Gray,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Mitchell Fitzgerald,male,20-40,engineering crew,B,Nationality_18,,,,,no
+Jennifer Diaz,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Cheyenne Franco,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Alan Glover,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Kimberly Jones,male,20-40,engineering crew,B,Nationality_11,,,,,no
+Shannon Lopez,male,40-60,victualling crew,S,Nationality_2,,,,,yes
+Eric Jenkins,male,40-60,engineering crew,S,Nationality_2,,,,,no
+William Rosario,male,40-60,victualling crew,B,Nationality_5,,,,,no
+Jack Clark,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Ashley Mcguire,male,0-20,restaurant staff,S,Nationality_31,,,,,no
+Monica Morrow,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Brandon Green,male,20-40,deck crew,B,Nationality_2,,,,,no
+Stacey Burke,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Rachel Porter,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Angela Gould,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Katelyn Rivera,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Erik Solis,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Jake Adams,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Benjamin Bruce,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brian Anderson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Steven Robinson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brenda Murphy,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Jessica Schultz,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Deborah Bauer,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Claudia Todd,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Paul Ellis,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Tamara Mccall,male,0-20,victualling crew,S,Nationality_24,,,,,no
+Vincent Sparks,male,20-40,deck crew,B,Nationality_24,,,,,no
+Tammy Taylor,male,40-60,restaurant staff,S,Nationality_19,,,,,no
+Catherine Flores,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Patrick Dickson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Julie Bishop,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Cynthia Reid,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jason Griffith,male,40-60,deck crew,B,Nationality_29,,,,,no
+Nicole George,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Laura Mitchell,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Sharon Vincent,male,20-40,engineering crew,S,Nationality_24,,,,,no
+Evelyn Brown,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Nicole Santos,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Mary Fisher,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jonathan Ross,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Adrian Conway,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Christopher Perkins,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Michael Thomas,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Amy Snyder,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jasmine Hayes,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Julia Brown,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Richard Smith,male,20-40,deck crew,B,Nationality_14,,,,,yes
+Mary Hill,male,60-80,deck crew,B,Nationality_2,,,,,no
+Roberto Gomez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Cameron Cox,male,20-40,victualling crew,S,Nationality_24,,,,,no
+Ronald Morris,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Christine Rich,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Roy Lam,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Mrs. Chelsea Clark,male,40-60,victualling crew,S,Nationality_21,,,,,no
+Erin Lee,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Felicia Jackson,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Amber Berry,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Adrian Porter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kyle Pena,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Dr. Michele Smith,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Lynn Thomas,male,40-60,engineering crew,B,Nationality_2,,,,,no
+Nicholas Newton,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Andrew Mahoney,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Anthony Long,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Ernest Mcguire,male,40-60,deck crew,S,Nationality_2,,,,,yes
+Lindsay Cooper DDS,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Christina Gray,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+James Griffin,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Anthony Ramirez,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Emily Pruitt,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Jackson Newman,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Joshua Key,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Eric Brown,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Danielle Yoder,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Stephen Campbell,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Luis Richardson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Andrew Caldwell,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Carol Lam,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Morgan Short,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Cheryl Lopez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Elizabeth Lowe,male,0-20,engineering crew,S,Nationality_2,,,,,yes
+Marvin Sanders,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Daniel Blair,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Pamela Mcdowell,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jamie Weber,male,20-40,victualling crew,S,Nationality_44,,,,,yes
+Henry Davidson,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Stephanie Peters,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Joseph Medina,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Ronald Martinez IV,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Cindy Phillips,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Kristen Norris,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Stephen Jones,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Troy Valdez,male,20-40,deck crew,B,Nationality_2,,,,,yes
+John Aguilar,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Kara Williams,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Juan Brown,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Lawrence Thomas,male,20-40,deck crew,S,Nationality_14,,,,,yes
+Joshua Wagner,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Morgan Guerrero,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Karen Williams,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Richard Olson,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Michael Glover,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+April Cox,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Natalie Evans,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Marie Neal DDS,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Nancy Burgess,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+James Harrell,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Anne Cannon,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Shane Jenkins,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Andrea Evans,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Brandon Watson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Robert Dunlap,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Lindsey Walker,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Erika Payne,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jill Livingston,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Charles Barker,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Patricia Long,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Brandon Powell,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Rachel Rollins,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Jaime Cantrell,male,20-40,victualling crew,B,Nationality_14,,,,,no
+Cheyenne Wade,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Patrick Scott,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Diane Anderson,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Matthew Moore,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Tony Jackson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Sherri Hernandez,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Sarah Hendricks,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jasmine Padilla,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Jeffrey Saunders,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Jessica Donovan,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Megan Bennett,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Timothy Gomez,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jesse Mason,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Sabrina White,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Mary Cummings,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Eric Santos,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Jonathan Carson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+John Fields,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Kevin Reynolds,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Richard Henry,male,20-40,victualling crew,B,Nationality_21,,,,,no
+Sierra Adams,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Richard Porter,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Sheila George,male,20-40,victualling crew,S,Nationality_2,,,,,no
+David Frazier,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Teresa Frazier,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Tara Hayes,male,20-40,victualling crew,S,Nationality_18,,,,,no
+Janice Ferguson,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Ms. Jennifer Holland,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Jeffrey Cline,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Zachary Garza,male,40-60,restaurant staff,S,Nationality_2,,,,,no
+Virginia Smith,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Elizabeth Rogers,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Ronald West,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Michelle Greer,male,40-60,victualling crew,B,Nationality_2,,,,,yes
+Bobby Zuniga,male,0-20,victualling crew,S,Nationality_2,,,,,no
+John Vargas,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jessica Jackson,male,20-40,victualling crew,S,Nationality_14,,,,,no
+Shawn Baker,male,20-40,victualling crew,S,Nationality_9,,,,,yes
+David Wagner,male,20-40,restaurant staff,S,Nationality_19,,,,,no
+Nicholas Andrade,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Mark Hardin,male,40-60,victualling crew,S,Nationality_21,,,,,no
+Ryan Houston,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jasmine Castillo,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Benjamin Quinn,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Cody Green,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Arthur Cervantes,male,20-40,engineering crew,S,Nationality_2,,,,,no
+John Wilson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Linda Moore,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Zachary Robinson,male,20-40,deck crew,S,Nationality_2,,,,,no
+Ariel Carter,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Rodney Oliver,male,40-60,restaurant staff,S,Nationality_19,,,,,no
+Misty Carey,male,40-60,engineering crew,S,Nationality_11,,,,,no
+Jesse Sampson,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Nathan Hurley,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Elizabeth Mccarty,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Ms. Teresa Martinez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Amanda Murphy,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Melissa Blanchard,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Stacey Bradford,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Dawn Sullivan,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Anthony Aguirre,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Anthony Gill,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Jennifer Watts,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Julie Carter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Scott Henson,male,0-20,engineering crew,S,Nationality_2,,,,,yes
+Jennifer Ramos,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kayla Thompson,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Glenn Brooks,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Gail Shaffer,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jeffrey Reynolds,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Christopher Adams,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Amy Sherman,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jeffrey Nichols,male,20-40,deck crew,S,Nationality_11,,,,,no
+Charles Myers,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Julia Wilkerson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jared Tucker,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Anthony Henderson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Vickie Knight,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Bobby Ortiz,female,20-40,victualling crew,S,Nationality_11,,,,,yes
+Marie Brown,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Dustin Davis,female,20-40,victualling crew,S,Nationality_2,,,,,yes
+Joshua Greene,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Janet Hunt,male,20-40,victualling crew,B,Nationality_24,,,,,no
+Rose Bailey,male,60-80,deck crew,S,Nationality_2,,,,,no
+Zachary Bell,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Philip Johnson,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Thomas Lynch,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Mary Johnson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Ashley Robinson,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Courtney Roberts,male,0-20,victualling crew,B,Nationality_2,,,,,no
+David Scott,male,20-40,engineering crew,B,Nationality_24,,,,,no
+Matthew Hartman,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Steven Yu,male,20-40,victualling crew,S,Nationality_17,,,,,no
+Gabriel Johnson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Dr. Jonathan Mcguire,male,20-40,deck crew,S,Nationality_2,,,,,no
+Elizabeth Martin,female,20-40,victualling crew,S,Nationality_2,,,,,no
+David Martin,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Stephanie Cooper,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Matthew Hicks,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Kara Richards,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Edward Bennett,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Sarah Gilmore,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Victor Baker,female,40-60,victualling crew,S,Nationality_2,,,,,yes
+Jimmy Kim,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Christopher Adams,male,20-40,engineering crew,S,Nationality_17,,,,,no
+Kayla Hensley,male,20-40,victualling crew,B,Nationality_24,,,,,yes
+Misty Williams,male,0-20,engineering crew,S,Nationality_2,,,,,no
+Andrew Edwards,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Paul Austin,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jeffery Ramsey,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Michael White,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Joshua Elliott,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Bruce Lara,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jay Thomas,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jason Smith,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Adam Clayton,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Samuel Clark,male,40-60,victualling crew,B,Nationality_11,,,,,no
+Jennifer Campos,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Joshua Hill,male,20-40,deck crew,S,Nationality_2,,,,,yes
+Ruben Williams,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Sandra Hampton,male,20-40,deck crew,S,Nationality_2,,,,,no
+Samantha Lowe,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Rebecca Mills,male,20-40,deck crew,S,Nationality_2,,,,,no
+Renee Walsh,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Tina Tran,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Ashley Love,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Randall Johnson,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Jerry Castillo,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Randy Stanley,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Richard Nolan,male,0-20,deck crew,S,Nationality_2,,,,,no
+Shane Allen,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Jason Wilson,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Amanda Douglas,male,20-40,victualling crew,S,Nationality_2,,,,,no
+John Rice,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Tyler Mcmahon,male,40-60,victualling crew,S,Nationality_2,,,,,yes
+Angela Conway,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Jenny Glenn,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Ronald Parker,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Danielle Davis,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Rebecca Graham,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Madeline Lyons,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Hannah Duncan,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Carrie Steele,male,40-60,engineering crew,S,Nationality_2,,,,,yes
+Daryl Perez,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Karen Vasquez,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Andrew Hunter,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Joann Roberson,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Michael Reyes,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Shawn Rodriguez,male,20-40,victualling crew,S,Nationality_24,,,,,no
+David Roberts,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kari Roach,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Austin Cook,male,20-40,engineering crew,B,Nationality_18,,,,,no
+Kevin Washington,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Angela Barnett,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jordan White,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Andrew Shea,male,0-20,restaurant staff,S,Nationality_19,,,,,no
+Judith Gonzales,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Monica Chambers,male,20-40,engineering crew,S,Nationality_47,,,,,no
+Andrea Mccarthy,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Aaron Mccarthy,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Tiffany Bailey,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Amy Bailey,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Misty Smith,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+Ryan Villarreal,male,20-40,deck crew,S,Nationality_14,,,,,yes
+Brian Marshall,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Courtney Gonzalez,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Roberto Manning,male,20-40,restaurant staff,S,Nationality_19,,,,,no
+Melanie Black,male,20-40,restaurant staff,S,Nationality_2,,,,,no
+John Harrison,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kelly Johnson,female,20-40,victualling crew,S,Nationality_2,,,,,no
+Carolyn Hill,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Diane Brooks,female,20-40,victualling crew,S,Nationality_18,,,,,no
+Joseph Hayes,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Amanda Phillips,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Jeffrey Oliver,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Andrew Mccarthy,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Julian Kent,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Gerald Price,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kathy Evans,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Lisa Anderson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jacob Madden,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Mrs. Theresa Sanders,male,0-20,victualling crew,S,Nationality_2,,,,,no
+Timothy Banks,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Michael Williams,male,20-40,victualling crew,B,Nationality_2,,,,,no
+Ricardo Molina,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Kristin Lopez,male,40-60,victualling crew,B,Nationality_2,,,,,no
+Krista Hartman,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jonathan Garza,male,40-60,victualling crew,S,Nationality_1,,,,,yes
+Jordan Perez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Lauren Johnson,male,20-40,deck crew,B,Nationality_2,,,,,yes
+Sherry Smith,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Toni Thompson,male,20-40,victualling crew,B,Nationality_2,,,,,yes
+Daniel Walker,male,0-20,victualling crew,S,Nationality_2,,,,,yes
+Kevin Wagner,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Anna Serrano,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+William Floyd,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Jessica Henson,male,20-40,victualling crew,S,Nationality_2,,,,,no
+John Miller,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Amanda Rodriguez,male,20-40,victualling crew,B,Nationality_29,,,,,no
+Grant Mayer,male,20-40,engineering crew,S,Nationality_2,,,,,yes
+Jennifer Williams,male,20-40,victualling crew,S,Nationality_2,,,,,no
+James Payne,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Jose Mckenzie,male,20-40,deck crew,S,Nationality_2,,,,,no
+Casey Le,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Jesse Morris,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Justin Alvarez,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Jacob Erickson,male,20-40,victualling crew,S,Nationality_18,,,,,no
+Steven Stevenson,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Keith Marsh,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Todd Cook,male,20-40,engineering crew,B,Nationality_2,,,,,no
+Kevin White,male,40-60,engineering crew,S,Nationality_2,,,,,no
+Amy Higgins,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Susan Randolph,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Christine Blackburn,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Ashley Benitez DDS,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Joe Gallegos,male,20-40,victualling crew,S,Nationality_40,,,,,no
+Lisa Smith,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Susan Ryan,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Jeffrey Gardner,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Brandon Franklin,male,20-40,engineering crew,S,Nationality_2,,,,,no
+John Foster,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Michael Hobbs,male,40-60,victualling crew,S,Nationality_1,,,,,no
+Lori Hayes,male,40-60,victualling crew,S,Nationality_2,,,,,no
+Kristina Scott,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Christy Velasquez,male,0-20,victualling crew,B,Nationality_2,,,,,no
+Timothy Gomez,male,20-40,victualling crew,S,Nationality_2,,,,,no
+Kristin Alexander,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Paul Howard,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Ashley Torres,male,40-60,deck crew,B,Nationality_2,,,,,yes
+Kimberly Molina,male,20-40,victualling crew,S,Nationality_2,,,,,yes
+Andrea Sweeney,male,20-40,engineering crew,S,Nationality_2,,,,,no
+Cameron Miller,male,0-20,restaurant staff,S,Nationality_2,,,,,no
+Rebecca Cox,male,20-40,restaurant staff,S,Nationality_2,,,,,no

@@ -1,0 +1,2208 @@
+name,gender,age,class,embarked,country,ticketno,fare,sibsp,parch,survived
+"Burke, Mr. Jeremiah",male,40-60,3rd,S,Nationality_1,368107.2199670966,4.805268566127491,0.0,0.0,no
+"Mason, Mr. J.",male,0-20,3rd,S,Nationality_1,21391.2199670966,17.745268566127493,0.0,2.0,no
+"Neal, Mr. Bentley Harold",male,0-20,3rd,S,Nationality_1,3077299.2199670966,17.745268566127493,1.0,1.0,no
+"Reed, Mr. James George",female,20-40,3rd,S,Nationality_2,-21302.780032903403,17.745268566127493,1.0,1.0,yes
+"Roth, Miss. Sarah",female,0-20,3rd,S,Nationality_3,323098.2199670966,4.825268566127491,0.0,0.0,yes
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_1,13682.219967096597,4.825268566127491,0.0,0.0,yes
+"Andrews, Mr. Thomas",male,20-40,2nd,C,Nationality_4,10662.219967096597,21.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,C,Nationality_4,-9109.780032903403,21.69526856612749,1.0,0.0,yes
+"Hold, Mr. Stephen",male,20-40,3rd,C,Nationality_5,-20518.780032903403,15.84616856612749,0.0,0.0,yes
+"Andrews, Mr. Thomas",male,0-20,3rd,S,Nationality_6,-21522.780032903403,4.87586856612749,0.0,0.0,yes
+"White, Mrs. Ella",male,20-40,3rd,S,Nationality_7,323753.2199670966,4.745268566127491,0.0,0.0,no
+"Chaffee, Mrs. Carrie Constance",male,20-40,3rd,S,Nationality_2,-21315.780032903403,5.70526856612749,0.0,0.0,no
+"Hall, Mr. J.",female,20-40,3rd,S,Nationality_7,326421.2199670966,6.7858685661274905,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,3077277.2199670966,6.7652685661274905,0.0,1.0,yes
+"Adams, Mr. John",female,0-20,3rd,S,Nationality_2,323086.2199670966,6.7652685661274905,0.0,1.0,yes
+"Adams, Mr. John",male,20-40,2nd,S,Nationality_2,199607.2199670966,10.69526856612749,0.0,0.0,no
+"Charters, Mr. David",male,20-40,3rd,S,Nationality_2,-21323.780032903403,4.86616856612749,0.0,0.0,no
+"Curtis, Mr. Arthur",male,0-20,3rd,S,Nationality_6,-21308.780032903403,4.87586856612749,0.0,0.0,no
+"Stewart, Mr. John",male,20-40,3rd,S,Nationality_8,306983.2199670966,4.70526856612749,0.0,0.0,no
+"Adams, Mr. John",male,20-40,3rd,S,Nationality_8,-20524.780032903403,4.70526856612749,0.0,0.0,no
+"Becker, Master. Richard F.",female,20-40,1st,S,Nationality_1,-6231.780032903404,209.29616856612748,0.0,0.0,yes
+"Farrell, Mr. James",male,20-40,3rd,S,Nationality_2,324133.2199670966,5.70526856612749,0.0,0.0,no
+"Kelly, Miss. Mary",male,0-20,1st,S,Nationality_9,89812.2199670966,148.85526856612748,1.0,2.0,yes
+"Farrell, Mr. James",female,0-20,1st,S,Nationality_9,89070.2199670966,148.85526856612748,1.0,2.0,no
+"Wright, Miss. Marion",male,20-40,1st,S,Nationality_9,-6506.780032903404,148.85526856612748,1.0,2.0,no
+"Buckley, Miss. Katherine",female,20-40,1st,S,Nationality_1,-6230.780032903404,148.85526856612748,1.0,2.0,no
+"Walker, Mr. William Anderson",male,0-20,3rd,S,Nationality_2,323101.2199670966,5.755268566127491,0.0,0.0,no
+"Allison, Mr. Hudson Joshua Creighton",male,0-20,3rd,C,Nationality_5,-16448.780032903403,4.735968566127491,0.0,0.0,no
+"Hall, Mr. J.",female,0-20,3rd,S,Nationality_10,-21673.780032903403,4.86536856612749,1.0,0.0,yes
+"Head, Mr. Christopher",male,20-40,3rd,S,Nationality_3,325219.2199670966,19.79586856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,89800.2199670966,23.80526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_7,-16721.780032903403,28.74586856612749,4.0,2.0,no
+"Becker, Master. Richard F.",female,0-20,3rd,S,Nationality_7,344334.2199670966,28.74586856612749,4.0,2.0,no
+"McNamee, Mrs. Eileen",female,0-20,3rd,S,Nationality_7,340517.2199670966,28.74586856612749,4.0,2.0,no
+"Marks, Mr. James",female,0-20,3rd,S,Nationality_6,-17380.780032903403,4.87586856612749,4.0,2.0,yes
+"Cornblatt, Mr. Harris",female,20-40,3rd,S,Nationality_7,-2548.7800329034035,4.845868566127491,4.0,2.0,no
+"Head, Mr. Christopher",female,0-20,3rd,S,Nationality_7,323476.2199670966,28.74586856612749,4.0,2.0,no
+"Radeff, Mr. Alexander",female,0-20,3rd,S,Nationality_7,343237.2199670966,28.74586856612749,4.0,2.0,no
+"Ellis, Mr. John Bertie",male,20-40,3rd,S,Nationality_7,306921.2199670966,28.74586856612749,1.0,5.0,no
+"Silvey, Mrs. Alice Gray",male,20-40,3rd,S,Nationality_7,-21673.780032903403,4.845868566127491,0.0,0.0,no
+"Goldschmidt, Mr. George B.",female,20-40,3rd,S,Nationality_7,-2813.7800329034035,28.74586856612749,1.0,5.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_7,339302.2199670966,4.86536856612749,0.0,0.0,no
+"Caram, Mr. Joseph",male,0-20,2nd,S,Nationality_8,5022.2199670965965,8.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,210615.2199670966,7.79526856612749,0.0,0.0,no
+"Douglas, Mrs. Mahala",female,60-80,1st,C,Nationality_1,89802.2199670966,74.8854685661275,1.0,0.0,yes
+"Webber, Miss. Susan",male,20-40,1st,B,Nationality_11,89787.2199670966,,0.0,0.0,no
+"Davidson, Mr. Thornton",male,20-40,3rd,S,Nationality_12,326061.2199670966,4.866368566127491,0.0,0.0,no
+"Ford, Mr. Arthur",female,20-40,2nd,S,Nationality_2,216272.2199670966,23.69526856612749,1.0,0.0,yes
+"Dodge, Dr. Washington",male,20-40,2nd,S,Nationality_2,224755.2199670966,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,S,Nationality_1,-2760.7800329034035,48.78596856612749,2.0,0.0,yes
+"Farrell, Mr. James",male,20-40,3rd,S,Nationality_13,-21360.780032903403,14.85526856612749,1.0,0.0,no
+"Cox, Mr. William Denton",female,0-20,3rd,S,Nationality_13,340859.2199670966,14.85526856612749,1.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_7,3077306.2199670966,4.845868566127491,0.0,0.0,no
+"Lucas, Mr. William Arthur",male,60-80,1st,C,Nationality_8,-6234.780032903404,46.795368566127486,0.0,0.0,no
+"Stokes, Mr. Philip Joseph",male,40-60,2nd,S,Nationality_2,5114.2199670965965,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_8,-20514.780032903403,4.70526856612749,0.0,0.0,no
+"Sadlier, Mr. Matthew",male,0-20,3rd,S,Nationality_7,12579.219967096597,28.766168566127494,4.0,2.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_7,-20858.780032903403,28.766168566127494,4.0,2.0,no
+"Jones, Mr. Charles Cresson",male,0-20,3rd,S,Nationality_7,344714.2199670966,28.766168566127494,4.0,2.0,yes
+"Cox, Mr. William Denton",male,0-20,3rd,S,Nationality_7,323090.2199670966,28.766168566127494,4.0,2.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_7,323076.2199670966,28.766168566127494,4.0,2.0,yes
+"Perry, Mr. Edgar Lionel",male,20-40,3rd,S,Nationality_7,325267.2199670966,28.766168566127494,1.0,5.0,no
+"Arnold-Franchi, Mr. Josef",male,20-40,3rd,S,Nationality_7,291100.2199670966,4.84636856612749,0.0,0.0,yes
+"Lane, Mr. Patrick",female,20-40,3rd,S,Nationality_7,-20578.780032903403,28.766168566127494,1.0,5.0,yes
+"McCarthy, Miss. Catherine",female,40-60,3rd,C,Nationality_5,339305.2199670966,4.735868566127492,0.0,0.0,yes
+"Robins, Mr. Victor",male,20-40,3rd,S,Nationality_8,340869.2199670966,4.70526856612749,0.0,0.0,no
+"Milling, Mr. Jacob Christian",male,40-60,1st,C,Nationality_1,86476.2199670966,244.79586856612747,1.0,0.0,no
+"Allison, Mr. Hudson Joshua Creighton",female,0-20,1st,C,Nationality_1,89787.2199670966,244.79586856612747,1.0,0.0,yes
+"Hall, Mr. J.",female,0-20,3rd,C,Nationality_5,325247.2199670966,11.78546856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,3rd,C,Nationality_9,325217.2199670966,4.735868566127492,0.0,0.0,no
+"Chapman, Mr. Charles Henry",female,20-40,1st,C,Nationality_4,-6233.780032903404,66.7552685661275,0.0,0.0,yes
+"Hodgkinson, Mr. Leonard",male,20-40,3rd,S,Nationality_7,368102.2199670966,4.86536856612749,0.0,0.0,no
+"Lee, Mr. H.",female,0-20,3rd,C,Nationality_5,291162.2199670966,4.735968566127491,0.0,0.0,yes
+"Fleming, Miss. Honor",male,20-40,3rd,S,Nationality_6,-21844.780032903403,12.86526856612749,1.0,0.0,no
+"Farrell, Mr. James",female,20-40,3rd,S,Nationality_6,-2817.7800329034035,12.86526856612749,3.0,0.0,yes
+"Abbing, Mr. Anthony",female,0-20,3rd,C,Nationality_5,-6619.780032903404,16.745468566127492,2.0,1.0,yes
+"Allen, Mr. Frederick",female,0-20,3rd,C,Nationality_5,360472.2199670966,16.745468566127492,2.0,1.0,yes
+"Head, Mr. Christopher",female,0-20,3rd,C,Nationality_5,-21328.780032903403,16.745468566127492,2.0,1.0,yes
+"Roberts, Mr. Hugh H.",female,20-40,3rd,C,Nationality_5,324134.2199670966,16.745468566127492,0.0,3.0,yes
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_2,-21674.780032903403,5.70526856612749,0.0,0.0,yes
+"Green, Mr. George",male,20-40,3rd,C,Nationality_5,310926.2199670966,4.735868566127492,0.0,0.0,no
+"Hall, Mr. J.",male,0-20,2nd,S,Nationality_2,5117.2199670965965,8.79526856612749,0.0,0.0,no
+"Taylor, Mr. J.",male,20-40,2nd,S,Nationality_14,5048.2199670965965,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_15,340861.2199670966,4.866368566127491,0.0,0.0,no
+"Lines, Mrs. Elizabeth Lindsey",female,20-40,2nd,S,Nationality_2,195544.2199670966,10.69526856612749,0.0,0.0,yes
+"Drew, Master. Marshall Brines",male,20-40,2nd,S,Nationality_2,7037.2199670965965,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_16,321784.2199670966,5.826068566127491,0.0,0.0,yes
+"Smith, Mr. F.",female,0-20,3rd,C,Nationality_5,310925.2199670966,11.78536856612749,0.0,1.0,no
+"Taylor, Mr. J.",female,40-60,3rd,C,Nationality_5,326040.2199670966,11.78536856612749,0.0,1.0,no
+"Jones, Mr. Charles Cresson",female,20-40,1st,S,Nationality_17,-6218.780032903404,75.8652685661275,0.0,0.0,yes
+"Campbell, Mr. Donald S.",male,40-60,1st,S,Nationality_2,12939.219967096597,27.69526856612749,0.0,0.0,yes
+"Butler, Mr. Reginald Fenton",female,20-40,3rd,Q,Nationality_18,346381.2199670966,4.86596856612749,0.0,0.0,no
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,20-40,3rd,S,Nationality_2,-17381.780032903403,5.70526856612749,0.0,0.0,no
+"Williams, Mr. Leslie",female,20-40,1st,C,Nationality_19,-7022.780032903404,73.7462685661275,0.0,0.0,yes
+"Ismay, Mr. Joseph Bruce",male,40-60,2nd,S,Nationality_2,224745.2199670966,9.79586856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_12,323072.2199670966,4.866368566127491,0.0,0.0,no
+"Rice, Mr. Charles",male,40-60,1st,C,Nationality_1,88390.2199670966,22.87586856612749,0.0,0.0,no
+"Kerr, Mr. Thomas Russell",male,20-40,1st,C,Nationality_9,-10481.780032903403,244.7957685661275,0.0,1.0,no
+"Fortune, Mr. Mark",female,40-60,1st,C,Nationality_9,86476.2199670966,244.7957685661275,0.0,1.0,yes
+"Smith, Mr. F.",male,20-40,2nd,S,Nationality_2,226665.2199670966,23.69526856612749,1.0,0.0,yes
+"Curtis, Mr. Arthur",female,20-40,2nd,S,Nationality_2,213747.2199670966,23.69526856612749,1.0,0.0,yes
+"Willer, Mr. Aaron",male,20-40,1st,S,Nationality_9,88069.2199670966,72.73626856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,2nd,S,Nationality_2,213227.2199670966,23.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,-21314.780032903403,5.70526856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",male,0-20,2nd,S,Nationality_20,206147.2199670966,36.69526856612749,2.0,1.0,yes
+"Gallagher, Mr. Martin",female,0-20,2nd,S,Nationality_20,213809.2199670966,36.69526856612749,2.0,1.0,yes
+"Abbing, Mr. Anthony",female,0-20,2nd,S,Nationality_20,-21062.780032903403,36.69526856612749,2.0,1.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_1,-9109.780032903403,36.69526856612749,0.0,3.0,yes
+"Becker, Master. Richard F.",male,20-40,1st,S,Nationality_1,-4064.780032903404,49.80536856612749,1.0,1.0,yes
+"Bourke, Mrs. Catherine",female,40-60,1st,S,Nationality_1,89520.2199670966,49.80536856612749,1.0,1.0,yes
+"Connaughton, Mr. Michael",male,20-40,2nd,S,Nationality_2,226665.2199670966,10.69526856612749,0.0,0.0,yes
+"Johnson, Mr. August",male,20-40,1st,C,Nationality_1,-6375.780032903404,27.69526856612749,0.0,0.0,yes
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_7,319131.2199670966,4.845868566127491,0.0,0.0,no
+"Smith, Mr. F.",female,0-20,2nd,S,Nationality_1,5116.2199670965965,10.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_6,323093.2199670966,6.7652685661274905,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,591.2199670965965,10.69526856612749,0.0,0.0,no
+"Head, Mr. Christopher",female,20-40,1st,C,Nationality_1,-6408.780032903404,60.76546856612749,0.0,0.0,yes
+"Gordon, Mr. J.",female,40-60,1st,C,Nationality_17,171.21996709659652,244.79586856612747,0.0,0.0,yes
+"Ali, Mr. William",male,20-40,3rd,S,Nationality_17,6642.2199670965965,53.786368566127486,0.0,0.0,yes
+"Sullivan, Mr. S.",female,20-40,1st,S,Nationality_2,-6231.780032903404,218.84596856612748,0.0,0.0,yes
+"Snyder, Mrs. Nelle",male,20-40,3rd,S,Nationality_3,-21312.780032903403,4.845868566127491,0.0,0.0,no
+"Kiernan, Mr. Philip",male,20-40,1st,C,Nationality_17,-6380.780032903404,23.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,C,Nationality_1,-10480.780032903403,88.7059685661275,1.0,0.0,yes
+"Lowe, Mr. Harold Godfrey",female,0-20,1st,C,Nationality_1,-11238.780032903403,88.7059685661275,1.0,0.0,yes
+"Allen, Mr. Frederick",male,0-20,3rd,S,Nationality_7,325263.2199670966,4.845268566127491,0.0,0.0,no
+"Casey, Mr. Thomas",male,20-40,1st,S,Nationality_7,-10481.780032903403,23.80526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,89799.2199670966,32.79526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,1st,C,Nationality_1,88070.2199670966,28.69526856612749,0.0,0.0,yes
+"Clark, Mr. Walter Miller",female,20-40,1st,S,Nationality_1,86824.2199670966,161.86566856612748,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,60-80,1st,S,Nationality_2,-6511.780032903404,23.80526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_2,89049.2199670966,23.80526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,-21361.780032903403,4.866368566127491,0.0,0.0,no
+"Edwards, Mr. Charles Essex",male,20-40,2nd,S,Nationality_1,5761.2199670965965,10.69526856612749,0.0,0.0,no
+"Ali, Mr. William",female,20-40,3rd,Q,Nationality_18,347373.2199670966,4.845268566127491,0.0,2.0,no
+"Bonnell, Miss. Elizabeth",male,40-60,3rd,Q,Nationality_18,-17380.780032903403,12.79526856612749,1.0,1.0,no
+"Kelly, Miss. Mary",female,20-40,3rd,Q,Nationality_18,-21293.780032903403,12.79526856612749,1.0,1.0,no
+"Hoyt, Mr. William Fisher",female,40-60,1st,C,Nationality_1,-6380.780032903404,259.7658685661275,0.0,0.0,yes
+"Lee, Mr. H.",male,20-40,3rd,S,Nationality_21,368089.2199670966,13.71526856612749,0.0,0.0,no
+"Johansson, Mr. Gustaf Joel",male,40-60,2nd,S,Nationality_17,4414.2199670965965,10.69526856612749,0.0,0.0,no
+"Hunt, Mr. Tom",female,20-40,1st,S,Nationality_2,-6514.780032903404,52.69526856612749,0.0,1.0,yes
+"Nasser, Mr. Nicholas",male,20-40,2nd,S,Nationality_1,215864.2199670966,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,291098.2199670966,4.835868566127491,0.0,0.0,yes
+"Gallagher, Mr. Martin",male,40-60,1st,S,Nationality_1,-6232.780032903404,27.795268566127493,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_7,323475.2199670966,4.86536856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,2nd,S,Nationality_2,-21842.780032903403,,,,no
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_1,88062.2199670966,47.786368566127486,0.0,0.0,no
+"Uruchurtu, Don. Manuel Ramirez",male,20-40,3rd,S,Nationality_2,368103.2199670966,4.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,326046.2199670966,4.745268566127491,1.0,0.0,no
+"King, Mr. G.",male,20-40,1st,S,Nationality_1,89771.2199670966,23.80526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_1,-6376.780032903404,36.815268566127486,0.0,0.0,no
+"Cameron, Miss. Clear Annie",male,0-20,2nd,S,Nationality_4,210697.2199670966,,,,no
+"Anderson, Mr. Harry",male,20-40,2nd,S,Nationality_17,5189.2199670965965,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_7,325232.2199670966,4.84636856612749,0.0,0.0,no
+"Taylor, Mr. J.",male,20-40,3rd,S,Nationality_2,-21361.780032903403,5.70526856612749,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",female,0-20,2nd,S,Nationality_2,226665.2199670966,10.69526856612749,0.0,0.0,yes
+"Farrell, Mr. James",female,0-20,2nd,S,Nationality_22,-9103.780032903403,36.69526856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",female,40-60,1st,S,Nationality_1,-6385.780032903404,48.78596856612749,2.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_22,-22240.780032903403,36.69526856612749,1.0,1.0,yes
+"Norris, Mr. James",female,40-60,1st,C,Nationality_1,-6512.780032903404,24.83576856612749,0.0,0.0,yes
+"Andersson, Miss. Erna Alexandra",male,40-60,2nd,S,Nationality_22,220371.2199670966,36.69526856612749,1.0,1.0,no
+"Crosby, Captain. Edward Gifford",female,0-20,2nd,S,Nationality_7,-21865.780032903403,23.69526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_7,-20607.780032903403,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,-16435.780032903403,4.746068566127491,0.0,0.0,no
+"Charters, Mr. David",male,20-40,3rd,Q,Nationality_18,-21334.780032903403,4.84696856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_20,89789.2199670966,73.7462685661275,0.0,0.0,yes
+"Cooper, Mr. Harry",male,0-20,3rd,C,Nationality_5,318695.2199670966,12.73636856612749,1.0,1.0,no
+"Louch, Mr. Charles",female,0-20,3rd,C,Nationality_5,321778.2199670966,12.73636856612749,1.0,1.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,C,Nationality_5,3077301.2199670966,12.73636856612749,0.0,2.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,Q,Nationality_18,-21292.780032903403,3.845268566127491,0.0,0.0,no
+"Bourke, Miss. Mary",female,40-60,1st,C,Nationality_17,-6503.780032903404,131.79526856612748,0.0,0.0,yes
+"Gallagher, Mr. Martin",female,0-20,3rd,Q,Nationality_18,321784.2199670966,4.86596856612749,0.0,0.0,no
+"Webber, Miss. Susan",female,20-40,2nd,S,Nationality_2,209877.2199670966,10.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,5406.2199670965965,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,291103.2199670966,4.735968566127491,0.0,0.0,no
+"Randall, Mr. Frank Henry",male,40-60,1st,S,Nationality_1,-10293.780032903403,23.80526856612749,0.0,0.0,no
+"Knight, Mr. Robert",male,40-60,2nd,S,Nationality_2,220378.2199670966,10.69526856612749,0.0,0.0,no
+"Farrell, Mr. James",female,20-40,2nd,S,Nationality_1,-20607.780032903403,10.69526856612749,0.0,0.0,yes
+"Becker, Master. Richard F.",female,20-40,3rd,S,Nationality_23,346385.2199670966,5.82556856612749,0.0,0.0,no
+"Stewart, Mr. John",female,20-40,3rd,S,Nationality_23,-21337.780032903403,5.82556856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_23,-21335.780032903403,5.82556856612749,0.0,0.0,no
+"Hodgkinson, Mr. Leonard",male,20-40,3rd,S,Nationality_23,-21326.780032903403,5.82556856612749,0.0,0.0,no
+"Green, Mr. George",male,20-40,1st,S,Nationality_24,-10083.780032903403,28.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,171.21996709659652,23.74616856612749,0.0,0.0,yes
+"West, Miss. Barbara Joyce",male,0-20,2nd,S,Nationality_25,207930.2199670966,26.69526856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_25,224717.2199670966,26.69526856612749,1.0,1.0,yes
+"Burns, Miss. Elizabeth Margaret",female,20-40,2nd,S,Nationality_1,215865.2199670966,26.69526856612749,1.0,1.0,yes
+"Scott, Mr. Archibald",male,0-20,3rd,S,Nationality_23,321775.2199670966,5.82556856612749,0.0,0.0,no
+"Johnson, Mr. August",male,0-20,3rd,S,Nationality_23,343238.2199670966,5.82556856612749,0.0,0.0,no
+"Scott, Mr. Archibald",female,20-40,2nd,S,Nationality_2,213745.2199670966,18.69526856612749,0.0,0.0,yes
+"Farrell, Mr. James",male,20-40,2nd,B,Nationality_11,226665.2199670966,,0.0,0.0,no
+"Cohen, Mr. Gurshon",female,20-40,3rd,Q,Nationality_18,289003.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,299962.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_1,89514.2199670966,24.77636856612749,0.0,0.0,yes
+"Kimball, Mr. Edwin Nelson Jr.",male,20-40,3rd,S,Nationality_2,338327.2199670966,5.70526856612749,0.0,0.0,no
+"Ali, Mr. William",male,20-40,3rd,C,Nationality_9,347121.2199670966,11.78546856612749,1.0,0.0,no
+"Long, Mr. Frank",female,0-20,3rd,C,Nationality_5,323065.2199670966,11.78546856612749,1.0,0.0,no
+"Head, Mr. Christopher",male,0-20,2nd,S,Nationality_2,211520.2199670966,10.69526856612749,0.0,0.0,no
+"Head, Mr. Christopher",female,40-60,1st,C,Nationality_1,-6380.780032903404,509.7559685661275,0.0,1.0,yes
+"Smith, Mr. F.",male,20-40,1st,C,Nationality_1,-6231.780032903404,509.7559685661275,0.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_7,-21322.780032903403,4.84636856612749,0.0,0.0,no
+"Becker, Master. Richard F.",male,20-40,3rd,S,Nationality_7,-19855.780032903403,4.86536856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_1,-12021.780032903403,2.6952685661274907,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,1st,S,Nationality_26,-6397.780032903404,44.71526856612749,0.0,0.0,no
+"Caldwell, Master. Alden Gates",male,20-40,1st,S,Nationality_26,-6419.780032903404,44.71526856612749,0.0,0.0,no
+"Anderson, Mr. Harry",female,40-60,3rd,Q,Nationality_18,13682.219967096597,4.845268566127491,0.0,0.0,no
+"Charters, Mr. David",male,40-60,2nd,S,Nationality_2,220263.2199670966,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,1st,S,Nationality_1,11292.219967096597,117.6952685661275,1.0,2.0,yes
+"Andrews, Mr. Thomas",female,0-20,1st,S,Nationality_1,86163.2199670966,117.6952685661275,1.0,2.0,yes
+"Smith, Miss. Katherine Elizabeth",female,40-60,2nd,S,Nationality_2,226658.2199670966,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_1,87437.2199670966,117.6952685661275,1.0,2.0,yes
+"Guggenheim, Mr. Benjamin",male,20-40,1st,S,Nationality_1,-6228.780032903404,117.6952685661275,1.0,2.0,yes
+"Hall, Mr. J.",male,20-40,3rd,S,Nationality_2,335320.2199670966,4.745268566127491,0.0,0.0,no
+"Burton, Mr. Edward John",male,40-60,1st,S,Nationality_1,-12214.780032903403,23.69526856612749,0.0,0.0,no
+"Simpson, Dr. John Edward",female,20-40,1st,C,Nationality_1,-6230.780032903404,24.83576856612749,0.0,0.0,yes
+"Goodwin, Miss. Lillian Amy",female,20-40,1st,S,Nationality_1,87372.2199670966,75.8652685661275,1.0,0.0,yes
+"Becker, Master. Richard F.",male,20-40,1st,S,Nationality_2,89811.2199670966,75.8652685661275,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,325266.2199670966,5.70526856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",male,40-60,1st,S,Nationality_1,-4036.780032903404,58.72586856612749,1.0,0.0,no
+"Buckley, Miss. Katherine",female,40-60,1st,S,Nationality_1,86575.2199670966,58.72586856612749,1.0,0.0,yes
+"Bourke, Mrs. Catherine",male,20-40,1st,S,Nationality_1,-12218.780032903403,50.71526856612749,1.0,0.0,yes
+"Corey, Mrs. Mary Emma",female,20-40,1st,S,Nationality_1,-6670.780032903404,50.71526856612749,1.0,0.0,yes
+"Moody, Mr. James Paul",male,40-60,2nd,S,Nationality_1,224758.2199670966,10.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,-21829.780032903403,23.69526856612749,1.0,0.0,no
+"Taylor, Mr. J.",female,20-40,2nd,S,Nationality_2,-10459.780032903403,23.69526856612749,1.0,0.0,no
+"Hoyt, Mrs. Jane Anne",male,0-20,3rd,Q,Nationality_18,325220.2199670966,4.836068566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,C,Nationality_17,12984.219967096597,259.7658685661275,0.0,0.0,yes
+"Humphreys, Mr. Humphrey",female,20-40,1st,S,Nationality_2,89054.2199670966,83.79526856612749,0.0,0.0,yes
+"Kennedy, Mr. John",male,40-60,1st,C,Nationality_27,12939.219967096597,26.835268566127493,0.0,0.0,yes
+"Jackson, Mr. Cecil",female,40-60,1st,S,Nationality_2,-6525.780032903404,52.69526856612749,0.0,1.0,yes
+"Jones, Mr. Thomas William",male,20-40,3rd,S,Nationality_17,326037.2199670966,53.786368566127486,0.0,0.0,yes
+"Roth, Miss. Sarah",male,40-60,1st,B,Nationality_24,-6229.780032903404,,0.0,0.0,no
+"Robinson, Mrs. Annie",male,20-40,3rd,S,Nationality_2,323099.2199670966,5.70526856612749,0.0,0.0,no
+"Louch, Mr. Charles",female,20-40,2nd,S,Nationality_2,219858.2199670966,27.69526856612749,1.0,1.0,yes
+"Brown, Mrs. Margaret",female,40-60,2nd,S,Nationality_2,6780.2199670965965,27.69526856612749,0.0,2.0,yes
+"Bourke, Mrs. Catherine",male,20-40,3rd,C,Nationality_17,340509.2199670966,11.78536856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_17,-2816.7800329034035,11.78536856612749,1.0,0.0,no
+"Brown, Mrs. Margaret",male,20-40,2nd,S,Nationality_2,226660.2199670966,23.69526856612749,1.0,0.0,no
+"Abelson, Mr. Samuel",male,20-40,2nd,S,Nationality_2,220263.2199670966,,,,no
+"Buckley, Mr. Daniel",female,20-40,2nd,S,Nationality_2,76.21996709659652,24.69526856612749,1.0,0.0,yes
+"Andrews, Mr. Thomas",female,20-40,1st,C,Nationality_1,-6393.780032903404,133.84596856612748,1.0,0.0,yes
+"Reynolds, Mr. Harold",male,20-40,1st,C,Nationality_1,-4041.780032903404,133.84596856612748,1.0,0.0,no
+"Morgan, Mr. Thomas A.",female,20-40,1st,S,Nationality_2,-6511.780032903404,148.85526856612748,0.0,0.0,yes
+"Head, Mr. Christopher",male,20-40,1st,S,Nationality_1,89792.2199670966,49.69526856612749,0.0,0.0,no
+"Radeff, Mr. Alexander",male,0-20,3rd,S,Nationality_17,343239.2199670966,4.70526856612749,0.0,0.0,no
+"Kiernan, Mr. Philip",male,0-20,3rd,S,Nationality_2,-21338.780032903403,5.70526856612749,0.0,0.0,yes
+"Chapman, Mr. Charles Henry",male,20-40,3rd,Q,Nationality_18,-16911.780032903403,4.745268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_12,299603.2199670966,4.866368566127491,0.0,0.0,no
+"Shepherd, Mr. Jonathan",male,20-40,2nd,S,Nationality_2,5118.2199670965965,7.79526856612749,0.0,0.0,no
+"Gregory, Mr. David",male,20-40,2nd,S,Nationality_6,196378.2199670966,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,3860.219967096597,7.79526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_18,-11239.780032903403,22.806168566127493,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,2nd,S,Nationality_2,212863.2199670966,23.745268566127493,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,9123.219967096597,23.745268566127493,1.0,1.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,226663.2199670966,23.745268566127493,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_12,3077289.2199670966,4.866368566127491,0.0,0.0,no
+"Quick, Miss. Phyllis May",female,20-40,1st,C,Nationality_1,89798.2199670966,80.72546856612749,1.0,1.0,yes
+"Ingram, Mr. George",male,20-40,1st,C,Nationality_1,89055.2199670966,80.72546856612749,1.0,1.0,no
+"Fortune, Mr. Mark",female,60-80,1st,C,Nationality_1,86480.2199670966,80.72546856612749,0.0,2.0,yes
+"Evans, Miss. Edith Corse",male,20-40,3rd,Q,Nationality_1,-21325.780032903403,4.836068566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,323102.2199670966,4.845268566127491,0.0,0.0,no
+"Connaughton, Mr. Michael",female,20-40,3rd,Q,Nationality_18,-20650.780032903403,4.845268566127491,0.0,0.0,yes
+"Andrews, Mr. Thomas",female,40-60,3rd,Q,Nationality_18,321784.2199670966,4.815968566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,60-80,3rd,Q,Nationality_18,291164.2199670966,4.845268566127491,0.0,0.0,no
+"Bateman, Revd. Robert James",male,40-60,3rd,S,Nationality_17,343237.2199670966,5.70526856612749,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",female,20-40,2nd,S,Nationality_2,7932.219967096596,7.79526856612749,0.0,0.0,yes
+"Dennis, Mr. Samuel",female,20-40,2nd,S,Nationality_1,215070.2199670966,10.69526856612749,0.0,0.0,no
+"Reed, Mr. James George",female,20-40,2nd,S,Nationality_17,4231.2199670965965,18.69526856612749,0.0,0.0,no
+"Cribb, Miss. Laura Mae",male,20-40,3rd,S,Nationality_23,-21297.780032903403,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_16,340522.2199670966,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_16,-21305.780032903403,4.866368566127491,0.0,0.0,no
+"Sullivan, Mr. S.",male,20-40,3rd,S,Nationality_28,7427.219967096596,5.70526856612749,0.0,0.0,no
+"Savage, Mr. Charles Joseph",female,40-60,1st,S,Nationality_1,-7000.780032903404,22.83626856612749,2.0,0.0,yes
+"Abbing, Mr. Anthony",female,0-20,3rd,Q,Nationality_18,291096.2199670966,4.845268566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,-21080.780032903403,8.79526856612749,0.0,0.0,no
+"Ward, Mr. Arthur",male,0-20,3rd,S,Nationality_2,-21291.780032903403,12.87526856612749,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,-21322.780032903403,12.87526856612749,1.0,1.0,yes
+"Johnson, Mr. August",female,20-40,3rd,S,Nationality_2,323091.2199670966,12.87526856612749,0.0,2.0,yes
+"Casey, Mr. Thomas",male,40-60,3rd,S,Nationality_2,358663.2199670966,4.745268566127491,0.0,0.0,no
+"Roth, Miss. Sarah",male,40-60,1st,S,Nationality_1,89792.2199670966,23.80526856612749,0.0,0.0,no
+"Icard, Miss. Rose Amélie",male,0-20,3rd,S,Nationality_1,340870.2199670966,5.725468566127491,0.0,0.0,no
+"Sadlier, Mr. Matthew",female,0-20,3rd,S,Nationality_1,3077280.2199670966,13.71526856612749,0.0,1.0,yes
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_29,358663.2199670966,13.71526856612749,0.0,1.0,no
+"Hold, Mr. Stephen",male,60-80,1st,S,Nationality_1,-6392.780032903404,68.6952685661275,1.0,1.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_1,-6380.780032903404,23.80526856612749,0.0,2.0,yes
+"Ismay, Mr. Joseph Bruce",female,60-80,1st,S,Nationality_1,89512.2199670966,68.6952685661275,1.0,1.0,yes
+"Anderson, Mr. Harry",male,0-20,3rd,S,Nationality_23,-21313.780032903403,5.82556856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,C,Nationality_1,-18253.780032903403,68.74606856612749,1.0,0.0,no
+"Dodge, Dr. Washington",female,20-40,1st,C,Nationality_30,-23294.780032903403,68.74606856612749,1.0,0.0,yes
+"Adams, Mr. John",male,20-40,2nd,B,Nationality_11,,,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_17,30521.2199670966,4.735968566127491,0.0,0.0,no
+"Green, Mr. George",female,20-40,3rd,S,Nationality_7,-21304.780032903403,7.795668566127491,0.0,0.0,no
+"Fortune, Mr. Mark",male,40-60,3rd,S,Nationality_17,-21294.780032903403,5.70526856612749,0.0,0.0,yes
+"Stone, Mrs. Martha Evelyn",male,0-20,3rd,S,Nationality_17,340862.2199670966,7.72576856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,3077293.2199670966,3.885268566127491,0.0,0.0,yes
+"Scott, Mr. Archibald",male,20-40,3rd,Q,Nationality_18,325237.2199670966,4.845268566127491,0.0,0.0,yes
+"Bailey, Mr. Henry Joseph",male,40-60,1st,S,Nationality_2,88912.2199670966,23.80526856612749,0.0,0.0,yes
+"Johnson, Mr. August",male,0-20,3rd,S,Nationality_7,306942.2199670966,11.77526856612749,0.0,2.0,no
+"Sage, Mr. Frederick",male,20-40,3rd,S,Nationality_7,339622.2199670966,11.77526856612749,1.0,1.0,no
+"Lowe, Mr. Harold Godfrey",female,20-40,3rd,S,Nationality_7,-17776.780032903403,11.77526856612749,1.0,1.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_1,-12221.780032903403,27.795268566127493,0.0,0.0,yes
+"Caram, Mr. Joseph",female,20-40,1st,S,Nationality_2,-21822.780032903403,148.85526856612748,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,325223.2199670966,4.866368566127491,0.0,0.0,no
+"Douglas, Mrs. Mahala",female,20-40,1st,C,Nationality_9,-12233.780032903403,49.69526856612749,1.0,2.0,yes
+"Appleton, Mrs. Charlotte",male,20-40,1st,C,Nationality_9,-12021.780032903403,49.69526856612749,1.0,0.0,no
+"Sadlier, Mr. Matthew",male,0-20,2nd,S,Nationality_2,,33.84526856612749,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,325244.2199670966,21.725268566127493,2.0,0.0,no
+"Chip, Mr. Chang",male,0-20,2nd,S,Nationality_2,,70.79526856612749,0.0,0.0,no
+"Barton, Mr. David John",male,20-40,3rd,S,Nationality_21,-21363.780032903403,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,-21327.780032903403,21.725268566127493,2.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,-19852.780032903403,5.70526856612749,2.0,0.0,no
+"Charters, Mr. David",female,40-60,2nd,S,Nationality_2,,33.84526856612749,0.0,2.0,yes
+"Potter, Mrs. Lily Alexenia",female,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Edwards, Mr. Charles Essex",female,20-40,3rd,S,Nationality_2,326416.2199670966,13.71526856612749,1.0,0.0,yes
+"Connaughton, Mr. Michael",male,20-40,3rd,S,Nationality_2,326416.2199670966,13.71526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,70.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,325246.2199670966,17.805868566127494,1.0,2.0,yes
+"Keane, Mr. Andrew",female,0-20,3rd,S,Nationality_2,-21765.780032903403,17.805868566127494,1.0,2.0,yes
+"Bonnell, Miss. Caroline",male,20-40,3rd,S,Nationality_2,-9676.780032903403,17.805868566127494,1.0,2.0,no
+"Oliver, Mr. H.",female,20-40,3rd,S,Nationality_2,3077292.2199670966,17.805868566127494,1.0,2.0,yes
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_15,-21362.780032903403,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,C,Nationality_19,,24.83576856612749,1.0,0.0,yes
+"Farrell, Mr. James",male,20-40,2nd,C,Nationality_19,,24.83576856612749,1.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_1,326420.2199670966,14.775268566127489,1.0,0.0,yes
+"Scott, Mr. Archibald",female,20-40,3rd,S,Nationality_1,-21673.780032903403,14.775268566127489,1.0,0.0,yes
+"Louch, Mr. Charles",male,20-40,3rd,S,Nationality_27,325227.2199670966,6.79526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_14,,28.795268566127493,0.0,0.0,no
+"Kelly, Miss. Mary",male,20-40,3rd,S,Nationality_17,3077322.2199670966,4.866368566127491,0.0,0.0,no
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,20-40,3rd,S,Nationality_2,-21339.780032903403,4.745268566127491,0.0,0.0,no
+"Cook, Mr. Jacob",male,20-40,3rd,S,Nationality_2,3077298.2199670966,4.745268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_27,-21172.780032903403,6.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,Q,Nationality_18,350921.2199670966,4.86596856612749,0.0,0.0,yes
+"Nilsson, Miss. Berta Olivia",male,0-20,2nd,S,Nationality_2,,70.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_9,,54.69526856612749,1.0,0.0,yes
+"Hill, Mr. H. P.",female,0-20,1st,S,Nationality_1,,54.69526856612749,1.0,0.0,yes
+"Lee, Mr. H.",male,0-20,3rd,S,Nationality_23,-21327.780032903403,4.866368566127491,0.0,0.0,no
+"Desvernine, Mr. Louis Gabriel",male,40-60,3rd,S,Nationality_16,-16442.780032903403,5.82556856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_17,-17380.780032903403,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,,78.86546856612749,1.0,1.0,yes
+"Wick, Miss. Mary Natalie",male,0-20,1st,S,Nationality_1,,78.86546856612749,0.0,2.0,yes
+"Farrell, Mr. James",female,20-40,1st,S,Nationality_1,,78.86546856612749,1.0,1.0,yes
+"Davis, Mr. John",female,0-20,2nd,S,Nationality_2,,20.69526856612749,0.0,1.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,,20.69526856612749,0.0,1.0,yes
+"Nasser, Mr. Nicholas",female,20-40,3rd,Q,Nationality_18,350898.2199670966,4.845268566127491,0.0,0.0,no
+"Reeves, Mr. David",male,20-40,3rd,Q,Nationality_18,346171.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,-21836.780032903403,5.70526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,-16722.780032903403,5.78546856612749,0.0,0.0,no
+"Lee, Mr. H.",female,40-60,1st,C,Nationality_1,,103.7758685661275,1.0,0.0,yes
+"Scott, Mr. Archibald",female,20-40,1st,C,Nationality_9,,244.7957685661275,1.0,1.0,yes
+"Smith, Mr. F.",male,40-60,1st,C,Nationality_1,,103.7758685661275,1.0,0.0,no
+"Taylor, Mr. J.",male,40-60,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Bourke, Miss. Mary",female,20-40,3rd,S,Nationality_1,-21338.780032903403,9.78586856612749,0.0,0.0,yes
+"Snyder, Mrs. Nelle",female,20-40,3rd,Q,Nationality_18,321774.2199670966,4.845268566127491,0.0,0.0,no
+"Wright, Miss. Marion",male,20-40,3rd,C,Nationality_23,358663.2199670966,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_1,,29.795268566127493,0.0,2.0,yes
+"Allen, Miss. Elisabeth Walton",male,40-60,2nd,S,Nationality_2,,29.795268566127493,1.0,1.0,no
+"Sirota, Mr. Morris",female,20-40,2nd,S,Nationality_1,,29.795268566127493,1.0,1.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,3077274.2199670966,4.845268566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_2,-21315.780032903403,5.70526856612749,0.0,0.0,yes
+"Compton, Miss. Sara Rebecca",female,40-60,1st,C,Nationality_2,,53.87596856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_2,,36.815268566127486,1.0,0.0,yes
+"Keane, Mr. Andrew",male,20-40,1st,C,Nationality_1,,26.835268566127493,0.0,0.0,no
+"McCoy, Miss. Agnes",male,20-40,3rd,S,Nationality_14,325214.2199670966,4.805268566127491,0.0,0.0,yes
+"Chaffee, Mrs. Carrie Constance",female,20-40,2nd,C,Nationality_31,,10.86546856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,C,Nationality_31,,10.86546856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,60-80,3rd,Q,Nationality_18,3077308.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,346140.2199670966,10.87526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_1,-21171.780032903403,10.87526856612749,1.0,0.0,yes
+"Jackson, Mr. Cecil",female,20-40,1st,C,Nationality_1,,80.72546856612749,0.0,1.0,yes
+"Andrews, Mr. Thomas",male,0-20,3rd,S,Nationality_7,325250.2199670966,4.845868566127491,0.0,0.0,no
+"Wright, Miss. Marion",male,20-40,2nd,S,Nationality_1,,10.69526856612749,0.0,0.0,no
+"Johansson, Mr. Gustaf Joel",male,0-20,3rd,S,Nationality_7,-17425.780032903403,4.845868566127491,0.0,0.0,no
+"Frauenthal, Mr. Isaac Gerald",male,40-60,3rd,S,Nationality_7,3077326.2199670966,3.8858685661274905,0.0,0.0,no
+"Daniel, Mr. Robert Williams",male,20-40,3rd,C,Nationality_17,3077304.2199670966,4.735868566127492,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,C,Nationality_5,-20528.780032903403,4.735968566127491,1.0,1.0,no
+"Icard, Miss. Rose Amélie",male,20-40,3rd,C,Nationality_5,310923.2199670966,4.735968566127491,1.0,1.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_2,,4.745268566127491,0.0,0.0,no
+"Sharp, Mr. Percival",female,0-20,3rd,S,Nationality_1,323099.2199670966,9.78586856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_7,,10.69526856612749,0.0,0.0,no
+"Canavan, Mr. Patrick",female,20-40,1st,C,Nationality_1,,244.79586856612747,0.0,0.0,yes
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_17,326071.2199670966,4.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_1,,75.74566856612749,1.0,0.0,yes
+"Charters, Mr. David",female,20-40,1st,C,Nationality_1,,28.825968566127493,0.0,0.0,no
+"Goodwin, Miss. Lillian Amy",male,20-40,3rd,S,Nationality_2,3077306.2199670966,12.71526856612749,0.0,0.0,no
+"Smith, Mr. F.",male,0-20,2nd,S,Nationality_3,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_2,370151.2199670966,4.745268566127491,0.0,0.0,no
+"Long, Mr. Frank",male,20-40,3rd,Q,Nationality_18,291105.2199670966,4.845268566127491,0.0,0.0,no
+"Charters, Mr. David",male,40-60,1st,S,Nationality_2,,218.84596856612748,0.0,0.0,no
+"Bailey, Mr. Percy",male,20-40,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_17,321512.2199670966,4.70526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_7,3077281.2199670966,4.84636856612749,0.0,0.0,no
+"Charters, Mr. David",female,40-60,1st,C,Nationality_1,,28.826068566127493,0.0,0.0,yes
+"Simpson, Dr. John Edward",female,20-40,3rd,Q,Nationality_18,-20086.780032903403,4.845268566127491,0.0,0.0,no
+"Nichols, Mr. Arthur",female,40-60,1st,C,Nationality_1,,107.8660685661275,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,3077318.2199670966,4.845268566127491,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",male,40-60,3rd,Q,Nationality_18,-17381.780032903403,3.885268566127491,0.0,0.0,no
+"Silvey, Mrs. Alice Gray",male,20-40,1st,S,Nationality_9,,23.74616856612749,0.0,0.0,yes
+"Phillips, Mr. A. George",male,0-20,3rd,Q,Nationality_18,348633.2199670966,4.86596856612749,0.0,0.0,no
+"Farrell, Mr. James",male,0-20,3rd,Q,Nationality_18,323099.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,-16454.780032903403,53.786368566127486,0.0,0.0,yes
+"Burton, Mr. Edward John",female,0-20,3rd,S,Nationality_2,3077294.2199670966,31.76586856612749,2.0,2.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_2,-21363.780032903403,31.76586856612749,2.0,2.0,no
+"Ali, Mr. William",male,20-40,3rd,S,Nationality_2,-21645.780032903403,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,319282.2199670966,31.76586856612749,2.0,2.0,no
+"Dennis, Mr. Samuel",female,40-60,3rd,S,Nationality_24,350757.2199670966,31.76586856612749,1.0,3.0,no
+"Smith, Mr. F.",male,0-20,3rd,S,Nationality_2,358663.2199670966,31.76586856612749,1.0,3.0,no
+"Taylor, Mr. J.",male,20-40,1st,S,Nationality_1,,24.84526856612749,0.0,0.0,no
+"Johansson, Mr. Gustaf Joel",female,20-40,1st,S,Nationality_9,,260.6952685661275,3.0,2.0,yes
+"Andersen-Jensen, Miss. Carla Christine Nielsine",female,20-40,1st,S,Nationality_9,,260.6952685661275,3.0,2.0,yes
+"Farrell, Mr. James",female,20-40,1st,S,Nationality_9,,260.6952685661275,3.0,2.0,yes
+"Ali, Mr. Ahmed",male,0-20,1st,S,Nationality_9,,260.6952685661275,3.0,2.0,no
+"Abbing, Mr. Anthony",male,60-80,1st,S,Nationality_9,,260.6952685661275,1.0,4.0,no
+"Buckley, Mr. Daniel",female,40-60,1st,S,Nationality_9,,260.6952685661275,1.0,4.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,3077273.2199670966,4.845268566127491,0.0,0.0,no
+"Webber, Miss. Susan",male,20-40,2nd,S,Nationality_1,,10.69526856612749,0.0,0.0,no
+"Gallagher, Mr. Martin",female,20-40,1st,C,Nationality_2,,53.87596856612749,0.0,0.0,yes
+"Turner, Mr. George Frederick",male,20-40,1st,S,Nationality_2,,23.80526856612749,0.0,0.0,no
+"Scott, Mr. Archibald",male,40-60,1st,S,Nationality_1,,130.82526856612748,2.0,0.0,yes
+"Cunningham, Mr. Bernard",male,40-60,1st,C,Nationality_1,,24.83576856612749,1.0,0.0,yes
+"Cribb, Miss. Laura Mae",female,40-60,1st,S,Nationality_1,,130.82526856612748,1.0,0.0,yes
+"Williams, Mr. Leslie",female,20-40,1st,C,Nationality_13,,46.79526856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_13,,76.7352685661275,1.0,1.0,yes
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_13,,76.7352685661275,1.0,1.0,yes
+"Hickman, Mr. Lewis",male,20-40,2nd,B,Nationality_2,,,0.0,0.0,no
+"Brown, Mrs. Margaret",male,20-40,1st,S,Nationality_2,,,0.0,0.0,no
+"Brown, Mrs. Margaret",female,20-40,2nd,S,Nationality_20,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_2,,50.71526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_2,,50.71526856612749,1.0,0.0,yes
+"Pålsson, Master. Paul Folke",male,20-40,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Davis, Mr. John",male,20-40,2nd,S,Nationality_2,,18.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,18.69526856612749,1.0,0.0,no
+"Scott, Mr. Archibald",male,20-40,3rd,Q,Nationality_18,326044.2199670966,4.83626856612749,0.0,0.0,no
+"Becker, Master. Richard F.",male,20-40,3rd,S,Nationality_2,339302.2199670966,11.79526856612749,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",female,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Christy, Miss. Rachel Juli Cohen",male,0-20,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Adams, Mr. John",male,20-40,2nd,S,Nationality_14,,7.79526856612749,0.0,0.0,no
+"Carr, Miss. Jane",male,40-60,1st,S,Nationality_2,,35.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,C,Nationality_1,-21844.780032903403,4.735968566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,321779.2199670966,4.735868566127492,0.0,0.0,no
+"Kelly, Miss. Mary",male,,3rd,C,Nationality_12,321780.2199670966,4.866368566127491,0.0,0.0,no
+"Buckley, Miss. Katherine",female,20-40,1st,C,Nationality_1,,56.77526856612749,0.0,1.0,yes
+"Turner, Mr. George Frederick",female,40-60,1st,C,Nationality_1,,56.77526856612749,0.0,1.0,yes
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_17,,208.79526856612748,0.0,0.0,yes
+"Ryan, Mr. Edward",male,20-40,1st,C,Nationality_17,,76.7352685661275,0.0,0.0,no
+"Head, Mr. Christopher",male,40-60,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Cunningham, Mr. Bernard",male,0-20,2nd,S,Nationality_2,,8.79526856612749,1.0,0.0,no
+"Ali, Mr. Ahmed",male,20-40,2nd,S,Nationality_2,,8.79526856612749,1.0,0.0,no
+"Elias, Mr. Joseph jr.",male,20-40,2nd,S,Nationality_2,,10.79526856612749,0.0,0.0,no
+"Guggenheim, Mr. Benjamin",male,20-40,3rd,S,Nationality_21,343243.2199670966,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_18,,10.69526856612749,0.0,0.0,no
+"Scott, Mr. Archibald",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Caram, Mr. Joseph",female,0-20,3rd,Q,Nationality_18,325920.2199670966,4.836068566127491,0.0,0.0,yes
+"Bonnell, Miss. Elizabeth",male,20-40,2nd,S,Nationality_8,,10.69526856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",female,0-20,3rd,Q,Nationality_18,359132.2199670966,4.845268566127491,0.0,0.0,yes
+"Daniels, Miss. Sarah Rebecca",male,40-60,1st,C,Nationality_1,,86.7153685661275,1.0,0.0,yes
+"Hickman, Mr. Lewis",female,20-40,1st,C,Nationality_1,,86.7153685661275,1.0,0.0,yes
+"Guggenheim, Mr. Benjamin",male,60-80,1st,C,Nationality_1,,31.82536856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,3077290.2199670966,17.795868566127492,0.0,2.0,yes
+"Casey, Mr. Thomas",male,20-40,3rd,S,Nationality_2,-21645.780032903403,17.795868566127492,1.0,1.0,no
+"Fortune, Mr. Mark",male,40-60,3rd,S,Nationality_17,341233.2199670966,4.86526856612749,0.0,0.0,no
+"Smith, Mr. F.",female,20-40,3rd,S,Nationality_2,325262.2199670966,17.795868566127492,1.0,1.0,yes
+"Fox, Mr. Patrick",male,0-20,3rd,S,Nationality_2,11863.219967096597,43.87526856612749,5.0,2.0,no
+"Christy, Miss. Rachel Juli Cohen",male,0-20,3rd,S,Nationality_2,-23237.780032903403,43.87526856612749,5.0,2.0,no
+"Hill, Mr. H. P.",male,0-20,3rd,S,Nationality_2,368102.2199670966,43.87526856612749,5.0,2.0,no
+"Goodwin, Miss. Lillian Amy",female,0-20,3rd,S,Nationality_2,358661.2199670966,43.87526856612749,5.0,2.0,no
+"Perry, Mr. Edgar Lionel",female,0-20,3rd,S,Nationality_2,347120.2199670966,43.87526856612749,5.0,2.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,-21645.780032903403,43.87526856612749,5.0,2.0,no
+"Connaughton, Mr. Michael",male,40-60,3rd,S,Nationality_2,323075.2199670966,43.87526856612749,1.0,6.0,no
+"Campbell, Mr. Donald S.",female,40-60,3rd,S,Nationality_2,-21347.780032903403,43.87526856612749,1.0,6.0,no
+"Fortune, Mr. Mark",male,40-60,1st,S,Nationality_1,,25.795268566127493,0.0,0.0,yes
+"Clarke, Mr. Charles Valentine",female,0-20,1st,S,Nationality_2,,150.7855685661275,0.0,0.0,yes
+"Futrelle, Mrs. Lily May",male,20-40,1st,S,Nationality_9,,27.69526856612749,0.0,1.0,no
+"Dwan, Mr. Frank",female,40-60,1st,S,Nationality_2,,150.7855685661275,0.0,1.0,yes
+"Allison, Mr. Hudson Joshua Creighton",male,40-60,2nd,S,Nationality_22,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_1,,60.76546856612749,0.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,1st,C,Nationality_1,,60.76546856612749,0.0,1.0,yes
+"Abbing, Mr. Anthony",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Goodwin, Miss. Lillian Amy",male,40-60,3rd,S,Nationality_2,-22387.780032903403,5.70526856612749,0.0,0.0,no
+"Murphy, Miss. Catherine",male,20-40,3rd,S,Nationality_3,326057.2199670966,5.756768566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,3077326.2199670966,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_4,,76.7352685661275,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_6,-21323.780032903403,6.85636856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,3rd,S,Nationality_6,343242.2199670966,4.87586856612749,2.0,0.0,no
+"Hoyt, Mr. William Fisher",male,20-40,3rd,S,Nationality_6,346388.2199670966,4.87586856612749,2.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_7,291101.2199670966,4.845868566127491,0.0,0.0,no
+"Snow, Mr. Eustace Philip",female,20-40,3rd,S,Nationality_13,326053.2199670966,5.86526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_3,-21320.780032903403,3.885668566127491,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_3,323480.2199670966,3.885668566127491,1.0,0.0,no
+"Hill, Mr. H. P.",male,20-40,3rd,S,Nationality_6,306943.2199670966,12.86526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_6,340509.2199670966,12.86526856612749,1.0,0.0,yes
+"Adams, Mr. John",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Scott, Mr. Archibald",male,0-20,2nd,S,Nationality_1,,11.79526856612749,1.0,1.0,yes
+"Buckley, Mr. Daniel",female,20-40,2nd,S,Nationality_1,,11.79526856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_27,325212.2199670966,6.79526856612749,0.0,0.0,no
+"West, Miss. Barbara Joyce",male,20-40,3rd,C,Nationality_5,345954.2199670966,4.735968566127491,0.0,0.0,yes
+"Partner, Mr. Austin",male,0-20,3rd,C,Nationality_5,339603.2199670966,4.735868566127492,0.0,0.0,no
+"Rice, Master. Eric",male,20-40,3rd,C,Nationality_5,-2814.7800329034035,4.735968566127491,0.0,0.0,no
+"Rice, Master. Eric",male,40-60,3rd,S,Nationality_1,-20652.780032903403,11.715468566127493,2.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_10,-21297.780032903403,4.86536856612749,1.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",male,20-40,3rd,S,Nationality_10,325921.2199670966,4.86536856612749,0.0,0.0,no
+"Brown, Mrs. Margaret",female,40-60,3rd,S,Nationality_1,-20651.780032903403,11.715468566127493,1.0,0.0,yes
+"Barbara, Miss. Saiide",male,40-60,2nd,S,Nationality_1,,10.69526856612749,0.0,0.0,no
+"Charters, Mr. David",male,20-40,1st,C,Nationality_1,,52.77626856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,1st,C,Nationality_1,,52.77626856612749,1.0,0.0,yes
+"Mitchell, Mr. Henry Michael",female,0-20,3rd,Q,Nationality_18,323079.2199670966,4.836068566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_2,-21288.780032903403,4.805268566127491,0.0,0.0,no
+"Keane, Mr. Andrew",female,0-20,2nd,S,Nationality_24,,30.69526856612749,0.0,1.0,yes
+"Lee, Mr. H.",male,40-60,1st,C,Nationality_1,,73.83596856612749,1.0,0.0,yes
+"Ross, Mr. John Hugo",female,40-60,1st,C,Nationality_1,,73.83596856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_24,,30.69526856612749,0.0,1.0,no
+"Shepherd, Mr. Jonathan",male,20-40,1st,S,Nationality_2,,39.77526856612749,0.0,0.0,no
+"Blank, Mr. Henry",male,60-80,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Bourke, Miss. Mary",male,40-60,1st,S,Nationality_1,,80.78586856612749,1.0,0.0,no
+"Schmidt, Mr. Augustus",female,20-40,1st,S,Nationality_1,,80.78586856612749,1.0,0.0,yes
+"Brown, Mrs. Margaret",male,40-60,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_2,,,0.0,0.0,no
+"Rice, Master. Eric",male,20-40,2nd,S,Nationality_2,,,,,no
+"Desvernine, Mr. Louis Gabriel",female,0-20,2nd,S,Nationality_2,,23.745268566127493,0.0,2.0,yes
+"Kink, Miss. Maria",male,40-60,2nd,S,Nationality_2,,23.745268566127493,1.0,1.0,no
+"Collett, Mr. Sidney Clarence Stuart",male,20-40,3rd,Q,Nationality_18,368097.2199670966,3.865468566127491,0.0,0.0,no
+"Taylor, Mr. J.",female,40-60,2nd,S,Nationality_2,,23.745268566127493,1.0,1.0,yes
+"Cox, Mr. William Denton",male,20-40,1st,C,Nationality_32,,73.83596856612749,0.0,0.0,yes
+"Smith, Mr. F.",male,40-60,1st,S,Nationality_2,,27.69526856612749,0.0,0.0,yes
+"Farrell, Mr. James",female,20-40,1st,C,Nationality_1,,80.72546856612749,0.0,0.0,yes
+"Smith, Mr. F.",male,40-60,1st,S,Nationality_9,,90.79526856612748,1.0,1.0,no
+"Beane, Mr. Edward",female,40-60,1st,S,Nationality_9,,90.79526856612748,1.0,1.0,yes
+"Blank, Mr. Henry",male,40-60,1st,S,Nationality_2,,39.79526856612749,0.0,0.0,no
+"Cook, Mr. Jacob",female,20-40,3rd,Q,Nationality_18,13682.219967096597,4.845268566127491,0.0,0.0,yes
+"Cardeza, Mr. Thomas Drake Martinez",male,20-40,3rd,S,Nationality_7,-19987.780032903403,3.8858685661274905,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,323479.2199670966,53.786368566127486,0.0,0.0,yes
+"Long, Mr. Frank",female,0-20,3rd,Q,Nationality_18,3077275.2199670966,3.845268566127491,0.0,0.0,no
+"Laitinen, Miss. Kristina Sofia",female,0-20,3rd,S,Nationality_6,-22133.780032903403,4.87586856612749,0.0,0.0,yes
+"Phillips, Mr. A. George",female,20-40,3rd,S,Nationality_6,-21321.780032903403,4.87586856612749,0.0,0.0,no
+"Holland, Mr. Thomas",female,20-40,3rd,S,Nationality_7,3077287.2199670966,5.885568566127491,0.0,0.0,yes
+"Smith, Mr. F.",male,20-40,3rd,S,Nationality_16,306982.2199670966,4.866368566127491,0.0,0.0,no
+"Goodwin, Miss. Lillian Amy",female,20-40,3rd,S,Nationality_7,343241.2199670966,4.845868566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,-20452.780032903403,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,,62.69526856612749,1.0,2.0,yes
+"Webber, Miss. Susan",female,20-40,2nd,S,Nationality_2,,62.69526856612749,1.0,2.0,yes
+"Charters, Mr. David",male,40-60,2nd,S,Nationality_2,,62.69526856612749,1.0,2.0,no
+"Farrell, Mr. James",female,40-60,2nd,S,Nationality_20,,62.69526856612749,1.0,2.0,yes
+"Knight, Mr. Robert",female,40-60,2nd,S,Nationality_20,,13.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,70.79526856612749,2.0,0.0,no
+"Rogers, Mr. Michael",male,20-40,2nd,S,Nationality_2,,70.79526856612749,2.0,0.0,no
+"Bedford, Mr. William Barnett",male,20-40,2nd,S,Nationality_2,,70.79526856612749,2.0,0.0,no
+"Hardy, Mr. John",male,40-60,1st,S,Nationality_2,,48.865568566127486,0.0,0.0,no
+"Canavan, Mr. Patrick",female,0-20,2nd,S,Nationality_6,,10.69526856612749,1.0,1.0,no
+"Becker, Master. Richard F.",male,40-60,1st,S,Nationality_2,,47.69526856612749,0.0,0.0,no
+"Boyd, Mr. John",female,0-20,1st,C,Nationality_1,,54.88596856612749,0.0,1.0,yes
+"Lee, Mr. H.",female,40-60,1st,C,Nationality_1,,54.88596856612749,0.0,1.0,yes
+"Charters, Mr. David",female,0-20,3rd,S,Nationality_6,41316.21996709659,9.74616856612749,0.0,1.0,yes
+"Williams, Mr. Leslie",female,20-40,3rd,S,Nationality_6,311108.2199670966,9.74616856612749,1.0,1.0,yes
+"Jackson, Mr. Cecil",female,0-20,2nd,S,Nationality_2,,20.69526856612749,2.0,1.0,yes
+"Andrews, Mr. Thomas",male,20-40,2nd,S,Nationality_2,,8.79526856612749,2.0,1.0,no
+"Bourke, Miss. Mary",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"King, Mr. G.",female,40-60,2nd,S,Nationality_2,,20.69526856612749,1.0,3.0,yes
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,40-60,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Drew, Master. Marshall Brines",female,40-60,1st,C,Nationality_1,,74.8854685661275,1.0,0.0,yes
+"Smith, Mr. F.",female,20-40,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,yes
+"Roth, Miss. Sarah",male,40-60,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,no
+"Campbell, Mr. Donald S.",male,40-60,3rd,S,Nationality_7,346382.2199670966,3.7852685661274905,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_3,8313.219967096597,19.79586856612749,0.0,0.0,no
+"Smith, Mr. F.",male,40-60,1st,S,Nationality_1,,49.69526856612749,1.0,0.0,no
+"Haas, Miss. Aloisia",female,20-40,1st,S,Nationality_1,,49.69526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,yes
+"Richards, Mrs. Emily",female,20-40,3rd,S,Nationality_6,358663.2199670966,4.87586856612749,0.0,0.0,yes
+"Lang, Mr. Fang",male,20-40,2nd,S,Nationality_2,,70.79526856612749,0.0,0.0,no
+"Smart, Mr. John Montgomery",male,20-40,3rd,Q,Nationality_17,323081.2199670966,4.845268566127491,0.0,0.0,no
+"Fortune, Mr. Mark",male,40-60,2nd,S,Nationality_33,,10.69526856612749,0.0,0.0,yes
+"Johnson, Mr. August",female,20-40,3rd,S,Nationality_2,325260.2199670966,5.70526856612749,0.0,0.0,yes
+"Connaughton, Mr. Michael",male,60-80,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,no
+"Keane, Mr. Andrew",female,60-80,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,no
+"Becker, Master. Richard F.",male,20-40,1st,S,Nationality_1,,97.6952685661275,1.0,0.0,yes
+"Anderson, Mr. James",female,20-40,1st,S,Nationality_1,,97.6952685661275,1.0,0.0,yes
+"Andersson, Miss. Ellis Anna Maria",male,40-60,1st,C,Nationality_1,,27.82636856612749,0.0,0.0,no
+"Lyons, Mr. William Henry",male,40-60,3rd,S,Nationality_3,340527.2199670966,4.825268566127491,0.0,0.0,no
+"Ali, Mr. William",male,20-40,2nd,S,Nationality_17,,,,,no
+"Partner, Mr. Austin",male,20-40,2nd,S,Nationality_2,,9.74586856612749,0.0,0.0,no
+"Porter, Mr. Walter Chamberlain",male,20-40,3rd,S,Nationality_2,-22387.780032903403,4.86616856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,C,Nationality_17,340860.2199670966,15.84616856612749,0.0,0.0,no
+"Ali, Mr. William",female,0-20,3rd,C,Nationality_34,30647.2199670966,4.735968566127491,0.0,0.0,yes
+"Adams, Mr. John",male,20-40,3rd,C,Nationality_5,321794.2199670966,11.78546856612749,0.0,0.0,no
+"Sullivan, Mr. S.",female,20-40,1st,S,Nationality_17,,77.6952685661275,0.0,0.0,yes
+"Peters, Miss. Catherine",female,0-20,2nd,S,Nationality_14,,7.79526856612749,0.0,0.0,yes
+"Robinson, Mrs. Annie",male,20-40,3rd,S,Nationality_17,3077306.2199670966,4.866368566127491,0.0,0.0,no
+"Desvernine, Mr. Louis Gabriel",female,0-20,3rd,S,Nationality_1,-21328.780032903403,4.87586856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_6,306969.2199670966,4.87586856612749,1.0,0.0,no
+"Sloan, Mr. Peter",female,40-60,1st,C,Nationality_1,,25.83556856612749,0.0,0.0,no
+"Williams, Mr. Leslie",male,40-60,1st,S,Nationality_2,,,0.0,0.0,yes
+"Aks, Mrs. Leah",male,0-20,3rd,S,Nationality_12,-21308.780032903403,4.866368566127491,0.0,0.0,no
+"Richards, Mrs. Emily",female,0-20,3rd,C,Nationality_17,3077279.2199670966,11.78536856612749,1.0,0.0,no
+"Campbell, Mr. Donald S.",female,0-20,3rd,C,Nationality_17,-16053.780032903403,11.78536856612749,1.0,0.0,no
+"Lee, Mr. H.",female,20-40,2nd,S,Nationality_2,,24.69526856612749,2.0,1.0,yes
+"Rice, Master. Albert",male,40-60,2nd,S,Nationality_22,,24.69526856612749,1.0,0.0,no
+"Bell, Mr. Joseph",male,20-40,3rd,C,Nationality_23,326418.2199670966,4.866368566127491,0.0,0.0,yes
+"Reed, Mr. James George",male,20-40,3rd,S,Nationality_7,3077276.2199670966,4.84636856612749,0.0,0.0,yes
+"Kelly, Miss. Mary",male,20-40,3rd,S,Nationality_17,325922.2199670966,4.70526856612749,0.0,0.0,no
+"Lyons, Mr. William Henry",male,40-60,2nd,S,Nationality_21,,12.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,28.795268566127493,2.0,0.0,no
+"Allen, Mr. Frederick",male,20-40,2nd,S,Nationality_2,,28.795268566127493,2.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",male,0-20,3rd,S,Nationality_10,3077305.2199670966,4.86536856612749,0.0,0.0,no
+"Williams, Mr. Leslie",male,40-60,3rd,S,Nationality_10,3077303.2199670966,4.705368566127492,0.0,0.0,no
+"Ross, Mr. John Hugo",male,0-20,3rd,S,Nationality_10,326415.2199670966,4.86536856612749,1.0,0.0,no
+"Wilson, Miss. Helen Alice",female,20-40,3rd,Q,Nationality_18,340523.2199670966,4.845268566127491,0.0,0.0,yes
+"Andrews, Mr. Thomas",female,20-40,2nd,C,Nationality_1,,10.84626856612749,0.0,0.0,yes
+"Moore, Mr. John J.",male,20-40,3rd,S,Nationality_3,343241.2199670966,5.715568566127491,0.0,0.0,yes
+"Charters, Mr. David",male,20-40,3rd,S,Nationality_6,-10956.780032903403,3.7863685661274906,0.0,0.0,no
+"Lam, Mr. Ali",male,20-40,3rd,S,Nationality_7,-21326.780032903403,4.84636856612749,0.0,0.0,no
+"Abelson, Mrs. Hannah",male,20-40,3rd,S,Nationality_7,358663.2199670966,5.825368566127491,0.0,0.0,no
+"Ryan, Mr. Edward",male,20-40,3rd,S,Nationality_1,-19854.780032903403,4.845868566127491,0.0,0.0,no
+"Gordon, Mr. J.",male,20-40,3rd,S,Nationality_1,-19851.780032903403,4.86536856612749,0.0,0.0,no
+"Burton, Mr. Edward John",male,20-40,3rd,S,Nationality_7,-16443.780032903403,4.845868566127491,0.0,0.0,yes
+"Canavan, Mr. Patrick",male,0-20,3rd,S,Nationality_17,368107.2199670966,8.71606856612749,1.0,1.0,yes
+"Cooper, Mr. Harry",female,0-20,3rd,S,Nationality_17,306931.2199670966,8.71606856612749,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_1,325226.2199670966,,,,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,334596.2199670966,4.845868566127491,0.0,0.0,no
+"Brown, Mrs. Margaret",female,20-40,3rd,S,Nationality_17,321776.2199670966,8.71606856612749,0.0,2.0,yes
+"Lee, Mr. H.",male,0-20,3rd,S,Nationality_1,-21368.780032903403,,0.0,0.0,no
+"Nourney, Mr. Alfred",male,0-20,3rd,S,Nationality_2,325245.2199670966,20.78526856612749,1.0,2.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_2,-19855.780032903403,20.78526856612749,1.0,2.0,no
+"Kelly, Miss. Mary",male,20-40,3rd,S,Nationality_24,325920.2199670966,20.78526856612749,1.0,2.0,no
+"Taylor, Mr. J.",female,20-40,3rd,S,Nationality_24,-21645.780032903403,20.78526856612749,1.0,2.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,,23.69526856612749,0.0,0.0,no
+"Brailey, Mr. William Theodore Ronald",male,20-40,3rd,S,Nationality_12,346382.2199670966,4.866368566127491,0.0,0.0,no
+"Brown, Mrs. Margaret",male,20-40,3rd,S,Nationality_7,323088.2199670966,4.86536856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_7,326065.2199670966,4.86536856612749,0.0,0.0,no
+"Casey, Mr. Thomas",male,20-40,3rd,C,Nationality_5,-21289.780032903403,4.735968566127491,0.0,2.0,no
+"Webb, Mr. Brook Holding",male,40-60,1st,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Knight, Mr. Robert",female,0-20,3rd,S,Nationality_6,349461.2199670966,6.85626856612749,1.0,0.0,no
+"Kelly, Miss. Mary",female,20-40,3rd,S,Nationality_6,-21330.780032903403,6.85626856612749,1.0,0.0,no
+"McCaffry, Mr. Thomas Francis",male,20-40,3rd,S,Nationality_6,-3399.7800329034035,4.87586856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_6,3077319.2199670966,4.71586856612749,0.0,0.0,no
+"Louch, Mr. Charles",male,20-40,3rd,S,Nationality_3,323071.2199670966,5.77606856612749,0.0,0.0,no
+"Bonnell, Miss. Elizabeth",male,20-40,2nd,S,Nationality_35,,23.69526856612749,1.0,0.0,no
+"Hold, Mr. Stephen",female,20-40,2nd,S,Nationality_35,,23.69526856612749,1.0,0.0,yes
+"Small, Mr. William",male,20-40,3rd,S,Nationality_16,3077325.2199670966,4.866368566127491,0.0,0.0,no
+"Walker, Mr. William Anderson",male,20-40,3rd,S,Nationality_7,289002.2199670966,4.84636856612749,0.0,0.0,yes
+"Morrow, Mr. Thomas Rowan",male,20-40,3rd,S,Nationality_7,325921.2199670966,4.86536856612749,0.0,0.0,no
+"Canavan, Mr. Patrick",male,20-40,3rd,S,Nationality_7,340857.2199670966,4.7957685661274905,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",female,20-40,2nd,S,Nationality_1,,18.69526856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",female,0-20,3rd,C,Nationality_36,-17380.780032903403,10.77566856612749,0.0,1.0,yes
+"Gallagher, Mr. Martin",male,20-40,3rd,C,Nationality_1,-21289.780032903403,10.77566856612749,0.0,1.0,yes
+"Goodwin, Miss. Lillian Amy",male,0-20,3rd,C,Nationality_37,325248.2199670966,4.735968566127491,0.0,0.0,no
+"Rice, Master. Eric",female,40-60,2nd,Q,Nationality_18,,9.76526856612749,0.0,0.0,yes
+"Hold, Mr. Stephen",male,20-40,3rd,Q,Nationality_18,291107.2199670966,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,Q,Nationality_18,,9.76526856612749,0.0,0.0,no
+"Sloan, Miss. Mary",male,20-40,3rd,S,Nationality_1,289004.2199670966,4.745268566127491,0.0,0.0,no
+"Brown, Mrs. Margaret",male,20-40,1st,S,Nationality_2,,208.79526856612748,0.0,0.0,no
+"Campbell, Mr. Donald S.",female,0-20,3rd,Q,Nationality_18,325267.2199670966,4.845268566127491,0.0,0.0,yes
+"Douglas, Mrs. Mahala",female,20-40,3rd,Q,Nationality_18,325255.2199670966,4.845268566127491,0.0,0.0,yes
+"Cornblatt, Mr. Harris",male,0-20,3rd,S,Nationality_24,306979.2199670966,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,Q,Nationality_18,339302.2199670966,4.8559685661274905,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",female,40-60,2nd,S,Nationality_2,,10.79526856612749,0.0,0.0,yes
+"Smith, Mr. F.",male,20-40,3rd,Q,Nationality_18,323089.2199670966,4.845268566127491,0.0,0.0,yes
+"Connaughton, Mr. Michael",male,40-60,1st,C,Nationality_1,,26.835268566127493,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,,48.865568566127486,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_1,,48.865568566127486,1.0,0.0,yes
+"Matthews, Mr. William John",male,20-40,3rd,C,Nationality_5,-21364.780032903403,11.78536856612749,1.0,0.0,no
+"Farrell, Mr. James",female,0-20,3rd,C,Nationality_5,340511.2199670966,11.78536856612749,1.0,0.0,no
+"Black, Mr. D.",male,20-40,3rd,Q,Nationality_18,-19855.780032903403,4.845268566127491,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,323477.2199670966,4.845268566127491,1.0,0.0,no
+"Franklin, Mr. Alan Vincent",male,20-40,3rd,Q,Nationality_18,368101.2199670966,4.8361685661274905,0.0,0.0,no
+"Connaughton, Mr. Michael",male,40-60,1st,S,Nationality_1,,49.80536856612749,1.0,0.0,yes
+"Kink, Miss. Maria",female,40-60,1st,S,Nationality_1,,49.80536856612749,1.0,0.0,yes
+"Futrelle, Mr. Jacques Heath",female,0-20,3rd,S,Nationality_13,291164.2199670966,19.69526856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_13,319287.2199670966,19.69526856612749,1.0,1.0,yes
+"Gregory, Mr. David",female,20-40,3rd,S,Nationality_13,323088.2199670966,5.82556856612749,2.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,S,Nationality_13,-17776.780032903403,19.69526856612749,3.0,1.0,yes
+"Adams, Mr. John",male,20-40,3rd,S,Nationality_13,-19409.780032903403,5.82556856612749,2.0,0.0,no
+"Adams, Mr. John",male,40-60,2nd,Q,Nationality_1,,9.76526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,40-60,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,no
+"Moore, Mr. John J.",female,0-20,3rd,S,Nationality_7,-21303.780032903403,9.72606856612749,1.0,1.0,no
+"Johnson, Mr. August",male,0-20,3rd,S,Nationality_7,325920.2199670966,4.86536856612749,1.0,1.0,no
+"Brown, Mrs. Margaret",female,20-40,3rd,S,Nationality_7,291097.2199670966,9.72606856612749,0.0,2.0,no
+"Morgan, Mr. Thomas A.",male,40-60,2nd,B,Nationality_11,,,0.0,0.0,no
+"Ward, Mr. Arthur",male,,3rd,C,Nationality_12,-21844.780032903403,4.866368566127491,0.0,0.0,no
+"Buckley, Mr. Daniel",male,20-40,3rd,C,Nationality_38,325225.2199670966,4.735968566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_17,,208.75616856612749,0.0,0.0,yes
+"Knight, Mr. Robert",male,20-40,2nd,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_24,3077300.2199670966,4.805268566127491,0.0,0.0,no
+"Ali, Mr. William",male,20-40,2nd,S,Nationality_7,,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,323100.2199670966,4.735868566127492,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_1,,23.69526856612749,1.0,1.0,no
+"Andrews, Mr. Thomas",female,20-40,2nd,S,Nationality_1,,23.69526856612749,1.0,1.0,no
+"McCarthy, Mr. Timothy J.",female,20-40,3rd,S,Nationality_6,3077316.2199670966,6.806168566127491,0.0,0.0,no
+"Schmidt, Mr. Augustus",male,20-40,2nd,Q,Nationality_18,,7.83546856612749,0.0,0.0,no
+"Campbell, Mr. Donald S.",male,20-40,3rd,S,Nationality_39,347373.2199670966,53.786368566127486,0.0,0.0,yes
+"Adams, Mr. John",male,20-40,3rd,S,Nationality_17,321781.2199670966,53.786368566127486,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_7,321792.2199670966,4.745268566127491,0.0,0.0,yes
+"Parker, Mr. Clifford Richard",male,0-20,3rd,Q,Nationality_18,-21299.780032903403,4.845268566127491,0.0,0.0,no
+"Bonnell, Miss. Elizabeth",male,20-40,3rd,S,Nationality_17,325224.2199670966,53.786368566127486,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,0-20,2nd,C,Nationality_4,,38.80596856612749,1.0,2.0,yes
+"Connaughton, Mr. Michael",female,0-20,2nd,C,Nationality_4,,38.80596856612749,1.0,2.0,yes
+"Isham, Miss. Ann Elizabeth",male,20-40,2nd,C,Nationality_4,,38.80596856612749,1.0,2.0,no
+"McCarthy, Mr. Timothy J.",female,20-40,2nd,C,Nationality_4,,38.80596856612749,1.0,2.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,323099.2199670966,6.78606856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_7,340867.2199670966,4.845868566127491,0.0,0.0,no
+"Parker, Mr. Clifford Richard",male,20-40,3rd,S,Nationality_7,346387.2199670966,4.845868566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,S,Nationality_1,,22.875968566127494,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_17,323754.2199670966,22.78566856612749,3.0,1.0,no
+"Williams, Mr. Leslie",female,0-20,3rd,S,Nationality_17,-21326.780032903403,22.78566856612749,3.0,1.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_17,3077302.2199670966,22.78566856612749,3.0,1.0,no
+"Guggenheim, Mr. Benjamin",female,0-20,3rd,S,Nationality_17,-20753.780032903403,22.78566856612749,3.0,1.0,no
+"Connaughton, Mr. Michael",female,20-40,3rd,S,Nationality_17,-9677.780032903403,22.78566856612749,0.0,4.0,no
+"Abbing, Mr. Anthony",female,0-20,2nd,C,Nationality_13,,9.69526856612749,0.0,0.0,yes
+"Sadlier, Mr. Matthew",male,20-40,3rd,S,Nationality_6,41315.21996709659,4.87586856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,20-40,2nd,S,Nationality_24,,30.69526856612749,0.0,0.0,yes
+"Allen, Mr. William Henry",female,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Williams, Mr. Leslie",female,0-20,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,no
+"Radeff, Mr. Alexander",male,0-20,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,no
+"Farrell, Mr. James",female,20-40,1st,C,Nationality_4,,103.7758685661275,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_2,,21.725268566127493,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,1st,C,Nationality_17,,509.7559685661275,0.0,0.0,yes
+"Shannon, Mr. Andrew John",male,20-40,2nd,S,Nationality_9,,9.86586856612749,0.0,0.0,no
+"Minahan, Miss. Daisy E.",male,20-40,1st,C,Nationality_1,,24.83576856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Jones, Mr. Charles Cresson",female,20-40,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,no
+"Scott, Mr. Archibald",female,40-60,3rd,S,Nationality_2,,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_7,,23.80526856612749,0.0,0.0,no
+"Lyons, Mr. William Henry",male,20-40,3rd,S,Nationality_7,,12.80526856612749,1.0,0.0,no
+"Carr, Miss. Jane",female,20-40,3rd,S,Nationality_7,,12.80526856612749,1.0,0.0,no
+"Veström, Miss. Hulda Amanda Adolfina",male,0-20,3rd,S,Nationality_6,,4.87586856612749,1.0,0.0,yes
+"Elliott, Mr. Everett Edward",female,40-60,1st,C,Nationality_7,,24.83576856612749,0.0,0.0,yes
+"Charters, Mr. David",male,20-40,3rd,Q,Nationality_18,,4.86596856612749,0.0,0.0,no
+"Brown, Mrs. Margaret",female,0-20,1st,C,Nationality_4,,36.77526856612749,0.0,1.0,yes
+"Dodge, Dr. Washington",female,40-60,1st,C,Nationality_1,,36.77526856612749,0.0,1.0,yes
+"Phillips, Mr. A. George",male,60-80,2nd,Q,Nationality_18,,9.76526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,3rd,S,Nationality_17,,53.786368566127486,0.0,0.0,no
+"Farrell, Mr. James",male,20-40,3rd,S,Nationality_40,,6.79526856612749,0.0,0.0,no
+"Carter, Mrs. Lilian",male,20-40,3rd,S,Nationality_41,,4.745268566127491,0.0,0.0,no
+"McIntyre, Mr. William",female,20-40,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,no
+"Bowen, Miss. Grace Scott",male,20-40,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,no
+"Brown, Mrs. Margaret",male,0-20,3rd,S,Nationality_2,,4.86596856612749,0.0,0.0,no
+"Silverthorne, Mr. Spencer Victor",female,20-40,1st,C,Nationality_1,,74.8854685661275,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_1,,27.69526856612749,0.0,0.0,no
+"Hartley, Mr. Wallace Henry",male,20-40,1st,S,Nationality_1,,42.79526856612749,0.0,0.0,no
+"Moore, Mr. John J.",male,40-60,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,no
+"Johnson, Mr. August",female,40-60,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,yes
+"Taylor, Mr. J.",male,0-20,3rd,S,Nationality_2,,4.745268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_23,,5.82556856612749,0.0,0.0,yes
+"Charters, Mr. David",male,40-60,3rd,S,Nationality_7,,4.705368566127492,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_1,,4.86536856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_7,,4.80596856612749,0.0,0.0,yes
+"Lee, Mr. H.",female,40-60,1st,C,Nationality_4,,143.7957685661275,0.0,0.0,yes
+"Dodge, Dr. Washington",male,20-40,3rd,C,Nationality_37,,3.7761685661274895,0.0,0.0,no
+"Charters, Mr. David",male,40-60,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Webber, Miss. Susan",male,0-20,3rd,S,Nationality_24,,4.805268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Brady, Mr. John Bertram",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,yes
+"Taylor, Mr. J.",female,0-20,1st,S,Nationality_1,,208.75616856612749,0.0,1.0,yes
+"Williams, Mr. Leslie",male,20-40,3rd,S,Nationality_3,,4.716268566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_6,,4.71586856612749,0.0,0.0,no
+"Boyd, Mr. John",male,20-40,1st,S,Nationality_1,,23.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,Q,Nationality_18,,4.86596856612749,0.0,0.0,no
+"Head, Mr. Christopher",female,0-20,1st,S,Nationality_2,,83.79526856612749,0.0,0.0,yes
+"Cribb, Miss. Laura Mae",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,no
+"Clark, Mr. William",male,20-40,2nd,C,Nationality_4,,12.69526856612749,0.0,0.0,no
+"Hill, Mr. H. P.",male,0-20,2nd,C,Nationality_4,,34.69526856612749,0.0,2.0,yes
+"Smith, Mr. F.",male,40-60,2nd,C,Nationality_4,,34.69526856612749,1.0,1.0,no
+"Young, Miss. Marie Grice",female,20-40,2nd,C,Nationality_4,,34.69526856612749,1.0,1.0,yes
+"Davis, Mr. John",male,0-20,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,yes
+"Smith, Mr. F.",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Charters, Mr. David",male,20-40,2nd,C,Nationality_1,,12.80596856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,20-40,3rd,Q,Nationality_18,,4.8361685661274905,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_38,,4.735968566127491,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,1st,C,Nationality_4,,26.835268566127493,0.0,0.0,yes
+"Chapman, Mrs. Sara Elizabeth",male,20-40,3rd,S,Nationality_42,,4.866368566127491,0.0,0.0,no
+"Carter, Master. William Thornton II",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_36,,4.866368566127491,0.0,0.0,no
+"Shepherd, Mr. Jonathan",male,0-20,1st,S,Nationality_1,,50.71526856612749,1.0,0.0,no
+"Ford, Mr. H.",female,0-20,1st,S,Nationality_24,,50.71526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Harper, Mrs. Myra Raymond",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Sadlier, Mr. Matthew",male,20-40,2nd,S,Nationality_2,,13.69526856612749,0.0,0.0,no
+"Johnson, Mr. August",female,20-40,1st,C,Nationality_27,,46.795368566127486,0.0,0.0,yes
+"Boyd, Mr. John",male,40-60,1st,S,Nationality_9,,72.73626856612749,0.0,0.0,no
+"Davis, Mr. John",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,yes
+"Chip, Mr. Chang",male,40-60,1st,S,Nationality_1,,48.865568566127486,0.0,0.0,no
+"Humphreys, Mr. Humphrey",male,0-20,3rd,Q,Nationality_1,,4.845268566127491,0.0,0.0,yes
+"Curtis, Mr. Arthur",female,20-40,3rd,Q,Nationality_18,,20.745268566127493,2.0,0.0,yes
+"Bonnell, Miss. Elizabeth",female,20-40,3rd,Q,Nationality_18,,20.745268566127493,2.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,,20.745268566127493,2.0,0.0,yes
+"Pålsson, Master. Paul Folke",male,20-40,2nd,S,Nationality_29,,10.79526856612749,0.0,0.0,no
+"Estanislau, Mr. Manuel Gonçalves",male,20-40,2nd,S,Nationality_9,,10.69526856612749,0.0,0.0,no
+"Gallagher, Mr. Martin",female,20-40,3rd,Q,Nationality_18,,4.8460685661274905,0.0,0.0,yes
+"Connaughton, Mr. Michael",male,0-20,3rd,Q,Nationality_18,,12.79526856612749,0.0,0.0,no
+"Bonnell, Miss. Elizabeth",male,20-40,1st,S,Nationality_18,,23.74616856612749,0.0,0.0,yes
+"Allen, Mr. Frederick",female,20-40,3rd,Q,Nationality_18,,4.86596856612749,0.0,0.0,yes
+"Hold, Mr. Stephen",female,0-20,3rd,Q,Nationality_1,,5.69526856612749,0.0,0.0,yes
+"Barry, Miss. Julia",female,40-60,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Adams, Mr. John",male,40-60,2nd,S,Nationality_14,,23.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Buckley, Miss. Katherine",male,20-40,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,no
+"Fry, Mr. Richard",female,0-20,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,no
+"Theobald, Mr. Thomas Leonard",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Smith, Mr. F.",female,60-80,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Bishop, Mrs. Helen",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Johnson, Mr. August",female,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"White, Mrs. Ella",female,0-20,2nd,S,Nationality_2,,16.795268566127493,0.0,1.0,yes
+"Adams, Mr. John",female,40-60,2nd,S,Nationality_2,,16.795268566127493,0.0,1.0,yes
+"Davis, Mr. John",male,0-20,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Behr, Mr. Karl Howell",male,40-60,3rd,S,Nationality_19,,5.70526856612749,0.0,0.0,no
+"Adams, Mr. John",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Hämäläinen, Mrs. Anna",male,20-40,1st,C,Nationality_1,,79.7257685661275,1.0,0.0,no
+"Black, Mr. D.",female,20-40,1st,C,Nationality_1,,79.7257685661275,1.0,0.0,yes
+"Roberts, Mr. Hugh H.",male,20-40,3rd,S,Nationality_3,,4.845868566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Smith, Mr. F.",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",male,60-80,1st,C,Nationality_1,,23.80526856612749,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",male,40-60,2nd,S,Nationality_10,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,Q,Nationality_1,,87.6952685661275,2.0,0.0,no
+"Smith, Mr. F.",female,20-40,1st,Q,Nationality_1,,87.6952685661275,1.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,1st,Q,Nationality_1,,87.6952685661275,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"McGovern, Ms. Mary",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Kink, Miss. Maria",male,60-80,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,,4.86596856612749,0.0,0.0,yes
+"Scott, Mr. Archibald",male,20-40,1st,C,Nationality_1,,54.84526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_3,,4.825268566127491,0.0,0.0,no
+"Webber, Miss. Susan",male,40-60,1st,S,Nationality_9,,27.795268566127493,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Becker, Master. Richard F.",male,40-60,1st,S,Nationality_1,,39.77526856612749,0.0,0.0,no
+"Donohoe, Miss. Bridget",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Bride, Mr. Harold Sydney",male,0-20,3rd,S,Nationality_17,,9.78586856612749,0.0,1.0,yes
+"Charters, Mr. David",female,20-40,3rd,S,Nationality_17,,9.78586856612749,0.0,1.0,yes
+"Curtis, Mr. Arthur",female,20-40,3rd,Q,Nationality_18,,21.725268566127493,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,,21.725268566127493,1.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,2nd,S,Nationality_1,,11.69526856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",male,20-40,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Sullivan, Mr. S.",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Smith, Mr. F.",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Carter, Mrs. Lilian",male,20-40,3rd,S,Nationality_3,,4.845868566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,yes
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,0-20,3rd,C,Nationality_5,,12.73636856612749,1.0,1.0,yes
+"Smith, Mr. F.",male,0-20,3rd,C,Nationality_5,,12.73636856612749,1.0,1.0,yes
+"Gordon, Mr. J.",female,20-40,3rd,C,Nationality_5,,12.73636856612749,0.0,2.0,yes
+"Young, Mr. Francis James",male,0-20,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Bochatay, Mr. Alexis Joseph",female,20-40,3rd,Q,Nationality_18,,4.836068566127491,0.0,0.0,yes
+"Parrish, Mrs. Lutie Davis",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,yes
+"Hansen, Mr. Claus Peter",female,20-40,3rd,Q,Nationality_18,,12.79526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,yes
+"Oliver, Mr. H.",male,0-20,3rd,S,Nationality_7,,4.845268566127491,0.0,0.0,no
+"Willer, Mr. Aaron",male,60-80,2nd,Q,Nationality_18,,6.826168566127491,0.0,0.0,no
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Goldsmith, Mr. Nathan",female,0-20,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,yes
+"Lee, Mr. H.",male,0-20,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Jackson, Mr. Cecil",female,0-20,3rd,C,Nationality_5,,12.83626856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,,12.83626856612749,1.0,1.0,yes
+"West, Miss. Barbara Joyce",female,0-20,3rd,C,Nationality_5,,12.83626856612749,1.0,1.0,yes
+"Pålsson, Master. Paul Folke",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Lindsay, Mr. William Charles",male,0-20,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"McCarthy, Mr. Timothy J.",male,20-40,2nd,C,Nationality_1,,27.70576856612749,1.0,0.0,no
+"White, Mrs. Ella",female,0-20,2nd,C,Nationality_5,,27.70576856612749,1.0,0.0,yes
+"Bessette, Miss. Nellie Mayo",male,0-20,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Veström, Miss. Hulda Amanda Adolfina",male,20-40,1st,C,Nationality_1,,26.835268566127493,0.0,1.0,no
+"Frauenthal, Mr. Isaac Gerald",female,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Sirota, Mr. Morris",male,0-20,2nd,S,Nationality_4,,23.69526856612749,1.0,1.0,yes
+"Payne, Mr. Vivian Ponsonby",male,0-20,2nd,S,Nationality_4,,23.69526856612749,1.0,1.0,yes
+"Morgan, Mr. Thomas A.",male,20-40,2nd,S,Nationality_43,,23.69526856612749,0.0,2.0,no
+"Sadlier, Mr. Matthew",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Campbell, Mr. Donald S.",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,C,Nationality_1,,110.7458685661275,1.0,0.0,yes
+"Cardeza, Mr. Thomas Drake Martinez",female,20-40,1st,C,Nationality_1,,110.7458685661275,1.0,0.0,yes
+"Adams, Mr. John",male,40-60,1st,C,Nationality_1,,110.7458685661275,0.0,2.0,no
+"Cribb, Miss. Laura Mae",female,0-20,1st,S,Nationality_1,,23.74606856612749,0.0,2.0,yes
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,33.84526856612749,1.0,1.0,no
+"White, Mrs. Ella",male,40-60,1st,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Hays, Mrs. Clara Jennings",female,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,no
+"Taylor, Mr. J.",male,20-40,3rd,S,Nationality_7,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,yes
+"Archer, Mr. Ernest Edward",female,20-40,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,yes
+"Coleman, Mr. John",male,20-40,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,no
+"Abelson, Mrs. Hannah",male,0-20,3rd,C,Nationality_5,,8.73626856612749,1.0,0.0,yes
+"Richards, Mrs. Emily",female,0-20,3rd,C,Nationality_5,,8.73626856612749,1.0,0.0,yes
+"Johnson, Mr. August",male,40-60,3rd,S,Nationality_6,,4.71586856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,,4.87586856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,0-20,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Ali, Mr. William",male,20-40,2nd,S,Nationality_24,,10.79526856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",male,20-40,3rd,S,Nationality_2,,4.85526856612749,0.0,0.0,no
+"Fischer, Mr. Eberhard Thelander",male,0-20,1st,C,Nationality_44,,10.86556856612749,0.0,0.0,yes
+"Sadlier, Mr. Matthew",female,20-40,2nd,S,Nationality_1,,7.79526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_7,,4.845268566127491,0.0,0.0,yes
+"O'Connor, Mr. Maurice",male,40-60,3rd,S,Nationality_3,,3.7361685661274895,0.0,0.0,no
+"Knight, Mr. Robert",male,20-40,3rd,Q,Nationality_18,,4.8559685661274905,0.0,0.0,no
+"Buckley, Mr. Daniel",female,20-40,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,yes
+"Cook, Mr. Jacob",male,20-40,3rd,Q,Nationality_18,,12.79526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,Q,Nationality_18,,4.836068566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Reynolds, Mr. Harold",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Lee, Mr. H.",male,20-40,3rd,S,Nationality_7,,6.73586856612749,0.0,0.0,no
+"Ray, Mr. Frederick Dent",female,20-40,3rd,Q,Nationality_18,,4.86596856612749,0.0,0.0,yes
+"Ryan, Mr. Edward",female,20-40,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,yes
+"Burke, Mr. Jeremiah",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,yes
+"Caram, Mr. Joseph",female,0-20,3rd,Q,Nationality_18,,4.8559685661274905,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,1st,C,Nationality_31,,105.8752685661275,0.0,0.0,yes
+"Aks, Mrs. Leah",male,0-20,3rd,S,Nationality_3,,0.7257685661274906,0.0,1.0,yes
+"Smith, Mr. F.",male,20-40,3rd,S,Nationality_3,,19.79586856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_1,,5.77536856612749,0.0,1.0,no
+"Williams, Mr. Leslie",male,20-40,3rd,S,Nationality_3,,4.75556856612749,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",female,20-40,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,no
+"Caram, Mr. Joseph",male,20-40,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,no
+"Keane, Mr. Andrew",male,20-40,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,yes
+"Bonnell, Miss. Elizabeth",male,0-20,3rd,S,Nationality_3,,6.73586856612749,0.0,0.0,no
+"Hickman, Mr. Lewis",male,20-40,1st,C,Nationality_4,,22.83626856612749,0.0,0.0,yes
+"McCarthy, Mr. Timothy J.",female,20-40,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,0-20,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Dean, Mr. George H.",male,0-20,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Ryan, Mr. Edward",male,0-20,3rd,S,Nationality_7,,6.73566856612749,0.0,0.0,no
+"Harper, Mrs. Myra Raymond",female,20-40,1st,S,Nationality_1,,58.88596856612749,0.0,1.0,yes
+"Hämäläinen, Mrs. Anna",male,60-80,1st,S,Nationality_1,,58.88596856612749,0.0,1.0,no
+"Bourke, Mrs. Catherine",female,20-40,3rd,Q,Nationality_18,,4.815968566127491,0.0,0.0,no
+"Smith, Mr. F.",male,20-40,2nd,S,Nationality_1,,10.69526856612749,0.0,0.0,no
+"Shepherd, Mr. Jonathan",male,20-40,1st,C,Nationality_46,,24.83576856612749,0.0,0.0,no
+"Cunningham, Mr. Bernard",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Veström, Miss. Hulda Amanda Adolfina",male,20-40,2nd,C,Nationality_31,,10.86556856612749,0.0,0.0,yes
+"Connaughton, Mr. Michael",male,20-40,2nd,S,Nationality_9,,7.79526856612749,0.0,0.0,no
+"Collins, Mr. John",male,20-40,2nd,C,Nationality_31,,10.86546856612749,0.0,0.0,yes
+"Adams, Mr. John",male,0-20,3rd,S,Nationality_7,,18.70586856612749,3.0,1.0,no
+"Knight, Mr. Robert",male,0-20,3rd,S,Nationality_7,,18.70586856612749,3.0,1.0,no
+"Davis, Mr. John",female,0-20,3rd,S,Nationality_7,,18.70586856612749,3.0,1.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_7,,18.70586856612749,3.0,1.0,no
+"Milling, Mr. Jacob Christian",female,20-40,3rd,S,Nationality_7,,18.70586856612749,0.0,4.0,no
+"Drew, Master. Marshall Brines",male,0-20,3rd,S,Nationality_6,,36.826168566127485,4.0,1.0,no
+"Anderson, Mr. Harry",male,0-20,3rd,S,Nationality_1,,36.826168566127485,4.0,1.0,no
+"Reynolds, Mr. Harold",male,0-20,3rd,S,Nationality_6,,36.826168566127485,4.0,1.0,no
+"Andrews, Mr. Thomas",male,0-20,3rd,S,Nationality_6,,36.826168566127485,4.0,1.0,no
+"Johnson, Mr. August",male,0-20,3rd,S,Nationality_6,,36.826168566127485,4.0,1.0,no
+"Abbing, Mr. Anthony",female,40-60,3rd,S,Nationality_6,,36.826168566127485,0.0,5.0,no
+"Bishop, Mr. Dickinson H.",male,0-20,2nd,S,Nationality_14,,7.79526856612749,0.0,0.0,no
+"Johnson, Mr. August",male,20-40,2nd,B,Nationality_11,,,0.0,0.0,no
+"Campbell, Mr. Donald S.",female,40-60,2nd,S,Nationality_1,,23.69526856612749,0.0,1.0,yes
+"Harris, Mr. Charles William",male,20-40,1st,B,Nationality_2,,,0.0,0.0,no
+"Ryan, Mr. Edward",male,20-40,1st,S,Nationality_2,,25.795268566127493,0.0,0.0,no
+"Kelly, Miss. Mary",male,20-40,3rd,S,Nationality_36,,5.82556856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,,11.79526856612749,0.0,0.0,no
+"Cook, Mr. Jacob",male,20-40,3rd,S,Nationality_45,,4.866368566127491,0.0,0.0,no
+"Hickman, Mr. Lewis",male,20-40,1st,S,Nationality_9,,90.79526856612748,0.0,0.0,no
+"Bonnell, Miss. Elizabeth",male,0-20,3rd,S,Nationality_2,,10.845868566127493,1.0,1.0,no
+"Mason, Mr. J.",female,0-20,3rd,S,Nationality_2,,10.845868566127493,1.0,1.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_2,,10.845868566127493,0.0,2.0,no
+"Rice, Master. Eric",male,20-40,3rd,S,Nationality_2,,4.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_2,,63.81526856612749,1.0,0.0,yes
+"Webber, Miss. Susan",male,20-40,1st,S,Nationality_2,,63.81526856612749,1.0,0.0,no
+"King, Mr. G.",male,20-40,3rd,S,Nationality_3,,4.845868566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Louch, Mr. Charles",male,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",male,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,no
+"Collins, Mr. John",female,20-40,1st,C,Nationality_31,,105.8752685661275,1.0,0.0,yes
+"Goldschmidt, Mr. George B.",male,20-40,1st,C,Nationality_31,,105.8752685661275,1.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Bourke, Miss. Mary",male,20-40,3rd,S,Nationality_2,,4.745268566127491,0.0,0.0,no
+"Graham, Mrs. Edith",male,20-40,2nd,C,Nationality_4,,12.70526856612749,0.0,0.0,no
+"Canavan, Mr. Patrick",female,20-40,1st,S,Nationality_9,,90.79526856612748,0.0,0.0,yes
+"Williamson, Mr. James Bertram",male,20-40,3rd,S,Nationality_7,,4.845868566127491,1.0,0.0,yes
+"Hold, Mr. Stephen",male,40-60,2nd,S,Nationality_44,,10.69526856612749,0.0,0.0,no
+"Taylor, Mr. J.",female,20-40,3rd,S,Nationality_45,,4.866368566127491,0.0,0.0,no
+"Brown, Mrs. Margaret",male,0-20,3rd,C,Nationality_5,,19.76546856612749,1.0,1.0,yes
+"Abbing, Mr. Anthony",female,0-20,3rd,C,Nationality_5,,19.76546856612749,1.0,1.0,yes
+"Harris, Mr. Walter",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,Q,Nationality_18,,5.7161685661274895,0.0,0.0,no
+"Keane, Mr. Andrew",male,0-20,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Knight, Mr. Robert",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,no
+"Canavan, Mr. Patrick",male,20-40,3rd,S,Nationality_7,,4.845868566127491,1.0,0.0,no
+"Hodges, Mr. Henry Price",male,40-60,1st,S,Nationality_9,,27.795268566127493,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,,18.69526856612749,0.0,1.0,yes
+"Connaughton, Mr. Michael",female,0-20,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,2nd,S,Nationality_2,,18.69526856612749,0.0,1.0,no
+"Gregory, Mr. David",male,20-40,3rd,S,Nationality_28,,5.70526856612749,0.0,0.0,yes
+"Rice, Master. Eric",female,20-40,2nd,S,Nationality_28,,10.69526856612749,0.0,0.0,yes
+"Phillips, Mr. A. George",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Curtis, Mr. Arthur",male,0-20,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Morgan, Mr. Thomas A.",male,20-40,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Wright, Miss. Marion",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Dennis, Mr. Samuel",male,20-40,2nd,C,Nationality_1,,9.83616856612749,0.0,0.0,yes
+"Nasser, Mr. Nicholas",male,40-60,1st,S,Nationality_1,,49.69526856612749,0.0,0.0,no
+"Brown, Mrs. Margaret",female,40-60,1st,C,Nationality_1,,80.72546856612749,0.0,1.0,yes
+"Kelly, Miss. Mary",male,20-40,2nd,C,Nationality_1,,12.69526856612749,0.0,0.0,no
+"Louch, Mr. Charles",male,0-20,3rd,C,Nationality_17,,5.83556856612749,0.0,0.0,no
+"Burke, Mr. Jeremiah",female,0-20,2nd,S,Nationality_17,,23.69526856612749,1.0,1.0,yes
+"Charters, Mr. David",female,0-20,2nd,S,Nationality_17,,23.69526856612749,1.0,1.0,yes
+"Dodge, Dr. Washington",female,20-40,2nd,S,Nationality_17,,23.69526856612749,0.0,2.0,yes
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Adams, Mr. John",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Compton, Miss. Sara Rebecca",female,60-80,3rd,S,Nationality_3,,5.715568566127491,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Lane, Mr. Patrick",male,0-20,3rd,S,Nationality_21,,4.745268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Taylor, Mr. J.",male,20-40,3rd,S,Nationality_15,,4.866368566127491,0.0,0.0,no
+"Hämäläinen, Mrs. Anna",male,20-40,2nd,S,Nationality_14,,18.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_14,,18.69526856612749,3.0,0.0,yes
+"Farrell, Mr. James",male,20-40,1st,C,Nationality_47,,,0.0,0.0,no
+"Sägesser, Mlle. Emma",female,20-40,2nd,S,Nationality_31,,10.69526856612749,0.0,0.0,yes
+"Hill, Mr. H. P.",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Chaffee, Mrs. Carrie Constance",male,20-40,1st,C,Nationality_1,,36.815268566127486,0.0,0.0,yes
+"Roberts, Mr. Hugh H.",male,0-20,3rd,Q,Nationality_18,,26.715868566127494,4.0,1.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,Q,Nationality_18,,26.715868566127494,4.0,1.0,no
+"Buckley, Mr. Daniel",male,0-20,3rd,Q,Nationality_18,,26.715868566127494,4.0,1.0,no
+"Lefebvre, Mr. Paul Georges",male,0-20,3rd,Q,Nationality_18,,26.715868566127494,4.0,1.0,no
+"Lee, Mr. H.",male,0-20,3rd,Q,Nationality_18,,26.715868566127494,4.0,1.0,no
+"Palles, Mr. Thomas Henry Michael",female,20-40,3rd,Q,Nationality_18,,26.715868566127494,0.0,5.0,no
+"Miles, Mr. Frank",male,20-40,2nd,C,Nationality_17,,12.69526856612749,0.0,0.0,no
+"Smith, Mr. F.",male,0-20,2nd,S,Nationality_2,,15.845268566127489,1.0,1.0,yes
+"Sadlier, Mr. Matthew",male,0-20,2nd,S,Nationality_2,,15.845268566127489,1.0,1.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,,15.845268566127489,2.0,3.0,yes
+"Keane, Mr. Andrew",female,40-60,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Roth, Miss. Sarah",male,20-40,1st,C,Nationality_17,,132.81606856612748,0.0,0.0,no
+"Dennis, Mr. Samuel",female,20-40,3rd,S,Nationality_6,,36.826168566127485,0.0,0.0,no
+"Fortune, Mr. Mark",male,20-40,3rd,S,Nationality_6,,4.71586856612749,0.0,0.0,no
+"Lee, Mr. H.",female,20-40,3rd,Q,Nationality_18,,4.835768566127491,0.0,0.0,yes
+"Buckley, Mr. Daniel",male,60-80,3rd,S,Nationality_2,,11.79526856612749,0.0,0.0,no
+"Gallagher, Mr. Martin",female,60-80,3rd,S,Nationality_2,,11.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,S,Nationality_1,,208.75616856612749,0.0,1.0,yes
+"Carter, Mrs. Lilian",male,40-60,3rd,S,Nationality_2,,11.79526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,3rd,S,Nationality_2,,11.79526856612749,1.0,0.0,no
+"Adams, Mr. John",male,40-60,1st,C,Nationality_2,,244.79586856612747,0.0,0.0,no
+"Cumings, Mrs. Florence Briggs",male,20-40,1st,S,Nationality_1,,47.786368566127486,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Bradley, Mr. T.",male,20-40,3rd,S,Nationality_21,,5.70526856612749,0.0,0.0,no
+"Goldsmith, Mr. Nathan",male,40-60,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,yes
+"Nasser, Mr. Nicholas",male,40-60,3rd,S,Nationality_3,,4.845868566127491,0.0,0.0,no
+"Jones, Mr. Charles Cresson",male,20-40,1st,S,Nationality_1,,47.69526856612749,0.0,0.0,no
+"Becker, Master. Richard F.",female,0-20,3rd,S,Nationality_6,,17.73556856612749,1.0,1.0,no
+"Abbing, Mr. Anthony",female,40-60,3rd,S,Nationality_6,,17.73556856612749,0.0,2.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_6,,17.73556856612749,1.0,1.0,no
+"Stone, Mr. Edmund",female,20-40,1st,C,Nationality_4,,24.83576856612749,0.0,0.0,yes
+"Guggenheim, Mr. Benjamin",male,40-60,1st,C,Nationality_1,,76.6952685661275,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,S,Nationality_9,,37.71586856612749,0.0,0.0,no
+"Hale, Mr. Reginald",female,20-40,1st,S,Nationality_2,,83.79526856612749,0.0,0.0,yes
+"Gregory, Mr. David",female,20-40,3rd,S,Nationality_40,,5.70526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_1,,56.77526856612749,1.0,0.0,no
+"Cornblatt, Mr. Harris",female,40-60,1st,C,Nationality_1,,56.77526856612749,1.0,0.0,yes
+"Knight, Mr. Robert",male,40-60,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Head, Mr. Christopher",male,40-60,1st,S,Nationality_30,,23.80526856612749,0.0,0.0,no
+"Green, Mr. George",female,20-40,2nd,S,Nationality_14,,7.79526856612749,0.0,0.0,yes
+"Charters, Mr. David",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Anderson, Mr. Harry",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,,21.725268566127493,0.0,0.0,no
+"Brady, Mr. John Bertram",male,0-20,1st,C,Nationality_1,,259.7658685661275,2.0,2.0,yes
+"Freeman, Mr. Ernest Edward Samuel",female,0-20,1st,C,Nationality_1,,259.7658685661275,2.0,2.0,yes
+"Fleming, Miss. Honor",female,20-40,1st,C,Nationality_1,,259.7658685661275,2.0,2.0,yes
+"Abbing, Mr. Anthony",male,60-80,1st,C,Nationality_1,,259.7658685661275,1.0,3.0,no
+"Caram, Mr. Joseph",female,40-60,1st,C,Nationality_1,,259.7658685661275,1.0,3.0,yes
+"McCarthy, Mr. Timothy J.",male,20-40,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Campbell, Mr. Donald S.",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Jones, Mr. Charles Cresson",male,40-60,1st,S,Nationality_2,,27.795268566127493,0.0,0.0,yes
+"Carrau, Mr. Francisco Mauro Severiano",male,0-20,3rd,Q,Nationality_18,,4.835968566127491,0.0,0.0,no
+"Ali, Mr. Ahmed",male,0-20,3rd,S,Nationality_2,,4.806268566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_3,,4.745268566127491,0.0,0.0,no
+"Adams, Mr. John",male,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Johnson, Mr. August",female,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Cornblatt, Mr. Harris",female,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Behr, Mr. Karl Howell",female,20-40,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Mills, Mr. Christopher",male,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Botsford, Mr. William Hull",male,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Adams, Mr. John",male,0-20,3rd,S,Nationality_2,,66.8052685661275,8.0,2.0,no
+"Bourke, Miss. Mary",male,40-60,3rd,S,Nationality_2,,66.8052685661275,1.0,9.0,no
+"Kink, Miss. Maria",female,40-60,3rd,S,Nationality_2,,66.8052685661275,1.0,9.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,C,Nationality_17,,66.7552685661275,0.0,0.0,yes
+"Adams, Mr. John",male,20-40,3rd,S,Nationality_7,,6.755868566127491,0.0,0.0,no
+"Stephenson, Mrs. Martha",female,20-40,3rd,S,Nationality_3,,4.825268566127491,0.0,0.0,yes
+"Brown, Mrs. Margaret",male,40-60,1st,S,Nationality_1,,23.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,,4.87586856612749,0.0,0.0,no
+"Stone, Mr. Edmund",male,0-20,3rd,C,Nationality_5,,18.825968566127493,2.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,,18.825968566127493,2.0,0.0,no
+"Andrews, Mr. Thomas",male,0-20,3rd,C,Nationality_5,,18.825968566127493,2.0,0.0,no
+"Cooper, Mr. Harry",female,0-20,3rd,S,Nationality_7,,13.83526856612749,1.0,1.0,yes
+"Andrews, Mr. Thomas",female,0-20,3rd,S,Nationality_7,,13.83526856612749,1.0,1.0,yes
+"Hill, Mr. H. P.",female,20-40,3rd,S,Nationality_7,,13.83526856612749,0.0,2.0,yes
+"Davis, Mr. Stephen James",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,yes
+"Charters, Mr. David",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Troupiansky, Mr. Moses Aaron",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,Q,Nationality_18,,4.835868566127491,0.0,0.0,no
+"Johnston, Mrs. Eliza",female,20-40,1st,C,Nationality_44,,54.84526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,yes
+"Bourke, Miss. Mary",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Johnson, Mr. August",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Johnson, Mr. August",male,0-20,3rd,C,Nationality_5,,1.6952685661274909,0.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,1st,S,Nationality_17,,28.69526856612749,0.0,0.0,yes
+"Caldwell, Master. Alden Gates",male,20-40,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_18,,,,,no
+"Hill, Mr. H. P.",male,20-40,2nd,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Jones, Mr. Charles Cresson",male,0-20,3rd,C,Nationality_17,,4.735868566127492,0.0,0.0,no
+"Jones, Mr. Charles Cresson",male,40-60,3rd,S,Nationality_2,,12.71526856612749,0.0,0.0,no
+"Brailey, Mr. William Theodore Ronald",female,20-40,2nd,S,Nationality_1,,23.69526856612749,0.0,1.0,yes
+"Caldwell, Master. Alden Gates",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Ali, Mr. William",female,0-20,3rd,Q,Nationality_18,,4.8559685661274905,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Green, Mr. George",female,20-40,1st,S,Nationality_1,,150.7855685661275,0.0,0.0,yes
+"Adams, Mr. John",female,0-20,2nd,S,Nationality_6,,10.69526856612749,0.0,2.0,yes
+"Caram, Mr. Joseph",male,20-40,1st,S,Nationality_1,,23.74616856612749,0.0,0.0,yes
+"Smith, Mr. F.",female,20-40,1st,C,Nationality_1,,52.87526856612749,1.0,0.0,yes
+"Connaughton, Mr. Michael",male,40-60,1st,C,Nationality_1,,52.87526856612749,1.0,0.0,no
+"Guggenheim, Mr. Benjamin",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Hickman, Mr. Lewis",male,40-60,1st,S,Nationality_13,,32.79526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,0-20,2nd,S,Nationality_2,,33.84526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_6,,10.69526856612749,0.0,0.0,yes
+"Bennett, Mrs. Mabel",male,20-40,3rd,C,Nationality_38,,4.735968566127491,0.0,0.0,no
+"Adams, Mr. John",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Cook, Mr. Jacob",male,20-40,3rd,S,Nationality_15,,4.866368566127491,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_1,,4.87586856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,0-20,3rd,S,Nationality_6,,3.7863685661274906,0.0,0.0,yes
+"Lee, Mr. H.",male,40-60,2nd,S,Nationality_7,,10.79526856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",male,0-20,3rd,S,Nationality_1,,24.87526856612749,3.0,2.0,no
+"Clark, Mr. Walter Miller",male,0-20,3rd,S,Nationality_1,,24.87526856612749,3.0,2.0,no
+"Abbing, Mr. Anthony",female,0-20,3rd,S,Nationality_1,,24.87526856612749,3.0,2.0,no
+"Campbell, Mr. Donald S.",female,0-20,3rd,S,Nationality_1,,24.87526856612749,3.0,2.0,no
+"Augustsson, Mr. Albert",female,40-60,3rd,S,Nationality_7,,24.87526856612749,1.0,4.0,no
+"Hill, Mr. H. P.",male,20-40,3rd,S,Nationality_7,,24.87526856612749,1.0,4.0,no
+"Taylor, Mr. J.",male,40-60,3rd,S,Nationality_17,,4.866368566127491,0.0,0.0,no
+"Johnson, Mr. August",female,20-40,2nd,Q,Nationality_9,,9.76526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Graham, Mrs. Edith",male,20-40,1st,S,Nationality_1,,32.79526856612749,0.0,0.0,yes
+"Allison, Mr. Hudson Joshua Creighton",male,40-60,1st,S,Nationality_2,,23.80526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"Lee, Mr. H.",female,40-60,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Howard, Mr. Benjamin",male,40-60,1st,C,Nationality_4,,27.82636856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,1st,C,Nationality_1,,57.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_2,,23.69526856612749,0.0,0.0,no
+"Williams, Mr. Leslie",female,0-20,1st,C,Nationality_1,,57.69526856612749,1.0,0.0,yes
+"Hughes, Mr. William Thomas",female,0-20,3rd,Q,Nationality_18,,4.836068566127491,0.0,0.0,yes
+"Blake, Mr. Seaton",male,20-40,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Woodward, Mr. John Wesley",male,20-40,1st,S,Nationality_1,,79.74566856612749,1.0,0.0,yes
+"Veström, Miss. Hulda Amanda Adolfina",female,20-40,1st,S,Nationality_1,,79.74566856612749,1.0,0.0,yes
+"Smith, Mr. F.",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_3,,4.825268566127491,0.0,0.0,no
+"Simpson, Dr. John Edward",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Carter, Mrs. Lilian",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Mason, Mr. J.",male,0-20,1st,C,Nationality_1,,131.79526856612748,0.0,2.0,yes
+"Lucas, Mr. William Arthur",male,40-60,1st,C,Nationality_1,,131.79526856612748,1.0,1.0,yes
+"Cardeza, Mr. Thomas Drake Martinez",female,20-40,1st,C,Nationality_1,,131.79526856612748,1.0,1.0,yes
+"Sullivan, Mr. S.",female,40-60,1st,C,Nationality_1,,143.7957685661275,1.0,0.0,yes
+"Barbara, Miss. Saiide",male,40-60,1st,C,Nationality_1,,143.7957685661275,1.0,0.0,no
+"Bourke, Miss. Mary",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Bourke, Miss. Mary",male,20-40,1st,S,Nationality_13,,27.795268566127493,0.0,0.0,yes
+"Robins, Mr. Victor",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Small, Mr. William",male,20-40,3rd,C,Nationality_45,,5.826168566127491,0.0,0.0,no
+"Radeff, Mr. Alexander",female,20-40,3rd,S,Nationality_2,,4.805268566127491,0.0,0.0,yes
+"Wood, Mr. Henry",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Smith, Mr. F.",male,40-60,2nd,C,Nationality_1,,12.69526856612749,0.0,0.0,no
+"Kimball, Mr. Edwin Nelson Jr.",male,60-80,1st,S,Nationality_2,,23.80526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_1,,52.77626856612749,1.0,0.0,yes
+"Goodwin, Miss. Lillian Amy",female,40-60,1st,C,Nationality_18,,52.77626856612749,1.0,0.0,yes
+"Goodwin, Mrs. Augusta",female,40-60,1st,C,Nationality_1,,75.74566856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,60-80,1st,C,Nationality_1,,24.83576856612749,0.0,0.0,no
+"Brown, Mrs. Margaret",male,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Davis, Mr. John",female,60-80,1st,S,Nationality_1,,77.6952685661275,0.0,0.0,yes
+"Brown, Mrs. Margaret",male,40-60,3rd,S,Nationality_2,,,0.0,0.0,no
+"Connaughton, Mr. Michael",male,0-20,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Christy, Miss. Rachel Juli Cohen",female,20-40,3rd,S,Nationality_6,,6.85616856612749,0.0,0.0,no
+"Goldschmidt, Mr. George B.",male,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,yes
+"Butler, Mr. Reginald Fenton",male,60-80,1st,S,Nationality_1,,218.84596856612748,1.0,0.0,no
+"Long, Mr. Frank",female,60-80,1st,S,Nationality_44,,218.84596856612748,1.0,0.0,no
+"Roth, Miss. Sarah",male,20-40,3rd,S,Nationality_45,,5.82556856612749,0.0,0.0,no
+"King, Mr. G.",female,0-20,3rd,S,Nationality_1,,7.785568566127489,0.0,1.0,no
+"Van Impe, Mrs. Rosalie Paula",female,20-40,3rd,S,Nationality_7,,7.785568566127489,1.0,1.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,yes
+"Smith, Mr. F.",male,20-40,3rd,S,Nationality_2,,4.70526856612749,0.0,0.0,no
+"Campbell, Mr. Donald S.",male,60-80,1st,S,Nationality_2,,29.75576856612749,0.0,0.0,no
+"Wright, Miss. Marion",male,60-80,3rd,S,Nationality_7,,4.845868566127491,0.0,0.0,no
+"Anderson, Mr. Harry",male,0-20,3rd,S,Nationality_7,,6.73586856612749,0.0,0.0,yes
+"Baxter, Mr. Thomas Ferguson",male,20-40,3rd,S,Nationality_7,,4.84636856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,0-20,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Caram, Mr. Joseph",male,0-20,2nd,S,Nationality_2,,62.69526856612749,0.0,0.0,no
+"Bourke, Mrs. Catherine",female,40-60,1st,S,Nationality_1,,22.875968566127494,0.0,0.0,yes
+"Harper, Mrs. Myra Raymond",male,0-20,3rd,C,Nationality_5,,5.795668566127491,0.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,C,Nationality_5,,3.7761685661274895,1.0,0.0,no
+"Ali, Mr. William",female,0-20,3rd,C,Nationality_5,,5.795668566127491,1.0,1.0,yes
+"Andrews, Mr. Thomas",female,0-20,1st,S,Nationality_1,,76.82526856612749,0.0,2.0,yes
+"Bochatay, Mr. Alexis Joseph",male,40-60,1st,S,Nationality_1,,76.82526856612749,1.0,1.0,no
+"Nasser, Mr. Nicholas",female,20-40,1st,S,Nationality_1,,76.82526856612749,1.0,1.0,yes
+"Williams, Mr. Leslie",male,40-60,1st,S,Nationality_1,,49.69526856612749,1.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_2,,,,,no
+"Head, Mr. Christopher",female,40-60,1st,S,Nationality_1,,49.69526856612749,1.0,0.0,yes
+"Williams, Mr. Leslie",male,20-40,3rd,S,Nationality_7,,4.84636856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,C,Nationality_1,,107.8660685661275,1.0,1.0,no
+"Hickman, Mr. Lewis",male,0-20,1st,C,Nationality_1,,107.8660685661275,0.0,2.0,yes
+"Beane, Mr. Edward",female,20-40,1st,C,Nationality_1,,107.8660685661275,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Gregory, Mr. David",male,20-40,3rd,C,Nationality_17,,3.7761685661274895,0.0,0.0,no
+"Morgan, Mr. Thomas A.",male,0-20,3rd,C,Nationality_17,,4.735868566127492,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_24,,5.70526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,20-40,1st,C,Nationality_1,,77.6952685661275,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_2,,13.71526856612749,1.0,0.0,yes
+"Allison, Master. Hudson Trevor",male,20-40,3rd,S,Nationality_6,,4.87586856612749,0.0,0.0,no
+"Nasser, Mr. Nicholas",male,0-20,3rd,Q,Nationality_18,,4.845268566127491,0.0,0.0,no
+"Connaughton, Mr. Michael",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Cardeza, Mr. Thomas Drake Martinez",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Allison, Mr. Hudson Joshua Creighton",female,40-60,2nd,S,Nationality_18,,7.79526856612749,0.0,0.0,yes
+"Clark, Mr. Walter Miller",male,40-60,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Johnson, Mr. August",male,0-20,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Clark, Mr. Walter Miller",male,20-40,3rd,S,Nationality_7,,,0.0,0.0,yes
+"Jones, Mr. Charles Cresson",male,20-40,3rd,S,Nationality_12,,4.866368566127491,0.0,0.0,no
+"Adams, Mr. John",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,no
+"Fletcher, Mr. Percy William",female,20-40,2nd,S,Nationality_24,,9.825268566127493,0.0,0.0,yes
+"Ford, Mr. H.",female,20-40,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,yes
+"Bell, Mr. Joseph",male,20-40,1st,C,Nationality_1,,25.79616856612749,0.0,0.0,yes
+"Hickman, Mr. Lewis",male,0-20,3rd,C,Nationality_5,,12.73636856612749,1.0,1.0,yes
+"Adams, Mr. John",female,0-20,3rd,C,Nationality_5,,12.73636856612749,1.0,1.0,yes
+"Smith, Mr. F.",female,20-40,3rd,C,Nationality_5,,12.73636856612749,0.0,2.0,yes
+"Allison, Master. Hudson Trevor",male,20-40,3rd,S,Nationality_45,,4.866368566127491,0.0,0.0,no
+"Ali, Mr. William",female,0-20,3rd,S,Nationality_6,,6.85626856612749,0.0,0.0,yes
+"Morgan, Mr. Thomas A.",female,60-80,3rd,S,Nationality_6,,6.806168566127491,0.0,0.0,yes
+"Fortune, Mr. Mark",female,20-40,2nd,S,Nationality_2,,18.69526856612749,1.0,0.0,no
+"Canavan, Mr. Patrick",male,20-40,2nd,S,Nationality_2,,18.69526856612749,1.0,0.0,no
+"Howard, Mr. Benjamin",male,20-40,1st,C,Nationality_48,,24.83576856612749,0.0,0.0,no
+"Scott, Mr. Archibald",male,0-20,3rd,S,Nationality_2,,11.79526856612749,1.0,1.0,no
+"Abbing, Mr. Anthony",male,0-20,3rd,S,Nationality_2,,11.79526856612749,1.0,1.0,no
+"Evans, Miss. Edith Corse",male,20-40,3rd,S,Nationality_2,,11.79526856612749,0.0,2.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Andrews, Mr. Thomas",male,40-60,3rd,S,Nationality_27,,6.69526856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",male,60-80,1st,S,Nationality_1,,30.795268566127493,0.0,0.0,no
+"Johnson, Mr. August",female,0-20,3rd,S,Nationality_27,,15.69526856612749,2.0,0.0,no
+"Clark, Mr. Walter Miller",male,20-40,3rd,S,Nationality_27,,15.69526856612749,3.0,0.0,no
+"Bennett, Mrs. Mabel",male,0-20,3rd,S,Nationality_27,,15.69526856612749,2.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,3rd,S,Nationality_27,,15.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Wells, Miss. Joan",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Burns, Miss. Elizabeth Margaret",female,0-20,3rd,S,Nationality_27,,21.725268566127493,0.0,2.0,no
+"Farrell, Mr. James",male,20-40,3rd,S,Nationality_27,,21.725268566127493,1.0,1.0,no
+"Jones, Mr. Charles Cresson",female,20-40,3rd,S,Nationality_27,,21.725268566127493,1.0,1.0,no
+"Barry, Miss. Julia",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Allison, Mrs. Bessie Waldo",male,20-40,3rd,C,Nationality_38,,4.735868566127492,0.0,0.0,yes
+"Lee, Mr. H.",male,20-40,2nd,S,Nationality_1,,10.69526856612749,0.0,0.0,no
+"Allison, Mr. Hudson Joshua Creighton",male,0-20,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,no
+"Connaughton, Mr. Michael",female,0-20,3rd,S,Nationality_7,,4.86536856612749,0.0,0.0,no
+"Wilson, Miss. Helen Alice",male,20-40,3rd,S,Nationality_36,,4.866368566127491,0.0,0.0,no
+"Bishop, Mr. Dickinson H.",male,20-40,3rd,S,Nationality_27,,6.69526856612749,0.0,0.0,no
+"Ryan, Mr. Edward",male,40-60,1st,S,Nationality_1,,31.69526856612749,0.0,0.0,no
+"Milling, Mr. Jacob Christian",female,20-40,2nd,S,Nationality_2,,18.69526856612749,0.0,0.0,yes
+"Buckley, Mr. Daniel",female,20-40,1st,C,Nationality_17,,509.7559685661275,0.0,0.0,yes
+"Farrell, Mr. James",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Hickman, Mr. Lewis",male,40-60,2nd,S,Nationality_2,,18.69526856612749,1.0,0.0,no
+"Eitemiller, Mr. George Floyd",female,20-40,2nd,S,Nationality_2,,18.69526856612749,0.0,0.0,yes
+"Sloper, Mr. William Thompson",male,20-40,2nd,S,Nationality_2,,7.79526856612749,1.0,0.0,no
+"Moore, Mr. John J.",male,20-40,3rd,S,Nationality_2,,4.805268566127491,0.0,0.0,no
+"Andrews, Mr. Thomas",male,60-80,1st,C,Nationality_1,,72.74526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_2,,72.74526856612749,1.0,0.0,yes
+"Davis, Mr. John",male,0-20,2nd,B,Nationality_11,,,0.0,0.0,no
+"Farrell, Mr. James",female,0-20,2nd,S,Nationality_24,,12.84526856612749,0.0,0.0,yes
+"Mason, Mr. J.",female,20-40,2nd,S,Nationality_24,,12.84526856612749,0.0,0.0,yes
+"Louch, Mr. Charles",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Sloper, Mr. William Thompson",female,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,60-80,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,2nd,S,Nationality_16,,23.69526856612749,1.0,0.0,no
+"Abbing, Mr. Anthony",female,20-40,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,yes
+"Johnson, Mr. August",male,0-20,2nd,S,Nationality_2,,20.69526856612749,1.0,1.0,yes
+"Hickman, Mr. Lewis",female,0-20,2nd,S,Nationality_2,,20.69526856612749,1.0,1.0,yes
+"Farrell, Mr. James",female,20-40,2nd,S,Nationality_2,,20.69526856612749,0.0,2.0,yes
+"Sullivan, Mr. S.",male,20-40,3rd,S,Nationality_7,,4.84636856612749,0.0,0.0,yes
+"Partner, Mr. Austin",female,0-20,2nd,S,Nationality_2,,24.84526856612749,1.0,2.0,yes
+"Prideaux, Mr. John Arthur (Jack)",female,0-20,2nd,S,Nationality_2,,24.84526856612749,1.0,2.0,yes
+"Rogers, Mr. Michael",male,20-40,2nd,S,Nationality_2,,24.84526856612749,1.0,2.0,no
+"Fox, Mr. Stanley Harrington",female,20-40,2nd,S,Nationality_2,,24.84526856612749,1.0,2.0,yes
+"Abbing, Mr. Anthony",male,60-80,2nd,S,Nationality_2,,7.79526856612749,0.0,0.0,no
+"Ryan, Mr. Edward",male,20-40,2nd,S,Nationality_2,,9.86586856612749,0.0,0.0,no
+"Williams, Mr. Leslie",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Donohoe, Miss. Bridget",male,40-60,1st,S,Nationality_1,,74.7461685661275,0.0,1.0,no
+"Cook, Mr. Jacob",male,20-40,1st,S,Nationality_1,,74.7461685661275,0.0,1.0,no
+"Abbing, Mr. Anthony",female,40-60,1st,C,Nationality_17,,132.81606856612748,0.0,0.0,yes
+"Abbing, Mr. Anthony",male,40-60,1st,S,Nationality_1,,161.86566856612748,1.0,1.0,no
+"Abelson, Mr. Samuel",female,20-40,1st,S,Nationality_1,,161.86566856612748,0.0,2.0,yes
+"Humphreys, Mr. Humphrey",female,40-60,1st,S,Nationality_1,,161.86566856612748,1.0,1.0,yes
+"Abbing, Mr. Anthony",male,40-60,3rd,S,Nationality_7,,4.845268566127491,0.0,0.0,no
+"Morgan, Mr. Thomas A.",male,40-60,1st,S,Nationality_1,,208.79526856612748,1.0,1.0,no
+"Robinson, Mrs. Annie",male,20-40,1st,S,Nationality_1,,208.79526856612748,0.0,2.0,no
+"Curtis, Mr. Arthur",female,40-60,1st,S,Nationality_1,,208.79526856612748,1.0,1.0,yes
+"Pålsson, Master. Paul Folke",male,0-20,3rd,S,Nationality_6,,3.7863685661274906,1.0,0.0,no
+"Abelseth, Miss. Karen Marie",male,20-40,3rd,S,Nationality_6,,3.7863685661274906,1.0,0.0,no
+"Head, Mr. Christopher",female,40-60,3rd,S,Nationality_2,,4.69526856612749,1.0,0.0,yes
+"Guggenheim, Mr. Benjamin",female,20-40,2nd,S,Nationality_2,,23.69526856612749,1.0,0.0,yes
+"Connaughton, Mr. Michael",female,20-40,1st,S,Nationality_1,,23.80526856612749,0.0,0.0,yes
+"Lamb, Mr. John J.",male,20-40,3rd,C,Nationality_17,,5.83556856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_21,,4.805268566127491,0.0,0.0,no
+"Lines, Mrs. Elizabeth Lindsey",male,40-60,1st,C,Nationality_13,,58.76596856612749,0.0,1.0,no
+"Roth, Miss. Sarah",male,20-40,2nd,S,Nationality_2,,10.69526856612749,0.0,0.0,yes
+"Abelson, Mrs. Hannah",male,40-60,1st,S,Nationality_1,,32.69526856612749,0.0,0.0,no
+"Abbing, Mr. Anthony",male,20-40,3rd,S,Nationality_2,,5.70526856612749,0.0,0.0,no
+"Sirota, Mr. Morris",male,20-40,3rd,S,Nationality_21,,13.71526856612749,0.0,0.0,no
+"Smith, Mr. F.",male,20-40,1st,C,Nationality_13,,58.76596856612749,0.0,1.0,yes
+"Shelley, Mrs. Imanita Parrish",female,20-40,1st,C,Nationality_17,,131.79526856612748,0.0,0.0,yes
+"Cribb, Miss. Laura Mae",male,20-40,3rd,S,Nationality_22,,4.745268566127491,0.0,0.0,no
+"Kelly, Miss. Mary",male,20-40,3rd,S,Nationality_13,,5.82556856612749,0.0,0.0,no
+"Brown, Mrs. Margaret",male,40-60,3rd,S,Nationality_2,,4.745268566127491,0.0,0.0,no
+"Becker, Master. Richard F.",male,20-40,3rd,S,Nationality_27,,6.79526856612749,0.0,0.0,no
+"Ali, Mr. William",male,20-40,2nd,S,Nationality_2,,,,,no
+"Robinson, Mrs. Annie",male,40-60,1st,S,Nationality_2,,32.79526856612749,0.0,0.0,yes
+"Abbott, Mr. Eugene Joseph",female,20-40,2nd,S,Nationality_2,,10.79526856612749,0.0,0.0,yes
+"Head, Mr. Christopher",male,60-80,1st,S,Nationality_9,,23.80526856612749,0.0,0.0,no
+"Taylor, Mr. J.",male,20-40,3rd,C,Nationality_5,,11.78536856612749,1.0,0.0,no
+"Knight, Mr. Robert",female,0-20,3rd,C,Nationality_5,,11.78536856612749,1.0,0.0,yes
+"Hill, Mr. H. P.",female,20-40,1st,C,Nationality_1,,132.81606856612748,0.0,0.0,yes
+"Moore, Mr. John J.",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,no
+"Woodward, Mr. John Wesley",male,40-60,3rd,C,Nationality_5,,4.735968566127491,0.0,0.0,no
+"Nilsson, Miss. Berta Olivia",female,20-40,3rd,C,Nationality_5,,19.76546856612749,0.0,2.0,yes
+"Watson, Mr. Willim",female,20-40,2nd,S,Nationality_4,,10.69526856612749,0.0,0.0,no
+"Head, Mr. Christopher",male,20-40,3rd,C,Nationality_38,,4.735868566127492,0.0,0.0,no
+"Sullivan, Mr. S.",male,20-40,3rd,C,Nationality_38,,4.735868566127492,0.0,0.0,no
+"Brooks, Mr. J.",male,20-40,3rd,C,Nationality_5,,4.735868566127492,0.0,0.0,yes
+"Allen, Mr. Frederick",male,20-40,3rd,S,Nationality_44,,4.8658685661274905,0.0,0.0,no
+"Sadlier, Mr. Matthew",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Mitchell, Mr. Henry Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,0-20,victualling crew,S,Nationality_14,,,,,no
+"Lam, Mr. Ali",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Moore, Mr. John J.",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"McCarthy, Mr. Timothy J.",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Salonen, Mr. Johan Werner",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Caram, Mr. Joseph",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Harris, Mr. Walter",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Sadlier, Mr. Matthew",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Phillips, Mr. A. George",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Bonnell, Miss. Elizabeth",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_18,,,,,no
+"Scott, Mr. Archibald",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Farrell, Mr. James",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Simmons, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_21,,,,,no
+"Abbing, Mr. Anthony",male,40-60,deck crew,S,Nationality_2,,,,,yes
+"Abelson, Mrs. Hannah",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Smart, Mr. John Montgomery",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Fortune, Mr. Mark",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Clark, Mr. Walter Miller",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Brady, Mr. John Bertram",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Payne, Mr. Vivian Ponsonby",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Blake, Mr. Seaton",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Keane, Mr. Andrew",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Bourke, Miss. Mary",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Allison, Master. Hudson Trevor",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Allen, Mr. Frederick",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Gordon, Mr. J.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Anderson, Mr. Harry",male,40-60,victualling crew,S,Nationality_24,,,,,no
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Dodge, Dr. Washington",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Clark, Mr. William",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Pålsson, Master. Paul Folke",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Roth, Miss. Sarah",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hickman, Mr. Lewis",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Sharp, Mr. Percival",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Knight, Mr. Robert",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Casey, Mr. Thomas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Shaw, Mr. Henry",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Louch, Mr. Charles",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Wilson, Miss. Helen Alice",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Sirota, Mr. Morris",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,engineering crew,S,Nationality_2,,,,,yes
+"Corey, Mrs. Mary Emma",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Bonnell, Miss. Elizabeth",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Stephenson, Mrs. Martha",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Middleton, Mr. Alfred Pirrie",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Sullivan, Mr. S.",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Long, Mr. Frank",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Allison, Mr. Hudson Joshua Creighton",male,20-40,engineering crew,S,Nationality_11,,,,,no
+"Fox, Mr. Stanley Harrington",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",female,40-60,victualling crew,S,Nationality_13,,,,,yes
+"Keane, Mr. Andrew",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"King, Mr. G.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Douglas, Mrs. Mahala",male,40-60,restaurant staff,S,Nationality_2,,,,,no
+"Pfropper, Mr. Richard Paul Jozef",male,40-60,victualling crew,S,Nationality_24,,,,,no
+"Bennett, Mrs. Mabel",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Allison, Master. Hudson Trevor",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Jackson, Mr. Cecil",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Watson, Mr. Willim",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"McCoy, Mr. Bernard",female,20-40,restaurant staff,S,Nationality_2,,,,,yes
+"Young, Miss. Marie Grice",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Abelson, Mr. Samuel",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Marsh, Mr. Frederick Charles",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Shaw, Mr. Henry",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Campbell, Mr. Donald S.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Moss, Mr. William",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Ware, Mr. William Jeffery",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,deck crew,S,Nationality_2,,,,,yes
+"Charters, Mr. David",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Campbell, Mr. Donald S.",male,40-60,deck crew,B,Nationality_2,,,,,yes
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,20-40,victualling crew,S,Nationality_17,,,,,no
+"Partner, Mr. Austin",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Gregory, Mr. David",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hickman, Mr. Lewis",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"McMicken, Mr. Benjamin Tucker",male,20-40,victualling crew,B,Nationality_21,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_21,,,,,no
+"Nasser, Mr. Nicholas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Lester, Mr. James",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Caram, Mr. Joseph",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Evans, Miss. Edith Corse",male,20-40,victualling crew,B,Nationality_18,,,,,yes
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Anderson, Mr. Harry",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"McMahon, Mr. Martin",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Adams, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Rice, Master. Eric",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Dickson, Mr. William",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Kent, Mr. Edward Austin",male,20-40,victualling crew,S,Nationality_29,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hoyt, Mrs. Jane Anne",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Marvin, Mr. Daniel Warner",male,20-40,restaurant staff,S,Nationality_19,,,,,no
+"Lee, Mr. H.",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Campbell, Mr. Donald S.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Cross, Mr. William Alfred",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Brooks, Mr. J.",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Simmons, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hopkins, Mr. Robert John",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Frauenthal, Dr. Henry William",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Rice, Master. Eric",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Young, Miss. Marie Grice",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Doyle, Miss. Elizabeth",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Baxter, Mr. Thomas Ferguson",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,engineering crew,S,Nationality_18,,,,,yes
+"Willer, Mr. Aaron",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Sage, Mr. Frederick",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Silverthorne, Mr. Spencer Victor",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Wood, Mr. Henry",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,B,Nationality_18,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Brown, Mrs. Margaret",male,0-20,victualling crew,S,Nationality_11,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Rice, Master. Eric",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Johnson, Mr. August",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Brailey, Mr. William Theodore Ronald",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hart, Mr. Benjamin",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Warren, Mr. Charles William",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Cook, Mr. Jacob",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Knight, Mr. Robert",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Willer, Mr. Aaron",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Porter, Mr. Walter Chamberlain",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Bailey, Mr. Percy",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Collyer, Mr. Harvey",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Cave, Mr. Herbert",male,20-40,restaurant staff,S,Nationality_4,,,,,no
+"Robinson, Mrs. Annie",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Guggenheim, Mr. Benjamin",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Pålsson, Master. Paul Folke",male,40-60,victualling crew,B,Nationality_2,,,,,yes
+"Fortune, Mr. Mark",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Clark, Mr. William",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Cornblatt, Mr. Harris",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Hill, Mr. H. P.",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Ellis, Mr. John Bertie",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_2,,,,,yes
+"Sadlier, Mr. Matthew",male,20-40,victualling crew,B,Nationality_24,,,,,yes
+"Nasser, Mr. Nicholas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Thompson, Mr. John William",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Dean, Mr. George H.",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Davidson, Mr. Thornton",male,20-40,victualling crew,B,Nationality_21,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Fox, Mr. Stanley Harrington",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Bird, Miss. Ellen",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Robinson, Mrs. Annie",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Burton, Mr. Edward John",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Stone, Mrs. Martha Evelyn",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Doyle, Miss. Elizabeth",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"King, Mr. G.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hold, Mr. Stephen",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Haas, Miss. Aloisia",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Clark, Mr. Walter Miller",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"White, Mrs. Ella",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Walker, Mr. William Anderson",male,20-40,engineering crew,S,Nationality_49,,,,,no
+"Goldschmidt, Mr. George B.",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,0-20,restaurant staff,S,Nationality_19,,,,,no
+"Head, Mr. Christopher",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Buckley, Miss. Katherine",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,B,Nationality_18,,,,,no
+"Cornblatt, Mr. Harris",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_20,,,,,no
+"Abelson, Mr. Samuel",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Head, Mr. Christopher",male,40-60,engineering crew,S,Nationality_2,,,,,yes
+"Douglas, Mrs. Mahala",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Walsh, Miss. Catherine",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Salkjelsvik, Miss. Anna Kristine",male,20-40,victualling crew,S,Nationality_21,,,,,no
+"Frauenthal, Mr. Isaac Gerald",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Brown, Mrs. Margaret",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Harris, Mr. Walter",male,0-20,engineering crew,B,Nationality_11,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_2,,,,,yes
+"Cornblatt, Mr. Harris",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Gallagher, Mr. Martin",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Hold, Mr. Stephen",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"West, Mr. Edwy Arthur",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Stewart, Mr. John",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Ward, Mr. Arthur",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hardy, Mr. John",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Wilson, Miss. Helen Alice",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Prideaux, Mr. John Arthur (Jack)",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Roberts, Mr. Hugh H.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Marvin, Mr. Daniel Warner",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Anderson, Mr. Harry",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Lester, Mr. James",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Morgan, Mr. Thomas A.",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Reed, Mr. James George",male,40-60,engineering crew,S,Nationality_2,,,,,yes
+"Cook, Mr. Jacob",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Johnston, Mrs. Eliza",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"King, Mr. G.",male,40-60,deck crew,B,Nationality_18,,,,,yes
+"Hickman, Mr. Lewis",male,20-40,victualling crew,S,Nationality_21,,,,,yes
+"Knight, Mr. Robert",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Dodge, Dr. Washington",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Farrell, Mr. James",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Newman, Mr. Charles Thomas",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Baxter, Mr. Thomas Ferguson",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Gregory, Mr. David",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Prideaux, Mr. John Arthur (Jack)",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Roth, Miss. Sarah",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Richards, Mrs. Emily",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Johnson, Mr. August",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Moss, Mr. William",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brewer, Mr. Harry",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bedford, Mr. William Barnett",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Webber, Miss. Susan",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hickman, Mr. Lewis",male,60-80,engineering crew,S,Nationality_2,,,,,yes
+"Dodge, Dr. Washington",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Veström, Miss. Hulda Amanda Adolfina",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Baxter, Mr. Thomas Ferguson",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Fortune, Mr. Mark",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Guggenheim, Mr. Benjamin",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Barry, Miss. Julia",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Nasser, Mr. Nicholas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bradley, Mr. T.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Goodwin, Miss. Lillian Amy",male,20-40,engineering crew,B,Nationality_11,,,,,yes
+"Charters, Mr. David",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Beesley, Mr. Lawrence",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Andrews, Mr. Thomas",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Howard, Mr. Benjamin",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Canavan, Mr. Patrick",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Jones, Mr. Charles Cresson",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abelson, Mrs. Hannah",male,20-40,victualling crew,S,Nationality_1,,,,,no
+"Sobey, Mr. Samuel James Hayden",male,20-40,engineering crew,B,Nationality_11,,,,,yes
+"Evans, Miss. Edith Corse",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Curtis, Mr. Arthur",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Graham, Mrs. Edith",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bell, Mr. Joseph",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ali, Mr. William",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Roth, Miss. Sarah",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Bird, Miss. Ellen",male,40-60,engineering crew,S,Nationality_18,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Bennett, Mrs. Mabel",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Knight, Mr. Robert",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Adams, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Bessette, Miss. Nellie Mayo",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Head, Mr. Christopher",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Roth, Miss. Sarah",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Hodgkinson, Mr. Leonard",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Gallagher, Mr. Martin",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Ali, Mr. William",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Clarke, Mr. Charles Valentine",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Clark, Mr. Walter Miller",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Rice, Master. Eric",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Bourke, Miss. Mary",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Morrow, Mr. Thomas Rowan",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Watson, Mr. Willim",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Bell, Mr. Joseph",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Dodge, Dr. Washington",male,40-60,deck crew,B,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Brown, Mrs. Margaret",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Ford, Mr. Arthur",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"West, Miss. Barbara Joyce",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Caram, Mr. Joseph",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Adams, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Goldschmidt, Mr. George B.",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Robinson, Mrs. Annie",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Sadlier, Mr. Matthew",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Bradley, Mr. T.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Kelly, Miss. Mary",male,0-20,victualling crew,B,Nationality_2,,,,,no
+"Rice, Master. Eric",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bourke, Miss. Mary",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Guggenheim, Mr. Benjamin",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Snow, Mr. Eustace Philip",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Shepherd, Mr. Jonathan",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Davies, Master. John Morgan jr",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,B,Nationality_2,,,,,no
+"Christy, Mrs. Alice Frances",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bonnell, Miss. Elizabeth",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Sirota, Mr. Morris",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Allison, Mr. Hudson Joshua Creighton",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Scott, Mr. Archibald",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Bourke, Miss. Mary",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Giglio, Mr. Victor Gaitan Andrea",male,40-60,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Andrews, Mr. Thomas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Johnson, Mr. August",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abelson, Mrs. Hannah",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Black, Mr. D.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,deck crew,B,Nationality_2,,,,,no
+"Jones, Mr. Charles Cresson",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Bowen, Miss. Grace Scott",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Blake, Mr. Seaton",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Murphy, Miss. Catherine",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Campbell, Mr. Donald S.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"McCarthy, Miss. Catherine",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Veström, Miss. Hulda Amanda Adolfina",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Chapman, Mrs. Sara Elizabeth",male,20-40,restaurant staff,S,Nationality_4,,,,,no
+"Charters, Mr. David",male,20-40,engineering crew,S,Nationality_21,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Adams, Mr. John",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Siebert, Mr. Sidney Conrad",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Brown, Mrs. Margaret",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,40-60,victualling crew,B,Nationality_2,,,,,yes
+"Robinson, Mrs. Annie",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Ross, Mr. John Hugo",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Corey, Mrs. Mary Emma",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Johnson, Mr. August",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Knight, Mr. Robert",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Adams, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Christy, Mrs. Alice Frances",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Bourke, Miss. Mary",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Casey, Mr. Thomas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Hartley, Mr. Wallace Henry",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Ali, Mr. William",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Cook, Mr. Jacob",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Kelly, Miss. Mary",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Barker, Mr. Albert Vale",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_24,,,,,no
+"Anderson, Mr. Harry",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Ray, Mr. Frederick Dent",male,20-40,victualling crew,S,Nationality_18,,,,,no
+"Orr, Mr. James",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,victualling crew,S,Nationality_18,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,deck crew,S,Nationality_2,,,,,no
+"Abelson, Mrs. Hannah",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Rotta, Sig. Angelo Mario",male,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brandeis, Mr. Emil Franklin",male,40-60,engineering crew,S,Nationality_2,,,,,yes
+"Rowe, Mr. Alfred G.",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Farrell, Mr. James",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Milling, Mr. Jacob Christian",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Goodwin, Miss. Lillian Amy",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Ray, Mr. Frederick Dent",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Kerr, Mr. Thomas Russell",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Dodge, Dr. Washington",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Dodge, Dr. Washington",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"White, Mr. Edward Joseph",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"McMahon, Mr. Martin",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,40-60,deck crew,S,Nationality_2,,,,,yes
+"Sloper, Mr. William Thompson",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Fortune, Mr. Mark",male,20-40,victualling crew,B,Nationality_1,,,,,no
+"Knight, Mr. Robert",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Fox, Mr. Patrick",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Hill, Mr. H. P.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Brailey, Mr. William Theodore Ronald",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Chaffee, Mr. Herbert Fuller",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Head, Mr. Christopher",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Roth, Miss. Sarah",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Moore, Mr. John J.",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Johansson, Mr. Gustaf Joel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ismay, Mr. Joseph Bruce",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Jones, Mr. Charles Cresson",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andersen-Jensen, Miss. Carla Christine Nielsine",male,20-40,deck crew,B,Nationality_21,,,,,yes
+"Williams, Mr. Leslie",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Dawson, Mr. Joseph",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,deck crew,S,Nationality_18,,,,,no
+"Hodgkinson, Mr. Leonard",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Partner, Mr. Austin",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Hill, Mr. H. P.",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Gilbert, Mr. William",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"White, Mrs. Ella",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Hill, Mr. H. P.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_1,,,,,no
+"Becker, Master. Richard F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Dodge, Dr. Washington",male,20-40,victualling crew,S,Nationality_24,,,,,no
+"Sloper, Mr. William Thompson",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Allen, Mr. Frederick",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Robinson, Mrs. Annie",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",female,0-20,restaurant staff,S,Nationality_2,,,,,yes
+"Rogers, Mr. Michael",female,20-40,victualling crew,S,Nationality_14,,,,,yes
+"Uruchurtu, Don. Manuel Ramirez",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Kerr, Mr. Thomas Russell",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Blank, Mr. Henry",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Roberts, Mr. Hugh H.",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Sloper, Mr. William Thompson",male,20-40,deck crew,S,Nationality_21,,,,,no
+"Scott, Mr. Archibald",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Richards, Mrs. Emily",male,20-40,restaurant staff,S,Nationality_2,,,,,yes
+"Lee, Mr. H.",male,20-40,deck crew,B,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hold, Mr. Stephen",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Pålsson, Master. Paul Folke",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Dodge, Dr. Washington",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bochatay, Mr. Alexis Joseph",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_17,,,,,no
+"Wright, Miss. Marion",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Fortune, Mr. Mark",male,40-60,deck crew,S,Nationality_18,,,,,yes
+"Long, Mr. Frank",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,victualling crew,B,Nationality_24,,,,,no
+"Douglas, Mrs. Mahala",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ali, Mr. William",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Adams, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hold, Mr. Stephen",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Head, Mr. Christopher",male,20-40,deck crew,S,Nationality_18,,,,,yes
+"Connaughton, Mr. Michael",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Brown, Mr. Thomas William Solomon",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Head, Mr. Christopher",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Head, Mr. Christopher",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Abelson, Mrs. Hannah",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Blank, Mr. Henry",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Harris, Mr. Walter",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Ross, Mr. John Hugo",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Moore, Mr. John J.",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Cook, Mr. Jacob",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_18,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Beane, Mr. Edward",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Roberts, Mr. Hugh H.",male,20-40,engineering crew,B,Nationality_11,,,,,no
+"Hale, Mr. Reginald",male,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_5,,,,,no
+"Farrell, Mr. James",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Shannon, Mr. Andrew John",male,0-20,restaurant staff,S,Nationality_31,,,,,no
+"Andrews, Mr. Thomas",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Williams, Mr. Leslie",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Watson, Mr. Willim",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Caram, Mr. Joseph",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Behr, Mr. Karl Howell",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Jones, Mr. Thomas William",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,0-20,victualling crew,S,Nationality_24,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,B,Nationality_24,,,,,no
+"Ali, Mr. William",male,40-60,restaurant staff,S,Nationality_19,,,,,no
+"Ware, Mr. Frederick",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Mitchell, Mr. Henry Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Blank, Mr. Henry",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"King, Mr. G.",male,40-60,deck crew,B,Nationality_29,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Cribb, Miss. Laura Mae",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Moore, Mr. John J.",male,20-40,engineering crew,S,Nationality_24,,,,,no
+"Wells, Miss. Joan",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Black, Mr. D.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Knight, Mr. Robert",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Sloper, Mr. William Thompson",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Brandeis, Mr. Emil Franklin",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Beesley, Mr. Lawrence",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Ali, Mr. William",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Snyder, Mrs. Nelle",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,deck crew,B,Nationality_14,,,,,yes
+"Andersen, Mr. Albert Karvin",male,60-80,deck crew,B,Nationality_2,,,,,no
+"Jones, Mr. Charles Cresson",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_24,,,,,no
+"Payne, Mr. Vivian Ponsonby",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Adams, Mr. John",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Allison, Master. Hudson Trevor",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Hart, Mr. Benjamin",male,40-60,victualling crew,S,Nationality_21,,,,,no
+"Harris, Mr. Walter",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Dodge, Dr. Washington",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Osborne, Mr. William Edward",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Sadlier, Mr. Matthew",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Chapman, Mrs. Sara Elizabeth",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,B,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Kink, Miss. Maria",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Best, Mr. Edwin Alfred",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Ball, Mr. Percy",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Milling, Mr. Jacob Christian",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Ware, Mr. William Jeffery",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Sadlier, Mr. Matthew",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Laitinen, Miss. Kristina Sofia",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Farrell, Mr. James",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Randall, Mr. Frank Henry",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Buckley, Miss. Katherine",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Hall, Mr. J.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,engineering crew,S,Nationality_2,,,,,yes
+"Veström, Miss. Hulda Amanda Adolfina",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Roth, Miss. Sarah",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Smart, Mr. John Montgomery",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Richards, Mrs. Emily",male,20-40,victualling crew,S,Nationality_44,,,,,yes
+"Buckley, Mr. Daniel",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Guggenheim, Mr. Benjamin",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"White, Mrs. Ella",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Aks, Mrs. Leah",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Oliver, Mr. H.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Cornblatt, Mr. Harris",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Whiteley, Mr. Thomas Arthur",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Watson, Mr. Willim",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Beesley, Mr. Lawrence",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Barton, Mr. David John",male,20-40,deck crew,S,Nationality_14,,,,,yes
+"Wick, Miss. Mary Natalie",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Adams, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Wilson, Miss. Helen Alice",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Barbara, Miss. Saiide",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Wright, Miss. Marion",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Walker, Mr. William Anderson",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Brown, Mrs. Margaret",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Ford, Mr. H.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Howard, Mr. Benjamin",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Bonnell, Miss. Elizabeth",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Collyer, Mr. Harvey",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Head, Mr. Christopher",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Cooper, Mr. Harry",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Bourke, Miss. Mary",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hickman, Mr. Lewis",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Williams, Mr. Leslie",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Johansson, Mr. Erik",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Kimball, Mr. Edwin Nelson Jr.",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Welch, Mr. William Harold",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,victualling crew,B,Nationality_14,,,,,no
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Fortune, Mr. Mark",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Van Impe, Mrs. Rosalie Paula",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Allen, Mr. Frederick",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Shannon, Mr. Andrew John",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Hall, Mr. J.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Knight, Mr. Robert",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Kennedy, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Gallagher, Mr. Martin",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Radeff, Mr. Alexander",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Evans, Miss. Edith Corse",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Beane, Mr. Edward",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,victualling crew,B,Nationality_21,,,,,no
+"Cook, Mr. Jacob",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Keane, Mr. Andrew",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Buckley, Mr. Daniel",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Wick, Miss. Mary Natalie",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Sage, Mr. Frederick",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Howard, Mr. Benjamin",male,20-40,victualling crew,S,Nationality_18,,,,,no
+"White, Mrs. Ella",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Miles, Mr. Frank",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Douglas, Mrs. Mahala",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,restaurant staff,S,Nationality_2,,,,,no
+"Turner, Mr. George Frederick",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Clark, Mr. Walter Miller",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"King, Mr. G.",male,40-60,victualling crew,B,Nationality_2,,,,,yes
+"Cardeza, Mr. Thomas Drake Martinez",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Hunt, Mr. Tom",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,victualling crew,S,Nationality_14,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_9,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_19,,,,,no
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Williams, Mr. Leslie",male,40-60,victualling crew,S,Nationality_21,,,,,no
+"Caram, Mr. Joseph",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Kelly, Miss. Mary",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Collins, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Connaughton, Mr. Michael",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Perry, Mr. Edgar Lionel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Dwan, Mr. Frank",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Jones, Mr. Charles Cresson",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Clark, Mr. Walter Miller",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Ali, Mr. William",male,40-60,restaurant staff,S,Nationality_19,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_11,,,,,no
+"Jonsson, Mr. Carl",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Allison, Mr. Hudson Joshua Creighton",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Clark, Mr. William",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Jones, Mr. Charles Cresson",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bochatay, Mr. Alexis Joseph",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Knight, Mr. Robert",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Barbara, Miss. Saiide",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Beane, Mr. Edward",male,0-20,engineering crew,S,Nationality_2,,,,,yes
+"Freeman, Mr. Ernest Edward Samuel",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Jackson, Mr. Cecil",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Head, Mr. Christopher",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Abelseth, Miss. Karen Marie",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"McCarthy, Mr. Timothy J.",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Roberts, Mr. Hugh H.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Gregory, Mr. David",male,20-40,deck crew,S,Nationality_11,,,,,no
+"Knight, Mr. Robert",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Howard, Mr. Benjamin",female,20-40,victualling crew,S,Nationality_11,,,,,yes
+"Davis, Mr. John",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Williams, Mr. Leslie",female,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abelson, Mr. Samuel",male,20-40,victualling crew,B,Nationality_24,,,,,no
+"Abbing, Mr. Anthony",male,60-80,deck crew,S,Nationality_2,,,,,no
+"McCoy, Miss. Agnes",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Daniels, Miss. Sarah Rebecca",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Goldschmidt, Mr. George B.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Ali, Mr. William",male,0-20,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_24,,,,,no
+"Gallagher, Mr. Martin",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"White, Mrs. Ella",male,20-40,victualling crew,S,Nationality_17,,,,,no
+"Hodges, Mr. Henry Price",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Bourke, Mrs. Catherine",female,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Fox, Mr. Patrick",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Cooper, Mr. Harry",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Graham, Mrs. Edith",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ingram, Mr. George",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",female,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Clark, Mr. Walter Miller",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Guggenheim, Mr. Benjamin",male,20-40,engineering crew,S,Nationality_17,,,,,no
+"Brown, Mrs. Margaret",male,20-40,victualling crew,B,Nationality_24,,,,,yes
+"Barbara, Miss. Saiide",male,0-20,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Johnson, Mr. August",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Foster, Mr. Alfred Charles",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ali, Mr. William",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,B,Nationality_11,,,,,no
+"Sadlier, Mr. Matthew",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Webber, Miss. Susan",male,20-40,deck crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Kink, Miss. Maria",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Davidson, Mr. Thornton",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Foley, Mr. Joseph",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abelson, Mrs. Hannah",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Ali, Mr. William",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Partner, Mr. Austin",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Mitchell, Mr. Henry Michael",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,0-20,deck crew,S,Nationality_2,,,,,no
+"Clark, Mr. William",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Coleman, Mr. John",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Bailey, Mr. Percy",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"Boyd, Mr. John",male,40-60,victualling crew,S,Nationality_2,,,,,yes
+"Gallagher, Mr. Martin",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Osborne, Mr. William Edward",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Canavan, Mr. Patrick",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Bennett, Mrs. Mabel",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Connaughton, Mr. Michael",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,40-60,engineering crew,S,Nationality_2,,,,,yes
+"Adams, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbott, Mr. Eugene Joseph",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Hold, Mr. Stephen",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Carr, Miss. Jane",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Wood, Mr. Henry",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,20-40,victualling crew,S,Nationality_24,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Franklin, Mr. Alan Vincent",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Willer, Mr. Aaron",male,20-40,engineering crew,B,Nationality_18,,,,,no
+"Burton, Mr. Edward John",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Howard, Mr. Benjamin",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Warren, Mr. Charles William",male,0-20,restaurant staff,S,Nationality_19,,,,,no
+"Keane, Mr. Andrew",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Lee, Mr. H.",male,20-40,engineering crew,S,Nationality_47,,,,,no
+"Beesley, Mr. Lawrence",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Giglio, Mr. Victor Gaitan Andrea",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Morgan, Mr. Thomas A.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Moore, Mr. John J.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Brown, Mrs. Margaret",male,20-40,deck crew,S,Nationality_14,,,,,yes
+"Humphreys, Mr. Humphrey",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Bourke, Mrs. Catherine",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Buckley, Mr. Daniel",male,20-40,restaurant staff,S,Nationality_19,,,,,no
+"Harrison, Mr. Norman E.",male,20-40,restaurant staff,S,Nationality_2,,,,,no
+"Ryan, Mr. Edward",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",female,20-40,victualling crew,S,Nationality_2,,,,,no
+"Johnson, Mr. August",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Becker, Master. Richard F.",female,20-40,victualling crew,S,Nationality_18,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Jones, Mr. Thomas William",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Shepherd, Mr. Jonathan",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Gallagher, Mr. Martin",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Adams, Mr. John",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Sägesser, Mlle. Emma",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Charters, Mr. David",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Reynolds, Mr. Harold",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,0-20,victualling crew,S,Nationality_2,,,,,no
+"McMicken, Mr. Benjamin Tucker",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Gibson, Miss. Dorothy Winifred",male,20-40,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Knight, Mr. Robert",male,40-60,victualling crew,B,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Wilkinson, Mrs. Elizabeth Anne",male,40-60,victualling crew,S,Nationality_1,,,,,yes
+"Ferrary, Mr. Antonio",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,deck crew,B,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"Cardeza, Mr. Thomas Drake Martinez",male,20-40,victualling crew,B,Nationality_2,,,,,yes
+"White, Mrs. Ella",male,0-20,victualling crew,S,Nationality_2,,,,,yes
+"Wright, Miss. Marion",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Hart, Mr. Benjamin",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Ali, Mr. Ahmed",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Dick, Mr. Albert Adrian",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Carter, Mrs. Lilian",male,20-40,victualling crew,B,Nationality_29,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,yes
+"Hold, Mr. Stephen",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Keeping, Mr. Edwin Herbert",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Matthews, Mr. William John",male,20-40,deck crew,S,Nationality_2,,,,,no
+"Fox, Mr. Patrick",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Smith, Mr. F.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Gregory, Mr. David",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_18,,,,,no
+"Cumings, Mrs. Florence Briggs",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,engineering crew,S,Nationality_2,,,,,no
+"Andrews, Mr. Thomas",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Charters, Mr. David",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Reid, Mr. Robert Thomas",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Augustsson, Mr. Albert",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Sloan, Miss. Mary",male,20-40,victualling crew,S,Nationality_40,,,,,no
+"Scott, Mr. Archibald",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Louch, Mr. Charles",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Beane, Mr. Edward",male,40-60,victualling crew,S,Nationality_1,,,,,no
+"Abbing, Mr. Anthony",male,40-60,victualling crew,S,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Andersson, Miss. Erna Alexandra",male,0-20,victualling crew,B,Nationality_2,,,,,no
+"Abbing, Mr. Anthony",male,20-40,victualling crew,S,Nationality_2,,,,,no
+"Johnson, Mr. August",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"McCarthy, Mr. Timothy J.",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Davis, Mr. John",male,40-60,deck crew,B,Nationality_2,,,,,yes
+"Compton, Miss. Sara Rebecca",male,20-40,victualling crew,S,Nationality_2,,,,,yes
+"Robinson, Mrs. Annie",male,20-40,engineering crew,S,Nationality_2,,,,,no
+"Freeman, Mr. Ernest Edward Samuel",male,0-20,restaurant staff,S,Nationality_2,,,,,no
+"Caram, Mr. Joseph",male,20-40,restaurant staff,S,Nationality_2,,,,,no
